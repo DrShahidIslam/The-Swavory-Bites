@@ -2596,6 +2596,31 @@
         "sweet"
       ],
       "discoveredAt": "2026-07-24T19:50:32.756Z"
+    },
+    "4874": {
+      "postId": 4874,
+      "title": "High Protein Breakfast: Fluffy Cottage Cheese Pancakes",
+      "url": "https://el-mordjene.info/high-protein-fluffy-cottage-cheese-pancakes/",
+      "slug": "high-protein-fluffy-cottage-cheese-pancakes",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "",
+      "keywordSet": [
+        "high protein breakfast",
+        "fluffy cottage cheese pancakes",
+        "discover the secret to the fluffiest",
+        "dense pancakes that keep you full all morning this cottage cheese recipe transforms your breakfast routine into a high",
+        "protein powerhouse",
+        "the ultimate high protein breakfast solution",
+        "why cottage cheese is the secret ingredient",
+        "key takeaways for success",
+        "nutrient",
+        "recipes"
+      ],
+      "discoveredAt": "2026-07-24T19:53:31.250Z"
     }
   },
   "assets": {
@@ -4595,9 +4620,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-fresh-peach-cobbler-recipe_20260721_205531.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.342Z",
-      "scheduledFor": "2026-08-02T19:00:00.000Z"
+      "scheduledFor": "2026-08-02T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/fresh-peach-cobbler-recipe-guide.jpg",
+      "renderedAt": "2026-07-24T19:53:41.585Z"
     },
     "4825-hero": {
       "id": "4825-hero",
@@ -5150,9 +5178,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/refreshing-watermelon-feta-salad-with-mint_20260719_203502.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.350Z",
-      "scheduledFor": "2026-08-02T14:00:00.000Z"
+      "scheduledFor": "2026-08-02T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/refreshing-watermelon-feta-salad-recipe-list.jpg",
+      "renderedAt": "2026-07-24T19:53:36.859Z"
     },
     "4813-guide": {
       "id": "4813-guide",
@@ -5990,9 +6021,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/how-to-make-classic-peach-jam-from-scratch_20260716_103413.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.411Z",
-      "scheduledFor": "2026-08-02T19:00:00.000Z"
+      "scheduledFor": "2026-08-02T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-peach-jam-recipe-guide.jpg",
+      "renderedAt": "2026-07-24T19:53:43.707Z"
     },
     "4789-hero": {
       "id": "4789-hero",
@@ -7028,9 +7062,12 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/authentic-andalusian-gazpacho-recipe_20260704_095702.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.535Z",
-      "scheduledFor": "2026-08-02T19:00:00.000Z"
+      "scheduledFor": "2026-08-02T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-andalusian-gazpacho-recipe-guide.jpg",
+      "renderedAt": "2026-07-24T19:53:45.917Z"
     },
     "4717-hero": {
       "id": "4717-hero",
@@ -7583,9 +7620,12 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-vanilla-bean-cream-best-ice-cream-recipes_20260701_211435.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.543Z",
-      "scheduledFor": "2026-08-02T14:00:00.000Z"
+      "scheduledFor": "2026-08-02T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-ice-cream-recipes-for-ice-cream-maker-list.jpg",
+      "renderedAt": "2026-07-24T19:53:38.628Z"
     },
     "4705-guide": {
       "id": "4705-guide",
@@ -8978,9 +9018,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/authentic-greek-tzatziki-sauce-a-simple-homemade-g_20260625_211953.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.369Z",
-      "scheduledFor": "2026-08-02T14:00:00.000Z"
+      "scheduledFor": "2026-08-02T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-greek-tzatziki-sauce-recipe-list.jpg",
+      "renderedAt": "2026-07-24T19:53:40.910Z"
     },
     "4669-guide": {
       "id": "4669-guide",
@@ -9167,9 +9210,15 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/creative-cake-flavor-ideas-for-every-occasion_20260624_211504.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.374Z",
-      "scheduledFor": "2026-08-02T09:00:00.000Z"
+      "scheduledFor": "2026-08-02T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/creative-cake-flavor-ideas-for-every-occasion_20260624_211504.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creative-cake-flavor-ideas-hero.jpg",
+      "renderedAt": "2026-07-24T19:53:33.990Z"
     },
     "4663-list": {
       "id": "4663-list",
@@ -9943,9 +9992,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/authentic-tostadas-recipes-a-crispy-foundation-for_20260620_102414.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:14:10.186Z",
-      "scheduledFor": "2026-08-02T09:00:00.000Z"
+      "scheduledFor": "2026-08-02T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/authentic-tostadas-recipes-a-crispy-foundation-for_20260620_102414.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-tostadas-recipes-hero.jpg",
+      "renderedAt": "2026-07-24T19:53:36.168Z"
     },
     "4624-hero": {
       "id": "4624-hero",
@@ -10095,6 +10150,47 @@
       "pinId": "419397784072948710",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784072948710/",
       "publishedAt": "2026-07-24T19:50:49.533Z"
+    },
+    "4874-hero": {
+      "id": "4874-hero",
+      "postId": 4874,
+      "postSlug": "high-protein-fluffy-cottage-cheese-pancakes",
+      "postUrl": "https://el-mordjene.info/high-protein-fluffy-cottage-cheese-pancakes/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "High Protein Breakfast Worth Trying",
+      "overlaySubtitle": "The Ultimate High Protein Breakfast Solution",
+      "pinTitle": "High Protein Breakfast: Fluffy Cottage Cheese Pancakes",
+      "pinDescription": "High Protein Breakfast with a click-worthy angle, useful details, and a more tempting way to explore the full post. fluffy cottage cheese pancakes, discover the secret to the fluffiest, dense pancakes that keep you full all morning this cottage cheese recipe transforms your breakfast routine into a high",
+      "primaryKeyword": "high protein breakfast",
+      "supportingKeywords": [
+        "high protein breakfast",
+        "fluffy cottage cheese pancakes",
+        "discover the secret to the fluffiest",
+        "dense pancakes that keep you full all morning this cottage cheese recipe transforms your breakfast routine into a high",
+        "protein powerhouse"
+      ],
+      "searchTags": [
+        "high protein breakfast",
+        "fluffy cottage cheese pancakes",
+        "discover the secret to the fluffiest",
+        "dense pancakes that keep you full all morning this cottage cheese recipe transforms your breakfast routine into a high",
+        "protein powerhouse",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "",
+      "status": "published_api",
+      "createdAt": "2026-07-24T19:53:31.253Z",
+      "scheduledFor": "2026-07-24T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/high-protein-fluffy-cottage-cheese-pancakes-hero.jpg",
+      "renderedAt": "2026-07-24T19:53:31.809Z",
+      "pinId": "419397784072948741",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072948741/",
+      "publishedAt": "2026-07-24T19:53:46.512Z"
     }
   },
   "queue": {
@@ -11701,6 +11797,16 @@
       "status": "published_api",
       "pinId": "419397784072948710",
       "publishedAt": "2026-07-24T19:50:49.533Z"
+    },
+    "4874-hero-queue": {
+      "id": "4874-hero-queue",
+      "assetId": "4874-hero",
+      "postId": 4874,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-07-24T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784072948741",
+      "publishedAt": "2026-07-24T19:53:46.512Z"
     }
   }
 }
