@@ -1,4 +1,4 @@
-﻿import fs from "node:fs/promises";
+import fs from "node:fs/promises";
 import { stripHtml } from "../lib/text.js";
 
 const GALLERY_MARKER = "<!-- pinterest-gallery -->";
@@ -34,6 +34,56 @@ export function createWordPressClient(config) {
         }
       }, "fetch posts");
       return posts.map(normalizePost);
+    },
+
+    async createPost(postData) {
+      const endpoint = new URL("/wp-json/wp/v2/posts", config.siteUrl);
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+          Authorization: buildAuthHeader(config),
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        body: JSON.stringify(postData)
+      });
+      if (!response.ok) {
+        const body = await response.text();
+        throw new Error(`Failed to create post: ${response.status} ${body}`);
+      }
+      return parseJsonResponse(response, "create post");
+    },
+
+    async uploadMediaBuffer(buffer, filename, title, mimeType = "image/webp") {
+      const endpoint = new URL("/wp-json/wp/v2/media", config.siteUrl);
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: {
+          Authorization: buildAuthHeader(config),
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "Content-Type": mimeType,
+          "Content-Disposition": `attachment; filename="${filename}"`
+        },
+        body: buffer
+      });
+      if (!response.ok) {
+        const body = await response.text();
+        throw new Error(`Media upload buffer failed: ${response.status} ${body}`);
+      }
+      const media = await parseJsonResponse(response, "media upload buffer");
+      if (title) {
+        await fetch(new URL(`/wp-json/wp/v2/media/${media.id}`, config.siteUrl), {
+          method: "POST",
+          headers: {
+            Authorization: buildAuthHeader(config),
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify({ alt_text: title.slice(0, 125) })
+        }).catch(err => console.warn("Failed to set alt text on media:", err.message));
+      }
+      return { id: media.id, url: media.source_url };
     },
 
     async fetchCategories() {
