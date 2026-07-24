@@ -1,4 +1,4 @@
-﻿import { buildKeywordSet, clampText, slugify } from "../lib/text.js";
+import { buildKeywordSet, clampText, slugify } from "../lib/text.js";
 import { enrichVariantsWithCopy } from "../services/pin-copywriter.js";
 import { buildPinPlan, scheduleDate } from "../services/pin-planner.js";
 import { classifyPost } from "../services/classifier.js";
@@ -6,6 +6,15 @@ import { classifyPost } from "../services/classifier.js";
 const PLAN_KEYS = ["hero", "list", "guide"];
 
 export async function queuePost({ config, state, post, scheduleAnchorDate }) {
+  // Enforce double deduplication guard on Post ID & Slug
+  if (state.hasPost(post.id) || state.hasPostSlug(post.slug)) {
+    return {
+      queuedAssets: 0,
+      queuedQueueItems: 0,
+      skipped: false
+    };
+  }
+
   const classification = classifyPost(post, config.boards);
   const keywordSet = buildKeywordSet(post);
 
@@ -202,58 +211,32 @@ function resolveScheduleAnchorDate({ config, state, post, scheduleAnchorDate }) 
 
 function buildDailyStats(state) {
   const stats = new Map();
-  const queue = state.state?.queue || {};
-  for (const item of Object.values(queue)) {
-    const dayKey = dayKeyFromDate(item.scheduledFor);
-    if (!dayKey) {
-      continue;
-    }
-    const entry = stats.get(dayKey) || { pins: 0, posts: new Set() };
-    entry.pins += 1;
-    if (item.postId) {
-      entry.posts.add(item.postId);
-    }
-    stats.set(dayKey, entry);
+  for (const item of Object.values(state.queue || {})) {
+    const dayKey = item.scheduledFor.slice(0, 10);
+    const dayStats = stats.get(dayKey) || { pinCount: 0, postIds: new Set() };
+    dayStats.pinCount += 1;
+    if (item.postId) dayStats.postIds.add(item.postId);
+    stats.set(dayKey, dayStats);
   }
   return stats;
 }
 
-function canScheduleForDates(stats, dates, postId, maxPins, maxPosts) {
-  for (const iso of dates) {
-    const dayKey = dayKeyFromDate(iso);
-    if (!dayKey) {
-      continue;
-    }
-    const entry = stats.get(dayKey) || { pins: 0, posts: new Set() };
-    const nextPins = entry.pins + 1;
-    const nextPosts = entry.posts.has(postId) ? entry.posts.size : entry.posts.size + 1;
-    if (nextPins > maxPins || nextPosts > maxPosts) {
-      return false;
-    }
+function canScheduleForDates(stats, scheduledDates, postId, maxPins, maxPosts) {
+  for (const dateIso of scheduledDates) {
+    const dayKey = dateIso.slice(0, 10);
+    const dayStats = stats.get(dayKey) || { pinCount: 0, postIds: new Set() };
+    if (dayStats.pinCount >= maxPins) return false;
+    if (!dayStats.postIds.has(postId) && dayStats.postIds.size >= maxPosts) return false;
   }
   return true;
 }
 
-function applyScheduleToStats(stats, dates, postId) {
-  for (const iso of dates) {
-    const dayKey = dayKeyFromDate(iso);
-    if (!dayKey) {
-      continue;
-    }
-    const entry = stats.get(dayKey) || { pins: 0, posts: new Set() };
-    entry.pins += 1;
-    entry.posts.add(postId);
-    stats.set(dayKey, entry);
-  }
-}
-
-function dayKeyFromDate(value) {
-  if (!value) {
-    return null;
-  }
-  try {
-    return new Date(value).toISOString().slice(0, 10);
-  } catch {
-    return null;
+function applyScheduleToStats(stats, scheduledDates, postId) {
+  for (const dateIso of scheduledDates) {
+    const dayKey = dateIso.slice(0, 10);
+    const dayStats = stats.get(dayKey) || { pinCount: 0, postIds: new Set() };
+    dayStats.pinCount += 1;
+    dayStats.postIds.add(postId);
+    stats.set(dayKey, dayStats);
   }
 }

@@ -16,6 +16,11 @@ export async function createStateStore(config) {
     hasPost(postId) {
       return Boolean(this.state.posts[String(postId)]);
     },
+    hasPostSlug(slug) {
+      if (!slug) return false;
+      const target = String(slug).toLowerCase().trim();
+      return Object.values(this.state.posts).some((p) => String(p.slug || "").toLowerCase().trim() === target);
+    },
     hasAsset(assetId) {
       return Boolean(this.state.assets[String(assetId)]);
     },
