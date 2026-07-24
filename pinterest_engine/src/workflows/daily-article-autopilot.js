@@ -1,6 +1,7 @@
 import path from "node:path";
 import fs from "node:fs/promises";
 import { ArticleGenerator } from "../services/article-generator.js";
+import { ImageGeneratorApi } from "../services/image-generator-api.js";
 import { PINTEREST_HIGH_SEARCH_TOPICS } from "../services/trend-strategy.js";
 import { discoverPosts } from "./discover-posts.js";
 import { renderPendingAssets } from "./render-assets.js";
@@ -21,7 +22,6 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
   );
 
   if (!selectedTopic) {
-    // Fallback: Pick a dynamic viral seasonal topic
     selectedTopic = {
       category: "Viral Desserts",
       topic: "Easy 3-Ingredient Peanut Butter Blossom Cookies",
@@ -34,7 +34,7 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
   console.log(`📌 Target Topic for Today: "${selectedTopic.topic}"`);
   console.log(`🎯 Category: ${selectedTopic.category} | Board: ${selectedTopic.targetBoard}`);
 
-  // 3. Generate article with Gemini AI
+  // 3. Generate article text with Gemini AI
   const generator = new ArticleGenerator(config);
   const article = await generator.generateArticle({
     topic: selectedTopic.topic,
@@ -43,13 +43,22 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
     existingPosts
   });
 
-  // 4. Create sample featured image & compress to WebP < 100KB with Alt tag
-  const fallbackImgPath = path.resolve("data/assets/pinterest/classic-homemade-peach-crisp-recipe-hero.jpg");
+  // 4. Generate HD Food Photo via AI Image API (HuggingFace FLUX / Pexels)
+  const imageApi = new ImageGeneratorApi(config);
+  const tempImagePath = path.resolve(`data/assets/pinterest/temp-${article.slug}.jpg`);
+  const generatedImagePath = await imageApi.generateFoodImage({
+    prompt: article.primaryKeyword || selectedTopic.topic,
+    topic: selectedTopic.topic,
+    outputPath: tempImagePath
+  });
+
+  // 5. Compress image to WebP < 100KB & upload to WordPress Media
   let featuredMediaId = null;
+  const inputPath = generatedImagePath || path.resolve("data/assets/pinterest/classic-homemade-peach-crisp-recipe-hero.jpg");
 
   try {
     const webpImage = await generator.optimizeImageToWebP(
-      fallbackImgPath,
+      inputPath,
       article.slug,
       article.altText || article.title
     );
@@ -66,7 +75,7 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
     console.warn("⚠️ Featured image upload skipped:", imgErr.message);
   }
 
-  // 5. Publish Post live to WordPress REST API
+  // 6. Publish Post live to WordPress REST API
   const postData = {
     title: article.title,
     slug: article.slug,
@@ -85,7 +94,7 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
   console.log(`📌 Post ID: ${publishedPost.id}`);
   console.log(`🔗 Link: ${publishedPost.link}`);
 
-  // 6. Instantly trigger Pinterest Discovery, Render & Publish Pipeline!
+  // 7. Instantly trigger Pinterest Discovery, Render & Publish Pipeline!
   console.log(`\n📌 Handing off new article to Pinterest Engine...`);
   await discoverPosts({ config, state, wordpress });
   await renderPendingAssets({ config, state });
