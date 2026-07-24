@@ -10,7 +10,31 @@ const THEMES = {
     panel: "#fff3e2",
     panelText: "#5d2f15",
     accent: "#9b471d",
-    badge: "EASY RECIPE"
+    badge: "EASY DESSERT"
+  },
+  baking: {
+    background: ["#fdf6e3", "#e8d5a3", "#b58c4a"],
+    hero: "#4a3516",
+    panel: "#fdf8ee",
+    panelText: "#3b2910",
+    accent: "#7a5c28",
+    badge: "BAKING RECIPE"
+  },
+  drink: {
+    background: ["#edfbf0", "#a8e6c5", "#2d9e64"],
+    hero: "#1b4d31",
+    panel: "#f2fcf5",
+    panelText: "#143a25",
+    accent: "#1f7a4a",
+    badge: "COCKTAIL GUIDE"
+  },
+  fruit: {
+    background: ["#fff5f0", "#ffc4a0", "#e8633a"],
+    hero: "#5e2111",
+    panel: "#fff7f3",
+    panelText: "#4d1b0e",
+    accent: "#b84a24",
+    badge: "SUMMER DESSERT"
   },
   spread: {
     background: ["#f7ead8", "#d8b07b", "#7f4a22"],
@@ -26,23 +50,25 @@ const THEMES = {
     panel: "#fff0e4",
     panelText: "#5c3426",
     accent: "#aa4b2c",
-    badge: "TRENDING SWEET"
+    badge: "VIRAL TREND"
+  },
+  quick: {
+    background: ["#f0f8ff", "#b3d9f5", "#2e7fc0"],
+    hero: "#133c5e",
+    panel: "#f4f9fd",
+    panelText: "#0d2b43",
+    accent: "#1f6294",
+    badge: "QUICK & EASY"
   }
 };
 
-const VARIANT_LABELS = {
-  hero: "Hero Pin",
-  list: "Saveable Summary",
-  guide: "Quick Guide"
-};
-
 export async function renderAsset(asset, config) {
-  const theme = THEMES[asset.contentType] || THEMES.trend;
+  const theme = THEMES[asset.contentType] || THEMES.recipe;
   const fileName = `${asset.postSlug || asset.postId}-${asset.variant}.jpg`;
   const hasFeaturedImage = Boolean(asset.imageSourceUrl || asset.featuredImage);
-  const quality = hasFeaturedImage ? 85 : 88;
-  const effort = 6;
+  const quality = hasFeaturedImage ? 86 : 88;
   const outputPath = path.join(config.assetsDir, "pinterest", fileName);
+
   const base = sharp({
     create: {
       width: 1000,
@@ -113,20 +139,20 @@ function buildOverlaySvg(asset, theme, hasPhoto) {
 function buildHeroOverlay(asset, theme, hasPhoto) {
   const titleLines = wrapText(asset.overlayTitle, 22, 3);
   const subtitleLines = wrapText(asset.overlaySubtitle, 28, 2);
-  const keywordLabel = wrapText(toDisplayCase(asset.primaryKeyword || asset.overlayTitle), 16, 1);
+  const keywordLabel = wrapText(toDisplayCase(asset.primaryKeyword || theme.badge), 16, 1);
 
   const titleSvg = titleLines
     .map((line, index) => {
       const y = hasPhoto ? 740 + index * 60 : 330 + index * 90;
       const fill = hasPhoto ? theme.hero : "#fff8f1";
-      return `<text x="170" y="${y}" font-size="56" font-family="system-ui, -apple-system, sans-serif" fill="${fill}" font-weight="800" letter-spacing="-1">${escapeHtml(line)}</text>`;
+      return `<text x="170" y="${y}" font-size="54" font-family="system-ui, -apple-system, sans-serif" fill="${fill}" font-weight="800" letter-spacing="-1">${escapeHtml(line)}</text>`;
     })
     .join("");
 
   const subtitleSvg = subtitleLines
     .map((line, index) => {
       const y = 920 + index * 30;
-      return `<text x="170" y="${y}" font-size="26" font-family="system-ui, -apple-system, sans-serif" fill="${theme.panelText}" font-weight="500">${escapeHtml(line)}</text>`;
+      return `<text x="170" y="${y}" font-size="25" font-family="system-ui, -apple-system, sans-serif" fill="${theme.panelText}" font-weight="500">${escapeHtml(line)}</text>`;
     })
     .join("");
 
@@ -136,14 +162,14 @@ function buildHeroOverlay(asset, theme, hasPhoto) {
 
   return `
     <svg width="1000" height="1500" viewBox="0 0 1000 1500" xmlns="http://www.w3.org/2000/svg">
-      <rect x="100" y="140" width="800" height="1040" rx="40" fill="rgba(255, 255, 255, 0.85)" opacity="0.9"/>
+      <rect x="100" y="140" width="800" height="1040" rx="40" fill="rgba(255, 255, 255, 0.88)" opacity="0.95"/>
       <rect x="130" y="180" width="740" height="520" rx="30" fill="${hasPhoto ? "rgba(255,250,245,0.01)" : theme.hero}"/>
       <rect x="140" y="170" width="280" height="58" rx="29" fill="${theme.accent}" opacity="0.95"/>
       ${keywordSvg}
       ${titleSvg}
       ${subtitleSvg}
       <rect x="170" y="1060" width="660" height="56" rx="28" fill="${theme.hero}"/>
-      <text x="500" y="1098" text-anchor="middle" font-size="24" font-family="system-ui, -apple-system, sans-serif" fill="#ffffff" font-weight="700" letter-spacing="2">READ MORE ON EL-MORDJENE.INFO</text>
+      <text x="500" y="1098" text-anchor="middle" font-size="22" font-family="system-ui, -apple-system, sans-serif" fill="#ffffff" font-weight="700" letter-spacing="2">EXPLORE ON THE SWAVORY BITES</text>
     </svg>
   `;
 }
@@ -160,7 +186,7 @@ function buildListOverlay(asset, theme, hasPhoto) {
   const startY = 440 - ((titleLines.length - 1) * 70) / 2 + 20;
 
   const titleSvg = titleLines
-    .map((line, index) => `<text x="500" y="${startY + index * 70}" text-anchor="middle" font-size="64" font-family="system-ui, -apple-system, sans-serif" fill="#111" font-weight="900" letter-spacing="-2">${escapeHtml(line)}</text>`)
+    .map((line, index) => `<text x="500" y="${startY + index * 70}" text-anchor="middle" font-size="62" font-family="system-ui, -apple-system, sans-serif" fill="#111" font-weight="900" letter-spacing="-2">${escapeHtml(line)}</text>`)
     .join("");
 
   return `
@@ -171,15 +197,18 @@ function buildListOverlay(asset, theme, hasPhoto) {
       ${subtitleSvg}
       <rect x="140" y="${440 - boxHeight / 2 - 10}" width="720" height="${boxHeight + 20}" rx="32" fill="rgba(255, 255, 255, 0.95)" stroke="${theme.hero}" stroke-width="4"/>
       ${titleSvg}
+      <rect x="250" y="1320" width="500" height="50" rx="25" fill="${theme.hero}"/>
+      <text x="500" y="1353" text-anchor="middle" font-size="20" font-family="system-ui, -apple-system, sans-serif" fill="#ffffff" font-weight="700" letter-spacing="2">THE SWAVORY BITES</text>
     </svg>
   `;
 }
+
 function buildGuideOverlay(asset, theme, hasPhoto) {
   const titleLines = wrapText(asset.overlayTitle, 18, 2);
   const subtitleLines = wrapText(asset.overlaySubtitle, 26, 1);
 
   const titleSvg = titleLines
-    .map((line, index) => `<text x="500" y="${770 + index * 70}" text-anchor="middle" font-size="64" font-family="system-ui, -apple-system, sans-serif" fill="#ffffff" font-weight="800" letter-spacing="-1">${escapeHtml(line)}</text>`)
+    .map((line, index) => `<text x="500" y="${770 + index * 70}" text-anchor="middle" font-size="62" font-family="system-ui, -apple-system, sans-serif" fill="#ffffff" font-weight="800" letter-spacing="-1">${escapeHtml(line)}</text>`)
     .join("");
 
   const subtitleSvg = subtitleLines
@@ -198,15 +227,14 @@ function buildGuideOverlay(asset, theme, hasPhoto) {
       </defs>
       ${titleSvg}
       ${subtitleSvg}
-      <rect x="300" y="1030" width="400" height="50" rx="25" fill="${theme.accent}"/>
-      <text x="500" y="1063" text-anchor="middle" font-size="22" font-family="system-ui, -apple-system, sans-serif" fill="#ffffff" font-weight="700" letter-spacing="2">VISIT EL-MORDJENE.INFO</text>
+      <rect x="250" y="1030" width="500" height="50" rx="25" fill="${theme.accent}"/>
+      <text x="500" y="1063" text-anchor="middle" font-size="21" font-family="system-ui, -apple-system, sans-serif" fill="#ffffff" font-weight="700" letter-spacing="2">VISIT THE SWAVORY BITES</text>
     </svg>
   `;
 }
+
 async function loadImageBuffer(url) {
-  if (!url) {
-    return null;
-  }
+  if (!url) return null;
 
   try {
     const response = await fetch(url, {
@@ -215,9 +243,7 @@ async function loadImageBuffer(url) {
       }
     });
 
-    if (!response.ok) {
-      return null;
-    }
+    if (!response.ok) return null;
 
     const arrayBuffer = await response.arrayBuffer();
     return Buffer.from(arrayBuffer);
@@ -233,33 +259,3 @@ function toDisplayCase(value) {
     .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
     .join(" ");
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

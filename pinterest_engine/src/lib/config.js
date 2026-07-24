@@ -1,11 +1,40 @@
+import fs from "node:fs";
 import path from "node:path";
 
+// Auto-load .env file if present
+try {
+  const envPath = path.resolve(".env");
+  if (fs.existsSync(envPath)) {
+    const content = fs.readFileSync(envPath, "utf8");
+    content.split(/\r?\n/).forEach((line) => {
+      const trimmed = line.trim();
+      if (trimmed && !trimmed.startsWith("#")) {
+        const eqIdx = trimmed.indexOf("=");
+        if (eqIdx > 0) {
+          const key = trimmed.slice(0, eqIdx).trim();
+          const val = trimmed.slice(eqIdx + 1).trim();
+          if (key && !process.env[key]) {
+            process.env[key] = val;
+          }
+        }
+      }
+    });
+  }
+} catch (e) {
+  // ignore
+}
+
 const DEFAULT_BOARDS = {
-  recipes_en: "Recipes",
-  recipes_fr: "Recettes",
-  spreads_en: "Spreads",
-  spreads_fr: "Pates a tartiner",
-  sweets_trends: "Sweets & Trends"
+  desserts_en: "Easy Dessert Recipes",
+  baking_en: "Baking Recipes — Breads & Cakes",
+  drinks_en: "Drink Recipes — Cocktails & Mocktails",
+  spreads_en: "Hazelnut & Chocolate Spreads",
+  fruit_en: "Fruit Desserts & Summer Recipes",
+  trends_en: "Viral Food Trends & Sweet Ideas",
+  quick_en: "Quick & Easy Recipes",
+  recipes_fr: "Recettes Faciles & Desserts Maison",
+  spreads_fr: "Pâtes à Tartiner & Douceurs",
+  trends_fr: "Tendances Culinaires & Recettes"
 };
 
 export function loadConfig() {
@@ -16,7 +45,7 @@ export function loadConfig() {
     siteUrl,
     wpUsername: required("WP_USERNAME"),
     wpAppPassword: required("WP_APP_PASSWORD"),
-    wpUserAgent: process.env.WP_USER_AGENT?.trim() || "El-Mordjene-Pinterest-Bot/1.0",
+    wpUserAgent: process.env.WP_USER_AGENT?.trim() || "TheSwavoryBites-Pinterest-Bot/1.0",
     geminiApiKey: process.env.GEMINI_API_KEY?.trim() || "",
     geminiTextModel: process.env.GEMINI_TEXT_MODEL?.trim() || "gemini-2.0-flash",
     pexelsApiKey: process.env.PEXELS_API_KEY?.trim() || "",
@@ -26,7 +55,7 @@ export function loadConfig() {
     lookbackHours: numberFromEnv("LOOKBACK_HOURS", 48),
     postsPerRun: numberFromEnv("POSTS_PER_RUN", 6),
     renderBatchSize: numberFromEnv("RENDER_BATCH_SIZE", 9),
-    publishBatchSize: numberFromEnv("PUBLISH_BATCH_SIZE", 9),
+    publishBatchSize: numberFromEnv("PUBLISH_BATCH_SIZE", 6),
     maxPinsPerDay: numberFromEnv("MAX_PINS_PER_DAY", 15),
     maxPostsPerDay: numberFromEnv("MAX_POSTS_PER_DAY", 5),
     assetsDir: path.resolve(process.env.ASSETS_DIR?.trim() || "data/assets"),
@@ -47,13 +76,7 @@ export function loadConfig() {
       second: numberFromEnv("PIN_DAY_2", 2),
       third: numberFromEnv("PIN_DAY_3", 7)
     },
-    boards: {
-      recipes_en: process.env.BOARD_RECIPES_EN?.trim() || DEFAULT_BOARDS.recipes_en,
-      recipes_fr: process.env.BOARD_RECIPES_FR?.trim() || DEFAULT_BOARDS.recipes_fr,
-      spreads_en: process.env.BOARD_SPREADS_EN?.trim() || DEFAULT_BOARDS.spreads_en,
-      spreads_fr: process.env.BOARD_SPREADS_FR?.trim() || DEFAULT_BOARDS.spreads_fr,
-      sweets_trends: process.env.BOARD_SWEETS_TRENDS?.trim() || DEFAULT_BOARDS.sweets_trends
-    }
+    boards: DEFAULT_BOARDS
   };
 }
 

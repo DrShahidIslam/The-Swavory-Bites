@@ -11,6 +11,8 @@
     "backfill": "node src/index.js backfill",
     "render": "node src/index.js render",
     "publish": "node src/index.js publish",
+    "publish:api": "node src/index.js publish-api",
+    "trend-ideas": "node src/index.js trend-ideas",
     "plan-feeds": "node src/index.js plan-feeds",
     "reclassify": "node src/index.js reclassify",
     "status": "node src/index.js status",

@@ -1,0 +1,18 @@
+# Environment & Secrets
+.env
+*.env
+pinterest_engine/.env
+
+# Dependencies
+node_modules/
+pinterest_engine/node_modules/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Data & Assets
+pinterest_engine/data/assets/
+pinterest_engine/data/exports/
+pinterest_engine/tmp/
+.DS_Store

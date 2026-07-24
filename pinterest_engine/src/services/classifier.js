@@ -9,138 +9,112 @@ const CATEGORY_SLUGS = {
   elMordjene: new Set(["el-mordjene-exclusive", "el-mordjene-exclusive-fr"])
 };
 
+const DRINK_KEYWORDS = [
+  "mojito", "cocktail", "drink recipe", "beverage", "rum", "mocktail", "lemonade", "smoothie", "punch", "highball", "drink"
+];
+
+const BAKING_KEYWORDS = [
+  "baking", "bread", "quick bread", "zucchini bread", "banana bread", "muffins", "loaf", "cake", "cookies", "biscuit", "pie", "dough"
+];
+
+const FRUIT_KEYWORDS = [
+  "peach", "crisp", "cobbler", "crumble", "fruit desserts", "summer recipes", "berry", "strawberry", "apple", "peach crisp", "peach crumble", "stone fruit"
+];
+
 const SPREAD_KEYWORDS = [
-  "hazelnut spread",
-  "chocolate spread",
-  "nutella",
-  "cebon",
-  "el mordjene spread",
-  "homemade spread"
+  "hazelnut spread", "chocolate spread", "nutella", "homemade spread", "pate a tartiner"
 ];
 
-const FRENCH_SPREAD_KEYWORDS = [
-  "pate a tartiner",
-  "pates a tartiner",
-  "tartiner",
-  "noisette"
+const QUICK_KEYWORDS = [
+  "30 minute", "quick", "easy", "5 minute", "fast", "no bake", "simple"
 ];
 
-const RECIPE_KEYWORDS = [
-  "recipe",
-  "recette",
-  "how to make",
-  "ingredients",
-  "instructions",
-  "copycat",
-  "croissant",
-  "pastry",
-  "dessert",
-  "ice cream",
-  "donuts"
+const DESSERT_KEYWORDS = [
+  "dessert", "sweet", "ice cream", "chocolate", "pastry", "croissant", "candy", "treat"
 ];
 
-const TREND_KEYWORDS = [
-  "trend",
-  "viral",
-  "cafe",
-  "launch",
-  "taking over",
-  "new treat",
-  "what you need to know"
+// EXCLUDED FROM PINTEREST: El Mordjene brand posts, legal news, recalls
+const EXCLUDED_PIN_KEYWORDS = [
+  "el-mordjene", "el mordjene", "cebon", "recall", "lawsuit", "ban", "banned", "regulation", "food safety", "nationwide recall"
 ];
 
-const SWEETS_KEYWORDS = [
-  "dessert",
-  "sweet",
-  "chocolate",
-  "strawberries",
-  "candy",
-  "bakery",
-  "pastry",
-  "croissant",
-  "ice cream",
-  "dates"
-];
+export function classifyPost(post, boards = {}) {
+  const tagsStr = (post.tags || []).join(" ").toLowerCase();
+  const catsStr = (post.categories || []).map((c) => `${c.name} ${c.slug}`).join(" ").toLowerCase();
+  const primaryHaystack = [post.title, post.excerpt, post.slug, tagsStr, catsStr].join(" ").toLowerCase();
+  const categorySlugs = new Set((post.categories || []).map((c) => c.slug.toLowerCase()));
 
-const NON_PIN_WORTHY_KEYWORDS = [
-  "recall",
-  "lawsuit",
-  "ban",
-  "banned",
-  "regulation",
-  "food safety",
-  "nationwide recall"
-];
+  const isFrench = post.language === "fr" || primaryHaystack.includes("-fr") || catsStr.includes("fr");
+  const isFoodNews = [...CATEGORY_SLUGS.foodNews].some((slug) => categorySlugs.has(slug));
+  const isElMordjeneCategory = [...CATEGORY_SLUGS.elMordjene].some((slug) => categorySlugs.has(slug));
 
-export function classifyPost(post, boards) {
-  const primaryHaystack = [
-    post.title,
-    post.excerpt,
-    post.slug,
-    post.tags.join(" "),
-    post.categories.map((category) => `${category.name} ${category.slug}`).join(" ")
-  ].join(" ").toLowerCase();
-  const secondaryHaystack = [post.excerpt, post.contentHtml].join(" ").toLowerCase();
-  const categorySlugs = new Set(post.categories.map((category) => category.slug.toLowerCase()));
+  const isExcluded = isElMordjeneCategory || isFoodNews || EXCLUDED_PIN_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
 
-  const hasCategory = (group) => [...group].some((slug) => categorySlugs.has(slug));
-  const isFrench = post.language === "fr";
-  const isFoodNews = hasCategory(CATEGORY_SLUGS.foodNews);
-  const isElMordjene = hasCategory(CATEGORY_SLUGS.elMordjene);
-  const isCategoryRecipeEn = hasCategory(CATEGORY_SLUGS.recipes_en);
-  const isCategoryRecipeFr = hasCategory(CATEGORY_SLUGS.recipes_fr);
-  const isCategorySpreadEn = hasCategory(CATEGORY_SLUGS.spreads_en);
-  const isCategorySpreadFr = hasCategory(CATEGORY_SLUGS.spreads_fr);
-  const isCategoryTrend = hasCategory(CATEGORY_SLUGS.trends);
-  const isCategorySweet = hasCategory(CATEGORY_SLUGS.sweets);
-
-  const isFrenchSpread = FRENCH_SPREAD_KEYWORDS.some((keyword) => primaryHaystack.includes(keyword));
-  const isSpread = isCategorySpreadEn || isCategorySpreadFr || SPREAD_KEYWORDS.some((keyword) => primaryHaystack.includes(keyword)) || isFrenchSpread;
-  const isRecipe = isCategoryRecipeEn || isCategoryRecipeFr || RECIPE_KEYWORDS.some((keyword) => primaryHaystack.includes(keyword));
-  const isTrend = isCategoryTrend || TREND_KEYWORDS.some((keyword) => primaryHaystack.includes(keyword));
-  const isSweet = isCategorySweet || SWEETS_KEYWORDS.some((keyword) => primaryHaystack.includes(keyword) || secondaryHaystack.includes(keyword));
-  const isNonVisualNews = isFoodNews || NON_PIN_WORTHY_KEYWORDS.some((keyword) => primaryHaystack.includes(keyword) || secondaryHaystack.includes(keyword));
-
-  const pinWorthinessScore =
-    (isRecipe ? 3 : 0) +
-    (isSpread ? 3 : 0) +
-    (isTrend ? 2 : 0) +
-    (isSweet ? 2 : 0) +
-    (post.featuredImage ? 1 : 0) -
-    (isNonVisualNews ? 5 : 0);
-
-  let contentType = "trend";
-  let boardKey = "sweets_trends";
-
-  if (isCategorySpreadFr || (isFrench && isFrenchSpread)) {
-    contentType = "spread";
-    boardKey = "spreads_fr";
-  } else if (isCategorySpreadEn || (isSpread && !isRecipe && !isTrend)) {
-    contentType = "spread";
-    boardKey = "spreads_en";
-  } else if (isCategoryRecipeFr) {
-    contentType = "recipe";
-    boardKey = "recipes_fr";
-  } else if (isCategoryRecipeEn || (isRecipe && !isTrend)) {
-    contentType = "recipe";
-    boardKey = "recipes_en";
-  } else if (isTrend || isSweet || isElMordjene) {
-    contentType = "trend";
-    boardKey = "sweets_trends";
+  if (isExcluded) {
+    return {
+      shouldPin: false,
+      contentType: "excluded",
+      boardKey: "none",
+      boardName: "None",
+      language: isFrench ? "fr" : "en",
+      pinWorthinessScore: -100
+    };
   }
 
-  let shouldPin = pinWorthinessScore >= 2 && !isNonVisualNews;
+  let contentType = "recipe";
+  let boardKey = "desserts_en";
 
-  if (isCategorySpreadFr || isCategorySpreadEn || isCategoryRecipeFr || isCategoryRecipeEn) {
-    shouldPin = !isNonVisualNews;
+  const isDrink = DRINK_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
+  const isBaking = BAKING_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
+  const isFruit = FRUIT_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
+  const isSpread = SPREAD_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
+  const isQuick = QUICK_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
+  const isTrend = [...CATEGORY_SLUGS.trends].some((s) => categorySlugs.has(s)) || primaryHaystack.includes("viral") || primaryHaystack.includes("trend");
+
+  if (isFrench) {
+    if (isSpread) {
+      contentType = "spread";
+      boardKey = "spreads_fr";
+    } else if (isTrend) {
+      contentType = "trend";
+      boardKey = "trends_fr";
+    } else {
+      contentType = "recipe";
+      boardKey = "recipes_fr";
+    }
+  } else {
+    if (isDrink) {
+      contentType = "drink";
+      boardKey = "drinks_en";
+    } else if (isSpread) {
+      contentType = "spread";
+      boardKey = "spreads_en";
+    } else if (isFruit) {
+      contentType = "fruit";
+      boardKey = "fruit_en";
+    } else if (isBaking) {
+      contentType = "baking";
+      boardKey = "baking_en";
+    } else if (isQuick && !isBaking) {
+      contentType = "quick";
+      boardKey = "quick_en";
+    } else if (isTrend) {
+      contentType = "trend";
+      boardKey = "trends_en";
+    } else {
+      contentType = "recipe";
+      boardKey = "desserts_en";
+    }
   }
+
+  const resolvedBoardName = boards[boardKey] || boards[boardKey.toUpperCase()] || boards.desserts_en || "Easy Dessert Recipes";
 
   return {
-    shouldPin,
+    shouldPin: true,
     contentType,
     boardKey,
-    boardName: boards[boardKey],
+    boardName: resolvedBoardName,
     language: isFrench ? "fr" : "en",
-    pinWorthinessScore
+    pinWorthinessScore: 5
   };
 }

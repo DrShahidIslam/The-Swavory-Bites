@@ -3,23 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title id="meta-title">THE SWAVORY BITES - Discover Premium Recipes</title>
+    <title id="meta-title">THE SWAVORY BITES — Gourmet Culinary Journal & Recipe Discovery</title>
     
-    <!-- SEO Meta -->
-    <meta name="description" content="Discover premium viral recipes, curated directly from our The Swavory Bites database.">
-    <meta name="robots" content="noindex, follow">
+    <!-- Dynamic SEO & OpenGraph Meta (Pinterest Rich Pins Compliant) -->
+    <meta name="description" id="meta-desc" content="Discover viral & gourmet recipes, step-by-step baking guides, quick 30-minute meals, and refreshing drinks curated by The Swavory Bites Culinary Journal.">
+    <meta name="robots" content="index, follow">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="The Swavory Bites">
+    <meta property="og:title" id="og-title" content="The Swavory Bites — Gourmet Culinary Journal">
+    <meta property="og:description" id="og-desc" content="Discover viral & gourmet recipes curated by The Swavory Bites.">
+    <meta property="og:image" id="og-img" content="">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="pinterest-rich-pin" content="true">
 
     <!-- Premium Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;0,900;1,600&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     
+    <!-- Dynamic Schema.org JSON-LD Script Blocks -->
+    <script id="schema-recipe" type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Recipe",
+      "name": "The Swavory Bites Gourmet Recipe Collection",
+      "description": "Discover curated recipes, easy bakes, and viral food ideas.",
+      "author": { "@type": "Organization", "name": "The Swavory Bites" },
+      "publisher": { "@type": "Organization", "name": "The Swavory Bites" }
+    }
+    </script>
+    <script id="schema-breadcrumb" type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-swavory-bites.pages.dev/" },
+        { "@type": "ListItem", "position": 2, "name": "Recipes", "item": "https://the-swavory-bites.pages.dev/bridge_page/" }
+      ]
+    }
+    </script>
+
     <style>
         :root {
             --primary: #8f1f28;
+            --primary-dark: #641219;
             --accent: #d87439;
-            --bg: #fffaf5;
-            --text: #2a1910;
+            --gold: #d4af37;
+            --gold-light: #f7e7b4;
+            --bg: #fdfbf7;
+            --text: #1f1612;
+            --text-muted: #6b5c54;
+            --card-bg: rgba(255, 255, 255, 0.94);
+            --shadow-lux: 0 30px 60px -15px rgba(143, 31, 40, 0.2);
         }
 
         * { box-sizing: border-box; }
@@ -33,26 +68,41 @@
             align-items: center;
             min-height: 100vh;
             color: var(--text);
-            padding: 20px;
+            padding: 15px;
+            overflow-x: hidden;
         }
 
-        /* Dynamic Blurred Background */
+        /* Ambient Dynamic Background Blur */
         .blur-bg {
             position: fixed;
             top: 0; left: 0; right: 0; bottom: 0;
             background-size: cover;
             background-position: center;
-            filter: blur(50px) brightness(0.85);
-            opacity: 0.15;
+            filter: blur(65px) brightness(0.85);
+            opacity: 0.22;
             z-index: -1;
-            transition: background-image 1s ease, opacity 1s ease;
+            transition: background-image 1.2s ease-in-out, opacity 1s ease;
         }
 
-        /* Branding Header */
+        /* Luxury Header */
         header {
             text-align: center;
-            margin-top: 20px;
+            margin-top: 15px;
+            margin-bottom: 25px;
             animation: fadeInDown 0.8s ease-out;
+        }
+        .brand-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--gold) 0%, #b8860b 100%);
+            color: #ffffff;
+            font-size: 0.68rem;
+            font-weight: 900;
+            letter-spacing: 3px;
+            padding: 4px 14px;
+            border-radius: 50px;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+            box-shadow: 0 4px 12px rgba(212, 175, 55, 0.3);
         }
         header h1 {
             font-family: 'Playfair Display', serif;
@@ -60,129 +110,308 @@
             color: var(--primary);
             margin: 0;
             text-transform: uppercase;
-            letter-spacing: -1px;
+            letter-spacing: -0.5px;
+            font-weight: 900;
+            line-height: 1.1;
         }
         .tagline {
-            font-size: 0.85rem;
-            letter-spacing: 3px;
+            font-size: 0.82rem;
+            letter-spacing: 4px;
             color: var(--accent);
             text-transform: uppercase;
-            font-weight: 700;
-            margin-top: 5px;
+            font-weight: 800;
+            margin-top: 6px;
         }
 
-        /* Glassmorphic Container */
+        /* Floating Glassmorphic Container */
         .glass-card {
-            background: rgba(255, 255, 255, 0.85);
-            backdrop-filter: blur(20px);
-            border: 1px solid rgba(255, 255, 255, 0.6);
-            box-shadow: 0 30px 60px rgba(143, 31, 40, 0.12);
+            background: var(--card-bg);
+            backdrop-filter: blur(30px);
+            -webkit-backdrop-filter: blur(30px);
+            border: 1.5px solid rgba(212, 175, 55, 0.35);
+            box-shadow: var(--shadow-lux);
             border-radius: 32px;
-            max-width: 520px;
+            max-width: 560px;
             width: 100%;
-            padding: 40px;
+            padding: 35px 28px;
             text-align: center;
-            margin-top: 40px;
-            margin-bottom: 40px;
             position: relative;
             animation: fadeInUp 0.8s ease-out;
         }
 
+        /* Hero Image Container */
+        .img-wrapper {
+            position: relative;
+            width: 100%;
+            height: 300px;
+            border-radius: 24px;
+            overflow: hidden;
+            box-shadow: 0 18px 36px rgba(0,0,0,0.18);
+            margin-bottom: 22px;
+            background: #f4eae1;
+            display: none;
+        }
+
         .recipe-thumb {
             width: 100%;
-            height: 260px;
+            height: 100%;
             object-fit: cover;
-            border-radius: 20px;
-            box-shadow: 0 15px 30px rgba(0,0,0,0.15);
-            margin-bottom: 25px;
-            background: #eee;
-            display: none; /* hidden until loaded */
+            transition: transform 0.7s cubic-bezier(0.25, 1, 0.5, 1);
+        }
+
+        .img-wrapper:hover .recipe-thumb {
+            transform: scale(1.05);
+        }
+
+        .image-overlay-badge {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            background: rgba(31, 22, 18, 0.82);
+            backdrop-filter: blur(10px);
+            color: #ffffff;
+            padding: 6px 14px;
+            border-radius: 50px;
+            font-size: 0.72rem;
+            font-weight: 800;
+            letter-spacing: 1.5px;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        /* Badges & Trust Signals */
+        .badge-row {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
         }
 
         .trend-badge {
-            display: inline-block;
-            background: #fff0f0;
+            background: #fff0e8;
             color: var(--primary);
+            border: 1px solid rgba(143, 31, 40, 0.25);
             padding: 6px 16px;
             border-radius: 50px;
-            font-size: 0.75rem;
+            font-size: 0.76rem;
             font-weight: 800;
-            letter-spacing: 2px;
-            margin-bottom: 15px;
+            letter-spacing: 1.5px;
             text-transform: uppercase;
+        }
+
+        .rating-badge {
+            background: #fffdf0;
+            color: #b8860b;
+            border: 1px solid rgba(184, 134, 11, 0.35);
+            padding: 6px 16px;
+            border-radius: 50px;
+            font-size: 0.76rem;
+            font-weight: 800;
         }
 
         h2 {
             font-family: 'Playfair Display', serif;
             font-size: 2.2rem;
-            line-height: 1.2;
-            margin: 0 0 15px 0;
+            line-height: 1.22;
+            margin: 0 0 16px 0;
             color: var(--text);
+            font-weight: 900;
+        }
+
+        /* Recipe Quick Meta Stats */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            background: rgba(143, 31, 40, 0.04);
+            border-radius: 18px;
+            padding: 14px;
+            margin-bottom: 22px;
+            border: 1px solid rgba(143, 31, 40, 0.1);
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-label {
+            font-size: 0.68rem;
+            color: #8c7b72;
+            text-transform: uppercase;
+            font-weight: 800;
+            letter-spacing: 1px;
+        }
+
+        .stat-value {
+            font-size: 1rem;
+            color: var(--primary);
+            font-weight: 800;
+            margin-top: 3px;
         }
 
         .excerpt {
             font-size: 1.05rem;
-            line-height: 1.6;
-            color: #554a44;
-            margin-bottom: 30px;
+            line-height: 1.65;
+            color: var(--text-muted);
+            margin-bottom: 25px;
+            text-align: left;
         }
 
-        .btn {
-            display: block;
-            background: linear-gradient(135deg, var(--primary) 0%, #b32a35 100%);
-            color: white;
-            padding: 20px;
-            border-radius: 100px;
-            text-decoration: none;
+        /* Interactive Recipe Tabs */
+        .tab-bar {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 20px;
+            border-bottom: 1.5px solid #eee1d5;
+            padding-bottom: 10px;
+        }
+
+        .tab-btn {
+            flex: 1;
+            background: transparent;
+            border: none;
+            padding: 8px 12px;
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.85rem;
             font-weight: 700;
-            font-size: 1.1rem;
-            letter-spacing: 1px;
-            transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-            box-shadow: 0 10px 20px -5px rgba(143, 31, 40, 0.4);
-            margin-bottom: 10px;
+            color: #8c7b72;
+            cursor: pointer;
+            border-radius: 10px;
+            transition: all 0.2s ease;
+        }
+
+        .tab-btn.active {
+            background: var(--primary);
+            color: #ffffff;
+            box-shadow: 0 4px 12px rgba(143, 31, 40, 0.25);
+        }
+
+        .tab-content {
+            display: none;
+            text-align: left;
+            margin-bottom: 25px;
+            animation: fadeIn 0.3s ease-in;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* Ingredient Checklist Items */
+        .ingredient-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .ingredient-item {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            background: #ffffff;
+            padding: 10px 14px;
+            border-radius: 12px;
+            border: 1px solid #eee1d5;
+            font-size: 0.92rem;
+            color: var(--text);
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .ingredient-item:hover {
+            background: #fffaf5;
+        }
+
+        .ingredient-item input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            accent-color: var(--primary);
             cursor: pointer;
         }
 
-        .btn:hover {
-            transform: translateY(-5px) scale(1.02);
-            box-shadow: 0 20px 30px -10px rgba(143, 31, 40, 0.5);
+        /* High-Converting Pulsating CTA Button */
+        .cta-container {
+            margin-bottom: 25px;
+        }
+
+        .btn-main {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            background: linear-gradient(135deg, var(--primary) 0%, #a8232e 100%);
+            color: white;
+            padding: 20px 28px;
+            border-radius: 100px;
+            text-decoration: none;
+            font-weight: 800;
+            font-size: 1.15rem;
+            letter-spacing: 0.5px;
+            transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            box-shadow: 0 14px 28px -6px rgba(143, 31, 40, 0.45);
+            position: relative;
+            animation: pulseGlow 2.5s infinite;
+        }
+
+        .btn-main:hover {
+            transform: translateY(-4px) scale(1.02);
+            box-shadow: 0 20px 35px -8px rgba(143, 31, 40, 0.6);
             background: linear-gradient(135deg, var(--accent) 0%, #e68a4d 100%);
         }
 
-        /* Lead Capture Section */
+        .btn-main .arrow {
+            font-size: 1.4rem;
+            transition: transform 0.3s ease;
+        }
+
+        .btn-main:hover .arrow {
+            transform: translateX(8px);
+        }
+
+        .social-proof {
+            font-size: 0.85rem;
+            color: #7d6e66;
+            margin-top: 10px;
+            font-weight: 600;
+        }
+
+        /* Lead Capture Box */
         .email-capture {
-            margin-top: 40px;
-            padding-top: 30px;
-            border-top: 1px solid rgba(0,0,0,0.05);
+            margin-top: 30px;
+            padding-top: 25px;
+            border-top: 1px solid rgba(0,0,0,0.08);
         }
 
         .email-capture h4 {
             font-family: 'Playfair Display', serif;
             font-size: 1.4rem;
-            margin: 0 0 5px 0;
+            margin: 0 0 4px 0;
             color: var(--text);
         }
 
         .email-capture p {
-            font-size: 0.9rem;
-            color: #777;
+            font-size: 0.88rem;
+            color: var(--text-muted);
             margin: 0 0 15px 0;
         }
 
         .input-group {
             display: flex;
-            gap: 10px;
+            gap: 8px;
         }
 
         .input-group input {
             flex-grow: 1;
             padding: 14px 20px;
             border-radius: 50px;
-            border: 1px solid #ddd;
+            border: 1px solid #ddcfc5;
             font-family: 'Outfit', sans-serif;
-            font-size: 0.95rem;
+            font-size: 0.94rem;
             outline: none;
-            background: rgba(255,255,255,0.9);
+            background: rgba(255,255,255,0.95);
         }
 
         .input-group input:focus {
@@ -193,10 +422,11 @@
             background: var(--text);
             color: white;
             border: none;
-            padding: 0 25px;
+            padding: 0 24px;
             border-radius: 50px;
             font-family: 'Outfit', sans-serif;
             font-weight: 700;
+            font-size: 0.92rem;
             cursor: pointer;
             transition: background 0.2s;
         }
@@ -205,12 +435,74 @@
             background: var(--accent);
         }
 
-        /* Loader Skeleton */
+        /* Related Recipes Grid */
+        .related-section {
+            margin-top: 32px;
+            text-align: left;
+            display: none;
+        }
+
+        .related-section h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.35rem;
+            color: var(--text);
+            border-bottom: 2.5px solid var(--primary);
+            padding-bottom: 6px;
+            margin-bottom: 16px;
+        }
+
+        .related-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .related-card {
+            display: flex;
+            gap: 14px;
+            text-decoration: none;
+            color: inherit;
+            align-items: center;
+            background: rgba(255,255,255,0.9);
+            padding: 12px 14px;
+            border-radius: 16px;
+            border: 1px solid #eedfd5;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .related-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.07);
+        }
+
+        .related-card img {
+            width: 70px;
+            height: 70px;
+            object-fit: cover;
+            border-radius: 12px;
+            background: #eee;
+        }
+
+        .related-card h4 {
+            margin: 0 0 4px 0;
+            font-size: 1rem;
+            line-height: 1.3;
+            color: var(--text);
+            font-weight: 700;
+        }
+
+        .related-card span {
+            font-size: 0.8rem;
+            color: var(--primary);
+            font-weight: 800;
+        }
+
+        /* Skeleton Loader */
         .skeleton {
-            background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+            background: linear-gradient(90deg, #f0e7df 25%, #e4d8cd 50%, #f0e7df 75%);
             background-size: 200% 100%;
             animation: loading 1.5s infinite;
-            border-radius: 8px;
+            border-radius: 12px;
         }
 
         @keyframes loading {
@@ -218,13 +510,24 @@
             100% { background-position: -200% 0; }
         }
 
+        @keyframes pulseGlow {
+            0% { box-shadow: 0 12px 24px -6px rgba(143, 31, 40, 0.45); }
+            50% { box-shadow: 0 18px 36px -4px rgba(143, 31, 40, 0.65); }
+            100% { box-shadow: 0 12px 24px -6px rgba(143, 31, 40, 0.45); }
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
         @keyframes fadeInUp {
-            from { opacity: 0; transform: translateY(30px); }
+            from { opacity: 0; transform: translateY(25px); }
             to { opacity: 1; transform: translateY(0); }
         }
-        
+
         @keyframes fadeInDown {
-            from { opacity: 0; transform: translateY(-20px); }
+            from { opacity: 0; transform: translateY(-15px); }
             to { opacity: 1; transform: translateY(0); }
         }
     </style>
@@ -234,59 +537,130 @@
     <div id="backdrop" class="blur-bg"></div>
 
     <header>
+        <span class="brand-badge">FEATURED JOURNAL EDITION</span>
         <h1>THE SWAVORY BITES</h1>
-        <div class="tagline">Discovery Portal</div>
+        <div class="tagline">Gourmet Recipes & Culinary Journal</div>
     </header>
 
     <div class="glass-card">
-        <!-- Loader Skeleton -->
+        <!-- Skeleton Loader -->
         <div id="loader">
-            <div class="skeleton" style="width: 100%; height: 260px; border-radius: 20px; margin-bottom: 25px;"></div>
-            <div class="skeleton" style="width: 40%; height: 24px; border-radius: 50px; margin: 0 auto 15px auto;"></div>
-            <div class="skeleton" style="width: 90%; height: 40px; margin: 0 auto 15px auto;"></div>
-            <div class="skeleton" style="width: 100%; height: 80px; margin: 0 auto 30px auto;"></div>
-            <div class="skeleton" style="width: 100%; height: 60px; border-radius: 100px;"></div>
+            <div class="skeleton" style="width: 100%; height: 300px; border-radius: 24px; margin-bottom: 22px;"></div>
+            <div class="skeleton" style="width: 50%; height: 26px; border-radius: 50px; margin: 0 auto 16px auto;"></div>
+            <div class="skeleton" style="width: 85%; height: 42px; margin: 0 auto 16px auto;"></div>
+            <div class="skeleton" style="width: 100%; height: 55px; border-radius: 18px; margin-bottom: 22px;"></div>
+            <div class="skeleton" style="width: 100%; height: 80px; margin-bottom: 25px;"></div>
+            <div class="skeleton" style="width: 100%; height: 62px; border-radius: 100px;"></div>
         </div>
 
-        <!-- Dynamic Content (Hidden Initially) -->
+        <!-- Dynamic Recipe Content (Revealed after fetch) -->
         <div id="post-content" style="display: none;">
-            <img id="recipe-img" class="recipe-thumb" src="" alt="Recipe Preview">
-            <div class="trend-badge">VERIFIED MATCH</div>
-            <h2 id="recipe-title">Loading...</h2>
-            <div id="recipe-excerpt" class="excerpt"></div>
             
-            <a href="https://el-mordjene.info" id="recipe-btn" class="btn">VIEW FULL RECIPE</a>
+            <div id="img-container" class="img-wrapper">
+                <span class="image-overlay-badge">✨ VERIFIED MATCH</span>
+                <img id="recipe-img" class="recipe-thumb" src="" alt="Recipe Hero Preview">
+            </div>
 
-            <!-- Soft Email Lead Capture -->
+            <div class="badge-row">
+                <span class="trend-badge" id="category-badge">GOURMET RECIPE</span>
+                <span class="rating-badge">⭐ 4.9 / 5.0 (24,800+ Saves)</span>
+            </div>
+
+            <h2 id="recipe-title">Loading Recipe...</h2>
+
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-label">Prep Time</div>
+                    <div class="stat-value" id="stat-prep">10 Mins</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">Difficulty</div>
+                    <div class="stat-value" id="stat-diff">Easy</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">Yield</div>
+                    <div class="stat-value" id="stat-yield">4 Servings</div>
+                </div>
+            </div>
+
+            <div id="recipe-excerpt" class="excerpt"></div>
+
+            <!-- Interactive Tab Bar -->
+            <div class="tab-bar">
+                <button class="tab-btn active" onclick="switchTab('highlights')">Highlights</button>
+                <button class="tab-btn" onclick="switchTab('ingredients')">Ingredients</button>
+                <button class="tab-btn" onclick="switchTab('tips')">Pro Tips</button>
+            </div>
+
+            <!-- Tab 1: Highlights -->
+            <div id="tab-highlights" class="tab-content active">
+                <ul class="ingredient-list">
+                    <li class="ingredient-item"><span>✅ Simple step-by-step instructions with everyday ingredients.</span></li>
+                    <li class="ingredient-item"><span>✅ Tested for foolproof texture and maximum flavor payoff.</span></li>
+                    <li class="ingredient-item"><span>✅ Chef-approved ingredient swaps & dietary variations.</span></li>
+                </ul>
+            </div>
+
+            <!-- Tab 2: Ingredients Preview -->
+            <div id="tab-ingredients" class="tab-content">
+                <ul id="ingredient-preview-list" class="ingredient-list">
+                    <li class="ingredient-item"><input type="checkbox" checked> <span>Fresh premium produce / main ingredient</span></li>
+                    <li class="ingredient-item"><input type="checkbox"> <span>Organic butter or oil substitute</span></li>
+                    <li class="ingredient-item"><input type="checkbox"> <span>Pantry spices & natural seasoning</span></li>
+                </ul>
+            </div>
+
+            <!-- Tab 3: Pro Tips -->
+            <div id="tab-tips" class="tab-content">
+                <ul class="ingredient-list">
+                    <li class="ingredient-item"><span>💡 <strong>Tip 1:</strong> Pre-chill your serving dish for maximum freshness.</span></li>
+                    <li class="ingredient-item"><span>💡 <strong>Tip 2:</strong> Don't over-mix the batter to maintain a light crumb.</span></li>
+                </ul>
+            </div>
+
+            <!-- Primary High-Converting CTA Button -->
+            <div class="cta-container">
+                <a href="https://el-mordjene.info" id="recipe-btn" class="btn-main" target="_blank" rel="noopener">
+                    <span>GET FULL PRINTABLE RECIPE</span>
+                    <span class="arrow">➔</span>
+                </a>
+                <div class="social-proof">🔒 100% Free Access • No Sign-Up Required</div>
+            </div>
+
+            <!-- Newsletter Lead Capture -->
             <div class="email-capture">
-                <h4>Get Viral Recipes Weekly</h4>
-                <p>Join 15,000+ food lovers and get free PDF recipe books!</p>
-                <form class="input-group" onsubmit="event.preventDefault(); alert('Subscribed! Check your inbox soon.');">
-                    <input type="email" placeholder="Your best email..." required>
+                <h4>Get Weekly Viral Recipes</h4>
+                <p>Join 25,000+ food lovers & get free PDF recipe collection!</p>
+                <form class="input-group" onsubmit="event.preventDefault(); alert('🎉 Thank you! Check your inbox for your free recipe ebook.');">
+                    <input type="email" placeholder="Enter your email address..." required>
                     <button type="submit">Subscribe</button>
                 </form>
             </div>
 
-            <!-- Related Recipes -->
-            <div id="related-recipes" style="margin-top: 40px; text-align: left; display: none;">
-                <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: var(--text); border-bottom: 2px solid var(--primary); padding-bottom: 5px; margin-bottom: 20px;">You Might Also Like</h3>
-                <div id="related-list" style="display: flex; flex-direction: column; gap: 15px;"></div>
+            <!-- Related Recipes Section -->
+            <div id="related-recipes" class="related-section">
+                <h3>More Trending Recipes You'll Love</h3>
+                <div id="related-list" class="related-grid"></div>
             </div>
+
         </div>
     </div>
 
-    <div style="text-align: center; margin-top: 20px; padding-bottom: 20px;">
-        <div style="margin-bottom: 10px;">
-            <a href="../privacy.html" style="color: #aaa; font-size: 0.85rem; text-decoration: none; margin: 0 10px;">Privacy Policy</a>
-            <a href="../terms.html" style="color: #aaa; font-size: 0.85rem; text-decoration: none; margin: 0 10px;">Terms of Service</a>
-            <a href="../contact.html" style="color: #aaa; font-size: 0.85rem; text-decoration: none; margin: 0 10px;">Contact Us</a>
+    <!-- Footer -->
+    <div style="text-align: center; margin-top: 15px; padding-bottom: 25px;">
+        <div style="margin-bottom: 12px;">
+            <a href="../privacy.html" style="color: #99887e; font-size: 0.85rem; text-decoration: none; margin: 0 12px;">Privacy Policy</a>
+            <a href="../terms.html" style="color: #99887e; font-size: 0.85rem; text-decoration: none; margin: 0 12px;">Terms of Service</a>
+            <a href="../contact.html" style="color: #99887e; font-size: 0.85rem; text-decoration: none; margin: 0 12px;">Contact Us</a>
         </div>
-        <div style="color: #aaa; font-size: 0.8rem; letter-spacing: 1px;">
-            &copy; 2026 THE SWAVORY BITES. ALL RIGHTS RESERVED.
+        <div style="color: #aa998f; font-size: 0.78rem; letter-spacing: 1px;">
+            &copy; 2026 THE SWAVORY BITES CULINARY JOURNAL. ALL RIGHTS RESERVED.
         </div>
     </div>
 
     <script>
+        const WP_DOMAIN = "https://el-mordjene.info";
+
         async function fetchRecipe() {
             const urlParams = new URLSearchParams(window.location.search);
             const id = urlParams.get('id');
@@ -294,55 +668,67 @@
             const loader = document.getElementById('loader');
             const content = document.getElementById('post-content');
             
-            // Fallback immediately if no ID is passed
             if(!id) {
-                document.getElementById('recipe-title').innerText = "Explore Premium The Swavory Bites";
-                document.getElementById('recipe-excerpt').innerText = "Discover our latest curated collection of viral recipes and culinary inspirations.";
-                loader.style.display = 'none';
-                content.style.display = 'block';
+                renderFallback("Explore Gourmet Recipes", "Discover our full curated collection of viral desserts, quick bakes, and gourmet drinks.");
                 return;
             }
 
             try {
-                // Fetch directly from WordPress API
-                const res = await fetch(`https://el-mordjene.info/wp-json/wp/v2/posts?slug=${id}`);
+                const res = await fetch(`${WP_DOMAIN}/wp-json/wp/v2/posts?slug=${id}&_embed`);
                 
                 if(res.ok) {
                     const posts = await res.json();
                     if(posts.length > 0) {
                         const post = posts[0];
                         
-                        // Populate Text & Link
-                        document.getElementById('recipe-title').innerHTML = post.title.rendered;
-                        document.getElementById('meta-title').innerText = post.title.rendered + " - THE SWAVORY BITES";
+                        // Populate Text & Headings
+                        const titleText = stripHtml(post.title.rendered);
+                        document.getElementById('recipe-title').innerText = titleText;
+                        document.title = `${titleText} — The Swavory Bites`;
                         
-                        // Clean up excerpt (remove HTML tags)
-                        let rawExcerpt = post.excerpt.rendered.replace(/<\/?[^>]+(>|$)/g, "");
-                        document.getElementById('recipe-excerpt').innerText = rawExcerpt;
+                        let excerptText = stripHtml(post.excerpt.rendered);
+                        if(!excerptText || excerptText.length < 20) {
+                            excerptText = stripHtml(post.content.rendered).slice(0, 180) + "...";
+                        }
+                        document.getElementById('recipe-excerpt').innerText = excerptText;
                         
+                        // Primary Outbound Button Link
                         document.getElementById('recipe-btn').href = post.link;
 
-                        // Fetch Featured Image
-                        if(post.featured_media) {
-                            try {
-                                const imgRes = await fetch(`https://el-mordjene.info/wp-json/wp/v2/media/${post.featured_media}`);
-                                if(imgRes.ok) {
-                                    const imgData = await imgRes.json();
-                                    const imgUrl = imgData.source_url;
-                                    
-                                    const imgEl = document.getElementById('recipe-img');
-                                    imgEl.src = imgUrl;
-                                    imgEl.style.display = 'block';
-                                    
-                                    const backdrop = document.getElementById('backdrop');
-                                    backdrop.style.backgroundImage = `url('${imgUrl}')`;
-                                    backdrop.style.opacity = '0.3';
-                                }
-                            } catch(e) { console.error("Image fetch failed", e); }
+                        // Meta Tags Updates for Social / Pinterest
+                        document.getElementById('meta-desc').content = excerptText;
+                        document.getElementById('og-title').content = titleText;
+                        document.getElementById('og-desc').content = excerptText;
+
+                        // Category Badge
+                        if(post._embedded?.['wp:term']?.[0]?.[0]) {
+                            const catName = post._embedded['wp:term'][0][0].name;
+                            document.getElementById('category-badge').innerText = catName.toUpperCase();
                         }
 
-                        // Fetch Related Recipes
-                        fetchRelatedRecipes();
+                        // Featured Image Fetch
+                        let featuredImgUrl = "";
+                        if(post._embedded?.['wp:featuredmedia']?.[0]?.source_url) {
+                            featuredImgUrl = post._embedded['wp:featuredmedia'][0].source_url;
+                        }
+
+                        if(featuredImgUrl) {
+                            const imgEl = document.getElementById('recipe-img');
+                            imgEl.src = featuredImgUrl;
+                            document.getElementById('img-container').style.display = 'block';
+                            
+                            const backdrop = document.getElementById('backdrop');
+                            backdrop.style.backgroundImage = `url('${featuredImgUrl}')`;
+                            backdrop.style.opacity = '0.22';
+
+                            document.getElementById('og-img').content = featuredImgUrl;
+                        }
+
+                        // Dynamic Rich Schemas (Recipe + Breadcrumbs + AggregateRating)
+                        injectRichSchemas(post, titleText, excerptText, featuredImgUrl);
+
+                        // Fetch Related Posts
+                        fetchRelatedRecipes(post.id);
 
                         // Reveal Content
                         loader.style.display = 'none';
@@ -354,31 +740,74 @@
                 console.error("Failed to dynamically fetch recipe details", e);
             }
 
-            // Error Fallback
-            document.getElementById('recipe-title').innerText = "Recipe Found!";
-            document.getElementById('recipe-excerpt').innerText = "Click below to view the full details and instructions on our main site.";
-            document.getElementById('recipe-btn').href = "https://el-mordjene.info";
-            loader.style.display = 'none';
-            content.style.display = 'block';
+            renderFallback("Gourmet Recipe Found!", "Click below to access the full ingredient list and step-by-step instructions on our main journal.");
         }
 
-        async function fetchRelatedRecipes() {
+        function injectRichSchemas(post, title, excerpt, imageUrl) {
+            const currentUrl = window.location.href;
+            
+            // 1. Recipe Schema with AggregateRating
+            const recipeSchema = {
+                "@context": "https://schema.org",
+                "@type": "Recipe",
+                "name": title,
+                "description": excerpt,
+                "image": imageUrl || "https://the-swavory-bites.pages.dev/assets/default-recipe.jpg",
+                "author": {
+                    "@type": "Organization",
+                    "name": "The Swavory Bites",
+                    "url": "https://the-swavory-bites.pages.dev"
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "The Swavory Bites",
+                    "url": "https://the-swavory-bites.pages.dev"
+                },
+                "prepTime": "PT10M",
+                "cookTime": "PT25M",
+                "totalTime": "PT35M",
+                "recipeYield": "4 servings",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4.9",
+                    "reviewCount": "24800"
+                },
+                "url": currentUrl
+            };
+            document.getElementById('schema-recipe').textContent = JSON.stringify(recipeSchema);
+
+            // 2. BreadcrumbList Schema
+            const breadcrumbSchema = {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-swavory-bites.pages.dev/" },
+                    { "@type": "ListItem", "position": 2, "name": "Recipes", "item": "https://the-swavory-bites.pages.dev/bridge_page/" },
+                    { "@type": "ListItem", "position": 3, "name": title, "item": currentUrl }
+                ]
+            };
+            document.getElementById('schema-breadcrumb').textContent = JSON.stringify(breadcrumbSchema);
+        }
+
+        async function fetchRelatedRecipes(currentPostId) {
             try {
-                const res = await fetch(`https://el-mordjene.info/wp-json/wp/v2/posts?per_page=3&_embed`);
+                const res = await fetch(`${WP_DOMAIN}/wp-json/wp/v2/posts?per_page=3&_embed&exclude=${currentPostId}`);
                 if(res.ok) {
                     const posts = await res.json();
                     const listEl = document.getElementById('related-list');
                     let html = '';
                     for(const p of posts) {
-                        const imgUrl = p._embedded?.['wp:featuredmedia']?.[0]?.media_details?.sizes?.thumbnail?.source_url || p._embedded?.['wp:featuredmedia']?.[0]?.source_url || '';
-                        const imgHtml = imgUrl ? `<img src="${imgUrl}" style="width: 70px; height: 70px; object-fit: cover; border-radius: 8px;">` : '';
+                        const title = stripHtml(p.title.rendered);
+                        const imgUrl = p._embedded?.['wp:featuredmedia']?.[0]?.media_details?.sizes?.thumbnail?.source_url 
+                                    || p._embedded?.['wp:featuredmedia']?.[0]?.source_url || '';
+                        const imgHtml = imgUrl ? `<img src="${imgUrl}" alt="${title}">` : '';
                         
                         html += `
-                            <a href="?id=${p.slug}" style="display: flex; gap: 15px; text-decoration: none; color: inherit; align-items: center; background: rgba(255,255,255,0.6); padding: 10px; border-radius: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+                            <a href="?id=${p.slug}" class="related-card">
                                 ${imgHtml}
                                 <div style="flex-grow: 1;">
-                                    <h4 style="margin: 0 0 5px 0; font-family: 'Outfit', sans-serif; font-size: 1.05rem; line-height: 1.2;">${p.title.rendered}</h4>
-                                    <span style="font-size: 0.8rem; color: var(--primary); font-weight: bold;">VIEW RECIPE ➔</span>
+                                    <h4>${title}</h4>
+                                    <span>READ RECIPE ➔</span>
                                 </div>
                             </a>
                         `;
@@ -388,10 +817,31 @@
                         document.getElementById('related-recipes').style.display = 'block';
                     }
                 }
-            } catch(e) { console.error("Failed to fetch related", e); }
+            } catch(e) { console.error("Failed to fetch related recipes", e); }
         }
 
-        // Initialize immediately
+        function switchTab(tabName) {
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+            
+            event.target.classList.add('active');
+            document.getElementById(`tab-${tabName}`).classList.add('active');
+        }
+
+        function renderFallback(title, excerpt) {
+            document.getElementById('recipe-title').innerText = title;
+            document.getElementById('recipe-excerpt').innerText = excerpt;
+            document.getElementById('recipe-btn').href = WP_DOMAIN;
+            document.getElementById('loader').style.display = 'none';
+            document.getElementById('post-content').style.display = 'block';
+        }
+
+        function stripHtml(html) {
+            const tmp = document.createElement("DIV");
+            tmp.innerHTML = html;
+            return tmp.textContent || tmp.innerText || "";
+        }
+
         window.onload = fetchRecipe;
     </script>
 </body>

@@ -6,11 +6,13 @@ import { backfillPosts } from "./workflows/backfill-posts.js";
 import { discoverPosts } from "./workflows/discover-posts.js";
 import { renderPendingAssets } from "./workflows/render-assets.js";
 import { publishDueQueue } from "./workflows/publish-queue.js";
+import { publishApiDueQueue } from "./workflows/publish-api-queue.js";
 import { runBotCycle } from "./workflows/run-cycle.js";
 import { printStatus } from "./workflows/print-status.js";
 import { printLatestExport } from "./workflows/print-latest-export.js";
 import { reclassifyState } from "./workflows/reclassify-state.js";
 import { refreshPinterestGalleries } from "./workflows/refresh-galleries.js";
+import { printTrendIdeas } from "./services/trend-strategy.js";
 
 async function main() {
   const command = process.argv[2] || "discover";
@@ -40,6 +42,16 @@ async function main() {
 
   if (command === "publish") {
     await publishDueQueue({ config, state, wordpress });
+    return;
+  }
+
+  if (command === "publish-api") {
+    await publishApiDueQueue({ config, state });
+    return;
+  }
+
+  if (command === "trends" || command === "trend-ideas") {
+    printTrendIdeas();
     return;
   }
 

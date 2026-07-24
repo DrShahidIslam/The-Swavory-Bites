@@ -18,14 +18,14 @@ VERSION = "1.2.2"
 print(f"--- PIN GENERATOR v{VERSION} START ---", flush=True)
 
 # Load environment
-root_dir = Path(__file__).parent.parent
+root_dir = Path(__file__).parent
 env_path = root_dir / ".env"
 load_dotenv(dotenv_path=env_path, override=True)
 
 # API Configurations
 SILICONFLOW_API_URL = "https://api.siliconflow.cn/v1/images/generations"
 SILICONFLOW_MODEL = os.getenv("SILICONFLOW_MODEL", "Kwai-Kolors/Kolors")
-PINTEREST_API_BASE = "https://api.pinterest.com/v5"
+PINTEREST_API_BASE = "https://api-sandbox.pinterest.com/v5"
 
 # Priority: Load token from dashboard OAuth first
 PINTEREST_ACCESS_TOKEN = os.getenv("PINTEREST_ACCESS_TOKEN", "").strip()
@@ -850,11 +850,13 @@ def update_weekly_magazine(slug, title, target_url, excerpt, image_file_name):
 
 pin_session = requests.Session()
 def pin_request(method, endpoint, **kwargs):
-    url = f"https://api.pinterest.com/v5{endpoint}"
+    url = f"https://api-sandbox.pinterest.com/v5{endpoint}"
     try:
         if method == "GET": return pin_session.get(url, **kwargs)
         return pin_session.post(url, **kwargs)
-    except: return None
+    except Exception as e:
+        print(f"   [Pinterest API] Request Exception: {e}", flush=True)
+        return None
 
 def publish_pin(image_path, title, description, bridge_url, board_id, alt_text=None, retry=True):
     if MOCK_MODE: return True
@@ -873,17 +875,17 @@ def publish_pin(image_path, title, description, bridge_url, board_id, alt_text=N
     headers = {"Authorization": f"Bearer {PINTEREST_ACCESS_TOKEN}", "Content-Type": "application/json"}
     res = pin_request("POST", "/pins", headers=headers, json=payload, timeout=60)
     
-    if res and res.status_code in (200, 201):
+    if res is not None and res.status_code in (200, 201):
         return True
-    elif res and res.status_code == 401 and retry:
+    elif res is not None and res.status_code == 401 and retry:
         print("   [Pinterest API] Token expired (401). Attempting automatic refresh...", flush=True)
         if refresh_pinterest_token():
             return publish_pin(image_path, title, description, bridge_url, board_id, alt_text, retry=False)
         else:
             return False
     else:
-        error_msg = res.text if res else "No response"
-        status_code = res.status_code if res else "N/A"
+        error_msg = res.text if res is not None else "No response"
+        status_code = res.status_code if res is not None else "N/A"
         print(f"   [Pinterest API] ERROR Publishing Pin: HTTP {status_code} - {error_msg}", flush=True)
         return False
 
@@ -908,7 +910,7 @@ def refresh_pinterest_token():
 
     auth = base64.b64encode(f"{app_id.strip()}:{app_secret.strip()}".encode()).decode()
     try:
-        response = requests.post("https://api.pinterest.com/v5/oauth/token", headers={
+        response = requests.post("https://api-sandbox.pinterest.com/v5/oauth/token", headers={
             "Authorization": f"Basic {auth}",
             "Content-Type": "application/x-www-form-urlencoded"
         }, data={
@@ -942,6 +944,8 @@ def get_board_id(board_name):
     return None
 
 def process_new_pin(title, slug, url, description, board_id):
+    if not board_id:
+        board_id = os.getenv("PINTEREST_BOARD_DEFAULT", "419397852738938077")
     print(f"--- Pinterest Flow: {title} ---")
     angles = ["A luxury editorial food photography hero shot, professional lighting", "A beautiful overhead flat-lay photography"]
     success = 0
@@ -1060,12 +1064,13 @@ def run_pin_worker():
         secondary_image_prompt = None
 
     # BOARD SELECTION LOGIC (Specialized - FoodTrendsBlog)
+    default_board = os.getenv("PINTEREST_BOARD_DEFAULT", "419397852738938077") # Fallback to Sandbox Testing board
     board_mapping = {
-        "dessert": os.getenv("PINTEREST_BOARD_DESSERTS") or "976859044115152346",
-        "dinner": os.getenv("PINTEREST_BOARD_DINNER") or "976859044115152345",
-        "trend": os.getenv("PINTEREST_BOARD_TRENDS") or "976859044115152343",
-        "salad": os.getenv("PINTEREST_BOARD_SALADS") or "976859044115152344",
-        "recipe": os.getenv("PINTEREST_BOARD_RECIPES") or "976859044115152343"
+        "dessert": os.getenv("PINTEREST_BOARD_DESSERTS") or default_board,
+        "dinner": os.getenv("PINTEREST_BOARD_DINNER") or default_board,
+        "trend": os.getenv("PINTEREST_BOARD_TRENDS") or default_board,
+        "salad": os.getenv("PINTEREST_BOARD_SALADS") or default_board,
+        "recipe": os.getenv("PINTEREST_BOARD_RECIPES") or default_board
     }
     
     # Simple keyword matching
