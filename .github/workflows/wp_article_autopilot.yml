@@ -3,7 +3,7 @@ name: Daily WordPress Article & Pinterest Autopilot
 on:
   schedule:
     # Runs once daily at 02:00 UTC
-    - cron: '0 2 * * *'
+    # - cron: '0 2 * * *'
   workflow_dispatch: # Allows manual 1-click trigger from GitHub UI
 
 permissions:
