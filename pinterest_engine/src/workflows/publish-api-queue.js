@@ -1,6 +1,7 @@
 import path from "node:path";
 import fs from "node:fs";
 import { PinterestPublisherApi } from "../services/pinterest-publisher-api.js";
+import { renderAsset } from "../services/asset-renderer.js";
 
 export async function publishApiDueQueue({ config, state }) {
   const dueItems = state.getDueQueueItems(config.publishBatchSize || 5);
@@ -15,20 +16,25 @@ export async function publishApiDueQueue({ config, state }) {
 
   for (const item of dueItems) {
     const asset = state.getAsset(item.assetId);
-    if (!asset || asset.status !== "rendered" || !asset.outputPath) {
-      continue;
-    }
+    if (!asset) continue;
 
-    // Resolve image file path cross-platform
-    const filename = path.basename(asset.outputPath);
+    // Resolve image file path cross-platform or render on the fly if missing
+    const filename = path.basename(asset.outputPath || `${asset.postSlug || asset.postId}-${asset.variant}.jpg`);
     const localAssetPath = path.join(config.assetsDir, "pinterest", filename);
-    let resolvedImagePath = asset.outputPath;
+    let resolvedImagePath = asset.outputPath || localAssetPath;
 
     if (fs.existsSync(localAssetPath)) {
       resolvedImagePath = localAssetPath;
-    } else if (!fs.existsSync(resolvedImagePath)) {
-      console.warn(`⚠️ Rendered asset file missing for ${asset.id}: ${resolvedImagePath}. Skipping.`);
-      continue;
+    } else {
+      console.log(`🎨 Asset file missing for ${asset.id}. Rendering graphic on the fly...`);
+      try {
+        resolvedImagePath = await renderAsset(asset, config);
+        asset.outputPath = resolvedImagePath;
+        asset.status = "rendered";
+      } catch (renderErr) {
+        console.warn(`⚠️ On-the-fly rendering failed for ${asset.id}:`, renderErr.message);
+        continue;
+      }
     }
 
     // Resolve Board ID from environment variable or board key
