@@ -49,10 +49,32 @@ export async function createStateStore(config) {
     getDueQueueItems(limit) {
       const now = Date.now();
       return Object.values(this.state.queue)
-        .filter((item) => item.status === "draft")
+        .filter((item) => {
+          // Double-guard: queue item must be draft AND its linked asset must not already be published
+          if (item.status !== "draft") return false;
+          const asset = this.state.assets[item.assetId];
+          if (asset && (asset.status === "published_api" || asset.status === "published" || asset.pinId)) return false;
+          return true;
+        })
         .filter((item) => new Date(item.scheduledFor).getTime() <= now)
         .sort((a, b) => a.scheduledFor.localeCompare(b.scheduledFor))
         .slice(0, limit);
+    },
+    markPublished(assetId, pinId) {
+      const asset = this.state.assets[assetId];
+      if (asset) {
+        asset.status = "published_api";
+        asset.pinId = pinId;
+        asset.pinterestUrl = `https://www.pinterest.com/pin/${pinId}/`;
+        asset.publishedAt = new Date().toISOString();
+      }
+      const queueId = `${assetId}-queue`;
+      const queueItem = this.state.queue[queueId];
+      if (queueItem) {
+        queueItem.status = "published_api";
+        queueItem.pinId = pinId;
+        queueItem.publishedAt = new Date().toISOString();
+      }
     },
     getAsset(assetId) {
       return this.state.assets[assetId] || null;

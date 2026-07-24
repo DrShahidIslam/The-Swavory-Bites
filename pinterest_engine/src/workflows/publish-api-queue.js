@@ -18,10 +18,18 @@ export async function publishApiDueQueue({ config, state }) {
     const asset = state.getAsset(item.assetId);
     if (!asset) continue;
 
+    // Skip if already published (guard against stale state)
+    if (asset.status === "published_api" || asset.pinId) {
+      console.log(`⏭️  Skipping already published asset: ${asset.id} (Pin ID: ${asset.pinId})`);
+      // Ensure queue item is also marked so it doesn't resurface
+      item.status = "published_api";
+      continue;
+    }
+
     // Resolve image file path cross-platform or render on the fly if missing
     const filename = path.basename(asset.outputPath || `${asset.postSlug || asset.postId}-${asset.variant}.jpg`);
     const localAssetPath = path.join(config.assetsDir, "pinterest", filename);
-    let resolvedImagePath = asset.outputPath || localAssetPath;
+    let resolvedImagePath = null;
 
     if (fs.existsSync(localAssetPath)) {
       resolvedImagePath = localAssetPath;
@@ -29,8 +37,9 @@ export async function publishApiDueQueue({ config, state }) {
       console.log(`🎨 Asset file missing for ${asset.id}. Rendering graphic on the fly...`);
       try {
         resolvedImagePath = await renderAsset(asset, config);
+        // Do NOT update asset.status here — keep it at its current value
+        // Only outputPath needs updating so the file reference is valid
         asset.outputPath = resolvedImagePath;
-        asset.status = "rendered";
       } catch (renderErr) {
         console.warn(`⚠️ On-the-fly rendering failed for ${asset.id}:`, renderErr.message);
         continue;
@@ -54,18 +63,12 @@ export async function publishApiDueQueue({ config, state }) {
         description: asset.pinDescription,
         link: bridgeUrl,
         imagePath: resolvedImagePath,
-        imageUrl: asset.mediaUrl, // use web media URL if available, else uploads image file directly
+        imageUrl: asset.mediaUrl,
         altText: asset.pinTitle
       });
 
-      asset.pinId = pinResult.id;
-      asset.pinterestUrl = `https://www.pinterest.com/pin/${pinResult.id}/`;
-      asset.status = "published_api";
-      asset.publishedAt = new Date().toISOString();
-
-      item.status = "published_api";
-      item.pinId = pinResult.id;
-      item.publishedAt = new Date().toISOString();
+      // Atomically mark BOTH asset + queue item as published_api via state helper
+      state.markPublished(item.assetId, pinResult.id);
 
       publishedCount++;
       console.log(`✅ Pin published to board ID ${boardId} | Pin ID: ${pinResult.id}`);

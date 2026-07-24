@@ -2578,12 +2578,15 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-classic-mojito-a-refreshing-masterclass_20260724_134742.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:05:48.547Z",
       "scheduledFor": "2026-07-26T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "C:\\SEO Projects\\the swavory bites\\pinterest_engine\\data\\assets\\pinterest\\classic-mojito-recipe-list.jpg",
-      "renderedAt": "2026-07-24T18:06:24.652Z"
+      "renderedAt": "2026-07-24T18:06:24.652Z",
+      "pinId": "419397784072948036",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072948036/",
+      "publishedAt": "2026-07-24T18:58:15.736Z"
     },
     "4870-guide": {
       "id": "4870-guide",
@@ -2618,12 +2621,15 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-classic-mojito-a-refreshing-masterclass_20260724_134742.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:05:48.547Z",
       "scheduledFor": "2026-07-31T19:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-mojito-recipe-guide.jpg",
-      "renderedAt": "2026-07-24T18:40:19.181Z"
+      "renderedAt": "2026-07-24T18:40:19.181Z",
+      "pinId": "419397784072948037",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072948037/",
+      "publishedAt": "2026-07-24T18:58:15.744Z"
     },
     "4844-hero": {
       "id": "4844-hero",
@@ -2657,7 +2663,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-homemade-peach-crisp-recipe_20260724_100320.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:05:48.551Z",
       "scheduledFor": "2026-07-24T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-homemade-peach-crisp-recipe_20260724_100320.jpg",
@@ -2665,7 +2671,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "C:\\SEO Projects\\the swavory bites\\pinterest_engine\\data\\assets\\pinterest\\classic-homemade-peach-crisp-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T18:06:19.420Z"
+      "renderedAt": "2026-07-24T18:06:19.420Z",
+      "pinId": "419397784072947977",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072947977/",
+      "publishedAt": "2026-07-24T18:58:15.744Z"
     },
     "4844-list": {
       "id": "4844-list",
@@ -3072,12 +3081,15 @@
         "tendances culinaires & recettes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-art-of-peach-desserts-seasonal-classics-and-tr_20260722_205057.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:22.421Z",
       "scheduledFor": "2026-07-24T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/art-of-peach-desserts-trends-list.jpg",
-      "renderedAt": "2026-07-24T18:33:27.046Z"
+      "renderedAt": "2026-07-24T18:33:27.046Z",
+      "pinId": "419397784072948271",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072948271/",
+      "publishedAt": "2026-07-24T18:58:15.744Z"
     },
     "4835-guide": {
       "id": "4835-guide",
@@ -5941,7 +5953,9 @@
       "postId": 4870,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
       "scheduledFor": "2026-07-26T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072948036",
+      "publishedAt": "2026-07-24T18:58:15.744Z"
     },
     "4870-guide-queue": {
       "id": "4870-guide-queue",
@@ -5949,7 +5963,9 @@
       "postId": 4870,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
       "scheduledFor": "2026-07-31T19:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072948037",
+      "publishedAt": "2026-07-24T18:58:15.744Z"
     },
     "4844-hero-queue": {
       "id": "4844-hero-queue",
@@ -5957,7 +5973,9 @@
       "postId": 4844,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-24T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072947977",
+      "publishedAt": "2026-07-24T18:58:15.744Z"
     },
     "4844-list-queue": {
       "id": "4844-list-queue",
@@ -6043,7 +6061,9 @@
       "postId": 4835,
       "boardName": "Tendances Culinaires & Recettes",
       "scheduledFor": "2026-07-24T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072948271",
+      "publishedAt": "2026-07-24T18:58:15.744Z"
     },
     "4835-guide-queue": {
       "id": "4835-guide-queue",

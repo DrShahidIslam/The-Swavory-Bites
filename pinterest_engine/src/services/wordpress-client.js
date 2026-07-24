@@ -1,4 +1,4 @@
-import fs from "node:fs/promises";
+ï»¿import fs from "node:fs/promises";
 import { stripHtml } from "../lib/text.js";
 
 const GALLERY_MARKER = "<!-- pinterest-gallery -->";
@@ -30,7 +30,7 @@ export function createWordPressClient(config) {
         headers: {
           Accept: "application/json",
           Authorization: buildAuthHeader(config),
-          "User-Agent": config.wpUserAgent
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       }, "fetch posts");
       return posts.map(normalizePost);
@@ -46,7 +46,7 @@ export function createWordPressClient(config) {
         headers: {
           Accept: "application/json",
           Authorization: buildAuthHeader(config),
-          "User-Agent": config.wpUserAgent
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       }, "fetch categories");
     },
@@ -60,7 +60,7 @@ export function createWordPressClient(config) {
         method: "POST",
         headers: {
           Authorization: buildAuthHeader(config),
-          "User-Agent": config.wpUserAgent,
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "Content-Type": "image/jpeg",
           "Content-Disposition": `attachment; filename="${filename}"`
         },
@@ -78,7 +78,7 @@ export function createWordPressClient(config) {
         method: "POST",
         headers: {
           Authorization: buildAuthHeader(config),
-          "User-Agent": config.wpUserAgent,
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "Content-Type": "application/json"
         },
         body: JSON.stringify({ alt_text: title.slice(0, 125) })
@@ -111,7 +111,7 @@ export function createWordPressClient(config) {
         method: "POST",
         headers: {
           Authorization: buildAuthHeader(config),
-          "User-Agent": config.wpUserAgent,
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "Content-Type": "application/json"
         },
         body: JSON.stringify({ content: updatedContent })
@@ -256,7 +256,7 @@ function inferLanguage(post, categories, title, excerpt, contentHtml) {
     }
   }
 
-  if (/[éèêàùçôî]/i.test(`${title} ${excerpt}`)) {
+  if (/[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½]/i.test(`${title} ${excerpt}`)) {
     frenchScore += 2;
   }
 
@@ -270,6 +270,7 @@ function escapeAttribute(value) {
     .replaceAll("<", "&lt;")
     .replaceAll(">", "&gt;");
 }
+
 
 
 
