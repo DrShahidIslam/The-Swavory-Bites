@@ -70,7 +70,7 @@ export class ImageGeneratorApi {
     if (this.siliconFlowKey) {
       console.log(`🎨 Step 2: Requesting SiliconFlow Kolors AI Model (Kwai-Kolors/Kolors)...`);
       try {
-        const res = await fetch("https://api.siliconflow.cn/v1/images/generations", {
+        const res = await fetch("https://api.siliconflow.com/v1/images/generations", {
           method: "POST",
           headers: {
             Authorization: `Bearer ${this.siliconFlowKey}`,
