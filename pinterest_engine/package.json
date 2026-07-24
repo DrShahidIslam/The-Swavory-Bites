@@ -8,6 +8,7 @@
     "start": "node src/index.js discover",
     "run": "node src/index.js run",
     "discover": "node src/index.js discover",
+    "daily-article": "node src/index.js daily-article",
     "backfill": "node src/index.js backfill",
     "render": "node src/index.js render",
     "publish": "node src/index.js publish",

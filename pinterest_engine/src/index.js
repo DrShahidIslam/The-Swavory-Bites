@@ -13,6 +13,7 @@ import { printLatestExport } from "./workflows/print-latest-export.js";
 import { reclassifyState } from "./workflows/reclassify-state.js";
 import { refreshPinterestGalleries } from "./workflows/refresh-galleries.js";
 import { printTrendIdeas } from "./services/trend-strategy.js";
+import { runDailyArticleAutopilot } from "./workflows/daily-article-autopilot.js";
 
 async function main() {
   const command = process.argv[2] || "discover";
@@ -22,6 +23,11 @@ async function main() {
 
   if (command === "discover") {
     await discoverPosts({ config, state, wordpress });
+    return;
+  }
+
+  if (command === "daily-article") {
+    await runDailyArticleAutopilot({ config, state, wordpress });
     return;
   }
 
