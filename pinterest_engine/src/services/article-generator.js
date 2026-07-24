@@ -4,6 +4,7 @@ import sharp from "sharp";
 
 export class ArticleGenerator {
   constructor(config = {}) {
+    this.config = config;
     const rawKeys = config.geminiApiKeys || process.env.GEMINI_API_KEYS || process.env.GEMINI_API_KEY || "";
     this.apiKeys = rawKeys.split(",").map((k) => k.trim()).filter(Boolean);
     this.keyIndex = 0;
@@ -77,7 +78,7 @@ OUTPUT FORMAT (STRICT JSON ONLY):
     console.log(`🤖 Generating AEO/GEO/SEO Article for: "${topic}"...`);
 
     const response = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/${config.geminiTextModel}:generateContent?key=${apiKey}`,
+      `https://generativelanguage.googleapis.com/v1beta/models/${this.config.geminiTextModel}:generateContent?key=${apiKey}`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
