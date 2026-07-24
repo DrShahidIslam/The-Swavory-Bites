@@ -1,4 +1,5 @@
 import path from "node:path";
+import fs from "node:fs";
 import { PinterestPublisherApi } from "../services/pinterest-publisher-api.js";
 
 export async function publishApiDueQueue({ config, state }) {
@@ -18,6 +19,18 @@ export async function publishApiDueQueue({ config, state }) {
       continue;
     }
 
+    // Resolve image file path cross-platform
+    const filename = path.basename(asset.outputPath);
+    const localAssetPath = path.join(config.assetsDir, "pinterest", filename);
+    let resolvedImagePath = asset.outputPath;
+
+    if (fs.existsSync(localAssetPath)) {
+      resolvedImagePath = localAssetPath;
+    } else if (!fs.existsSync(resolvedImagePath)) {
+      console.warn(`⚠️ Rendered asset file missing for ${asset.id}: ${resolvedImagePath}. Skipping.`);
+      continue;
+    }
+
     // Resolve Board ID from environment variable or board key
     const boardEnvKey = `PINTEREST_BOARD_${(asset.boardKey || "DESSERTS").toUpperCase()}`;
     const boardId = process.env[boardEnvKey] || process.env.PINTEREST_BOARD_DESSERTS || "419397852738939911";
@@ -34,7 +47,7 @@ export async function publishApiDueQueue({ config, state }) {
         title: asset.pinTitle,
         description: asset.pinDescription,
         link: bridgeUrl,
-        imagePath: asset.outputPath,
+        imagePath: resolvedImagePath,
         imageUrl: asset.mediaUrl, // use web media URL if available, else uploads image file directly
         altText: asset.pinTitle
       });

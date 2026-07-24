@@ -6,6 +6,9 @@ on:
     - cron: '0 */4 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
+permissions:
+  contents: write # Allows github-actions[bot] to commit & push state.json back to repo
+
 jobs:
   run-autopilot:
     runs-on: ubuntu-latest
