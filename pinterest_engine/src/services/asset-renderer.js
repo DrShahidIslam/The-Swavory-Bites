@@ -42,7 +42,7 @@ export async function renderAsset(asset, config) {
     return outputPath;
   }
 
-  // 3. Render Large, Readable, High-Contrast Typography Overlay
+  // 3. Render Large, Organic Readable Typography Overlay (No forced 'Recipe' suffix)
   const overlaySvg = buildReadableTypographyOverlay(asset, theme);
 
   await sharp(baseImageBuffer)
@@ -54,15 +54,11 @@ export async function renderAsset(asset, config) {
 }
 
 function buildReadableTypographyOverlay(asset, theme) {
-  let rawTitle = (asset.overlayTitle || asset.pinTitle || "").trim();
+  // Use exact title organically generated (do not force 'Recipe' suffix)
+  const rawTitle = (asset.overlayTitle || asset.pinTitle || "").trim();
 
-  // Ensure "Recipe" is naturally included in the title for search intent & user clarity
-  if (!rawTitle.toLowerCase().includes("recipe") && !rawTitle.toLowerCase().includes("recette")) {
-    rawTitle = `${rawTitle} Recipe`;
-  }
-
-  // Large readable font wrapping (max 18 chars per line for bold impact)
-  const titleLines = wrapText(rawTitle, 18, 3);
+  // Large readable font wrapping (max 20 chars per line for natural flow)
+  const titleLines = wrapText(rawTitle, 20, 3);
   
   // Calculate vertical position dynamically based on line count
   const startY = 1380 - (titleLines.length - 1) * 70;
@@ -95,7 +91,7 @@ function buildReadableTypographyOverlay(asset, theme) {
       <!-- Bottom dark gradient backdrop -->
       <rect x="0" y="900" width="1000" height="600" fill="url(#readableGradient)"/>
       
-      <!-- Large, Ultra-Readable Catchy Recipe Headline (No top pill badge) -->
+      <!-- Large, Organic Catchy Headline -->
       ${titleSvg}
     </svg>
   `;
