@@ -2571,6 +2571,31 @@
         "cocktail"
       ],
       "discoveredAt": "2026-07-24T18:05:48.538Z"
+    },
+    "4873": {
+      "postId": 4873,
+      "title": "Easy 30 Minute Dinner: One-Pan Honey Garlic Chicken",
+      "url": "https://el-mordjene.info/easy-30-minute-dinner-honey-garlic-chicken/",
+      "slug": "easy-30-minute-dinner-honey-garlic-chicken",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "",
+      "keywordSet": [
+        "easy 30 minute dinner",
+        "pan honey garlic chicken",
+        "discover the ultimate easy 30 minute dinner with this foolproof one",
+        "pan honey garlic chicken recipe that balances savory",
+        "and sticky flavors perfectly it is the ideal solution for busy home cooks craving a restaurant",
+        "quality meal without the cleanup",
+        "why this is the ultimate easy 30 minute dinner",
+        "the science of the perfect glaze",
+        "one",
+        "sweet"
+      ],
+      "discoveredAt": "2026-07-24T19:50:32.756Z"
     }
   },
   "assets": {
@@ -4448,9 +4473,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/refreshing-peach-salsa-recipe-a-balanced-summer-fa_20260722_101012.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.341Z",
-      "scheduledFor": "2026-08-01T19:00:00.000Z"
+      "scheduledFor": "2026-08-01T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/refreshing-peach-salsa-recipe-guide.jpg",
+      "renderedAt": "2026-07-24T19:50:38.820Z"
     },
     "4828-hero": {
       "id": "4828-hero",
@@ -5311,9 +5339,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-best-oven-baked-zucchini-recipes-for-home-cook_20260718_091331.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.352Z",
-      "scheduledFor": "2026-08-02T09:00:00.000Z"
+      "scheduledFor": "2026-08-02T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-best-oven-baked-zucchini-recipes-for-home-cook_20260718_091331.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/oven-baked-zucchini-recipes-hero.jpg",
+      "renderedAt": "2026-07-24T19:50:44.813Z"
     },
     "4807-list": {
       "id": "4807-list",
@@ -5834,9 +5868,12 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/simple-zucchini-fritters-a-quick-weeknight-staple_20260716_104129.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.409Z",
-      "scheduledFor": "2026-08-01T19:00:00.000Z"
+      "scheduledFor": "2026-08-01T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/easy-zucchini-recipes-fritters-guide.jpg",
+      "renderedAt": "2026-07-24T19:50:40.819Z"
     },
     "4792-hero": {
       "id": "4792-hero",
@@ -6462,9 +6499,15 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-roasted-garlic-and-basil-tomato-confit_20260714_094215.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.418Z",
-      "scheduledFor": "2026-08-02T09:00:00.000Z"
+      "scheduledFor": "2026-08-02T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-roasted-garlic-and-basil-tomato-confit_20260714_094215.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-roasted-garlic-and-basil-tomato-confit-hero.jpg",
+      "renderedAt": "2026-07-24T19:50:46.856Z"
     },
     "4777-list": {
       "id": "4777-list",
@@ -7421,9 +7464,12 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-homemade-dill-pickle-recipe_20260702_102522.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.541Z",
-      "scheduledFor": "2026-08-01T14:00:00.000Z"
+      "scheduledFor": "2026-08-01T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-homemade-dill-pickle-recipe-list.jpg",
+      "renderedAt": "2026-07-24T19:50:34.916Z"
     },
     "4708-guide": {
       "id": "4708-guide",
@@ -7726,9 +7772,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/vibrant-ginger-lime-cabbage-slaw-for-every-table_20260630_212053.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.545Z",
-      "scheduledFor": "2026-08-02T09:00:00.000Z"
+      "scheduledFor": "2026-08-02T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/vibrant-ginger-lime-cabbage-slaw-for-every-table_20260630_212053.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/ginger-lime-cabbage-slaw-recipe-hero.jpg",
+      "renderedAt": "2026-07-24T19:50:48.954Z"
     },
     "4699-list": {
       "id": "4699-list",
@@ -8249,9 +8301,12 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/simple-garlic-scapes-recipes-a-guide-to-spring-all_20260628_204821.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.358Z",
-      "scheduledFor": "2026-08-01T19:00:00.000Z"
+      "scheduledFor": "2026-08-01T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/garlic-scapes-recipes-guide.jpg",
+      "renderedAt": "2026-07-24T19:50:42.816Z"
     },
     "4684-hero": {
       "id": "4684-hero",
@@ -8804,9 +8859,12 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/the-ultimate-guide-to-homemade-pop-tarts_20260626_104050.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.368Z",
-      "scheduledFor": "2026-08-01T14:00:00.000Z"
+      "scheduledFor": "2026-08-01T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/homemade-pop-tarts-recipe-list.jpg",
+      "renderedAt": "2026-07-24T19:50:36.910Z"
     },
     "4672-guide": {
       "id": "4672-guide",
@@ -9996,6 +10054,47 @@
       "status": "pending_render",
       "createdAt": "2026-07-24T19:14:10.189Z",
       "scheduledFor": "2026-08-05T09:00:00.000Z"
+    },
+    "4873-hero": {
+      "id": "4873-hero",
+      "postId": 4873,
+      "postSlug": "easy-30-minute-dinner-honey-garlic-chicken",
+      "postUrl": "https://el-mordjene.info/easy-30-minute-dinner-honey-garlic-chicken/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Easy 30 Minute Dinner Worth Trying",
+      "overlaySubtitle": "Why This is the Ultimate Easy 30 Minute Dinner",
+      "pinTitle": "Easy 30 Minute Dinner: One-Pan Honey Garlic Chicken",
+      "pinDescription": "Easy 30 Minute Dinner with a click-worthy angle, useful details, and a more tempting way to explore the full post. pan honey garlic chicken, discover the ultimate easy 30 minute dinner with this foolproof one, pan honey garlic chicken recipe that balances savory",
+      "primaryKeyword": "easy 30 minute dinner",
+      "supportingKeywords": [
+        "easy 30 minute dinner",
+        "pan honey garlic chicken",
+        "discover the ultimate easy 30 minute dinner with this foolproof one",
+        "pan honey garlic chicken recipe that balances savory",
+        "and sticky flavors perfectly it is the ideal solution for busy home cooks craving a restaurant"
+      ],
+      "searchTags": [
+        "easy 30 minute dinner",
+        "pan honey garlic chicken",
+        "discover the ultimate easy 30 minute dinner with this foolproof one",
+        "pan honey garlic chicken recipe that balances savory",
+        "and sticky flavors perfectly it is the ideal solution for busy home cooks craving a restaurant",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "",
+      "status": "published_api",
+      "createdAt": "2026-07-24T19:50:32.758Z",
+      "scheduledFor": "2026-07-24T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/easy-30-minute-dinner-honey-garlic-chicken-hero.jpg",
+      "renderedAt": "2026-07-24T19:50:32.993Z",
+      "pinId": "419397784072948710",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072948710/",
+      "publishedAt": "2026-07-24T19:50:49.533Z"
     }
   },
   "queue": {
@@ -11592,6 +11691,16 @@
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-05T09:00:00.000Z",
       "status": "draft"
+    },
+    "4873-hero-queue": {
+      "id": "4873-hero-queue",
+      "assetId": "4873-hero",
+      "postId": 4873,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-07-24T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784072948710",
+      "publishedAt": "2026-07-24T19:50:49.533Z"
     }
   }
 }
