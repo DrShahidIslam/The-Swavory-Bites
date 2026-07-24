@@ -52,6 +52,9 @@ jobs:
           PINTEREST_BOARD_SPREADS_FR: ${{ secrets.PINTEREST_BOARD_SPREADS_FR }}
           PINTEREST_BOARD_TRENDS_FR: ${{ secrets.PINTEREST_BOARD_TRENDS_FR }}
           GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+          HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
           cd pinterest_engine
           npm run daily-article || true
