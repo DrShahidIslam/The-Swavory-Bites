@@ -4,13 +4,13 @@ import sharp from "sharp";
 import { escapeHtml, wrapText } from "../templates/svg-text.js";
 
 const THEMES = {
-  recipe: { accent: "#d87439", text: "#ffffff", shadow: "rgba(0,0,0,0.6)" },
-  baking: { accent: "#d4af37", text: "#ffffff", shadow: "rgba(0,0,0,0.6)" },
-  drink: { accent: "#2d9e64", text: "#ffffff", shadow: "rgba(0,0,0,0.6)" },
-  fruit: { accent: "#e8633a", text: "#ffffff", shadow: "rgba(0,0,0,0.6)" },
-  spread: { accent: "#b8860b", text: "#ffffff", shadow: "rgba(0,0,0,0.6)" },
-  trend: { accent: "#cb6e45", text: "#ffffff", shadow: "rgba(0,0,0,0.6)" },
-  quick: { accent: "#2e7fc0", text: "#ffffff", shadow: "rgba(0,0,0,0.6)" }
+  recipe: { accent: "#d87439", text: "#ffffff", shadow: "rgba(0,0,0,0.8)" },
+  baking: { accent: "#d4af37", text: "#ffffff", shadow: "rgba(0,0,0,0.8)" },
+  drink: { accent: "#2d9e64", text: "#ffffff", shadow: "rgba(0,0,0,0.8)" },
+  fruit: { accent: "#e8633a", text: "#ffffff", shadow: "rgba(0,0,0,0.8)" },
+  spread: { accent: "#b8860b", text: "#ffffff", shadow: "rgba(0,0,0,0.8)" },
+  trend: { accent: "#cb6e45", text: "#ffffff", shadow: "rgba(0,0,0,0.8)" },
+  quick: { accent: "#2e7fc0", text: "#ffffff", shadow: "rgba(0,0,0,0.8)" }
 };
 
 export async function renderAsset(asset, config) {
@@ -28,11 +28,10 @@ export async function renderAsset(asset, config) {
   if (visualBuffer) {
     baseImageBuffer = await sharp(visualBuffer)
       .resize(1000, 1500, { fit: "cover", position: "attention" })
-      .modulate({ saturation: 1.05, brightness: 1.02 })
+      .modulate({ saturation: 1.06, brightness: 1.02 })
       .jpeg({ quality: 90, mozjpeg: true })
       .toBuffer();
   } else {
-    // Gradient fallback if no photo is available
     const svgBg = `<svg width="1000" height="1500" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#8f1f28"/><stop offset="100%" stop-color="#1f1612"/></linearGradient></defs><rect width="1000" height="1500" fill="url(#bg)"/></svg>`;
     baseImageBuffer = await sharp(Buffer.from(svgBg)).jpeg({ quality: 90 }).toBuffer();
   }
@@ -43,8 +42,8 @@ export async function renderAsset(asset, config) {
     return outputPath;
   }
 
-  // 3. Render Minimalist Elegant Typography Overlay (High-CTR, Brilliant Font)
-  const overlaySvg = buildMinimalLuxuryOverlay(asset, theme);
+  // 3. Render Large, Readable, High-Contrast Typography Overlay
+  const overlaySvg = buildReadableTypographyOverlay(asset, theme);
 
   await sharp(baseImageBuffer)
     .composite([{ input: Buffer.from(overlaySvg), top: 0, left: 0 }])
@@ -54,15 +53,25 @@ export async function renderAsset(asset, config) {
   return outputPath;
 }
 
-function buildMinimalLuxuryOverlay(asset, theme) {
-  const titleText = (asset.overlayTitle || asset.pinTitle || "").slice(0, 50);
-  const titleLines = wrapText(titleText, 22, 2);
+function buildReadableTypographyOverlay(asset, theme) {
+  let rawTitle = (asset.overlayTitle || asset.pinTitle || "").trim();
+
+  // Ensure "Recipe" is naturally included in the title for search intent & user clarity
+  if (!rawTitle.toLowerCase().includes("recipe") && !rawTitle.toLowerCase().includes("recette")) {
+    rawTitle = `${rawTitle} Recipe`;
+  }
+
+  // Large readable font wrapping (max 18 chars per line for bold impact)
+  const titleLines = wrapText(rawTitle, 18, 3);
   
+  // Calculate vertical position dynamically based on line count
+  const startY = 1380 - (titleLines.length - 1) * 70;
+
   const titleSvg = titleLines
     .map((line, i) => {
-      const y = 1320 + i * 55;
+      const y = startY + i * 70;
       return `
-        <text x="500" y="${y}" text-anchor="middle" font-size="46" font-family="'Playfair Display', Georgia, serif" fill="#ffffff" font-weight="900" filter="url(#shadow)">
+        <text x="500" y="${y}" text-anchor="middle" font-size="58" font-family="'Playfair Display', Georgia, serif" fill="#ffffff" font-weight="900" filter="url(#dropShadow)">
           ${escapeHtml(line)}
         </text>
       `;
@@ -72,27 +81,21 @@ function buildMinimalLuxuryOverlay(asset, theme) {
   return `
     <svg width="1000" height="1500" viewBox="0 0 1000 1500" xmlns="http://www.w3.org/2000/svg">
       <defs>
-        <!-- Soft gradient vignette at the bottom -->
-        <linearGradient id="bottomVignette" x1="0" y1="0" x2="0" y2="1">
+        <!-- Rich dark gradient overlay at the bottom for 100% text legibility -->
+        <linearGradient id="readableGradient" x1="0" y1="0" x2="0" y2="1">
           <stop offset="0%" stop-color="transparent" />
-          <stop offset="60%" stop-color="rgba(0,0,0,0.2)" />
-          <stop offset="100%" stop-color="rgba(0,0,0,0.82)" />
+          <stop offset="50%" stop-color="rgba(20, 10, 8, 0.45)" />
+          <stop offset="100%" stop-color="rgba(15, 6, 4, 0.92)" />
         </linearGradient>
-        <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-          <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.8"/>
+        <filter id="dropShadow" x="-20%" y="-20%" width="140%" height="140%">
+          <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#000000" flood-opacity="0.95"/>
         </filter>
       </defs>
       
-      <!-- Bottom subtle gradient -->
-      <rect x="0" y="1050" width="1000" height="450" fill="url(#bottomVignette)"/>
+      <!-- Bottom dark gradient backdrop -->
+      <rect x="0" y="900" width="1000" height="600" fill="url(#readableGradient)"/>
       
-      <!-- Minimalist Top Pill Badge -->
-      <rect x="360" y="50" width="280" height="44" rx="22" fill="rgba(31, 22, 18, 0.75)" stroke="rgba(255,255,255,0.4)" stroke-width="1.5"/>
-      <text x="500" y="78" text-anchor="middle" font-size="18" font-family="'Outfit', system-ui, sans-serif" fill="#ffffff" font-weight="800" letter-spacing="2">
-        THE SWAVORY BITES
-      </text>
-
-      <!-- Brilliant Catchy Serif Headline -->
+      <!-- Large, Ultra-Readable Catchy Recipe Headline (No top pill badge) -->
       ${titleSvg}
     </svg>
   `;
