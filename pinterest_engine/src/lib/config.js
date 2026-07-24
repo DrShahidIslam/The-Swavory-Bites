@@ -47,7 +47,7 @@ export function loadConfig() {
     wpAppPassword: required("WP_APP_PASSWORD"),
     wpUserAgent: process.env.WP_USER_AGENT?.trim() || "TheSwavoryBites-Pinterest-Bot/1.0",
     geminiApiKey: process.env.GEMINI_API_KEY?.trim() || "",
-    geminiTextModel: process.env.GEMINI_TEXT_MODEL?.trim() || "gemini-3.1-flash-lite-preview-latest",
+    geminiTextModel: process.env.GEMINI_TEXT_MODEL?.trim() || "gemini-3.1-flash-lite-preview",
     pexelsApiKey: process.env.PEXELS_API_KEY?.trim() || "",
     pixabayApiKey: process.env.PIXABAY_API_KEY?.trim() || "",
     imageSourceMode: process.env.IMAGE_SOURCE_MODE?.trim() || "featured-first",
