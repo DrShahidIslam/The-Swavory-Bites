@@ -52,7 +52,7 @@ jobs:
           PINTEREST_BOARD_SPREADS_FR: ${{ secrets.PINTEREST_BOARD_SPREADS_FR }}
           PINTEREST_BOARD_TRENDS_FR: ${{ secrets.PINTEREST_BOARD_TRENDS_FR }}
           GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
-          PUBLISH_BATCH_SIZE: '2'
+          PUBLISH_BATCH_SIZE: '1'
         run: |
           cd pinterest_engine
           npm run discover || true

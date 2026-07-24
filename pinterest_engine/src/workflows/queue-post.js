@@ -3,7 +3,7 @@ import { enrichVariantsWithCopy } from "../services/pin-copywriter.js";
 import { buildPinPlan, scheduleDate } from "../services/pin-planner.js";
 import { classifyPost } from "../services/classifier.js";
 
-const PLAN_KEYS = ["hero", "list", "guide"];
+const PLAN_KEYS = ["hero"];
 
 export async function queuePost({ config, state, post, scheduleAnchorDate }) {
   // Enforce double deduplication guard on Post ID & Slug
