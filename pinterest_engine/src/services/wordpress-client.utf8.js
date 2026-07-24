@@ -1,4 +1,4 @@
-﻿import fs from "node:fs/promises";
+import fs from "node:fs/promises";
 import { stripHtml } from "../lib/text.js";
 
 const GALLERY_MARKER = "<!-- pinterest-gallery -->";
@@ -14,8 +14,8 @@ const ENGLISH_FUNCTION_WORDS = [
 
 export function createWordPressClient(config) {
   return {
-    async fetchRecentPosts() {
-      return this.fetchPostsPage(1, Math.max(config.postsPerRun * 4, 12));
+    async fetchRecentPosts(count) {
+      return this.fetchPostsPage(1, count || Math.max(config.postsPerRun * 4, 12));
     },
 
     async fetchPostsPage(page, perPage) {
@@ -51,20 +51,44 @@ export function createWordPressClient(config) {
       }, "fetch categories");
     },
 
+    async createPost(postData) {
+      const endpoint = new URL("/wp-json/wp/v2/posts", config.siteUrl);
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: {
+          Authorization: buildAuthHeader(config),
+          "User-Agent": config.wpUserAgent,
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(postData)
+      });
+
+      if (!response.ok) {
+        const body = await response.text();
+        throw new Error(`Post creation failed: ${response.status} ${body}`);
+      }
+
+      return await parseJsonResponse(response, "create post");
+    },
+
     async uploadMedia(filePath, title) {
-      const endpoint = new URL("/wp-json/wp/v2/media", config.siteUrl);
       const fileBuffer = await fs.readFile(filePath);
       const filename = filePath.split(/[/\\]/).pop();
+      return this.uploadMediaBuffer(fileBuffer, filename, title, "image/jpeg");
+    },
+
+    async uploadMediaBuffer(buffer, filename, altText, contentType = "image/webp") {
+      const endpoint = new URL("/wp-json/wp/v2/media", config.siteUrl);
 
       const response = await fetch(endpoint, {
         method: "POST",
         headers: {
           Authorization: buildAuthHeader(config),
           "User-Agent": config.wpUserAgent,
-          "Content-Type": "image/jpeg",
+          "Content-Type": contentType,
           "Content-Disposition": `attachment; filename="${filename}"`
         },
-        body: fileBuffer
+        body: buffer
       });
 
       if (!response.ok) {
@@ -74,15 +98,17 @@ export function createWordPressClient(config) {
 
       const media = await parseJsonResponse(response, "media upload");
 
-      await fetch(new URL(`/wp-json/wp/v2/media/${media.id}`, config.siteUrl), {
-        method: "POST",
-        headers: {
-          Authorization: buildAuthHeader(config),
-          "User-Agent": config.wpUserAgent,
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ alt_text: title.slice(0, 125) })
-      });
+      if (altText) {
+        await fetch(new URL(`/wp-json/wp/v2/media/${media.id}`, config.siteUrl), {
+          method: "POST",
+          headers: {
+            Authorization: buildAuthHeader(config),
+            "User-Agent": config.wpUserAgent,
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify({ alt_text: altText.slice(0, 125) })
+        });
+      }
 
       return {
         id: media.id,
@@ -165,6 +191,7 @@ function buildGalleryHtml(postUrl, items) {
 
   return `${GALLERY_MARKER}\n<div class="pinterest-gallery">\n${blocks}\n</div>`;
 }
+
 function replacePinterestGallery(content, galleryHtml) {
   const pattern = new RegExp(`${GALLERY_MARKER}\\s*<div class=\"pinterest-gallery\">[\\s\\S]*?<\\/div>`, "i");
   if (!pattern.test(content)) {
@@ -172,6 +199,7 @@ function replacePinterestGallery(content, galleryHtml) {
   }
   return content.replace(pattern, galleryHtml);
 }
+
 async function fetchJson(endpoint, options, context) {
   const response = await fetch(endpoint, options);
   if (!response.ok) {
@@ -202,77 +230,52 @@ async function safeReadBody(response) {
     return "";
   }
 }
-function normalizePost(post) {
-  const terms = post._embedded?.["wp:term"] || [];
-  const allTerms = terms.flat();
-  const categories = allTerms.filter((term) => term.taxonomy === "category");
-  const tags = allTerms.filter((term) => term.taxonomy === "post_tag");
-  const featuredImage = post._embedded?.["wp:featuredmedia"]?.[0]?.source_url || "";
-  const title = stripHtml(post.title?.rendered || "");
-  const excerpt = stripHtml(post.excerpt?.rendered || "");
-  const contentHtml = post.content?.rendered || "";
+
+function normalizePost(item) {
+  const categories = item._embedded?.["wp:term"]?.[0] || [];
+  const tags = item._embedded?.["wp:term"]?.[1] || [];
+  const featuredMedia = item._embedded?.["wp:featuredmedia"]?.[0];
+
+  const contentHtml = item.content?.rendered || "";
+  const excerpt = stripHtml(item.excerpt?.rendered || "").trim();
+  const title = stripHtml(item.title?.rendered || "").trim();
 
   return {
-    id: post.id,
-    date: post.date_gmt || post.date,
-    status: post.status,
-    url: post.link,
-    slug: post.slug,
+    id: item.id,
+    slug: item.slug,
+    link: item.link,
+    date: item.date_gmt ? `${item.date_gmt}Z` : item.date,
     title,
     excerpt,
     contentHtml,
-    featuredImage,
-    language: inferLanguage(post, categories, title, excerpt, contentHtml),
-    categories: categories.map((term) => ({ id: term.id, name: term.name, slug: term.slug })),
-    tags: tags.map((term) => term.name)
+    language: detectLanguage(title, excerpt, contentHtml, categories),
+    categories: categories.map((category) => ({ id: category.id, name: category.name, slug: category.slug })),
+    tags: tags.map((tag) => tag.name),
+    featuredImage: featuredMedia?.source_url || ""
   };
 }
 
-function inferLanguage(post, categories, title, excerpt, contentHtml) {
-  if (post.lang && ["en", "fr"].includes(String(post.lang).toLowerCase())) {
-    return String(post.lang).toLowerCase();
-  }
+function detectLanguage(title, excerpt, contentHtml, categories) {
+  const textSample = `${title} ${excerpt} ${stripHtml(contentHtml).slice(0, 500)}`.toLowerCase();
+  const categorySlugs = new Set(categories.map((category) => category.slug.toLowerCase()));
 
-  const slugs = categories.map((category) => category.slug.toLowerCase());
-  if (slugs.some((slug) => FRENCH_CATEGORY_SLUGS.has(slug))) {
-    return "fr";
-  }
-  if (slugs.some((slug) => ENGLISH_CATEGORY_SLUGS.has(slug))) {
-    return "en";
-  }
+  if ([...FRENCH_CATEGORY_SLUGS].some((slug) => categorySlugs.has(slug))) return "fr";
+  if ([...ENGLISH_CATEGORY_SLUGS].some((slug) => categorySlugs.has(slug))) return "en";
 
-  const textSample = ` ${title} ${excerpt} ${stripHtml(contentHtml).slice(0, 500)} `.toLowerCase();
-  let frenchScore = 0;
-  let englishScore = 0;
+  const frenchCount = countOccurrences(textSample, FRENCH_FUNCTION_WORDS);
+  const englishCount = countOccurrences(textSample, ENGLISH_FUNCTION_WORDS);
 
-  for (const marker of FRENCH_FUNCTION_WORDS) {
-    if (textSample.includes(marker)) {
-      frenchScore += 1;
-    }
-  }
-  for (const marker of ENGLISH_FUNCTION_WORDS) {
-    if (textSample.includes(marker)) {
-      englishScore += 1;
-    }
-  }
-
-  if (/[éèêàùçôî]/i.test(`${title} ${excerpt}`)) {
-    frenchScore += 2;
-  }
-
-  return frenchScore > englishScore ? "fr" : "en";
+  return frenchCount > englishCount ? "fr" : "en";
 }
 
-function escapeAttribute(value) {
-  return String(value || "")
-    .replaceAll("&", "&amp;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;");
+function countOccurrences(text, keywords) {
+  return keywords.reduce((total, keyword) => (text.includes(keyword) ? total + 1 : total), 0);
 }
 
-
-
-
-
-
+function escapeAttribute(text) {
+  return String(text || "")
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
