@@ -77,7 +77,7 @@ export class ImageGeneratorApi {
             "Content-Type": "application/json"
           },
           body: JSON.stringify({
-            model: "Kwai-Kolors/Kolors",
+            model: "black-forest-labs/FLUX.1-schnell",
             prompt: imagePrompt,
             image_size: "1024x768"
           })
