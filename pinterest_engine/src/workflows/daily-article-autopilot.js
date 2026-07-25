@@ -2,7 +2,7 @@ import path from "node:path";
 import fs from "node:fs/promises";
 import { ArticleGenerator } from "../services/article-generator.js";
 import { ImageGeneratorApi } from "../services/image-generator-api.js";
-import { PINTEREST_HIGH_SEARCH_TOPICS } from "../services/trend-strategy.js";
+
 import { discoverPosts } from "./discover-posts.js";
 import { renderPendingAssets } from "./render-assets.js";
 import { publishApiDueQueue } from "./publish-api-queue.js";
@@ -12,23 +12,21 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
   console.log("🚀 DAILY WORDPRESS ARTICLE AUTOPILOT — AEO / GEO / SEO GENERATION");
   console.log("==========================================================================\n");
 
-  // 1. Fetch recent WordPress posts to prevent duplicate topics & build internal links
+  // 1. Fetch recent WordPress posts to build internal links
   const existingPosts = await wordpress.fetchRecentPosts(25);
-  const existingTitles = existingPosts.map((p) => p.title?.rendered || p.title || "").join(" ").toLowerCase();
 
-  // 2. Select next unwritten trend topic from curated list
-  let selectedTopic = PINTEREST_HIGH_SEARCH_TOPICS.find(
-    (t) => !existingTitles.includes(t.searchKeywords[0].toLowerCase()) && !existingTitles.includes(t.topic.toLowerCase())
-  );
+  // 2. Select next unwritten trend topic from JSON database
+  const trendingTopicsPath = path.resolve("data/trending_topics.json");
+  const trendingTopicsData = await fs.readFile(trendingTopicsPath, "utf-8");
+  const trendingTopics = JSON.parse(trendingTopicsData);
+
+  state.data.publishedTrendIds = state.data.publishedTrendIds || [];
+  
+  let selectedTopic = trendingTopics.find((t) => !state.data.publishedTrendIds.includes(t.id));
 
   if (!selectedTopic) {
-    selectedTopic = {
-      category: "Viral Desserts",
-      topic: "Easy 3-Ingredient Peanut Butter Blossom Cookies",
-      searchKeywords: ["easy peanut butter cookies", "3 ingredient dessert", "quick baking"],
-      suggestedSlug: "easy-3-ingredient-peanut-butter-cookies",
-      targetBoard: "Easy Dessert Recipes"
-    };
+    console.error("❌ CRITICAL: trending_topics.json is exhausted! No new topics available.");
+    return;
   }
 
   console.log(`📌 Target Topic for Today: "${selectedTopic.topic}"`);
@@ -93,6 +91,9 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
   console.log(`\n🎉 WORDPRESS ARTICLE PUBLISHED LIVE TO SITE!`);
   console.log(`📌 Post ID: ${publishedPost.id}`);
   console.log(`🔗 Link: ${publishedPost.link}`);
+
+  // Mark this trend as published so we never duplicate it
+  state.data.publishedTrendIds.push(selectedTopic.id);
 
   // 7. Instantly trigger Pinterest Discovery, Render & Publish Pipeline!
   console.log(`\n📌 Handing off new article to Pinterest Engine...`);
