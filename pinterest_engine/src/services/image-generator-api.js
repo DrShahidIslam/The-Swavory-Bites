@@ -6,15 +6,21 @@ export class ImageGeneratorApi {
   constructor(config = {}) {
     const rawHfKeys = process.env.HUGGINGFACE_API_KEY || "";
     this.hfKeys = rawHfKeys.split(",").map((k) => k.trim()).filter(Boolean);
-    this.siliconFlowKey = process.env.SILICONFLOW_API_KEY || "";
+    
+    // SiliconFlow is disabled per user request to save money
+    // this.siliconFlowKey = process.env.SILICONFLOW_API_KEY || "";
+    
+    this.cfAccountId = process.env.CLOUDFLARE_ACCOUNT_ID || "";
+    this.cfApiToken = process.env.CLOUDFLARE_API_TOKEN || "";
     this.pexelsKey = process.env.PEXELS_API_KEY || "";
   }
 
   /**
    * Priority Order:
    * 1. Hugging Face (Rotates across all 10 HF keys)
-   * 2. SiliconFlow Kolors AI Model (Kwai-Kolors/Kolors)
-   * 3. Pexels HD Stock API
+   * 2. Cloudflare Workers AI SDXL (Free Tier)
+   * 3. Pollinations.ai (Zero-key Free Fallback)
+   * 4. Pexels HD Stock API
    */
   async generateFoodImage({ prompt, topic, outputPath }) {
     const imagePrompt = `Professional editorial food photography of ${prompt || topic}, 8k resolution, food styling, natural soft lighting, shallow depth of field, delicious, cinematic gourmet magazine photo`;
@@ -61,56 +67,76 @@ export class ImageGeneratorApi {
         }
       }
 
-      console.warn("❌ All HuggingFace keys exhausted/expired. Falling back to SiliconFlow Kolors AI...");
+      console.warn("❌ All HuggingFace keys exhausted/expired. Falling back to Cloudflare Workers AI...");
     }
 
     // =========================================================================
-    // STEP 2: SiliconFlow Kolors AI Model (Kwai-Kolors/Kolors)
+    // STEP 2: Cloudflare Workers AI (SDXL)
     // =========================================================================
-    if (this.siliconFlowKey) {
-      console.log(`🎨 Step 2: Requesting SiliconFlow Kolors AI Model (Kwai-Kolors/Kolors)...`);
+    if (this.cfAccountId && this.cfApiToken) {
+      console.log(`🎨 Step 2: Requesting Cloudflare Workers AI (SDXL)...`);
       try {
-        const res = await fetch("https://api.siliconflow.com/v1/images/generations", {
+        const url = `https://api.cloudflare.com/client/v4/accounts/${this.cfAccountId}/ai/run/@cf/stabilityai/stable-diffusion-xl-base-1.0`;
+        const res = await fetch(url, {
           method: "POST",
           headers: {
-            Authorization: `Bearer ${this.siliconFlowKey}`,
+            Authorization: `Bearer ${this.cfApiToken}`,
             "Content-Type": "application/json"
           },
           body: JSON.stringify({
-            model: "black-forest-labs/FLUX.1-schnell",
             prompt: imagePrompt,
-            image_size: "1024x768"
+            width: 1216,
+            height: 832
           })
         });
 
         if (res.ok) {
-          const data = await res.json();
-          const imgUrl = data.images?.[0]?.url || data.data?.[0]?.url;
-          if (imgUrl) {
-            const imgRes = await fetch(imgUrl);
-            const arrayBuffer = await imgRes.arrayBuffer();
+          const arrayBuffer = await res.arrayBuffer();
+          await sharp(Buffer.from(arrayBuffer))
+            .resize(1200, 800, { fit: "cover" })
+            .webp({ quality: 80 })
+            .toFile(outputPath);
 
-            await sharp(Buffer.from(arrayBuffer))
-              .resize(1200, 800, { fit: "cover" })
-              .webp({ quality: 80 })
-              .toFile(outputPath);
-
-            console.log(`✅ SUCCESS! SiliconFlow Kolors AI image generated & saved to WebP (${outputPath})`);
-            return outputPath;
-          }
+          console.log(`✅ SUCCESS! Cloudflare AI image generated & saved to WebP (${outputPath})`);
+          return outputPath;
         } else {
-          console.warn(`⚠️ SiliconFlow Kolors returned HTTP ${res.status}: ${await res.text()}`);
+          console.warn(`⚠️ Cloudflare returned HTTP ${res.status}: ${await res.text()}`);
         }
-      } catch (sfErr) {
-        console.warn("⚠️ SiliconFlow Kolors API call failed:", sfErr.message);
+      } catch (cfErr) {
+        console.warn("⚠️ Cloudflare AI call failed:", cfErr.message);
       }
     }
 
     // =========================================================================
-    // STEP 3: Pexels HD Stock Photo Fallback
+    // STEP 3: Pollinations.ai (Zero-Key Free Fallback)
+    // =========================================================================
+    console.log(`🎨 Step 3: Falling back to Pollinations.ai (Free zero-key Flux model)...`);
+    try {
+      const seed = Math.floor(Math.random() * 999999);
+      const encodedPrompt = encodeURIComponent(imagePrompt);
+      const url = `https://image.pollinations.ai/prompt/${encodedPrompt}?width=1200&height=800&model=flux&nologo=true&seed=${seed}`;
+      
+      const res = await fetch(url);
+      if (res.ok) {
+        const arrayBuffer = await res.arrayBuffer();
+        await sharp(Buffer.from(arrayBuffer))
+          .webp({ quality: 80 })
+          .toFile(outputPath);
+
+        console.log(`✅ SUCCESS! Pollinations.ai image generated & saved to WebP (${outputPath})`);
+        return outputPath;
+      } else {
+        console.warn(`⚠️ Pollinations returned HTTP ${res.status}`);
+      }
+    } catch (pollErr) {
+      console.warn("⚠️ Pollinations AI call failed:", pollErr.message);
+    }
+
+    // =========================================================================
+    // STEP 4: Pexels HD Stock Photo Fallback
     // =========================================================================
     if (this.pexelsKey) {
-      console.log(`📸 Step 3: Falling back to Pexels HD Food Photo API...`);
+      console.log(`📸 Step 4: Falling back to Pexels HD Food Photo API...`);
       try {
         const searchUrl = `https://api.pexels.com/v1/search?query=${encodeURIComponent(topic + " food")}&per_page=1`;
         const res = await fetch(searchUrl, {
