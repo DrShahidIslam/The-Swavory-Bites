@@ -12,7 +12,6 @@ import { printStatus } from "./workflows/print-status.js";
 import { printLatestExport } from "./workflows/print-latest-export.js";
 import { reclassifyState } from "./workflows/reclassify-state.js";
 import { refreshPinterestGalleries } from "./workflows/refresh-galleries.js";
-import { printTrendIdeas } from "./services/trend-strategy.js";
 import { runDailyArticleAutopilot } from "./workflows/daily-article-autopilot.js";
 
 async function main() {
@@ -56,10 +55,7 @@ async function main() {
     return;
   }
 
-  if (command === "trends" || command === "trend-ideas") {
-    printTrendIdeas();
-    return;
-  }
+
 
   if (command === "plan-feeds") {
     const result = await buildFeedPlan({ config, wordpress });
