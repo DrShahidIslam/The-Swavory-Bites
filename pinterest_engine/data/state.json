@@ -9914,9 +9914,12 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-art-of-cherry-desserts-a-culinary-guide_20260715_094515.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.414Z",
-      "scheduledFor": "2026-08-05T19:00:00.000Z"
+      "scheduledFor": "2026-08-05T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cherry-desserts-guide-guide.jpg",
+      "renderedAt": "2026-07-28T17:25:14.214Z"
     },
     "4780-hero": {
       "id": "4780-hero",
@@ -10304,9 +10307,15 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-rise-of-zucchini-cake-a-modern-baking-essentia_20260713_104603.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.420Z",
-      "scheduledFor": "2026-08-06T09:00:00.000Z"
+      "scheduledFor": "2026-08-06T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-rise-of-zucchini-cake-a-modern-baking-essentia_20260713_104603.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/the-rise-of-zucchini-cake-hero.jpg",
+      "renderedAt": "2026-07-28T17:25:20.129Z"
     },
     "4771-list": {
       "id": "4771-list",
@@ -10414,9 +10423,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-cucumber-sandwiches-a-refined-tea-time-sta_20260712_183241.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.421Z",
-      "scheduledFor": "2026-08-06T09:00:00.000Z"
+      "scheduledFor": "2026-08-06T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-cucumber-sandwiches-a-refined-tea-time-sta_20260712_183241.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-cucumber-sandwiches-recipe-hero.jpg",
+      "renderedAt": "2026-07-28T17:25:22.203Z"
     },
     "4768-list": {
       "id": "4768-list",
@@ -10976,9 +10991,12 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-spiced-apricot-galette-recipe_20260702_204847.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.540Z",
-      "scheduledFor": "2026-08-05T19:00:00.000Z"
+      "scheduledFor": "2026-08-05T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-spiced-apricot-galette-recipe-guide.jpg",
+      "renderedAt": "2026-07-28T17:25:16.231Z"
     },
     "4708-hero": {
       "id": "4708-hero",
@@ -12416,9 +12434,12 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/classic-savory-meatballs-recipe-for-every-kitchen_20260626_211102.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.366Z",
-      "scheduledFor": "2026-08-05T19:00:00.000Z"
+      "scheduledFor": "2026-08-05T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-savory-meatballs-recipe-guide.jpg",
+      "renderedAt": "2026-07-28T17:25:18.236Z"
     },
     "4672-hero": {
       "id": "4672-hero",
@@ -13871,7 +13892,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-pineapple-upside-down-cake-recipe_20260726_110108.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T14:09:59.060Z",
       "scheduledFor": "2026-07-26T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-pineapple-upside-down-cake-recipe_20260726_110108.webp",
@@ -13879,7 +13900,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/pineapple-upside-down-cake-recipe-hero.jpg",
-      "renderedAt": "2026-07-26T14:10:14.037Z"
+      "renderedAt": "2026-07-26T14:10:14.037Z",
+      "pinId": "419397784072979248",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072979248/",
+      "publishedAt": "2026-07-28T17:25:33.238Z"
     },
     "4911-hero": {
       "id": "4911-hero",
@@ -14759,9 +14783,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/the-art-of-creating-perfect-chocolate-hazelnut-mou_20260521_105709.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-26T20:56:37.980Z",
-      "scheduledFor": "2026-08-06T09:00:00.000Z"
+      "scheduledFor": "2026-08-06T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/the-art-of-creating-perfect-chocolate-hazelnut-mou_20260521_105709.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chocolate-hazelnut-mousse-recipe-hero.jpg",
+      "renderedAt": "2026-07-28T17:25:24.264Z"
     },
     "4414-hero": {
       "id": "4414-hero",
@@ -15167,9 +15197,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/easy-crispy-skillet-chicken-thigh-recipes_20260518_174727.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T02:44:19.501Z",
-      "scheduledFor": "2026-08-06T09:00:00.000Z"
+      "scheduledFor": "2026-08-06T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/easy-crispy-skillet-chicken-thigh-recipes_20260518_174727.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/easy-crispy-skillet-chicken-thigh-recipes-hero.jpg",
+      "renderedAt": "2026-07-28T17:25:26.182Z"
     },
     "4381-hero": {
       "id": "4381-hero",
@@ -15611,9 +15647,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/mastering-simple-chicken-breast-recipes-for-any-me_20260516_091807.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T07:28:56.176Z",
-      "scheduledFor": "2026-08-06T09:00:00.000Z"
+      "scheduledFor": "2026-08-06T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/mastering-simple-chicken-breast-recipes-for-any-me_20260516_091807.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/mastering-simple-chicken-breast-recipes-hero.jpg",
+      "renderedAt": "2026-07-28T17:25:28.241Z"
     },
     "4345-hero": {
       "id": "4345-hero",
@@ -16097,9 +16139,15 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/classic-beef-and-vegetable-skillet-a-weeknight-sta_20260511_210750.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T11:18:53.883Z",
-      "scheduledFor": "2026-08-06T09:00:00.000Z"
+      "scheduledFor": "2026-08-06T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/classic-beef-and-vegetable-skillet-a-weeknight-sta_20260511_210750.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-beef-and-vegetable-skillet-hero.jpg",
+      "renderedAt": "2026-07-28T17:25:30.240Z"
     },
     "4309-hero": {
       "id": "4309-hero",
@@ -19835,7 +19883,9 @@
       "postId": 4914,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-26T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072979248",
+      "publishedAt": "2026-07-28T17:25:33.238Z"
     },
     "4911-hero-queue": {
       "id": "4911-hero-queue",
