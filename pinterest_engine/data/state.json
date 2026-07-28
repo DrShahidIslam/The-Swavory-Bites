@@ -8471,9 +8471,12 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/understanding-the-lobster-cake-a-culinary-guide_20260720_103624.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.347Z",
-      "scheduledFor": "2026-08-05T19:00:00.000Z"
+      "scheduledFor": "2026-08-05T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/understanding-the-lobster-cake-guide.jpg",
+      "renderedAt": "2026-07-28T14:02:51.903Z"
     },
     "4816-hero": {
       "id": "4816-hero",
@@ -9026,9 +9029,12 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-cherry-almond-clafoutis-recipe_20260717_094213.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.353Z",
-      "scheduledFor": "2026-08-05T14:00:00.000Z"
+      "scheduledFor": "2026-08-05T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-cherry-almond-clafoutis-recipe-list.jpg",
+      "renderedAt": "2026-07-28T14:02:45.740Z"
     },
     "4804-guide": {
       "id": "4804-guide",
@@ -11525,9 +11531,12 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/mediterranean-herb-roasted-squash-and-zucchini-rec_20260630_104612.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.546Z",
-      "scheduledFor": "2026-08-05T14:00:00.000Z"
+      "scheduledFor": "2026-08-05T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/squash-and-zucchini-recipes-list.jpg",
+      "renderedAt": "2026-07-28T14:02:47.783Z"
     },
     "4696-guide": {
       "id": "4696-guide",
@@ -12962,9 +12971,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/light-and-zesty-lemon-shortbread-summer-cookie-rec_20260624_103820.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.375Z",
-      "scheduledFor": "2026-08-05T14:00:00.000Z"
+      "scheduledFor": "2026-08-05T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/summer-cookie-recipes-lemon-shortbread-list.jpg",
+      "renderedAt": "2026-07-28T14:02:50.045Z"
     },
     "4660-guide": {
       "id": "4660-guide",
@@ -13312,7 +13324,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/simple-and-delicious-imitated-crab-salad-recipes_20260622_063449.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:14:10.177Z",
       "scheduledFor": "2026-07-26T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/simple-and-delicious-imitated-crab-salad-recipes_20260622_063449.jpg",
@@ -13320,7 +13332,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/imitated-crab-recipes-easy-hero.jpg",
-      "renderedAt": "2026-07-24T19:14:14.650Z"
+      "renderedAt": "2026-07-24T19:14:14.650Z",
+      "pinId": "419397784072978079",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072978079/",
+      "publishedAt": "2026-07-28T14:02:55.068Z"
     },
     "4645-hero": {
       "id": "4645-hero",
@@ -16400,9 +16415,15 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/mediterranean-quinoa-bowl-with-roasted-vegetables_20260510_102322.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T14:29:32.062Z",
-      "scheduledFor": "2026-08-05T09:00:00.000Z"
+      "scheduledFor": "2026-08-05T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/mediterranean-quinoa-bowl-with-roasted-vegetables_20260510_102322.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/mediterranean-quinoa-bowl-recipe-hero.jpg",
+      "renderedAt": "2026-07-28T14:02:37.181Z"
     },
     "4276-hero": {
       "id": "4276-hero",
@@ -16796,9 +16817,11 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T17:41:21.295Z",
-      "scheduledFor": "2026-08-05T09:00:00.000Z"
+      "scheduledFor": "2026-08-05T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/dubai-chocolate-bar-pistachio-cream-explained-hero.jpg",
+      "renderedAt": "2026-07-28T14:02:37.399Z"
     },
     "4232-hero": {
       "id": "4232-hero",
@@ -17318,9 +17341,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/the-ultimate-rotel-dip-recipe-a-simple-cheese-clas_20260509_200903.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T21:08:50.500Z",
-      "scheduledFor": "2026-08-05T09:00:00.000Z"
+      "scheduledFor": "2026-08-05T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/the-ultimate-rotel-dip-recipe-a-simple-cheese-clas_20260509_200903.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/rotel-dip-recipe-hero.jpg",
+      "renderedAt": "2026-07-28T14:02:39.398Z"
     },
     "4196-hero": {
       "id": "4196-hero",
@@ -17714,9 +17743,15 @@
         "hazelnut & chocolate spreads"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/03/morrisons-white-chocolate-spread-why-everyone-s-se_20260321_053225.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-28T02:23:55.089Z",
-      "scheduledFor": "2026-08-05T09:00:00.000Z"
+      "scheduledFor": "2026-08-05T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/03/morrisons-white-chocolate-spread-why-everyone-s-se_20260321_053225.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/morrisons-white-chocolate-spread-trend-hero.jpg",
+      "renderedAt": "2026-07-28T14:02:41.539Z"
     },
     "3574-hero": {
       "id": "3574-hero",
@@ -18068,9 +18103,15 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/03/homemade-french-cruller-donuts-a-classic-french-pa_20260312_102745.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-28T06:25:25.883Z",
-      "scheduledFor": "2026-08-05T09:00:00.000Z"
+      "scheduledFor": "2026-08-05T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/03/homemade-french-cruller-donuts-a-classic-french-pa_20260312_102745.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/homemade-french-cruller-donuts-recipe-hero.jpg",
+      "renderedAt": "2026-07-28T14:02:43.620Z"
     },
     "2934-hero": {
       "id": "2934-hero",
@@ -19684,7 +19725,9 @@
       "postId": 4648,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-26T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072978079",
+      "publishedAt": "2026-07-28T14:02:55.068Z"
     },
     "4645-hero-queue": {
       "id": "4645-hero-queue",
