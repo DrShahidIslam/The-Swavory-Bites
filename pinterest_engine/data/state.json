@@ -6119,6 +6119,31 @@
         "beverages"
       ],
       "discoveredAt": "2026-07-28T21:05:14.712Z"
+    },
+    "4929": {
+      "postId": 4929,
+      "title": "Authentic Traditional Pesto Recipe for Home Cooks",
+      "url": "https://el-mordjene.info/authentic-traditional-pesto-recipe/",
+      "slug": "authentic-traditional-pesto-recipe",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/authentic-traditional-pesto-recipe-for-home-cooks_20260729_102330.webp",
+      "keywordSet": [
+        "authentic traditional pesto recipe for home cooks",
+        "master the art of the perfect pesto recipe with our traditional guide learn professional techniques for authentic flavor",
+        "and variations",
+        "mastering the traditional pesto recipe",
+        "the role of ingredients",
+        "preparation techniques",
+        "authentic pesto recipe",
+        "storage and make",
+        "storage",
+        "homemade"
+      ],
+      "discoveredAt": "2026-07-29T14:06:00.222Z"
     }
   },
   "assets": {
@@ -7456,12 +7481,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-homemade-peach-crisp-recipe_20260724_100320.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:05:48.551Z",
       "scheduledFor": "2026-07-26T14:00:00.000Z",
       "imageSourceDuplicate": true,
-      "outputPath": "C:\\SEO Projects\\the swavory bites\\pinterest_engine\\data\\assets\\pinterest\\classic-homemade-peach-crisp-recipe-list.jpg",
-      "renderedAt": "2026-07-24T18:06:26.795Z"
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-homemade-peach-crisp-recipe-list.jpg",
+      "renderedAt": "2026-07-24T18:06:26.795Z",
+      "pinId": "419397784072984574",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072984574/",
+      "publishedAt": "2026-07-29T14:06:37.739Z"
     },
     "4844-guide": {
       "id": "4844-guide",
@@ -8984,9 +9012,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-best-oven-baked-zucchini-recipes-for-home-cook_20260718_091331.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.352Z",
-      "scheduledFor": "2026-08-09T19:00:00.000Z"
+      "scheduledFor": "2026-08-09T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/oven-baked-zucchini-recipes-guide.jpg",
+      "renderedAt": "2026-07-29T14:06:27.949Z"
     },
     "4804-hero": {
       "id": "4804-hero",
@@ -10076,9 +10107,12 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-perfect-peach-crumble-recipe-a-golden-summer-c_20260714_204707.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.416Z",
-      "scheduledFor": "2026-08-08T19:00:00.000Z"
+      "scheduledFor": "2026-08-08T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/perfect-peach-crumble-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T14:06:19.566Z"
     },
     "4777-hero": {
       "id": "4777-hero",
@@ -10195,9 +10229,12 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-roasted-garlic-and-basil-tomato-confit_20260714_094215.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.418Z",
-      "scheduledFor": "2026-08-09T19:00:00.000Z"
+      "scheduledFor": "2026-08-09T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-roasted-garlic-and-basil-tomato-confit-guide.jpg",
+      "renderedAt": "2026-07-29T14:06:30.509Z"
     },
     "4774-hero": {
       "id": "4774-hero",
@@ -11406,9 +11443,12 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-art-of-pan-seared-cod-a-masterclass-in-texture_20260701_105906.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.544Z",
-      "scheduledFor": "2026-08-08T19:00:00.000Z"
+      "scheduledFor": "2026-08-08T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/perfect-pan-seared-cod-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T14:06:21.410Z"
     },
     "4699-hero": {
       "id": "4699-hero",
@@ -11525,9 +11565,12 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/vibrant-ginger-lime-cabbage-slaw-for-every-table_20260630_212053.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.545Z",
-      "scheduledFor": "2026-08-09T19:00:00.000Z"
+      "scheduledFor": "2026-08-09T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/ginger-lime-cabbage-slaw-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T14:06:32.665Z"
     },
     "4696-hero": {
       "id": "4696-hero",
@@ -12861,9 +12904,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/classic-spiced-peach-cobbler-recipe_20260625_103137.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.371Z",
-      "scheduledFor": "2026-08-08T19:00:00.000Z"
+      "scheduledFor": "2026-08-08T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-spiced-peach-cobbler-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T14:06:23.503Z"
     },
     "4663-hero": {
       "id": "4663-hero",
@@ -12980,9 +13026,12 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/creative-cake-flavor-ideas-for-every-occasion_20260624_211504.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.374Z",
-      "scheduledFor": "2026-08-09T19:00:00.000Z"
+      "scheduledFor": "2026-08-09T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creative-cake-flavor-ideas-guide.jpg",
+      "renderedAt": "2026-07-29T14:06:34.506Z"
     },
     "4660-hero": {
       "id": "4660-hero",
@@ -18098,9 +18147,15 @@
         "hazelnut & chocolate spreads"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/03/whipping-up-the-best-homemade-chocolate-spread_20260318_165922.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-28T02:23:55.094Z",
-      "scheduledFor": "2026-08-09T09:00:00.000Z"
+      "scheduledFor": "2026-08-09T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/03/whipping-up-the-best-homemade-chocolate-spread_20260318_165922.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/best-homemade-chocolate-spread-recipe-hero.jpg",
+      "renderedAt": "2026-07-29T14:06:26.110Z"
     },
     "3502-hero": {
       "id": "3502-hero",
@@ -18479,6 +18534,48 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/7brew-drinks-guide-hero.jpg",
       "renderedAt": "2026-07-28T21:05:32.836Z"
+    },
+    "4929-hero": {
+      "id": "4929-hero",
+      "postId": 4929,
+      "postSlug": "authentic-traditional-pesto-recipe",
+      "postUrl": "https://el-mordjene.info/authentic-traditional-pesto-recipe/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Authentic Traditional Pesto Recipe For Home Cooks Wor...",
+      "overlaySubtitle": "Mastering the Traditional Pesto Recipe",
+      "pinTitle": "Authentic Traditional Pesto Recipe for Home Cooks",
+      "pinDescription": "Authentic Traditional Pesto Recipe For Home Cooks with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of the perfect pesto recipe with our traditional guide learn professional techniques for authentic flavor, and variations, mastering the traditional pesto recipe",
+      "primaryKeyword": "authentic traditional pesto recipe for home cooks",
+      "supportingKeywords": [
+        "authentic traditional pesto recipe for home cooks",
+        "master the art of the perfect pesto recipe with our traditional guide learn professional techniques for authentic flavor",
+        "and variations",
+        "mastering the traditional pesto recipe",
+        "the role of ingredients"
+      ],
+      "searchTags": [
+        "authentic traditional pesto recipe for home cooks",
+        "master the art of the perfect pesto recipe with our traditional guide learn professional techniques for authentic flavor",
+        "and variations",
+        "mastering the traditional pesto recipe",
+        "the role of ingredients",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/authentic-traditional-pesto-recipe-for-home-cooks_20260729_102330.webp",
+      "status": "rendered",
+      "createdAt": "2026-07-29T14:06:00.223Z",
+      "scheduledFor": "2026-07-29T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/authentic-traditional-pesto-recipe-for-home-cooks_20260729_102330.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-traditional-pesto-recipe-hero.jpg",
+      "renderedAt": "2026-07-29T14:06:17.410Z"
     }
   },
   "queue": {
@@ -18810,7 +18907,9 @@
       "postId": 4844,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-26T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072984574",
+      "publishedAt": "2026-07-29T14:06:37.739Z"
     },
     "4844-guide-queue": {
       "id": "4844-guide-queue",
@@ -20994,6 +21093,14 @@
       "postId": 4926,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
+      "status": "draft"
+    },
+    "4929-hero-queue": {
+      "id": "4929-hero-queue",
+      "assetId": "4929-hero",
+      "postId": 4929,
+      "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-07-29T09:00:00.000Z",
       "status": "draft"
     }
   }
