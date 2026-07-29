@@ -6144,6 +6144,31 @@
         "homemade"
       ],
       "discoveredAt": "2026-07-29T14:06:00.222Z"
+    },
+    "4932": {
+      "postId": 4932,
+      "title": "The Authentic Guacamole Recipe: A Simple Culinary Guide",
+      "url": "https://el-mordjene.info/authentic-guacamole-recipe/",
+      "slug": "authentic-guacamole-recipe",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-authentic-guacamole-recipe-a-simple-culinary-g_20260729_204050.webp",
+      "keywordSet": [
+        "the authentic guacamole recipe",
+        "a simple culinary guide",
+        "master the art of the perfect guacamole recipe discover essential ingredients",
+        "professional preparation techniques",
+        "and tips for the best flavor profile",
+        "mastering the perfect guacamole",
+        "understanding avocado maturity",
+        "preparation techniques and cultural context",
+        "appetizer",
+        "guacamole"
+      ],
+      "discoveredAt": "2026-07-29T20:53:37.202Z"
     }
   },
   "assets": {
@@ -9670,7 +9695,7 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-raspberry-frangipane-tart_20260716_095129.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:36:28.412Z",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-raspberry-frangipane-tart_20260716_095129.jpg",
@@ -9678,7 +9703,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-raspberry-frangipane-tart-hero.jpg",
-      "renderedAt": "2026-07-24T18:36:35.321Z"
+      "renderedAt": "2026-07-24T18:36:35.321Z",
+      "pinId": "419397784072987434",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072987434/",
+      "publishedAt": "2026-07-29T20:54:03.868Z"
     },
     "4789-list": {
       "id": "4789-list",
@@ -10485,9 +10513,12 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-rise-of-zucchini-cake-a-modern-baking-essentia_20260713_104603.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.420Z",
-      "scheduledFor": "2026-08-13T19:00:00.000Z"
+      "scheduledFor": "2026-08-13T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/the-rise-of-zucchini-cake-guide.jpg",
+      "renderedAt": "2026-07-29T20:53:58.889Z"
     },
     "4768-hero": {
       "id": "4768-hero",
@@ -10604,9 +10635,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-cucumber-sandwiches-a-refined-tea-time-sta_20260712_183241.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.421Z",
-      "scheduledFor": "2026-08-13T19:00:00.000Z"
+      "scheduledFor": "2026-08-13T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-cucumber-sandwiches-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T20:54:00.933Z"
     },
     "4720-hero": {
       "id": "4720-hero",
@@ -13416,9 +13450,12 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/refreshing-homemade-watermelon-margarita-recipe_20260622_215334.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.376Z",
-      "scheduledFor": "2026-08-12T19:00:00.000Z"
+      "scheduledFor": "2026-08-12T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/watermelon-margarita-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T20:53:56.896Z"
     },
     "4651-hero": {
       "id": "4651-hero",
@@ -18606,6 +18643,48 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-traditional-pesto-recipe-hero.jpg",
       "renderedAt": "2026-07-29T14:06:17.410Z"
+    },
+    "4932-hero": {
+      "id": "4932-hero",
+      "postId": 4932,
+      "postSlug": "authentic-guacamole-recipe",
+      "postUrl": "https://el-mordjene.info/authentic-guacamole-recipe/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "The Authentic Guacamole Recipe Worth Trying",
+      "overlaySubtitle": "Mastering the Perfect Guacamole",
+      "pinTitle": "The Authentic Guacamole Recipe: A Simple Culinary Guide",
+      "pinDescription": "The Authentic Guacamole Recipe with a click-worthy angle, useful details, and a more tempting way to explore the full post. a simple culinary guide, master the art of the perfect guacamole recipe discover essential ingredients, professional preparation techniques",
+      "primaryKeyword": "the authentic guacamole recipe",
+      "supportingKeywords": [
+        "the authentic guacamole recipe",
+        "a simple culinary guide",
+        "master the art of the perfect guacamole recipe discover essential ingredients",
+        "professional preparation techniques",
+        "and tips for the best flavor profile"
+      ],
+      "searchTags": [
+        "the authentic guacamole recipe",
+        "a simple culinary guide",
+        "master the art of the perfect guacamole recipe discover essential ingredients",
+        "professional preparation techniques",
+        "and tips for the best flavor profile",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-authentic-guacamole-recipe-a-simple-culinary-g_20260729_204050.webp",
+      "status": "rendered",
+      "createdAt": "2026-07-29T20:53:37.205Z",
+      "scheduledFor": "2026-07-29T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-authentic-guacamole-recipe-a-simple-culinary-g_20260729_204050.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-guacamole-recipe-hero.jpg",
+      "renderedAt": "2026-07-29T20:53:54.939Z"
     }
   },
   "queue": {
@@ -19385,7 +19464,9 @@
       "postId": 4789,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072987434",
+      "publishedAt": "2026-07-29T20:54:03.869Z"
     },
     "4789-list-queue": {
       "id": "4789-list-queue",
@@ -21132,6 +21213,14 @@
       "assetId": "4929-hero",
       "postId": 4929,
       "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-07-29T09:00:00.000Z",
+      "status": "draft"
+    },
+    "4932-hero-queue": {
+      "id": "4932-hero-queue",
+      "assetId": "4932-hero",
+      "postId": 4932,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "status": "draft"
     }
