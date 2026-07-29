@@ -11144,9 +11144,12 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-homemade-dill-pickle-recipe_20260702_102522.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.541Z",
-      "scheduledFor": "2026-08-06T19:00:00.000Z"
+      "scheduledFor": "2026-08-06T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-homemade-dill-pickle-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T02:28:09.174Z"
     },
     "4705-hero": {
       "id": "4705-hero",
@@ -12590,9 +12593,12 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/the-ultimate-guide-to-homemade-pop-tarts_20260626_104050.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.368Z",
-      "scheduledFor": "2026-08-06T19:00:00.000Z"
+      "scheduledFor": "2026-08-06T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/homemade-pop-tarts-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T02:28:10.878Z"
     },
     "4669-hero": {
       "id": "4669-hero",
@@ -14019,7 +14025,7 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-classic-homemade-lemonade-recipe_20260726_104906.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T14:09:59.063Z",
       "scheduledFor": "2026-07-26T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-classic-homemade-lemonade-recipe_20260726_104906.webp",
@@ -14027,7 +14033,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-homemade-lemonade-recipe-hero.jpg",
-      "renderedAt": "2026-07-26T14:10:17.811Z"
+      "renderedAt": "2026-07-26T14:10:17.811Z",
+      "pinId": "419397784072981991",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072981991/",
+      "publishedAt": "2026-07-29T02:28:26.083Z"
     },
     "4905-hero": {
       "id": "4905-hero",
@@ -14865,9 +14874,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/the-ultimate-guide-to-the-perfect-breakfast-casser_20260520_212754.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-26T20:56:37.982Z",
-      "scheduledFor": "2026-08-07T09:00:00.000Z"
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/the-ultimate-guide-to-the-perfect-breakfast-casser_20260520_212754.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/perfect-breakfast-casserole-guide-hero.jpg",
+      "renderedAt": "2026-07-29T02:28:12.671Z"
     },
     "4411-hero": {
       "id": "4411-hero",
@@ -15279,9 +15294,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/the-art-of-the-perfect-strawberry-shortcake_20260518_113511.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T02:44:19.503Z",
-      "scheduledFor": "2026-08-07T09:00:00.000Z"
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/the-art-of-the-perfect-strawberry-shortcake_20260518_113511.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/perfect-strawberry-shortcake-guide-hero.jpg",
+      "renderedAt": "2026-07-29T02:28:14.372Z"
     },
     "4378-hero": {
       "id": "4378-hero",
@@ -15729,9 +15750,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/refreshing-mediterranean-lemon-herb-chicken-skewer_20260515_204631.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T07:28:56.177Z",
-      "scheduledFor": "2026-08-07T09:00:00.000Z"
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/refreshing-mediterranean-lemon-herb-chicken-skewer_20260515_204631.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/summer-recipes-mediterranean-chicken-skewers-hero.jpg",
+      "renderedAt": "2026-07-29T02:28:16.250Z"
     },
     "4342-hero": {
       "id": "4342-hero",
@@ -16221,9 +16248,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/refreshing-mediterranean-lemon-herb-chicken-skewer_20260511_183442.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T11:18:53.884Z",
-      "scheduledFor": "2026-08-07T09:00:00.000Z"
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/refreshing-mediterranean-lemon-herb-chicken-skewer_20260511_183442.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/summer-dinner-recipes-mediterranean-chicken-skewers-hero.jpg",
+      "renderedAt": "2026-07-29T02:28:18.081Z"
     },
     "4306-hero": {
       "id": "4306-hero",
@@ -16587,9 +16620,15 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/guide-to-refreshing-summer-dinner-ideas_20260510_095422.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T14:29:32.064Z",
-      "scheduledFor": "2026-08-07T09:00:00.000Z"
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/guide-to-refreshing-summer-dinner-ideas_20260510_095422.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/refreshing-summer-dinner-ideas-hero.jpg",
+      "renderedAt": "2026-07-29T02:28:19.887Z"
     },
     "4270-hero": {
       "id": "4270-hero",
@@ -16991,9 +17030,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/simple-chicken-caesar-wraps-recipes-for-quick-meal_20260509_225301.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T17:41:21.296Z",
-      "scheduledFor": "2026-08-07T09:00:00.000Z"
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/simple-chicken-caesar-wraps-recipes-for-quick-meal_20260509_225301.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chicken-caesar-wraps-recipes-5-hero.jpg",
+      "renderedAt": "2026-07-29T02:28:21.773Z"
     },
     "4226-hero": {
       "id": "4226-hero",
@@ -17525,9 +17570,15 @@
         "hazelnut & chocolate spreads"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/04/easy-homemade-chocolate-spread-recipe_20260412_164305.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T21:08:50.503Z",
-      "scheduledFor": "2026-08-07T09:00:00.000Z"
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/04/easy-homemade-chocolate-spread-recipe_20260412_164305.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/easy-homemade-chocolate-spread-hero.jpg",
+      "renderedAt": "2026-07-29T02:28:23.643Z"
     },
     "4080-hero": {
       "id": "4080-hero",
@@ -20009,7 +20060,9 @@
       "postId": 4908,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
       "scheduledFor": "2026-07-26T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072981991",
+      "publishedAt": "2026-07-29T02:28:26.083Z"
     },
     "4905-hero-queue": {
       "id": "4905-hero-queue",
