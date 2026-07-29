@@ -8197,7 +8197,7 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/homemade-fresh-peach-ice-cream-recipe_20260721_101018.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.344Z",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/homemade-fresh-peach-ice-cream-recipe_20260721_101018.jpg",
@@ -8205,7 +8205,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/homemade-fresh-peach-ice-cream-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T18:33:32.046Z"
+      "renderedAt": "2026-07-24T18:33:32.046Z",
+      "pinId": "419397784072985830",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072985830/",
+      "publishedAt": "2026-07-29T17:14:03.117Z"
     },
     "4825-list": {
       "id": "4825-list",
@@ -9134,9 +9137,12 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-cherry-almond-clafoutis-recipe_20260717_094213.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.353Z",
-      "scheduledFor": "2026-08-10T19:00:00.000Z"
+      "scheduledFor": "2026-08-10T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-cherry-almond-clafoutis-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T17:13:43.369Z"
     },
     "4801-hero": {
       "id": "4801-hero",
@@ -9253,9 +9259,12 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/refreshing-pins-colada-recipe-a-tropical-classic_20260716_204119.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.355Z",
-      "scheduledFor": "2026-08-11T19:00:00.000Z"
+      "scheduledFor": "2026-08-11T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/pins-colada-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T17:13:49.457Z"
     },
     "4798-hero": {
       "id": "4798-hero",
@@ -9372,9 +9381,12 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-italian-style-zucchini-boat-recipes_20260716_104602.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.356Z",
-      "scheduledFor": "2026-08-12T19:00:00.000Z"
+      "scheduledFor": "2026-08-12T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-zucchini-boat-recipes-guide.jpg",
+      "renderedAt": "2026-07-29T17:13:55.851Z"
     },
     "4795-hero": {
       "id": "4795-hero",
@@ -10351,9 +10363,12 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-roasted-tomatillo-salsa-verde-recipe_20260713_204553.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.419Z",
-      "scheduledFor": "2026-08-12T19:00:00.000Z"
+      "scheduledFor": "2026-08-12T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-roasted-tomatillo-salsa-verde-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T17:13:57.931Z"
     },
     "4771-hero": {
       "id": "4771-hero",
@@ -11687,9 +11702,12 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/mediterranean-herb-roasted-squash-and-zucchini-rec_20260630_104612.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.546Z",
-      "scheduledFor": "2026-08-10T19:00:00.000Z"
+      "scheduledFor": "2026-08-10T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/squash-and-zucchini-recipes-guide.jpg",
+      "renderedAt": "2026-07-29T17:13:45.481Z"
     },
     "4693-hero": {
       "id": "4693-hero",
@@ -11806,9 +11824,12 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/the-complete-guide-to-selecting-a-high-protein-des_20260629_211453.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.548Z",
-      "scheduledFor": "2026-08-11T19:00:00.000Z"
+      "scheduledFor": "2026-08-11T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/guide-choosing-protein-dessert-guide.jpg",
+      "renderedAt": "2026-07-29T17:13:51.579Z"
     },
     "4690-hero": {
       "id": "4690-hero",
@@ -11925,9 +11946,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/the-ultimate-brownies-recipe-homemade_20260629_121945.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.549Z",
-      "scheduledFor": "2026-08-12T19:00:00.000Z"
+      "scheduledFor": "2026-08-12T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/perfect-brownies-recipe-homemade-guide.jpg",
+      "renderedAt": "2026-07-29T17:14:00.057Z"
     },
     "4687-hero": {
       "id": "4687-hero",
@@ -13148,9 +13172,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/light-and-zesty-lemon-shortbread-summer-cookie-rec_20260624_103820.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.375Z",
-      "scheduledFor": "2026-08-10T19:00:00.000Z"
+      "scheduledFor": "2026-08-10T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/summer-cookie-recipes-lemon-shortbread-guide.jpg",
+      "renderedAt": "2026-07-29T17:13:47.620Z"
     },
     "4657-hero": {
       "id": "4657-hero",
@@ -13267,9 +13294,12 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/simple-mediterranean-quinoa-bowl-for-beginners_20260623_105136.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.376Z",
-      "scheduledFor": "2026-08-11T19:00:00.000Z"
+      "scheduledFor": "2026-08-11T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/simple-mediterranean-quinoa-bowl-for-beginners-guide.jpg",
+      "renderedAt": "2026-07-29T17:13:53.698Z"
     },
     "4654-hero": {
       "id": "4654-hero",
@@ -19061,7 +19091,9 @@
       "postId": 4825,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072985830",
+      "publishedAt": "2026-07-29T17:14:03.117Z"
     },
     "4825-list-queue": {
       "id": "4825-list-queue",
