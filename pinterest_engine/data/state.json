@@ -8740,9 +8740,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/refreshing-watermelon-feta-salad-with-mint_20260719_203502.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.350Z",
-      "scheduledFor": "2026-08-07T19:00:00.000Z"
+      "scheduledFor": "2026-08-07T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/refreshing-watermelon-feta-salad-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T06:29:33.108Z"
     },
     "4810-hero": {
       "id": "4810-hero",
@@ -9295,9 +9298,12 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-italian-style-zucchini-boat-recipes_20260716_104602.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.356Z",
-      "scheduledFor": "2026-08-07T14:00:00.000Z"
+      "scheduledFor": "2026-08-07T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-zucchini-boat-recipes-list.jpg",
+      "renderedAt": "2026-07-29T06:29:25.975Z"
     },
     "4798-guide": {
       "id": "4798-guide",
@@ -10265,9 +10271,12 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-roasted-tomatillo-salsa-verde-recipe_20260713_204553.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.419Z",
-      "scheduledFor": "2026-08-07T14:00:00.000Z"
+      "scheduledFor": "2026-08-07T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-roasted-tomatillo-salsa-verde-recipe-list.jpg",
+      "renderedAt": "2026-07-29T06:29:28.093Z"
     },
     "4774-guide": {
       "id": "4774-guide",
@@ -11266,9 +11275,12 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-vanilla-bean-cream-best-ice-cream-recipes_20260701_211435.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.543Z",
-      "scheduledFor": "2026-08-07T19:00:00.000Z"
+      "scheduledFor": "2026-08-07T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-ice-cream-recipes-for-ice-cream-maker-guide.jpg",
+      "renderedAt": "2026-07-29T06:29:35.042Z"
     },
     "4702-hero": {
       "id": "4702-hero",
@@ -11821,9 +11833,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/the-ultimate-brownies-recipe-homemade_20260629_121945.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:53:55.549Z",
-      "scheduledFor": "2026-08-07T14:00:00.000Z"
+      "scheduledFor": "2026-08-07T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/perfect-brownies-recipe-homemade-list.jpg",
+      "renderedAt": "2026-07-29T06:29:30.232Z"
     },
     "4690-guide": {
       "id": "4690-guide",
@@ -12715,9 +12730,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/authentic-greek-tzatziki-sauce-a-simple-homemade-g_20260625_211953.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.369Z",
-      "scheduledFor": "2026-08-07T19:00:00.000Z"
+      "scheduledFor": "2026-08-07T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-greek-tzatziki-sauce-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T06:29:37.197Z"
     },
     "4666-hero": {
       "id": "4666-hero",
@@ -13270,9 +13288,12 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/refreshing-homemade-watermelon-margarita-recipe_20260622_215334.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T19:04:03.376Z",
-      "scheduledFor": "2026-08-07T14:00:00.000Z"
+      "scheduledFor": "2026-08-07T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/watermelon-margarita-recipe-list.jpg",
+      "renderedAt": "2026-07-29T06:29:32.432Z"
     },
     "4654-guide": {
       "id": "4654-guide",
@@ -14070,7 +14091,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-tres-leches-cake-a-culinary-deep-dive_20260726_094838.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T14:09:59.063Z",
       "scheduledFor": "2026-07-26T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-tres-leches-cake-a-culinary-deep-dive_20260726_094838.webp",
@@ -14078,7 +14099,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/the-ultimate-tres-leches-cake-guide-hero.jpg",
-      "renderedAt": "2026-07-26T14:10:19.610Z"
+      "renderedAt": "2026-07-26T14:10:19.610Z",
+      "pinId": "419397784072982988",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072982988/",
+      "publishedAt": "2026-07-29T06:29:43.030Z"
     },
     "4902-hero": {
       "id": "4902-hero",
@@ -15336,9 +15360,15 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/the-essential-guide-to-crockpot-recipes_20260518_074551.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T02:44:19.504Z",
-      "scheduledFor": "2026-08-08T09:00:00.000Z"
+      "scheduledFor": "2026-08-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/the-essential-guide-to-crockpot-recipes_20260518_074551.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crockpot-recipes-essential-guide-hero.jpg",
+      "renderedAt": "2026-07-29T06:29:39.510Z"
     },
     "4375-hero": {
       "id": "4375-hero",
@@ -17942,9 +17972,15 @@
         "viral food trends & sweet ideas"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/03/makrout-the-sweet-north-african-pastry-trending-no_20260319_145107.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-28T02:23:55.091Z",
-      "scheduledFor": "2026-08-07T09:00:00.000Z"
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/03/makrout-the-sweet-north-african-pastry-trending-no_20260319_145107.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/makrout-trending-north-african-pastry-hero.jpg",
+      "renderedAt": "2026-07-29T06:29:23.823Z"
     },
     "3555-hero": {
       "id": "3555-hero",
@@ -20070,7 +20106,9 @@
       "postId": 4905,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-26T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072982988",
+      "publishedAt": "2026-07-29T06:29:43.030Z"
     },
     "4902-hero-queue": {
       "id": "4902-hero-queue",
