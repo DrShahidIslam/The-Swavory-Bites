@@ -8862,9 +8862,12 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-genovese-pesto-a-definitive-basil-recipe_20260719_094033.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:33:25.351Z",
-      "scheduledFor": "2026-08-08T19:00:00.000Z"
+      "scheduledFor": "2026-08-08T19:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-genovese-pesto-recipe-guide.jpg",
+      "renderedAt": "2026-07-29T10:37:12.870Z"
     },
     "4807-hero": {
       "id": "4807-hero",
@@ -10390,9 +10393,12 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-rise-of-zucchini-cake-a-modern-baking-essentia_20260713_104603.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.420Z",
-      "scheduledFor": "2026-08-08T14:00:00.000Z"
+      "scheduledFor": "2026-08-08T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/the-rise-of-zucchini-cake-list.jpg",
+      "renderedAt": "2026-07-29T10:37:07.807Z"
     },
     "4771-guide": {
       "id": "4771-guide",
@@ -10506,9 +10512,12 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-cucumber-sandwiches-a-refined-tea-time-sta_20260712_183241.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-24T18:36:28.421Z",
-      "scheduledFor": "2026-08-08T14:00:00.000Z"
+      "scheduledFor": "2026-08-08T14:00:00.000Z",
+      "imageSourceDuplicate": true,
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-cucumber-sandwiches-recipe-list.jpg",
+      "renderedAt": "2026-07-29T10:37:10.473Z"
     },
     "4768-guide": {
       "id": "4768-guide",
@@ -14520,7 +14529,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-blueberry-streusel-muffin-recipe_20260726_204245.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T20:56:28.247Z",
       "scheduledFor": "2026-07-26T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-blueberry-streusel-muffin-recipe_20260726_204245.webp",
@@ -14528,7 +14537,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-blueberry-streusel-muffins-hero.jpg",
-      "renderedAt": "2026-07-26T20:56:40.226Z"
+      "renderedAt": "2026-07-26T20:56:40.226Z",
+      "pinId": "419397784072983659",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072983659/",
+      "publishedAt": "2026-07-29T10:37:16.070Z"
     },
     "4441-hero": {
       "id": "4441-hero",
@@ -15822,9 +15834,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/essential-sweet-potato-recipes-for-every-kitchen_20260515_101046.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T07:28:56.178Z",
-      "scheduledFor": "2026-08-08T09:00:00.000Z"
+      "scheduledFor": "2026-08-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/essential-sweet-potato-recipes-for-every-kitchen_20260515_101046.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/sweet-potato-recipes-hero.jpg",
+      "renderedAt": "2026-07-29T10:36:53.090Z"
     },
     "4339-hero": {
       "id": "4339-hero",
@@ -16320,9 +16338,15 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/selecting-the-perfect-birthday-cake-a-consumer-gui_20260511_105107.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T11:18:53.885Z",
-      "scheduledFor": "2026-08-08T09:00:00.000Z"
+      "scheduledFor": "2026-08-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/selecting-the-perfect-birthday-cake-a-consumer-gui_20260511_105107.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/selecting-the-perfect-birthday-cake-2-hero.jpg",
+      "renderedAt": "2026-07-29T10:36:55.531Z"
     },
     "4303-hero": {
       "id": "4303-hero",
@@ -16692,9 +16716,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/refreshing-mediterranean-quinoa-salad_20260510_095225.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T14:29:32.066Z",
-      "scheduledFor": "2026-08-08T09:00:00.000Z"
+      "scheduledFor": "2026-08-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/refreshing-mediterranean-quinoa-salad_20260510_095225.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/refreshing-mediterranean-quinoa-salad-hero.jpg",
+      "renderedAt": "2026-07-29T10:36:57.914Z"
     },
     "4267-hero": {
       "id": "4267-hero",
@@ -17102,9 +17132,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/the-classic-rotel-dip-recipe-a-simple-cheese-appet_20260509_224209.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T17:41:21.297Z",
-      "scheduledFor": "2026-08-08T09:00:00.000Z"
+      "scheduledFor": "2026-08-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/the-classic-rotel-dip-recipe-a-simple-cheese-appet_20260509_224209.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/rotel-dip-recipe-5-hero.jpg",
+      "renderedAt": "2026-07-29T10:37:00.422Z"
     },
     "4920-hero": {
       "id": "4920-hero",
@@ -17642,9 +17678,15 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/03/chef-nazia-s-puff-pastry-masterclass-mastering-fre_20260329_150729.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-27T21:08:50.504Z",
-      "scheduledFor": "2026-08-08T09:00:00.000Z"
+      "scheduledFor": "2026-08-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/03/chef-nazia-s-puff-pastry-masterclass-mastering-fre_20260329_150729.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chef-nazia-puff-pastry-french-folding-techniques-hero.jpg",
+      "renderedAt": "2026-07-29T10:37:02.730Z"
     },
     "4077-hero": {
       "id": "4077-hero",
@@ -18014,9 +18056,15 @@
         "viral food trends & sweet ideas"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/03/amaury-guichon-the-french-pastry-chef-s-rising-tre_20260319_070307.jpg",
-      "status": "pending_render",
+      "status": "rendered",
       "createdAt": "2026-07-28T02:23:55.092Z",
-      "scheduledFor": "2026-08-08T09:00:00.000Z"
+      "scheduledFor": "2026-08-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/03/amaury-guichon-the-french-pastry-chef-s-rising-tre_20260319_070307.jpg",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/french-pastry-chef-amaury-guichon-trend-hero.jpg",
+      "renderedAt": "2026-07-29T10:37:05.285Z"
     },
     "3528-hero": {
       "id": "3528-hero",
@@ -20192,7 +20240,9 @@
       "postId": 4917,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-26T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072983659",
+      "publishedAt": "2026-07-29T10:37:16.071Z"
     },
     "4441-hero-queue": {
       "id": "4441-hero-queue",
