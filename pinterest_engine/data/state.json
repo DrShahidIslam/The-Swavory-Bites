@@ -10799,7 +10799,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-magic-of-italian-love-cake-a-creamy-layered-de_20260703_204920.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:53:55.537Z",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-magic-of-italian-love-cake-a-creamy-layered-de_20260703_204920.jpg",
@@ -10807,7 +10807,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/italian-love-cake-guide-hero.jpg",
-      "renderedAt": "2026-07-24T18:53:59.976Z"
+      "renderedAt": "2026-07-24T18:53:59.976Z",
+      "pinId": "419397784072989142",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072989142/",
+      "publishedAt": "2026-07-30T02:10:25.246Z"
     },
     "4717-list": {
       "id": "4717-list",
@@ -19684,7 +19687,9 @@
       "postId": 4717,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072989142",
+      "publishedAt": "2026-07-30T02:10:25.247Z"
     },
     "4717-list-queue": {
       "id": "4717-list-queue",
