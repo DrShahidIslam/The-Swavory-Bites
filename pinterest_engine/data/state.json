@@ -6194,6 +6194,31 @@
         "strawberry"
       ],
       "discoveredAt": "2026-07-30T10:23:16.519Z"
+    },
+    "4938": {
+      "postId": 4938,
+      "title": "How to Make Perfect Pancakes From Scratch",
+      "url": "https://el-mordjene.info/pancakes-from-scratch/",
+      "slug": "pancakes-from-scratch",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/how-to-make-perfect-pancakes-from-scratch_20260730_205233.webp",
+      "keywordSet": [
+        "how to make perfect pancakes from scratch",
+        "master the art of making pancakes from scratch with this essential guide learn the science",
+        "troubleshooting tips",
+        "and classic techniques for success",
+        "understanding the basics of scratch cooking",
+        "technique and preparation",
+        "common mistakes and fixes",
+        "classic pancakes from scratch",
+        "breakfast",
+        "cooking"
+      ],
+      "discoveredAt": "2026-07-30T21:07:29.391Z"
     }
   },
   "assets": {
@@ -8043,12 +8068,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/refreshing-peach-salsa-recipe-a-balanced-summer-fa_20260722_101012.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.341Z",
       "scheduledFor": "2026-07-27T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/refreshing-peach-salsa-recipe-list.jpg",
-      "renderedAt": "2026-07-24T18:33:32.627Z"
+      "renderedAt": "2026-07-24T18:33:32.627Z",
+      "pinId": "419397784072994882",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072994882/",
+      "publishedAt": "2026-07-30T21:07:53.504Z"
     },
     "4832-guide": {
       "id": "4832-guide",
@@ -18767,6 +18795,48 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/strawberry-pretzel-salad-guide-hero.jpg",
       "renderedAt": "2026-07-30T10:23:33.682Z"
+    },
+    "4938-hero": {
+      "id": "4938-hero",
+      "postId": 4938,
+      "postSlug": "pancakes-from-scratch",
+      "postUrl": "https://el-mordjene.info/pancakes-from-scratch/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "How To Make Perfect Pancakes From Scratch Worth Trying",
+      "overlaySubtitle": "Understanding the Basics of Scratch Cooking",
+      "pinTitle": "How to Make Perfect Pancakes From Scratch",
+      "pinDescription": "How To Make Perfect Pancakes From Scratch with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of making pancakes from scratch with this essential guide learn the science, troubleshooting tips, and classic techniques for success",
+      "primaryKeyword": "how to make perfect pancakes from scratch",
+      "supportingKeywords": [
+        "how to make perfect pancakes from scratch",
+        "master the art of making pancakes from scratch with this essential guide learn the science",
+        "troubleshooting tips",
+        "and classic techniques for success",
+        "understanding the basics of scratch cooking"
+      ],
+      "searchTags": [
+        "how to make perfect pancakes from scratch",
+        "master the art of making pancakes from scratch with this essential guide learn the science",
+        "troubleshooting tips",
+        "and classic techniques for success",
+        "understanding the basics of scratch cooking",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/how-to-make-perfect-pancakes-from-scratch_20260730_205233.webp",
+      "status": "rendered",
+      "createdAt": "2026-07-30T21:07:29.394Z",
+      "scheduledFor": "2026-07-30T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/how-to-make-perfect-pancakes-from-scratch_20260730_205233.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/pancakes-from-scratch-hero.jpg",
+      "renderedAt": "2026-07-30T21:07:50.567Z"
     }
   },
   "queue": {
@@ -19210,7 +19280,9 @@
       "postId": 4832,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-27T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072994882",
+      "publishedAt": "2026-07-30T21:07:53.504Z"
     },
     "4832-guide-queue": {
       "id": "4832-guide-queue",
@@ -21321,6 +21393,14 @@
       "assetId": "4935-hero",
       "postId": 4935,
       "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-07-30T09:00:00.000Z",
+      "status": "draft"
+    },
+    "4938-hero-queue": {
+      "id": "4938-hero-queue",
+      "assetId": "4938-hero",
+      "postId": 4938,
+      "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "status": "draft"
     }
