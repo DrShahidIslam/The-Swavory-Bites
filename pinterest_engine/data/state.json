@@ -17327,7 +17327,7 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-fresh-strawberry-shortcake-recipe_20260727_205747.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T21:08:35.471Z",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-fresh-strawberry-shortcake-recipe_20260727_205747.webp",
@@ -17335,7 +17335,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-fresh-strawberry-shortcake-recipe-hero.jpg",
-      "renderedAt": "2026-07-27T21:08:52.775Z"
+      "renderedAt": "2026-07-27T21:08:52.775Z",
+      "pinId": "419397784072993615",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072993615/",
+      "publishedAt": "2026-07-30T17:25:27.614Z"
     },
     "4223-hero": {
       "id": "4223-hero",
@@ -21045,7 +21048,9 @@
       "postId": 4920,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072993615",
+      "publishedAt": "2026-07-30T17:25:27.614Z"
     },
     "4223-hero-queue": {
       "id": "4223-hero-queue",
