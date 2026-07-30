@@ -6169,6 +6169,31 @@
         "guacamole"
       ],
       "discoveredAt": "2026-07-29T20:53:37.202Z"
+    },
+    "4935": {
+      "postId": 4935,
+      "title": "The Ultimate Guide to Strawberry Pretzel Salad",
+      "url": "https://el-mordjene.info/strawberry-pretzel-salad-guide/",
+      "slug": "strawberry-pretzel-salad-guide",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-guide-to-strawberry-pretzel-salad_20260730_100731.webp",
+      "keywordSet": [
+        "the ultimate guide to strawberry pretzel salad",
+        "master the classic strawberry pretzel salad with our expert guide learn the history",
+        "essential ingredients",
+        "and how to achieve the perfect texture",
+        "summer recipes",
+        "understanding the strawberry pretzel salad",
+        "user intent and decision criteria",
+        "authenticity and quality warnings",
+        "desserts",
+        "strawberry"
+      ],
+      "discoveredAt": "2026-07-30T10:23:16.519Z"
     }
   },
   "assets": {
@@ -13585,7 +13610,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/healthy-roasted-sweet-potato-grain-bowls_20260622_062958.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:14:10.178Z",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/healthy-roasted-sweet-potato-grain-bowls_20260622_062958.jpg",
@@ -13593,7 +13618,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/healthy-roasted-sweet-potato-grain-bowls-hero.jpg",
-      "renderedAt": "2026-07-24T19:14:16.598Z"
+      "renderedAt": "2026-07-24T19:14:16.598Z",
+      "pinId": "419397784072991133",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072991133/",
+      "publishedAt": "2026-07-30T10:23:36.870Z"
     },
     "4642-hero": {
       "id": "4642-hero",
@@ -18691,6 +18719,48 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-guacamole-recipe-hero.jpg",
       "renderedAt": "2026-07-29T20:53:54.939Z"
+    },
+    "4935-hero": {
+      "id": "4935-hero",
+      "postId": 4935,
+      "postSlug": "strawberry-pretzel-salad-guide",
+      "postUrl": "https://el-mordjene.info/strawberry-pretzel-salad-guide/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "The Ultimate Guide To Strawberry Pretzel Salad Worth...",
+      "overlaySubtitle": "Understanding the Strawberry Pretzel Salad",
+      "pinTitle": "The Ultimate Guide to Strawberry Pretzel Salad",
+      "pinDescription": "The Ultimate Guide To Strawberry Pretzel Salad with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the classic strawberry pretzel salad with our expert guide learn the history, essential ingredients, and how to achieve the perfect texture",
+      "primaryKeyword": "the ultimate guide to strawberry pretzel salad",
+      "supportingKeywords": [
+        "the ultimate guide to strawberry pretzel salad",
+        "master the classic strawberry pretzel salad with our expert guide learn the history",
+        "essential ingredients",
+        "and how to achieve the perfect texture",
+        "summer recipes"
+      ],
+      "searchTags": [
+        "the ultimate guide to strawberry pretzel salad",
+        "master the classic strawberry pretzel salad with our expert guide learn the history",
+        "essential ingredients",
+        "and how to achieve the perfect texture",
+        "summer recipes",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-guide-to-strawberry-pretzel-salad_20260730_100731.webp",
+      "status": "rendered",
+      "createdAt": "2026-07-30T10:23:16.521Z",
+      "scheduledFor": "2026-07-30T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-guide-to-strawberry-pretzel-salad_20260730_100731.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/strawberry-pretzel-salad-guide-hero.jpg",
+      "renderedAt": "2026-07-30T10:23:33.682Z"
     }
   },
   "queue": {
@@ -20246,7 +20316,9 @@
       "postId": 4645,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072991133",
+      "publishedAt": "2026-07-30T10:23:36.871Z"
     },
     "4642-hero-queue": {
       "id": "4642-hero-queue",
@@ -21232,6 +21304,14 @@
       "postId": 4932,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
+      "status": "draft"
+    },
+    "4935-hero-queue": {
+      "id": "4935-hero-queue",
+      "assetId": "4935-hero",
+      "postId": 4935,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-07-30T09:00:00.000Z",
       "status": "draft"
     }
   }
