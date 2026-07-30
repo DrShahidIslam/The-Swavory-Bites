@@ -14385,7 +14385,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/authentic-key-lime-pie-recipe-a-classic-citrus-des_20260725_182630.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T14:10:09.114Z",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/authentic-key-lime-pie-recipe-a-classic-citrus-des_20260725_182630.webp",
@@ -14393,7 +14393,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/key-lime-pie-recipe-hero.jpg",
-      "renderedAt": "2026-07-26T14:10:21.585Z"
+      "renderedAt": "2026-07-26T14:10:21.585Z",
+      "pinId": "419397784072992304",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072992304/",
+      "publishedAt": "2026-07-30T13:55:24.760Z"
     },
     "4893-hero": {
       "id": "4893-hero",
@@ -20478,7 +20481,9 @@
       "postId": 4896,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072992304",
+      "publishedAt": "2026-07-30T13:55:24.760Z"
     },
     "4893-hero-queue": {
       "id": "4893-hero-queue",
