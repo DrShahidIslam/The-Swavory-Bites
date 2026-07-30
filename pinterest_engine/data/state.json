@@ -12272,7 +12272,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/traditional-homemade-blackberry-jam-recipe_20260627_204605.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.363Z",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/traditional-homemade-blackberry-jam-recipe_20260627_204605.jpg",
@@ -12280,7 +12280,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/blackberry-jam-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T19:04:10.594Z"
+      "renderedAt": "2026-07-24T19:04:10.594Z",
+      "pinId": "419397784072990326",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072990326/",
+      "publishedAt": "2026-07-30T06:26:11.121Z"
     },
     "4681-list": {
       "id": "4681-list",
@@ -19981,7 +19984,9 @@
       "postId": 4681,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-27T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072990326",
+      "publishedAt": "2026-07-30T06:26:11.121Z"
     },
     "4681-list-queue": {
       "id": "4681-list-queue",
