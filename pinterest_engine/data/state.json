@@ -12124,12 +12124,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/simple-garlic-scapes-recipes-a-guide-to-spring-all_20260628_204821.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.358Z",
       "scheduledFor": "2026-07-27T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/garlic-scapes-recipes-list.jpg",
-      "renderedAt": "2026-07-24T19:04:11.217Z"
+      "renderedAt": "2026-07-24T19:04:11.217Z",
+      "pinId": "419397784072997794",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072997794/",
+      "publishedAt": "2026-07-31T06:42:34.165Z"
     },
     "4687-guide": {
       "id": "4687-guide",
@@ -20095,7 +20098,9 @@
       "postId": 4687,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-27T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072997794",
+      "publishedAt": "2026-07-31T06:42:34.165Z"
     },
     "4687-guide-queue": {
       "id": "4687-guide-queue",
