@@ -11011,7 +11011,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/crafting-the-perfect-father-s-day-cake_20260703_102319.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:53:55.538Z",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/crafting-the-perfect-father-s-day-cake_20260703_102319.jpg",
@@ -11019,7 +11019,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crafting-perfect-fathers-day-cake-hero.jpg",
-      "renderedAt": "2026-07-24T18:54:01.947Z"
+      "renderedAt": "2026-07-24T18:54:01.947Z",
+      "pinId": "419397784073000083",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073000083/",
+      "publishedAt": "2026-07-31T17:27:40.165Z"
     },
     "4714-list": {
       "id": "4714-list",
@@ -19949,7 +19952,9 @@
       "postId": 4714,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073000083",
+      "publishedAt": "2026-07-31T17:27:40.165Z"
     },
     "4714-list-queue": {
       "id": "4714-list-queue",
