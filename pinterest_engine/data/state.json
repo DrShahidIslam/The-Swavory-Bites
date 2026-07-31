@@ -12490,7 +12490,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/the-classic-chocolate-wafer-icebox-cake_20260627_095405.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.364Z",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/the-classic-chocolate-wafer-icebox-cake_20260627_095405.jpg",
@@ -12498,7 +12498,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-chocolate-wafer-icebox-cake-hero.jpg",
-      "renderedAt": "2026-07-24T19:04:13.412Z"
+      "renderedAt": "2026-07-24T19:04:13.412Z",
+      "pinId": "419397784073001260",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073001260/",
+      "publishedAt": "2026-07-31T21:02:36.921Z"
     },
     "4678-list": {
       "id": "4678-list",
@@ -20250,7 +20253,9 @@
       "postId": 4678,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073001260",
+      "publishedAt": "2026-07-31T21:02:36.921Z"
     },
     "4678-list-queue": {
       "id": "4678-list-queue",
