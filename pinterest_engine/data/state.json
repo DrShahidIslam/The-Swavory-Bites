@@ -9544,12 +9544,15 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/simple-zucchini-fritters-a-quick-weeknight-staple_20260716_104129.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:36:28.409Z",
       "scheduledFor": "2026-07-27T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/easy-zucchini-recipes-fritters-list.jpg",
-      "renderedAt": "2026-07-24T18:36:35.941Z"
+      "renderedAt": "2026-07-24T18:36:35.941Z",
+      "pinId": "419397784072996767",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072996767/",
+      "publishedAt": "2026-07-31T02:38:20.371Z"
     },
     "4795-guide": {
       "id": "4795-guide",
@@ -19576,7 +19579,9 @@
       "postId": 4795,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-07-27T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072996767",
+      "publishedAt": "2026-07-31T02:38:20.371Z"
     },
     "4795-guide-queue": {
       "id": "4795-guide-queue",
