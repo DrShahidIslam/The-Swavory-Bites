@@ -6219,6 +6219,31 @@
         "cooking"
       ],
       "discoveredAt": "2026-07-30T21:07:29.391Z"
+    },
+    "4941": {
+      "postId": 4941,
+      "title": "The Ultimate Guide to Perfect Ninja Creami Recipes",
+      "url": "https://el-mordjene.info/ninja-creami-recipes/",
+      "slug": "ninja-creami-recipes",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-guide-to-perfect-ninja-creami-recipes_20260731_102418.webp",
+      "keywordSet": [
+        "the ultimate guide to perfect ninja creami recipes",
+        "master the art of frozen desserts with these expert ninja creami recipes learn techniques for creamy textures",
+        "ingredient tips",
+        "and customization",
+        "mastering frozen treats at home",
+        "understanding the science of the freeze",
+        "tips for consistent results",
+        "classic vanilla bean creami",
+        "appliances",
+        "desserts"
+      ],
+      "discoveredAt": "2026-07-31T10:36:52.169Z"
     }
   },
   "assets": {
@@ -8400,7 +8425,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/simple-roasted-honey-and-thyme-peaches_20260720_205703.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.345Z",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/simple-roasted-honey-and-thyme-peaches_20260720_205703.jpg",
@@ -8408,7 +8433,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/simple-roasted-honey-thyme-peaches-hero.jpg",
-      "renderedAt": "2026-07-24T18:33:34.786Z"
+      "renderedAt": "2026-07-24T18:33:34.786Z",
+      "pinId": "419397784072998481",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784072998481/",
+      "publishedAt": "2026-07-31T10:37:13.149Z"
     },
     "4822-list": {
       "id": "4822-list",
@@ -18843,6 +18871,48 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/pancakes-from-scratch-hero.jpg",
       "renderedAt": "2026-07-30T21:07:50.567Z"
+    },
+    "4941-hero": {
+      "id": "4941-hero",
+      "postId": 4941,
+      "postSlug": "ninja-creami-recipes",
+      "postUrl": "https://el-mordjene.info/ninja-creami-recipes/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "The Ultimate Guide To Perfect Ninja Creami Recipes Wo...",
+      "overlaySubtitle": "Mastering Frozen Treats at Home",
+      "pinTitle": "The Ultimate Guide to Perfect Ninja Creami Recipes",
+      "pinDescription": "The Ultimate Guide To Perfect Ninja Creami Recipes with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of frozen desserts with these expert ninja creami recipes learn techniques for creamy textures, ingredient tips, and customization",
+      "primaryKeyword": "the ultimate guide to perfect ninja creami recipes",
+      "supportingKeywords": [
+        "the ultimate guide to perfect ninja creami recipes",
+        "master the art of frozen desserts with these expert ninja creami recipes learn techniques for creamy textures",
+        "ingredient tips",
+        "and customization",
+        "mastering frozen treats at home"
+      ],
+      "searchTags": [
+        "the ultimate guide to perfect ninja creami recipes",
+        "master the art of frozen desserts with these expert ninja creami recipes learn techniques for creamy textures",
+        "ingredient tips",
+        "and customization",
+        "mastering frozen treats at home",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-guide-to-perfect-ninja-creami-recipes_20260731_102418.webp",
+      "status": "rendered",
+      "createdAt": "2026-07-31T10:36:52.171Z",
+      "scheduledFor": "2026-07-31T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-guide-to-perfect-ninja-creami-recipes_20260731_102418.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/ninja-creami-recipes-hero.jpg",
+      "renderedAt": "2026-07-31T10:37:10.252Z"
     }
   },
   "queue": {
@@ -19356,7 +19426,9 @@
       "postId": 4822,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784072998481",
+      "publishedAt": "2026-07-31T10:37:13.149Z"
     },
     "4822-list-queue": {
       "id": "4822-list-queue",
@@ -21412,6 +21484,14 @@
       "postId": 4938,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
+      "status": "draft"
+    },
+    "4941-hero-queue": {
+      "id": "4941-hero-queue",
+      "assetId": "4941-hero",
+      "postId": 4941,
+      "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-07-31T09:00:00.000Z",
       "status": "draft"
     }
   }
