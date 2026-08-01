@@ -16162,7 +16162,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/effective-lunch-ideas-a-strategic-culinary-guide_20260515_073630.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T11:18:53.873Z",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/effective-lunch-ideas-a-strategic-culinary-guide_20260515_073630.jpg",
@@ -16170,7 +16170,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/effective-lunch-ideas-guide-hero.jpg",
-      "renderedAt": "2026-07-27T11:18:56.061Z"
+      "renderedAt": "2026-07-27T11:18:56.061Z",
+      "pinId": "419397784073007996",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073007996/",
+      "publishedAt": "2026-08-01T16:57:45.019Z"
     },
     "4336-hero": {
       "id": "4336-hero",
@@ -21123,7 +21126,9 @@
       "postId": 4339,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073007996",
+      "publishedAt": "2026-08-01T16:57:45.019Z"
     },
     "4336-hero-queue": {
       "id": "4336-hero-queue",
