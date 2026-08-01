@@ -13726,7 +13726,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/roasted-beet-and-goat-cheese-salad-with-walnut-vin_20260622_062707.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:14:10.179Z",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/roasted-beet-and-goat-cheese-salad-with-walnut-vin_20260622_062707.jpg",
@@ -13734,7 +13734,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/roasted-beet-and-goat-cheese-salad-hero.jpg",
-      "renderedAt": "2026-07-24T19:14:18.472Z"
+      "renderedAt": "2026-07-24T19:14:18.472Z",
+      "pinId": "419397784073003359",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073003359/",
+      "publishedAt": "2026-08-01T02:36:29.515Z"
     },
     "4639-hero": {
       "id": "4639-hero",
@@ -20501,7 +20504,9 @@
       "postId": 4642,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073003359",
+      "publishedAt": "2026-08-01T02:36:29.515Z"
     },
     "4639-hero-queue": {
       "id": "4639-hero-queue",
