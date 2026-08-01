@@ -6294,6 +6294,31 @@
         "cafe"
       ],
       "discoveredAt": "2026-08-01T13:15:42.290Z"
+    },
+    "4950": {
+      "postId": 4950,
+      "title": "Authentic Cowboy Caviar Recipe: A Fresh Garden Salad",
+      "url": "https://el-mordjene.info/cowboy-caviar-recipe/",
+      "slug": "cowboy-caviar-recipe",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/authentic-cowboy-caviar-recipe-a-fresh-garden-sala_20260801_203748.webp",
+      "keywordSet": [
+        "authentic cowboy caviar recipe",
+        "a fresh garden salad",
+        "learn how to make a classic cowboy caviar recipe this vibrant",
+        "packed salad uses beans",
+        "and fresh vegetables for a perfect side dish",
+        "understanding cowboy caviar",
+        "historical context and usage",
+        "essential ingredients for balance",
+        "protein",
+        "corn"
+      ],
+      "discoveredAt": "2026-08-01T20:49:48.081Z"
     }
   },
   "assets": {
@@ -16669,7 +16694,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/choosing-the-ideal-summer-dinner-a-culinary-guide_20260511_142153.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T14:29:32.053Z",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/choosing-the-ideal-summer-dinner-a-culinary-guide_20260511_142153.jpg",
@@ -16677,7 +16702,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/choosing-the-ideal-summer-dinner-hero.jpg",
-      "renderedAt": "2026-07-27T14:29:34.433Z"
+      "renderedAt": "2026-07-27T14:29:34.433Z",
+      "pinId": "419397784073009385",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073009385/",
+      "publishedAt": "2026-08-01T20:50:06.026Z"
     },
     "4297-hero": {
       "id": "4297-hero",
@@ -19071,6 +19099,48 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/understanding-dutch-bros-drinks-hero.jpg",
       "renderedAt": "2026-08-01T13:16:00.059Z"
+    },
+    "4950-hero": {
+      "id": "4950-hero",
+      "postId": 4950,
+      "postSlug": "cowboy-caviar-recipe",
+      "postUrl": "https://el-mordjene.info/cowboy-caviar-recipe/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Authentic Cowboy Caviar Recipe Worth Trying",
+      "overlaySubtitle": "Understanding Cowboy Caviar",
+      "pinTitle": "Authentic Cowboy Caviar Recipe: A Fresh Garden Salad",
+      "pinDescription": "Authentic Cowboy Caviar Recipe with a click-worthy angle, useful details, and a more tempting way to explore the full post. a fresh garden salad, learn how to make a classic cowboy caviar recipe this vibrant, packed salad uses beans",
+      "primaryKeyword": "authentic cowboy caviar recipe",
+      "supportingKeywords": [
+        "authentic cowboy caviar recipe",
+        "a fresh garden salad",
+        "learn how to make a classic cowboy caviar recipe this vibrant",
+        "packed salad uses beans",
+        "and fresh vegetables for a perfect side dish"
+      ],
+      "searchTags": [
+        "authentic cowboy caviar recipe",
+        "a fresh garden salad",
+        "learn how to make a classic cowboy caviar recipe this vibrant",
+        "packed salad uses beans",
+        "and fresh vegetables for a perfect side dish",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/authentic-cowboy-caviar-recipe-a-fresh-garden-sala_20260801_203748.webp",
+      "status": "rendered",
+      "createdAt": "2026-08-01T20:49:48.084Z",
+      "scheduledFor": "2026-08-01T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/authentic-cowboy-caviar-recipe-a-fresh-garden-sala_20260801_203748.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cowboy-caviar-recipe-hero.jpg",
+      "renderedAt": "2026-08-01T20:50:03.063Z"
     }
   },
   "queue": {
@@ -21224,7 +21294,9 @@
       "postId": 4303,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073009385",
+      "publishedAt": "2026-08-01T20:50:06.026Z"
     },
     "4297-hero-queue": {
       "id": "4297-hero-queue",
@@ -21681,6 +21753,14 @@
       "assetId": "4947-hero",
       "postId": 4947,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-08-01T09:00:00.000Z",
+      "status": "draft"
+    },
+    "4950-hero-queue": {
+      "id": "4950-hero-queue",
+      "assetId": "4950-hero",
+      "postId": 4950,
+      "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "status": "draft"
     }
