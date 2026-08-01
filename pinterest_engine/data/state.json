@@ -14504,7 +14504,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-classic-strawberry-pretzel-dessert-a-culinary_20260725_182413.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T14:10:09.117Z",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-classic-strawberry-pretzel-dessert-a-culinary_20260725_182413.webp",
@@ -14512,7 +14512,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/strawberry-pretzel-dessert-guide-hero.jpg",
-      "renderedAt": "2026-07-26T14:10:23.526Z"
+      "renderedAt": "2026-07-26T14:10:23.526Z",
+      "pinId": "419397784073005467",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073005467/",
+      "publishedAt": "2026-08-01T06:27:41.053Z"
     },
     "4890-hero": {
       "id": "4890-hero",
@@ -20668,7 +20671,9 @@
       "postId": 4893,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073005467",
+      "publishedAt": "2026-08-01T06:27:41.054Z"
     },
     "4890-hero-queue": {
       "id": "4890-hero-queue",
