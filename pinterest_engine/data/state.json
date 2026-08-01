@@ -6244,6 +6244,31 @@
         "desserts"
       ],
       "discoveredAt": "2026-07-31T10:36:52.169Z"
+    },
+    "4944": {
+      "postId": 4944,
+      "title": "Classic Blackstone Smash Burgers: The Ultimate Flat-Top Guide",
+      "url": "https://el-mordjene.info/classic-blackstone-smash-burgers/",
+      "slug": "classic-blackstone-smash-burgers",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/classic-blackstone-smash-burgers-the-ultimate-flat_20260801_094643.webp",
+      "keywordSet": [
+        "classic blackstone smash burgers",
+        "the ultimate flat",
+        "top guide",
+        "master the art of cooking on a flat",
+        "top grill with this guide to blackstone grill recipes learn the secrets to the perfect",
+        "crispy smash burger",
+        "mastering flat",
+        "top cooking",
+        "grilling",
+        "outdoor"
+      ],
+      "discoveredAt": "2026-08-01T09:56:37.490Z"
     }
   },
   "assets": {
@@ -15182,7 +15207,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/mastering-pan-seared-pork-chop-recipes_20260520_103945.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T02:44:19.489Z",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/mastering-pan-seared-pork-chop-recipes_20260520_103945.jpg",
@@ -15190,7 +15215,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/mastering-pan-seared-pork-chop-recipes-hero.jpg",
-      "renderedAt": "2026-07-27T02:44:22.095Z"
+      "renderedAt": "2026-07-27T02:44:22.095Z",
+      "pinId": "419397784073006165",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073006165/",
+      "publishedAt": "2026-08-01T09:56:55.406Z"
     },
     "4408-hero": {
       "id": "4408-hero",
@@ -18928,6 +18956,48 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/ninja-creami-recipes-hero.jpg",
       "renderedAt": "2026-07-31T10:37:10.252Z"
+    },
+    "4944-hero": {
+      "id": "4944-hero",
+      "postId": 4944,
+      "postSlug": "classic-blackstone-smash-burgers",
+      "postUrl": "https://el-mordjene.info/classic-blackstone-smash-burgers/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Classic Blackstone Smash Burgers Worth Trying",
+      "overlaySubtitle": "Mastering Flat-Top Cooking",
+      "pinTitle": "Classic Blackstone Smash Burgers: The Ultimate Flat-Top Guide",
+      "pinDescription": "Classic Blackstone Smash Burgers with a click-worthy angle, useful details, and a more tempting way to explore the full post. the ultimate flat, top guide, master the art of cooking on a flat",
+      "primaryKeyword": "classic blackstone smash burgers",
+      "supportingKeywords": [
+        "classic blackstone smash burgers",
+        "the ultimate flat",
+        "top guide",
+        "master the art of cooking on a flat",
+        "top grill with this guide to blackstone grill recipes learn the secrets to the perfect"
+      ],
+      "searchTags": [
+        "classic blackstone smash burgers",
+        "the ultimate flat",
+        "top guide",
+        "master the art of cooking on a flat",
+        "top grill with this guide to blackstone grill recipes learn the secrets to the perfect",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/classic-blackstone-smash-burgers-the-ultimate-flat_20260801_094643.webp",
+      "status": "rendered",
+      "createdAt": "2026-08-01T09:56:37.493Z",
+      "scheduledFor": "2026-08-01T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/classic-blackstone-smash-burgers-the-ultimate-flat_20260801_094643.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-blackstone-smash-burgers-hero.jpg",
+      "renderedAt": "2026-08-01T09:56:52.263Z"
     }
   },
   "queue": {
@@ -20803,7 +20873,9 @@
       "postId": 4411,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073006165",
+      "publishedAt": "2026-08-01T09:56:55.406Z"
     },
     "4408-hero-queue": {
       "id": "4408-hero-queue",
@@ -21517,6 +21589,14 @@
       "postId": 4941,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
+      "status": "draft"
+    },
+    "4944-hero-queue": {
+      "id": "4944-hero-queue",
+      "assetId": "4944-hero",
+      "postId": 4944,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-08-01T09:00:00.000Z",
       "status": "draft"
     }
   }
