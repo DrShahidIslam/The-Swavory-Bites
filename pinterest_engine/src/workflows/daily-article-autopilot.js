@@ -20,7 +20,7 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
   const trendingTopicsData = await fs.readFile(trendingTopicsPath, "utf-8");
   const trendingTopics = JSON.parse(trendingTopicsData);
 
-  state.data.publishedTrendIds = state.data.publishedTrendIds || [];
+  state.state.publishedTrendIds = state.state.publishedTrendIds || [];
 
   const SPLINTER_IDENTITIES = [
     "for Busy Moms on a Budget",
@@ -52,7 +52,7 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
   for (const t of trendingTopics) {
     for (let i = 0; i < SPLINTER_IDENTITIES.length; i++) {
       const splinterId = `${t.id}-splinter-${i}`;
-      if (!state.data.publishedTrendIds.includes(splinterId)) {
+      if (!state.state.publishedTrendIds.includes(splinterId)) {
         selectedTopic = { ...t, topic: `${t.topic} ${SPLINTER_IDENTITIES[i]}` };
         selectedSplinterId = splinterId;
         break;
@@ -130,7 +130,7 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
   console.log(`🔗 Link: ${publishedPost.link}`);
 
   // Mark this specific splinter permutation as published
-  state.data.publishedTrendIds.push(selectedSplinterId);
+  state.state.publishedTrendIds.push(selectedSplinterId);
 
   // 7. Instantly trigger Pinterest Discovery, Render & Publish Pipeline!
   console.log(`\n📌 Handing off new article to Pinterest Engine...`);

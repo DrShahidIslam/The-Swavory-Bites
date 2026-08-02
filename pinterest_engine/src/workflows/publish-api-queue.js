@@ -15,7 +15,7 @@ export async function publishApiDueQueue({ config, state }) {
   const ONE_DAY = 24 * 60 * 60 * 1000;
   const SEVEN_DAYS = 7 * ONE_DAY;
   
-  const allQueueItems = Object.values(state.data.queue || {});
+  const allQueueItems = Object.values(state.state.queue || {});
   const publishedItems = allQueueItems.filter(q => q.status === "published_api" && q.publishedAt);
   
   let pinsToday = 0;
