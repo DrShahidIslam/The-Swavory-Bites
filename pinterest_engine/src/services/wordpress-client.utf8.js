@@ -2,8 +2,8 @@ import fs from "node:fs/promises";
 import { stripHtml } from "../lib/text.js";
 
 const GALLERY_MARKER = "<!-- pinterest-gallery -->";
-const FRENCH_CATEGORY_SLUGS = new Set(["recettes", "pates-a-tartiner", "food-news-fr", "el-mordjene-exclusive-fr"]);
-const ENGLISH_CATEGORY_SLUGS = new Set(["recipes", "spreads", "trends", "sweets", "food-news", "el-mordjene-exclusive"]);
+const FRENCH_CATEGORY_SLUGS = new Set(["recettes", "pates-a-tartiner", "food-news-fr", "the-swavory-bites-exclusive-fr"]);
+const ENGLISH_CATEGORY_SLUGS = new Set(["recipes", "spreads", "trends", "sweets", "food-news", "the-swavory-bites-exclusive"]);
 const FRENCH_FUNCTION_WORDS = [
   " le ", " la ", " les ", " des ", " une ", " un ", " du ", " et ", " avec ",
   " pour ", " dans ", " sur ", " recette", " ingredients", " etapes", " conseils", " pate", " tartiner"

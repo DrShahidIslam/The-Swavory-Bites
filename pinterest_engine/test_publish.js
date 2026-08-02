@@ -24,7 +24,7 @@ async function testPublish() {
     title: "Classic Homemade Peach Crisp Recipe",
     description: "Discover this easy peach crisp recipe with a golden, buttery oat topping and jammy caramelized peaches. Ready in under an hour! #peachcrisp #easydessert #summerrecipes",
     link: "https://the-swavory-bites.pages.dev/bridge_page/?id=classic-homemade-peach-crisp-recipe",
-    imageUrl: "https://el-mordjene.info/wp-content/uploads/2026/07/classic-homemade-peach-crisp-recipe_20260724_100320-1024x538.jpg",
+    imageUrl: "https://theswavorybites.com/wp-content/uploads/2026/07/classic-homemade-peach-crisp-recipe_20260724_100320-1024x538.jpg",
     altText: "Classic Homemade Peach Crisp Recipe Preview"
   };
 

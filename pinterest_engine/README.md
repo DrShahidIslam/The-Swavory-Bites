@@ -1,7 +1,7 @@
 ﻿# Pinterest Autopilot for WordPress
 
-This is a standalone Pinterest automation app for `el-mordjene.info`.
-It stays completely separate from the El-Mordjene Alerts App.
+This is a standalone Pinterest automation app for `theswavorybites.com`.
+It stays completely separate from the the-swavory-bites Alerts App.
 
 The app now does five jobs:
 - fetch newly published WordPress posts

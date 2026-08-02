@@ -2,8 +2,8 @@ import fs from "node:fs/promises";
 import { stripHtml } from "../lib/text.js";
 
 const GALLERY_MARKER = "<!-- pinterest-gallery -->";
-const FRENCH_CATEGORY_SLUGS = new Set(["recettes", "pates-a-tartiner", "food-news-fr", "el-mordjene-exclusive-fr"]);
-const ENGLISH_CATEGORY_SLUGS = new Set(["recipes", "spreads", "trends", "sweets", "food-news", "el-mordjene-exclusive"]);
+const FRENCH_CATEGORY_SLUGS = new Set(["recettes", "pates-a-tartiner", "food-news-fr", "the-swavory-bites-exclusive-fr"]);
+const ENGLISH_CATEGORY_SLUGS = new Set(["recipes", "spreads", "trends", "sweets", "food-news", "the-swavory-bites-exclusive"]);
 const FRENCH_FUNCTION_WORDS = [
   " le ", " la ", " les ", " des ", " une ", " un ", " du ", " et ", " avec ",
   " pour ", " dans ", " sur ", " recette", " ingredients", " etapes", " conseils", " pate", " tartiner"
@@ -30,7 +30,7 @@ export function createWordPressClient(config) {
         headers: {
           Accept: "application/json",
           Authorization: buildAuthHeader(config),
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          "User-Agent": "TheSwavoryBites-Agent/1.0"
         }
       }, "fetch posts");
       return posts.map(normalizePost);
@@ -44,7 +44,7 @@ export function createWordPressClient(config) {
           Accept: "application/json",
           "Content-Type": "application/json",
           Authorization: buildAuthHeader(config),
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          "User-Agent": "TheSwavoryBites-Agent/1.0"
         },
         body: JSON.stringify(postData)
       });
@@ -61,7 +61,7 @@ export function createWordPressClient(config) {
         method: "POST",
         headers: {
           Authorization: buildAuthHeader(config),
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "User-Agent": "TheSwavoryBites-Agent/1.0",
           "Content-Type": mimeType,
           "Content-Disposition": `attachment; filename="${filename}"`
         },
@@ -77,7 +77,7 @@ export function createWordPressClient(config) {
           method: "POST",
           headers: {
             Authorization: buildAuthHeader(config),
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "User-Agent": "TheSwavoryBites-Agent/1.0",
             "Content-Type": "application/json"
           },
           body: JSON.stringify({ alt_text: title.slice(0, 125) })
@@ -96,7 +96,7 @@ export function createWordPressClient(config) {
         headers: {
           Accept: "application/json",
           Authorization: buildAuthHeader(config),
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          "User-Agent": "TheSwavoryBites-Agent/1.0"
         }
       }, "fetch categories");
     },
@@ -110,7 +110,7 @@ export function createWordPressClient(config) {
         method: "POST",
         headers: {
           Authorization: buildAuthHeader(config),
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "User-Agent": "TheSwavoryBites-Agent/1.0",
           "Content-Type": "image/jpeg",
           "Content-Disposition": `attachment; filename="${filename}"`
         },
@@ -128,7 +128,7 @@ export function createWordPressClient(config) {
         method: "POST",
         headers: {
           Authorization: buildAuthHeader(config),
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "User-Agent": "TheSwavoryBites-Agent/1.0",
           "Content-Type": "application/json"
         },
         body: JSON.stringify({ alt_text: title.slice(0, 125) })
@@ -161,7 +161,7 @@ export function createWordPressClient(config) {
         method: "POST",
         headers: {
           Authorization: buildAuthHeader(config),
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "User-Agent": "TheSwavoryBites-Agent/1.0",
           "Content-Type": "application/json"
         },
         body: JSON.stringify({ content: updatedContent })

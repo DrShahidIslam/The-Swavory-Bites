@@ -20,7 +20,7 @@ const TARGET_BOARDS = [
   {
     envKey: "PINTEREST_BOARD_SPREADS_EN",
     name: "Hazelnut & Chocolate Spreads",
-    description: "Homemade hazelnut chocolate spreads, copycat recipes, and gourmet spread ideas you can make in minutes. From el-mordjene-style cream to better-than-Nutella blends."
+    description: "Homemade hazelnut chocolate spreads, copycat recipes, and gourmet spread ideas you can make in minutes. From the-swavory-bites-style cream to better-than-Nutella blends."
   },
   {
     envKey: "PINTEREST_BOARD_FRUIT",
@@ -45,12 +45,12 @@ const TARGET_BOARDS = [
   {
     envKey: "PINTEREST_BOARD_SPREADS_FR",
     name: "Pâtes à Tartiner & Douceurs",
-    description: "Les meilleures pâtes à tartiner faites maison : recettes chocolat-noisette, crèmes gourmandes et alternatives à Nutella ou el mordjene."
+    description: "Les meilleures pâtes à tartiner faites maison : recettes chocolat-noisette, crèmes gourmandes et alternatives à Nutella ou The Swavory Bites."
   },
   {
     envKey: "PINTEREST_BOARD_TRENDS_FR",
     name: "Tendances Culinaires & Recettes",
-    description: "Les recettes et tendances food qui font le buzz : el mordjene, créations TikTok, desserts insolites et incontournables du moment."
+    description: "Les recettes et tendances food qui font le buzz : The Swavory Bites, créations TikTok, desserts insolites et incontournables du moment."
   }
 ];
 

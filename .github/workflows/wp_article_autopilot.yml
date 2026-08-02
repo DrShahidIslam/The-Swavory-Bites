@@ -33,7 +33,7 @@ jobs:
 
       - name: Generate 1 Daily AEO/GEO WordPress Article & Publish Pins
         env:
-          SITE_URL: ${{ secrets.SITE_URL || 'https://el-mordjene.info' }}
+          SITE_URL: ${{ secrets.SITE_URL || 'https://theswavorybites.com' }}
           WP_USERNAME: ${{ secrets.WP_USERNAME }}
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
           PINTEREST_APP_ID: ${{ secrets.PINTEREST_APP_ID }}

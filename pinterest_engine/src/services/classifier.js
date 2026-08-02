@@ -6,7 +6,7 @@ const CATEGORY_SLUGS = {
   trends: new Set(["trends"]),
   sweets: new Set(["sweets"]),
   foodNews: new Set(["food-news", "food-news-fr"]),
-  elMordjene: new Set(["el-mordjene-exclusive", "el-mordjene-exclusive-fr"])
+  theswavorybites: new Set(["the-swavory-bites-exclusive", "the-swavory-bites-exclusive-fr"])
 };
 
 const DRINK_KEYWORDS = [
@@ -33,9 +33,9 @@ const DESSERT_KEYWORDS = [
   "dessert", "sweet", "ice cream", "chocolate", "pastry", "croissant", "candy", "treat"
 ];
 
-// EXCLUDED FROM PINTEREST: El Mordjene brand posts, legal news, recalls
+// EXCLUDED FROM PINTEREST: The Swavory Bites brand posts, legal news, recalls
 const EXCLUDED_PIN_KEYWORDS = [
-  "el-mordjene", "el mordjene", "cebon", "recall", "lawsuit", "ban", "banned", "regulation", "food safety", "nationwide recall"
+  "the-swavory-bites", "The Swavory Bites", "cebon", "recall", "lawsuit", "ban", "banned", "regulation", "food safety", "nationwide recall"
 ];
 
 export function classifyPost(post, boards = {}) {
@@ -46,9 +46,9 @@ export function classifyPost(post, boards = {}) {
 
   const isFrench = post.language === "fr" || primaryHaystack.includes("-fr") || catsStr.includes("fr");
   const isFoodNews = [...CATEGORY_SLUGS.foodNews].some((slug) => categorySlugs.has(slug));
-  const isElMordjeneCategory = [...CATEGORY_SLUGS.elMordjene].some((slug) => categorySlugs.has(slug));
+  const istheswavorybitesCategory = [...CATEGORY_SLUGS.theswavorybites].some((slug) => categorySlugs.has(slug));
 
-  const isExcluded = isElMordjeneCategory || isFoodNews || EXCLUDED_PIN_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
+  const isExcluded = istheswavorybitesCategory || isFoodNews || EXCLUDED_PIN_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
 
   if (isExcluded) {
     return {

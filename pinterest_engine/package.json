@@ -1,9 +1,9 @@
 {
-  "name": "el-mordjene-pinterest-bot",
+  "name": "the-swavory-bites-bot",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Standalone Pinterest automation app for el-mordjene.info.",
+  "description": "Standalone Pinterest automation app for theswavorybites.com.",
   "scripts": {
     "start": "node src/index.js discover",
     "run": "node src/index.js run",
