@@ -89,6 +89,7 @@ export async function queuePost({ config, state, post, scheduleAnchorDate }) {
         supportingKeywords: plan.supportingKeywords,
         searchTags: buildSearchTags(plan, classification),
         featuredImage: post.featuredImage,
+        overlayStyle: Math.random() > 0.5 ? "clean_photo" : "minimal_luxury",
         status: "pending_render",
         createdAt: new Date().toISOString(),
         scheduledFor: plan.scheduledFor

@@ -17,7 +17,7 @@ export async function renderAsset(asset, config) {
   const theme = THEMES[asset.contentType] || THEMES.recipe;
   const fileName = `${asset.postSlug || asset.postId}-${asset.variant}.jpg`;
   const outputPath = path.join(config.assetsDir, "pinterest", fileName);
-  const overlayStyle = process.env.PIN_OVERLAY_STYLE || "minimal_luxury";
+  const overlayStyle = asset.overlayStyle || process.env.PIN_OVERLAY_STYLE || "minimal_luxury";
 
   const visualBuffer = await loadImageBuffer(asset.imageSourceUrl || asset.featuredImage);
 

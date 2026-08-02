@@ -21,8 +21,45 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
   const trendingTopics = JSON.parse(trendingTopicsData);
 
   state.data.publishedTrendIds = state.data.publishedTrendIds || [];
+
+  const SPLINTER_IDENTITIES = [
+    "for Busy Moms on a Budget",
+    "for Women Over 50",
+    "for College Students",
+    "for Picky Eaters",
+    "for Weight Loss",
+    "for Beginners",
+    "for Meal Prep",
+    "for Large Families",
+    "for Gut Health",
+    "for a Romantic Date Night",
+    "for Hosting a Party",
+    "for Post-Workout Recovery",
+    "for Diabetic Diets",
+    "for PCOS",
+    "for Menopause",
+    "for High School Athletes",
+    "for a Girls Night In",
+    "for Road Trips",
+    "for Toddlers",
+    "for People with No Time"
+  ];
   
-  let selectedTopic = trendingTopics.find((t) => !state.data.publishedTrendIds.includes(t.id));
+  let selectedTopic = null;
+  let selectedSplinterId = null;
+
+  // Find the first combo of Base Topic + Splinter Identity that hasn't been published
+  for (const t of trendingTopics) {
+    for (let i = 0; i < SPLINTER_IDENTITIES.length; i++) {
+      const splinterId = `${t.id}-splinter-${i}`;
+      if (!state.data.publishedTrendIds.includes(splinterId)) {
+        selectedTopic = { ...t, topic: `${t.topic} ${SPLINTER_IDENTITIES[i]}` };
+        selectedSplinterId = splinterId;
+        break;
+      }
+    }
+    if (selectedTopic) break;
+  }
 
   if (!selectedTopic) {
     console.error("❌ CRITICAL: trending_topics.json is exhausted! No new topics available.");
@@ -92,8 +129,8 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
   console.log(`📌 Post ID: ${publishedPost.id}`);
   console.log(`🔗 Link: ${publishedPost.link}`);
 
-  // Mark this trend as published so we never duplicate it
-  state.data.publishedTrendIds.push(selectedTopic.id);
+  // Mark this specific splinter permutation as published
+  state.data.publishedTrendIds.push(selectedSplinterId);
 
   // 7. Instantly trigger Pinterest Discovery, Render & Publish Pipeline!
   console.log(`\n📌 Handing off new article to Pinterest Engine...`);

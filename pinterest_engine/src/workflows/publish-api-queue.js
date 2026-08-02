@@ -10,6 +10,39 @@ export async function publishApiDueQueue({ config, state }) {
     return { publishedCount: 0, dueCount: 0 };
   }
 
+  // --- SAFETY PROTOCOL: 7-Day Cooldown & Daily Limit ---
+  const now = new Date();
+  const ONE_DAY = 24 * 60 * 60 * 1000;
+  const SEVEN_DAYS = 7 * ONE_DAY;
+  
+  const allQueueItems = Object.values(state.data.queue || {});
+  const publishedItems = allQueueItems.filter(q => q.status === "published_api" && q.publishedAt);
+  
+  let pinsToday = 0;
+  const recentlyPinnedSlugs = new Set();
+
+  for (const item of publishedItems) {
+    const pubDate = new Date(item.publishedAt);
+    const ageMs = now - pubDate;
+    
+    if (ageMs < ONE_DAY) {
+      pinsToday++;
+    }
+    
+    if (ageMs < SEVEN_DAYS) {
+      const pastAsset = state.getAsset(item.assetId);
+      if (pastAsset && pastAsset.postSlug) {
+        recentlyPinnedSlugs.add(pastAsset.postSlug);
+      }
+    }
+  }
+
+  // Phase A Limit: Max 2 pins per day
+  if (pinsToday >= 2) {
+    console.log(`🛡️ SAFETY PROTOCOL: Daily limit reached (${pinsToday} pins today). Sleeping...`);
+    return { publishedCount: 0, dueCount: 0 };
+  }
+
   const publisher = new PinterestPublisherApi();
   const bridgeBaseUrl = process.env.BRIDGE_PAGE_URL || "https://the-swavory-bites.pages.dev/bridge_page/";
   let publishedCount = 0;
@@ -21,9 +54,19 @@ export async function publishApiDueQueue({ config, state }) {
     // Skip if already published (guard against stale state)
     if (asset.status === "published_api" || asset.pinId) {
       console.log(`⏭️  Skipping already published asset: ${asset.id} (Pin ID: ${asset.pinId})`);
-      // Ensure queue item is also marked so it doesn't resurface
       item.status = "published_api";
       continue;
+    }
+
+    // Phase B/C Cooldown: 7 Days per URL
+    if (recentlyPinnedSlugs.has(asset.postSlug)) {
+      console.log(`🛡️ SAFETY PROTOCOL: 7-Day Cooldown active for URL slug "${asset.postSlug}". Skipping...`);
+      continue;
+    }
+
+    if (pinsToday >= 2) {
+      console.log(`🛡️ SAFETY PROTOCOL: Reached daily limit mid-queue. Stopping.`);
+      break;
     }
 
     // Resolve image file path cross-platform or render on the fly if missing
@@ -71,6 +114,8 @@ export async function publishApiDueQueue({ config, state }) {
       state.markPublished(item.assetId, pinResult.id);
 
       publishedCount++;
+      pinsToday++;
+      recentlyPinnedSlugs.add(slug);
       console.log(`✅ Pin published to board ID ${boardId} | Pin ID: ${pinResult.id}`);
     } catch (err) {
       console.error(`❌ Failed to publish pin for asset ${asset.id}:`, err.message);
