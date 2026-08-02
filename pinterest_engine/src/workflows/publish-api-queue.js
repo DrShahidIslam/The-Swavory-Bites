@@ -20,9 +20,13 @@ export async function publishApiDueQueue({ config, state }) {
   
   let pinsToday = 0;
   const recentlyPinnedSlugs = new Set();
+  
+  let earliestPubDate = now;
 
   for (const item of publishedItems) {
     const pubDate = new Date(item.publishedAt);
+    if (pubDate < earliestPubDate) earliestPubDate = pubDate;
+    
     const ageMs = now - pubDate;
     
     if (ageMs < ONE_DAY) {
@@ -37,9 +41,18 @@ export async function publishApiDueQueue({ config, state }) {
     }
   }
 
-  // Phase A Limit: Max 2 pins per day
-  if (pinsToday >= 2) {
-    console.log(`🛡️ SAFETY PROTOCOL: Daily limit reached (${pinsToday} pins today). Sleeping...`);
+  // Calculate Account Age to determine Phase
+  const accountAgeDays = publishedItems.length > 0 ? (now - earliestPubDate) / ONE_DAY : 0;
+  let maxPinsPerDay = 2; // Phase A (< 30 days)
+  
+  if (accountAgeDays >= 60) {
+    maxPinsPerDay = 15; // Phase C (Month 3+)
+  } else if (accountAgeDays >= 30) {
+    maxPinsPerDay = 5; // Phase B (Month 2)
+  }
+
+  if (pinsToday >= maxPinsPerDay) {
+    console.log(`🛡️ SAFETY PROTOCOL: Daily limit reached (${pinsToday}/${maxPinsPerDay} pins for day ${Math.floor(accountAgeDays)}). Sleeping...`);
     return { publishedCount: 0, dueCount: 0 };
   }
 
@@ -64,8 +77,8 @@ export async function publishApiDueQueue({ config, state }) {
       continue;
     }
 
-    if (pinsToday >= 2) {
-      console.log(`🛡️ SAFETY PROTOCOL: Reached daily limit mid-queue. Stopping.`);
+    if (pinsToday >= maxPinsPerDay) {
+      console.log(`🛡️ SAFETY PROTOCOL: Reached daily limit (${maxPinsPerDay}) mid-queue. Stopping.`);
       break;
     }
 
