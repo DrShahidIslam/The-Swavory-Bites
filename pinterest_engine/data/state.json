@@ -6394,6 +6394,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-08-02T11:02:24.395Z"
+    },
+    "4962": {
+      "postId": 4962,
+      "title": "Creamy 30-Minute Marry Me Chicken: Budget-Friendly Recipe",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-30-minute-marry-me-chicken-budget.webp",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken",
+        "friendly recipe",
+        "discover how to whip up a decadent marry me chicken in under 30 minutes this budget",
+        "pan meal is the ultimate solution for busy weeknight dinners",
+        "what is marry me chicken",
+        "key takeaways for busy moms",
+        "recipe snapshot",
+        "budget",
+        "friendly"
+      ],
+      "discoveredAt": "2026-08-02T13:16:07.725Z"
     }
   },
   "assets": {
@@ -19267,6 +19292,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/7-brew-drinks-guide-hero.jpg",
       "renderedAt": "2026-08-02T09:55:25.812Z"
+    },
+    "4962-hero": {
+      "id": "4962-hero",
+      "postId": 4962,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Creamy 30 Worth Trying",
+      "overlaySubtitle": "What is Marry Me Chicken?",
+      "pinTitle": "Creamy 30-Minute Marry Me Chicken: Budget-Friendly Recipe",
+      "pinDescription": "Creamy 30 with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute marry me chicken, friendly recipe, discover how to whip up a decadent marry me chicken in under 30 minutes this budget",
+      "primaryKeyword": "creamy 30",
+      "supportingKeywords": [
+        "creamy 30",
+        "minute marry me chicken",
+        "friendly recipe",
+        "discover how to whip up a decadent marry me chicken in under 30 minutes this budget",
+        "pan meal is the ultimate solution for busy weeknight dinners"
+      ],
+      "searchTags": [
+        "creamy 30",
+        "minute marry me chicken",
+        "friendly recipe",
+        "discover how to whip up a decadent marry me chicken in under 30 minutes this budget",
+        "pan meal is the ultimate solution for busy weeknight dinners",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-30-minute-marry-me-chicken-budget.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-02T13:16:07.727Z",
+      "scheduledFor": "2026-08-02T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-30-minute-marry-me-chicken-budget.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-hero.jpg",
+      "renderedAt": "2026-08-02T13:16:25.572Z"
     }
   },
   "queue": {
@@ -21901,6 +21969,14 @@
       "assetId": "4953-hero",
       "postId": 4953,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-08-02T09:00:00.000Z",
+      "status": "draft"
+    },
+    "4962-hero-queue": {
+      "id": "4962-hero-queue",
+      "assetId": "4962-hero",
+      "postId": 4962,
+      "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
       "status": "draft"
     }
