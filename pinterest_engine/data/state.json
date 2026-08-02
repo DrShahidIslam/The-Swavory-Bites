@@ -17539,7 +17539,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/easy-and-refreshing-chicken-caesar-wraps_20260509_224022.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T21:08:50.491Z",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/easy-and-refreshing-chicken-caesar-wraps_20260509_224022.jpg",
@@ -17547,7 +17547,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chicken-caesar-wraps-recipes-4-hero.jpg",
-      "renderedAt": "2026-07-27T21:08:54.815Z"
+      "renderedAt": "2026-07-27T21:08:54.815Z",
+      "pinId": "419397784073012344",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073012344/",
+      "publishedAt": "2026-08-02T06:32:11.904Z"
     },
     "4220-hero": {
       "id": "4220-hero",
@@ -21463,7 +21466,9 @@
       "postId": 4223,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073012344",
+      "publishedAt": "2026-08-02T06:32:11.905Z"
     },
     "4220-hero-queue": {
       "id": "4220-hero-queue",
