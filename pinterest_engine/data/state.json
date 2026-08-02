@@ -17075,7 +17075,7 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/refreshing-summer-crockpot-recipes-for-easy-dinner_20260510_094944.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T17:41:21.287Z",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/refreshing-summer-crockpot-recipes-for-easy-dinner_20260510_094944.jpg",
@@ -17083,7 +17083,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/summer-crockpot-recipes-hero.jpg",
-      "renderedAt": "2026-07-27T17:41:23.589Z"
+      "renderedAt": "2026-07-27T17:41:23.589Z",
+      "pinId": "419397784073011286",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073011286/",
+      "publishedAt": "2026-08-02T02:35:44.820Z"
     },
     "4264-hero": {
       "id": "4264-hero",
@@ -21368,7 +21371,9 @@
       "postId": 4267,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-07-28T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073011286",
+      "publishedAt": "2026-08-02T02:35:44.820Z"
     },
     "4264-hero-queue": {
       "id": "4264-hero-queue",
