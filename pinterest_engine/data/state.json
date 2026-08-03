@@ -6444,6 +6444,31 @@
         "faqs"
       ],
       "discoveredAt": "2026-08-02T20:52:55.652Z"
+    },
+    "4966": {
+      "postId": 4966,
+      "title": "Creamy 30-Minute Marry Me Chicken for Busy Moms",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-2/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-2",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken for busy moms",
+        "discover how to whip up a restaurant",
+        "worthy marry me chicken in under 30 minutes using budget",
+        "friendly ingredients this creamy",
+        "dried tomato masterpiece is the ultimate easy weeknight dinner",
+        "what is marry me chicken",
+        "key takeaways",
+        "sun",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-03T05:39:14.692Z"
     }
   },
   "assets": {
@@ -19360,6 +19385,45 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-hero.jpg",
       "renderedAt": "2026-08-02T13:16:25.572Z"
+    },
+    "4966-hero": {
+      "id": "4966-hero",
+      "postId": 4966,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-2",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-2/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Creamy 30 Worth Trying",
+      "overlaySubtitle": "What is Marry Me Chicken?",
+      "pinTitle": "Creamy 30-Minute Marry Me Chicken for Busy Moms",
+      "pinDescription": "Creamy 30 with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute marry me chicken for busy moms, discover how to whip up a restaurant, worthy marry me chicken in under 30 minutes using budget",
+      "primaryKeyword": "creamy 30",
+      "supportingKeywords": [
+        "creamy 30",
+        "minute marry me chicken for busy moms",
+        "discover how to whip up a restaurant",
+        "worthy marry me chicken in under 30 minutes using budget",
+        "friendly ingredients this creamy"
+      ],
+      "searchTags": [
+        "creamy 30",
+        "minute marry me chicken for busy moms",
+        "discover how to whip up a restaurant",
+        "worthy marry me chicken in under 30 minutes using budget",
+        "friendly ingredients this creamy",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-03T05:39:14.695Z",
+      "scheduledFor": "2026-08-03T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-2-hero.jpg",
+      "renderedAt": "2026-08-03T05:39:14.748Z"
     }
   },
   "queue": {
@@ -22004,6 +22068,17 @@
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
       "status": "draft"
+    },
+    "4966-hero-queue": {
+      "id": "4966-hero-queue",
+      "assetId": "4966-hero",
+      "postId": 4966,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-03T09:00:00.000Z",
+      "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
