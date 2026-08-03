@@ -6469,6 +6469,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-08-03T05:39:14.692Z"
+    },
+    "4968": {
+      "postId": 4968,
+      "title": "Tokyo’s Viral Parfait Bread Bun: A New Dessert Trend",
+      "url": "https://el-mordjene.info/tokyo-viral-parfait-bread-bun-trend/",
+      "slug": "tokyo-viral-parfait-bread-bun-trend",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/tokyo-s-viral-parfait-bread-bun-a-new-dessert-tren_20260803_110107.webp",
+      "keywordSet": [
+        "tokyo s viral parfait bread bun",
+        "a new dessert trend",
+        "discover the latest viral dessert from tokyo",
+        "a japanese parfait reimagined inside a soft bread bun explore the trend",
+        "taste test",
+        "and origins",
+        "japanese cuisine",
+        "viral food",
+        "dessert",
+        "tokyo"
+      ],
+      "discoveredAt": "2026-08-03T11:20:17.206Z"
     }
   },
   "assets": {
@@ -19427,6 +19452,49 @@
       "scheduledFor": "2026-08-03T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-2-hero.jpg",
       "renderedAt": "2026-08-03T05:39:14.748Z"
+    },
+    "4968-hero": {
+      "id": "4968-hero",
+      "postId": 4968,
+      "postSlug": "tokyo-viral-parfait-bread-bun-trend",
+      "postUrl": "https://el-mordjene.info/tokyo-viral-parfait-bread-bun-trend/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Tokyo S Viral Parfait Bread Bun Worth Trying",
+      "overlaySubtitle": "Understanding the Tokyo Parfait Bun Phenomenon",
+      "pinTitle": "Tokyo S Viral Parfait Bread Bun | Tokyo’s Viral Parfait Bread Bun: A New Dessert Trend",
+      "pinDescription": "Tokyo S Viral Parfait Bread Bun with a click-worthy angle, useful details, and a more tempting way to explore the full post. a new dessert trend, discover the latest viral dessert from tokyo, a japanese parfait reimagined inside a soft bread bun explore the trend",
+      "primaryKeyword": "tokyo s viral parfait bread bun",
+      "supportingKeywords": [
+        "tokyo s viral parfait bread bun",
+        "a new dessert trend",
+        "discover the latest viral dessert from tokyo",
+        "a japanese parfait reimagined inside a soft bread bun explore the trend",
+        "taste test"
+      ],
+      "searchTags": [
+        "tokyo s viral parfait bread bun",
+        "a new dessert trend",
+        "discover the latest viral dessert from tokyo",
+        "a japanese parfait reimagined inside a soft bread bun explore the trend",
+        "taste test",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/tokyo-s-viral-parfait-bread-bun-a-new-dessert-tren_20260803_110107.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-03T11:20:17.209Z",
+      "scheduledFor": "2026-08-03T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/tokyo-s-viral-parfait-bread-bun-a-new-dessert-tren_20260803_110107.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/tokyo-viral-parfait-bread-bun-trend-hero.jpg",
+      "renderedAt": "2026-08-03T11:20:33.663Z"
     }
   },
   "queue": {
@@ -22079,6 +22147,14 @@
       "assetId": "4966-hero",
       "postId": 4966,
       "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-03T09:00:00.000Z",
+      "status": "draft"
+    },
+    "4968-hero-queue": {
+      "id": "4968-hero-queue",
+      "assetId": "4968-hero",
+      "postId": 4968,
+      "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-08-03T09:00:00.000Z",
       "status": "draft"
     }
