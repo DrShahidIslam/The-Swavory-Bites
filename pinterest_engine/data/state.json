@@ -8496,12 +8496,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://theswavorybites.com/wp-content/uploads/2026/07/the-ultimate-fresh-peach-cobbler-recipe_20260721_205531.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.342Z",
       "scheduledFor": "2026-07-28T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/fresh-peach-cobbler-recipe-list.jpg",
-      "renderedAt": "2026-07-24T18:33:35.473Z"
+      "renderedAt": "2026-07-24T18:33:35.473Z",
+      "pinId": "419397784073027492",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073027492/",
+      "publishedAt": "2026-08-04T02:22:14.266Z"
     },
     "4828-guide": {
       "id": "4828-guide",
@@ -19991,7 +19994,9 @@
       "postId": 4828,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-28T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073027492",
+      "publishedAt": "2026-08-04T02:22:14.266Z"
     },
     "4828-guide-queue": {
       "id": "4828-guide-queue",
