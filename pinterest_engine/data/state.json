@@ -6519,6 +6519,31 @@
         "france"
       ],
       "discoveredAt": "2026-08-03T21:00:10.596Z"
+    },
+    "4973": {
+      "postId": 4973,
+      "title": "Marry Me Chicken: A 30-Minute Budget-Friendly Dinner",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-2-2/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-2-2",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "",
+      "keywordSet": [
+        "marry me chicken",
+        "a 30",
+        "minute budget",
+        "friendly dinner",
+        "transform your weeknight dinner routine with this ultra",
+        "creamy marry me chicken recipe that saves time and money it is the perfect balance of savory sun",
+        "dried tomatoes",
+        "and tender poultry",
+        "parmesan",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-04T05:12:21.468Z"
     }
   },
   "assets": {
@@ -19523,6 +19548,45 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/tokyo-viral-parfait-bread-bun-trend-hero.jpg",
       "renderedAt": "2026-08-03T11:20:33.663Z"
+    },
+    "4973-hero": {
+      "id": "4973-hero",
+      "postId": 4973,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-2-2",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-2-2/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Marry Me Chicken Worth Trying",
+      "overlaySubtitle": "Key Takeaways",
+      "pinTitle": "Marry Me Chicken: A 30-Minute Budget-Friendly Dinner",
+      "pinDescription": "Marry Me Chicken with a click-worthy angle, useful details, and a more tempting way to explore the full post. a 30, minute budget, friendly dinner",
+      "primaryKeyword": "marry me chicken",
+      "supportingKeywords": [
+        "marry me chicken",
+        "a 30",
+        "minute budget",
+        "friendly dinner",
+        "transform your weeknight dinner routine with this ultra"
+      ],
+      "searchTags": [
+        "marry me chicken",
+        "a 30",
+        "minute budget",
+        "friendly dinner",
+        "transform your weeknight dinner routine with this ultra",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-04T05:12:21.471Z",
+      "scheduledFor": "2026-08-04T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-2-2-hero.jpg",
+      "renderedAt": "2026-08-04T05:12:21.824Z"
     }
   },
   "queue": {
@@ -22187,6 +22251,17 @@
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-08-03T09:00:00.000Z",
       "status": "draft"
+    },
+    "4973-hero-queue": {
+      "id": "4973-hero-queue",
+      "assetId": "4973-hero",
+      "postId": 4973,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-04T09:00:00.000Z",
+      "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
