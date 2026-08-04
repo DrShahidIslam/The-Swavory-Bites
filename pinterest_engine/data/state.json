@@ -6544,6 +6544,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-08-04T05:12:21.468Z"
+    },
+    "4975": {
+      "postId": 4975,
+      "title": "El Mordjene Export Status: EU Regulatory Facts and Context",
+      "url": "https://el-mordjene.info/el-mordjene-eu-export-status-facts/",
+      "slug": "el-mordjene-eu-export-status-facts",
+      "language": "en",
+      "boardKey": "none",
+      "boardName": "None",
+      "shouldPin": false,
+      "contentType": "excluded",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/el-mordjene-export-status-eu-regulatory-facts-and_20260804_102339.webp",
+      "keywordSet": [
+        "el mordjene export status",
+        "eu regulatory facts and context",
+        "explore the facts behind the regulatory scrutiny of el mordjene chocolate spread in the eu understand the import status and trade requirements",
+        "eu regulations",
+        "food industry",
+        "trade news",
+        "understanding the current status of el mordjene in european markets",
+        "myth vs fact",
+        "recipes",
+        "myth"
+      ],
+      "discoveredAt": "2026-08-04T10:36:28.532Z"
     }
   },
   "assets": {
@@ -10003,12 +10028,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://theswavorybites.com/wp-content/uploads/2026/07/how-to-make-classic-peach-jam-from-scratch_20260716_103413.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:36:28.411Z",
       "scheduledFor": "2026-07-28T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-peach-jam-recipe-list.jpg",
-      "renderedAt": "2026-07-24T18:36:39.395Z"
+      "renderedAt": "2026-07-24T18:36:39.395Z",
+      "pinId": "419397784073029397",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073029397/",
+      "publishedAt": "2026-08-04T10:36:44.258Z"
     },
     "4792-guide": {
       "id": "4792-guide",
@@ -20358,7 +20386,9 @@
       "postId": 4792,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-28T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073029397",
+      "publishedAt": "2026-08-04T10:36:44.258Z"
     },
     "4792-guide-queue": {
       "id": "4792-guide-queue",
@@ -22260,8 +22290,5 @@
       "scheduledFor": "2026-08-04T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
