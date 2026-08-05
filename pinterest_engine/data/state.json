@@ -12695,12 +12695,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://theswavorybites.com/wp-content/uploads/2026/06/how-to-choose-the-best-peach-dessert-for-any-occas_20260628_101806.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.361Z",
       "scheduledFor": "2026-07-28T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/how-to-choose-best-peach-dessert-list.jpg",
-      "renderedAt": "2026-07-24T19:04:14.055Z"
+      "renderedAt": "2026-07-24T19:04:14.055Z",
+      "pinId": "419397784073037849",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073037849/",
+      "publishedAt": "2026-08-05T14:04:16.178Z"
     },
     "4684-guide": {
       "id": "4684-guide",
@@ -21027,7 +21030,9 @@
       "postId": 4684,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-28T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073037849",
+      "publishedAt": "2026-08-05T14:04:16.178Z"
     },
     "4684-guide-queue": {
       "id": "4684-guide-queue",
