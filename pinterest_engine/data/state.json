@@ -6644,6 +6644,31 @@
         "algeria"
       ],
       "discoveredAt": "2026-08-05T10:32:22.573Z"
+    },
+    "4985": {
+      "postId": 4985,
+      "title": "Butter Ice Cream: The Internet’s Most Polarizing Viral Dessert",
+      "url": "https://el-mordjene.info/butter-ice-cream-viral-dessert-analysis/",
+      "slug": "butter-ice-cream-viral-dessert-analysis",
+      "language": "en",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/butter-ice-cream-the-internet-s-most-polarizing-vi_20260805_205244.webp",
+      "keywordSet": [
+        "butter ice cream",
+        "the internet s most polarizing viral dessert",
+        "explore the phenomenon of butter ice cream we analyze why this viral dessert is dividing opinions and how to prepare it at home this summer",
+        "ice cream",
+        "culinary trends",
+        "summer desserts",
+        "viral trends",
+        "understanding the butter ice cream phenomenon",
+        "recipes",
+        "faqs"
+      ],
+      "discoveredAt": "2026-08-05T21:05:14.359Z"
     }
   },
   "assets": {
@@ -19735,6 +19760,49 @@
       "scheduledFor": "2026-08-05T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-3-hero.jpg",
       "renderedAt": "2026-08-05T05:12:18.976Z"
+    },
+    "4985-hero": {
+      "id": "4985-hero",
+      "postId": 4985,
+      "postSlug": "butter-ice-cream-viral-dessert-analysis",
+      "postUrl": "https://el-mordjene.info/butter-ice-cream-viral-dessert-analysis/",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "en",
+      "overlayTitle": "Butter Ice Cream Worth Trying",
+      "overlaySubtitle": "Understanding the Butter Ice Cream Phenomenon",
+      "pinTitle": "Butter Ice Cream: The Internet’s Most Polarizing Viral Dessert",
+      "pinDescription": "Butter Ice Cream with a click-worthy angle, useful details, and a more tempting way to explore the full post. the internet s most polarizing viral dessert, explore the phenomenon of butter ice cream we analyze why this viral dessert is dividing opinions and how to prepare it at home this summer, ice cream",
+      "primaryKeyword": "butter ice cream",
+      "supportingKeywords": [
+        "butter ice cream",
+        "the internet s most polarizing viral dessert",
+        "explore the phenomenon of butter ice cream we analyze why this viral dessert is dividing opinions and how to prepare it at home this summer",
+        "ice cream",
+        "culinary trends"
+      ],
+      "searchTags": [
+        "butter ice cream",
+        "the internet s most polarizing viral dessert",
+        "explore the phenomenon of butter ice cream we analyze why this viral dessert is dividing opinions and how to prepare it at home this summer",
+        "ice cream",
+        "culinary trends",
+        "trend",
+        "viral food trends & sweet ideas"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/butter-ice-cream-the-internet-s-most-polarizing-vi_20260805_205244.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-05T21:05:14.361Z",
+      "scheduledFor": "2026-08-05T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/butter-ice-cream-the-internet-s-most-polarizing-vi_20260805_205244.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/butter-ice-cream-viral-dessert-analysis-hero.jpg",
+      "renderedAt": "2026-08-05T21:05:32.768Z"
     }
   },
   "queue": {
@@ -22419,6 +22487,14 @@
       "assetId": "4980-hero",
       "postId": 4980,
       "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-05T09:00:00.000Z",
+      "status": "draft"
+    },
+    "4985-hero-queue": {
+      "id": "4985-hero-queue",
+      "assetId": "4985-hero",
+      "postId": 4985,
+      "boardName": "Viral Food Trends & Sweet Ideas",
       "scheduledFor": "2026-08-05T09:00:00.000Z",
       "status": "draft"
     }
