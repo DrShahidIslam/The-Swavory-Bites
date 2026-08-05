@@ -6619,6 +6619,31 @@
         "budget"
       ],
       "discoveredAt": "2026-08-05T05:12:18.751Z"
+    },
+    "4982": {
+      "postId": 4982,
+      "title": "How Hazelnut Spread Sparked Diplomatic Tensions",
+      "url": "https://el-mordjene.info/hazelnut-spread-franco-algerian-relations/",
+      "slug": "hazelnut-spread-franco-algerian-relations",
+      "language": "fr",
+      "boardKey": "none",
+      "boardName": "None",
+      "shouldPin": false,
+      "contentType": "excluded",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/how-hazelnut-spread-sparked-diplomatic-tensions_20260805_101936.webp",
+      "keywordSet": [
+        "how hazelnut spread sparked diplomatic tensions",
+        "explore how a viral algerian hazelnut spread became a sticking point in franco",
+        "algerian relations understand the trade",
+        "and cultural impact",
+        "food regulation",
+        "hazelnut spread",
+        "trade policy",
+        "understanding the hazelnut spread controversy",
+        "regulatory",
+        "algeria"
+      ],
+      "discoveredAt": "2026-08-05T10:32:22.573Z"
     }
   },
   "assets": {
@@ -22392,8 +22417,5 @@
       "scheduledFor": "2026-08-05T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
