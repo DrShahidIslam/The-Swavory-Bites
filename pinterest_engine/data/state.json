@@ -8978,7 +8978,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://theswavorybites.com/wp-content/uploads/2026/07/understanding-the-lobster-cake-a-culinary-guide_20260720_103624.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.347Z",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "imageSourceUrl": "https://theswavorybites.com/wp-content/uploads/2026/07/understanding-the-lobster-cake-a-culinary-guide_20260720_103624.jpg",
@@ -8986,7 +8986,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/understanding-the-lobster-cake-hero.jpg",
-      "renderedAt": "2026-07-24T18:33:37.488Z"
+      "renderedAt": "2026-07-24T18:33:37.488Z",
+      "pinId": "419397784073045110",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073045110/",
+      "publishedAt": "2026-08-06T06:28:35.103Z"
     },
     "4819-list": {
       "id": "4819-list",
@@ -20344,7 +20347,9 @@
       "postId": 4819,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073045110",
+      "publishedAt": "2026-08-06T06:28:35.103Z"
     },
     "4819-list-queue": {
       "id": "4819-list-queue",
