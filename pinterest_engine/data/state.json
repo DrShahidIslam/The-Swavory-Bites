@@ -6719,6 +6719,31 @@
         "faqs"
       ],
       "discoveredAt": "2026-08-07T00:52:08.569Z"
+    },
+    "4993": {
+      "postId": 4993,
+      "title": "Marry Me Chicken: 30-Minute Budget-Friendly Recipe",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-3-2/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-3-2",
+      "language": "fr",
+      "boardKey": "none",
+      "boardName": "None",
+      "shouldPin": false,
+      "contentType": "excluded",
+      "featuredImage": "",
+      "keywordSet": [
+        "marry me chicken",
+        "minute budget",
+        "friendly recipe",
+        "discover how to whip up a restaurant",
+        "quality marry me chicken in under 30 minutes without breaking the bank this creamy",
+        "dried tomato skillet dish is the ultimate weeknight solution for busy families",
+        "what is marry me chicken",
+        "why busy moms love this recipe",
+        "sun",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-07T04:23:48.734Z"
     }
   },
   "assets": {
@@ -22609,5 +22634,8 @@
       "scheduledFor": "2026-08-07T09:00:00.000Z",
       "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
