@@ -6744,6 +6744,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-08-07T04:23:48.734Z"
+    },
+    "4995": {
+      "postId": 4995,
+      "title": "Where to Buy El Mordjene: The Algerian Spread Explained",
+      "url": "https://el-mordjene.info/where-to-buy-el-mordjene-algerian-spread-3/",
+      "slug": "where-to-buy-el-mordjene-algerian-spread-3",
+      "language": "en",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/where-to-buy-el-mordjene-the-algerian-spread-expla_20260807_084255.webp",
+      "keywordSet": [
+        "where to buy el mordjene",
+        "the algerian spread explained",
+        "discover the story behind the viral el mordjene spread",
+        "why it trended",
+        "and what consumers need to know about its availability and market status",
+        "algerian spread",
+        "food trends",
+        "market analysis",
+        "recipes",
+        "outlook"
+      ],
+      "discoveredAt": "2026-08-07T08:57:12.306Z"
     }
   },
   "assets": {
@@ -11651,7 +11676,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://theswavorybites.com/wp-content/uploads/2026/07/classic-spiced-apricot-galette-recipe_20260702_204847.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:53:55.540Z",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "imageSourceUrl": "https://theswavorybites.com/wp-content/uploads/2026/07/classic-spiced-apricot-galette-recipe_20260702_204847.jpg",
@@ -11659,7 +11684,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-spiced-apricot-galette-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T18:54:04.587Z"
+      "renderedAt": "2026-07-24T18:54:04.587Z",
+      "pinId": "419397784073054344",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073054344/",
+      "publishedAt": "2026-08-07T08:57:30.849Z"
     },
     "4711-list": {
       "id": "4711-list",
@@ -19927,6 +19955,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/el-mordjene-algerian-spread-market-impact-11-hero.jpg",
       "renderedAt": "2026-08-07T00:52:25.866Z"
+    },
+    "4995-hero": {
+      "id": "4995-hero",
+      "postId": 4995,
+      "postSlug": "where-to-buy-el-mordjene-algerian-spread-3",
+      "postUrl": "https://el-mordjene.info/where-to-buy-el-mordjene-algerian-spread-3/",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "en",
+      "overlayTitle": "Where To Buy El Mordjene Worth Trying",
+      "overlaySubtitle": "Understanding the El Mordjene Phenomenon",
+      "pinTitle": "Where to Buy El Mordjene: The Algerian Spread Explained",
+      "pinDescription": "Where To Buy El Mordjene with a click-worthy angle, useful details, and a more tempting way to explore the full post. the algerian spread explained, discover the story behind the viral el mordjene spread, why it trended",
+      "primaryKeyword": "where to buy el mordjene",
+      "supportingKeywords": [
+        "where to buy el mordjene",
+        "the algerian spread explained",
+        "discover the story behind the viral el mordjene spread",
+        "why it trended",
+        "and what consumers need to know about its availability and market status"
+      ],
+      "searchTags": [
+        "where to buy el mordjene",
+        "the algerian spread explained",
+        "discover the story behind the viral el mordjene spread",
+        "why it trended",
+        "and what consumers need to know about its availability and market status",
+        "trend",
+        "viral food trends & sweet ideas"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/where-to-buy-el-mordjene-the-algerian-spread-expla_20260807_084255.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-07T08:57:12.308Z",
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/where-to-buy-el-mordjene-the-algerian-spread-expla_20260807_084255.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/where-to-buy-el-mordjene-algerian-spread-3-hero.jpg",
+      "renderedAt": "2026-08-07T08:57:29.499Z"
     }
   },
   "queue": {
@@ -20996,7 +21067,9 @@
       "postId": 4711,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073054344",
+      "publishedAt": "2026-08-07T08:57:30.850Z"
     },
     "4711-list-queue": {
       "id": "4711-list-queue",
@@ -22633,9 +22706,14 @@
       "boardName": "Hazelnut & Chocolate Spreads",
       "scheduledFor": "2026-08-07T09:00:00.000Z",
       "status": "draft"
+    },
+    "4995-hero-queue": {
+      "id": "4995-hero-queue",
+      "assetId": "4995-hero",
+      "postId": 4995,
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
