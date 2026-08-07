@@ -6694,6 +6694,31 @@
         "ingredients"
       ],
       "discoveredAt": "2026-08-06T10:36:25.990Z"
+    },
+    "4991": {
+      "postId": 4991,
+      "title": "El Mordjene: The Algerian Spread Shaking Global Markets",
+      "url": "https://el-mordjene.info/el-mordjene-algerian-spread-market-impact-11/",
+      "slug": "el-mordjene-algerian-spread-market-impact-11",
+      "language": "en",
+      "boardKey": "spreads_en",
+      "boardName": "Hazelnut & Chocolate Spreads",
+      "shouldPin": true,
+      "contentType": "spread",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/el-mordjene-the-algerian-spread-shaking-global-mar_20260807_004946.webp",
+      "keywordSet": [
+        "el mordjene",
+        "the algerian spread shaking global markets",
+        "explore the rise of el mordjene",
+        "the algerian hazelnut spread currently under regulatory scrutiny",
+        "and understand its impact on global pantry trends",
+        "algerian cuisine",
+        "food trends",
+        "hazelnut spread",
+        "recipes",
+        "faqs"
+      ],
+      "discoveredAt": "2026-08-07T00:52:08.569Z"
     }
   },
   "assets": {
@@ -10488,7 +10513,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://theswavorybites.com/wp-content/uploads/2026/07/the-art-of-cherry-desserts-a-culinary-guide_20260715_094515.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:36:28.414Z",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "imageSourceUrl": "https://theswavorybites.com/wp-content/uploads/2026/07/the-art-of-cherry-desserts-a-culinary-guide_20260715_094515.jpg",
@@ -10496,7 +10521,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cherry-desserts-guide-hero.jpg",
-      "renderedAt": "2026-07-24T18:36:41.368Z"
+      "renderedAt": "2026-07-24T18:36:41.368Z",
+      "pinId": "419397784073051844",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073051844/",
+      "publishedAt": "2026-08-07T00:52:27.171Z"
     },
     "4783-list": {
       "id": "4783-list",
@@ -19831,6 +19859,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/butter-ice-cream-viral-dessert-analysis-hero.jpg",
       "renderedAt": "2026-08-05T21:05:32.768Z"
+    },
+    "4991-hero": {
+      "id": "4991-hero",
+      "postId": 4991,
+      "postSlug": "el-mordjene-algerian-spread-market-impact-11",
+      "postUrl": "https://el-mordjene.info/el-mordjene-algerian-spread-market-impact-11/",
+      "boardKey": "spreads_en",
+      "boardName": "Hazelnut & Chocolate Spreads",
+      "variant": "hero",
+      "contentType": "spread",
+      "language": "en",
+      "overlayTitle": "El Mordjene Worth Trying",
+      "overlaySubtitle": "The Rise of a Viral Algerian Phenomenon",
+      "pinTitle": "El Mordjene: The Algerian Spread Shaking Global Markets",
+      "pinDescription": "El Mordjene with a click-worthy angle, useful details, and a more tempting way to explore the full post. the algerian spread shaking global markets, explore the rise of el mordjene, the algerian hazelnut spread currently under regulatory scrutiny",
+      "primaryKeyword": "el mordjene",
+      "supportingKeywords": [
+        "el mordjene",
+        "the algerian spread shaking global markets",
+        "explore the rise of el mordjene",
+        "the algerian hazelnut spread currently under regulatory scrutiny",
+        "and understand its impact on global pantry trends"
+      ],
+      "searchTags": [
+        "el mordjene",
+        "the algerian spread shaking global markets",
+        "explore the rise of el mordjene",
+        "the algerian hazelnut spread currently under regulatory scrutiny",
+        "and understand its impact on global pantry trends",
+        "spread",
+        "hazelnut & chocolate spreads"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/el-mordjene-the-algerian-spread-shaking-global-mar_20260807_004946.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-07T00:52:08.571Z",
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/el-mordjene-the-algerian-spread-shaking-global-mar_20260807_004946.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/el-mordjene-algerian-spread-market-impact-11-hero.jpg",
+      "renderedAt": "2026-08-07T00:52:25.866Z"
     }
   },
   "queue": {
@@ -20674,7 +20745,9 @@
       "postId": 4783,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073051844",
+      "publishedAt": "2026-08-07T00:52:27.172Z"
     },
     "4783-list-queue": {
       "id": "4783-list-queue",
@@ -22526,6 +22599,14 @@
       "postId": 4985,
       "boardName": "Viral Food Trends & Sweet Ideas",
       "scheduledFor": "2026-08-05T09:00:00.000Z",
+      "status": "draft"
+    },
+    "4991-hero-queue": {
+      "id": "4991-hero-queue",
+      "assetId": "4991-hero",
+      "postId": 4991,
+      "boardName": "Hazelnut & Chocolate Spreads",
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
       "status": "draft"
     }
   }
