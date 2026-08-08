@@ -6819,6 +6819,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-08-08T08:38:13.053Z"
+    },
+    "5004": {
+      "postId": 5004,
+      "title": "The Viral Publix Bakery Dessert Taking Over Social Media",
+      "url": "https://el-mordjene.info/viral-publix-bakery-dessert-trend/",
+      "slug": "viral-publix-bakery-dessert-trend",
+      "language": "en",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/the-viral-publix-bakery-dessert-taking-over-social_20260808_201408.webp",
+      "keywordSet": [
+        "the viral publix bakery dessert taking over social media",
+        "publix s bakery has sparked a social media firestorm with its latest viral dessert discover why customers are obsessed and how to recreate it at home",
+        "bakery trends",
+        "dessert recipes",
+        "viral dessert",
+        "understanding the publix bakery craze",
+        "what makes a viral dessert succeed",
+        "practical steps to recreating the trend",
+        "publix",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-08T20:27:04.925Z"
     }
   },
   "assets": {
@@ -20140,6 +20165,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/what-is-a-dot-cake-hero.jpg",
       "renderedAt": "2026-08-08T08:38:30.048Z"
+    },
+    "5004-hero": {
+      "id": "5004-hero",
+      "postId": 5004,
+      "postSlug": "viral-publix-bakery-dessert-trend",
+      "postUrl": "https://el-mordjene.info/viral-publix-bakery-dessert-trend/",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "en",
+      "overlayTitle": "The Viral Publix Bakery Dessert Taking Over Social Me...",
+      "overlaySubtitle": "Understanding the Publix Bakery Craze",
+      "pinTitle": "The Viral Publix Bakery Dessert Taking Over Social Media",
+      "pinDescription": "The Viral Publix Bakery Dessert Taking Over Social Media with a click-worthy angle, useful details, and a more tempting way to explore the full post. publix s bakery has sparked a social media firestorm with its latest viral dessert discover why customers are obsessed and how to recreate it at home, bakery trends, d...",
+      "primaryKeyword": "the viral publix bakery dessert taking over social media",
+      "supportingKeywords": [
+        "the viral publix bakery dessert taking over social media",
+        "publix s bakery has sparked a social media firestorm with its latest viral dessert discover why customers are obsessed and how to recreate it at home",
+        "bakery trends",
+        "dessert recipes",
+        "viral dessert"
+      ],
+      "searchTags": [
+        "the viral publix bakery dessert taking over social media",
+        "publix s bakery has sparked a social media firestorm with its latest viral dessert discover why customers are obsessed and how to recreate it at home",
+        "bakery trends",
+        "dessert recipes",
+        "viral dessert",
+        "trend",
+        "viral food trends & sweet ideas"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/the-viral-publix-bakery-dessert-taking-over-social_20260808_201408.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-08T20:27:04.927Z",
+      "scheduledFor": "2026-08-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/the-viral-publix-bakery-dessert-taking-over-social_20260808_201408.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/viral-publix-bakery-dessert-trend-hero.jpg",
+      "renderedAt": "2026-08-08T20:27:20.184Z"
     }
   },
   "queue": {
@@ -22874,6 +22942,14 @@
       "assetId": "5001-hero",
       "postId": 5001,
       "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-08-08T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5004-hero-queue": {
+      "id": "5004-hero-queue",
+      "assetId": "5004-hero",
+      "postId": 5004,
+      "boardName": "Viral Food Trends & Sweet Ideas",
       "scheduledFor": "2026-08-08T09:00:00.000Z",
       "status": "draft"
     }
