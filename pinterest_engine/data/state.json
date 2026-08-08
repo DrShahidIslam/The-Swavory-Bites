@@ -6794,6 +6794,31 @@
         "tokyo"
       ],
       "discoveredAt": "2026-08-07T20:38:42.900Z"
+    },
+    "5001": {
+      "postId": 5001,
+      "title": "What’s a Dot Cake? Everything About the Viral Dessert",
+      "url": "https://el-mordjene.info/what-is-a-dot-cake/",
+      "slug": "what-is-a-dot-cake",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/what-s-a-dot-cake-everything-about-the-viral-desse_20260808_054353.webp",
+      "keywordSet": [
+        "what s a dot cake everything about the viral dessert",
+        "curious about the dot cake explore the origins",
+        "and why this viral dessert is capturing attention across social media platforms today",
+        "baking trends",
+        "dot cake",
+        "viral dessert",
+        "understanding the dot cake trend",
+        "why this viral dessert matters",
+        "preparation",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-08T08:38:13.053Z"
     }
   },
   "assets": {
@@ -20069,6 +20094,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/tokyo-viral-parfait-bread-bun-trend-2-hero.jpg",
       "renderedAt": "2026-08-07T20:38:58.781Z"
+    },
+    "5001-hero": {
+      "id": "5001-hero",
+      "postId": 5001,
+      "postSlug": "what-is-a-dot-cake",
+      "postUrl": "https://el-mordjene.info/what-is-a-dot-cake/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "What S A Dot Cake Everything About The Viral Dessert...",
+      "overlaySubtitle": "Understanding the Dot Cake Trend",
+      "pinTitle": "What S A Dot Cake Everything About The Viral Dessert | What’s a Dot Cake? Everything About the Vi...",
+      "pinDescription": "What S A Dot Cake Everything About The Viral Dessert with a click-worthy angle, useful details, and a more tempting way to explore the full post. curious about the dot cake explore the origins, and why this viral dessert is capturing attention across social media platforms today, baking trends",
+      "primaryKeyword": "what s a dot cake everything about the viral dessert",
+      "supportingKeywords": [
+        "what s a dot cake everything about the viral dessert",
+        "curious about the dot cake explore the origins",
+        "and why this viral dessert is capturing attention across social media platforms today",
+        "baking trends",
+        "dot cake"
+      ],
+      "searchTags": [
+        "what s a dot cake everything about the viral dessert",
+        "curious about the dot cake explore the origins",
+        "and why this viral dessert is capturing attention across social media platforms today",
+        "baking trends",
+        "dot cake",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/what-s-a-dot-cake-everything-about-the-viral-desse_20260808_054353.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-08T08:38:13.056Z",
+      "scheduledFor": "2026-08-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/what-s-a-dot-cake-everything-about-the-viral-desse_20260808_054353.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/what-is-a-dot-cake-hero.jpg",
+      "renderedAt": "2026-08-08T08:38:30.048Z"
     }
   },
   "queue": {
@@ -22794,6 +22862,14 @@
       "postId": 4998,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5001-hero-queue": {
+      "id": "5001-hero-queue",
+      "assetId": "5001-hero",
+      "postId": 5001,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-08-08T09:00:00.000Z",
       "status": "draft"
     }
   }
