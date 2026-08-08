@@ -13186,7 +13186,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://theswavorybites.com/wp-content/uploads/2026/06/classic-savory-meatballs-recipe-for-every-kitchen_20260626_211102.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.366Z",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "imageSourceUrl": "https://theswavorybites.com/wp-content/uploads/2026/06/classic-savory-meatballs-recipe-for-every-kitchen_20260626_211102.jpg",
@@ -13194,7 +13194,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-savory-meatballs-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T19:04:16.245Z"
+      "renderedAt": "2026-07-24T19:04:16.245Z",
+      "pinId": "419397784073059898",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073059898/",
+      "publishedAt": "2026-08-08T01:23:34.507Z"
     },
     "4675-list": {
       "id": "4675-list",
@@ -21437,7 +21440,9 @@
       "postId": 4675,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073059898",
+      "publishedAt": "2026-08-08T01:23:34.507Z"
     },
     "4675-list-queue": {
       "id": "4675-list-queue",
