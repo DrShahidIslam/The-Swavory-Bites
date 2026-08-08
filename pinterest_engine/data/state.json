@@ -14370,7 +14370,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://theswavorybites.com/wp-content/uploads/2026/06/the-classic-sour-cream-coffee-cake-recipe_20260622_062255.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:14:10.181Z",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "imageSourceUrl": "https://theswavorybites.com/wp-content/uploads/2026/06/the-classic-sour-cream-coffee-cake-recipe_20260622_062255.jpg",
@@ -14378,7 +14378,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-sour-cream-coffee-cake-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T19:14:20.598Z"
+      "renderedAt": "2026-07-24T19:14:20.598Z",
+      "pinId": "419397784073062649",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073062649/",
+      "publishedAt": "2026-08-08T12:42:59.403Z"
     },
     "4636-hero": {
       "id": "4636-hero",
@@ -21742,7 +21745,9 @@
       "postId": 4639,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073062649",
+      "publishedAt": "2026-08-08T12:42:59.403Z"
     },
     "4636-hero-queue": {
       "id": "4636-hero-queue",
