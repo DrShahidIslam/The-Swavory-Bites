@@ -103,7 +103,8 @@ async function loadImageBuffer(url) {
   try {
     const response = await fetch(url, {
       headers: {
-        Accept: "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+        Accept: "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "User-Agent": "TheSwavoryBites-Agent/1.0"
       }
     });
 
