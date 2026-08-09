@@ -15176,7 +15176,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-golden-cornbread-recipe-for-beginners_20260725_181059.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T14:10:09.119Z",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-golden-cornbread-recipe-for-beginners_20260725_181059.webp",
@@ -15184,7 +15184,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-golden-cornbread-recipe-hero.jpg",
-      "renderedAt": "2026-07-26T14:10:25.222Z"
+      "renderedAt": "2026-07-26T14:10:25.222Z",
+      "pinId": "419397784073067562",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073067562/",
+      "publishedAt": "2026-08-09T01:28:55.988Z"
     },
     "4887-hero": {
       "id": "4887-hero",
@@ -21979,7 +21982,9 @@
       "postId": 4890,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073067562",
+      "publishedAt": "2026-08-09T01:28:55.988Z"
     },
     "4887-hero-queue": {
       "id": "4887-hero-queue",
