@@ -6844,6 +6844,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-08-08T20:27:04.925Z"
+    },
+    "5007": {
+      "postId": 5007,
+      "title": "Butter Ice Cream: Summer’s Most Polarizing Viral Dessert",
+      "url": "https://el-mordjene.info/butter-ice-cream-viral-dessert-analysis-2/",
+      "slug": "butter-ice-cream-viral-dessert-analysis-2",
+      "language": "en",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/butter-ice-cream-summer-s-most-polarizing-viral-de_20260809_082644.webp",
+      "keywordSet": [
+        "butter ice cream",
+        "summer s most polarizing viral dessert",
+        "explore the rise of butter ice cream",
+        "the viral dessert dividing the internet learn its origins",
+        "how to make it",
+        "and why this trend is trending",
+        "culinary experimentation",
+        "summer desserts",
+        "recipes",
+        "recipe"
+      ],
+      "discoveredAt": "2026-08-09T08:39:31.738Z"
     }
   },
   "assets": {
@@ -20211,6 +20236,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/viral-publix-bakery-dessert-trend-hero.jpg",
       "renderedAt": "2026-08-08T20:27:20.184Z"
+    },
+    "5007-hero": {
+      "id": "5007-hero",
+      "postId": 5007,
+      "postSlug": "butter-ice-cream-viral-dessert-analysis-2",
+      "postUrl": "https://el-mordjene.info/butter-ice-cream-viral-dessert-analysis-2/",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "en",
+      "overlayTitle": "Butter Ice Cream Worth Trying",
+      "overlaySubtitle": "Understanding the Butter Ice Cream Phenomenon",
+      "pinTitle": "Butter Ice Cream: Summer’s Most Polarizing Viral Dessert",
+      "pinDescription": "Butter Ice Cream with a click-worthy angle, useful details, and a more tempting way to explore the full post. summer s most polarizing viral dessert, explore the rise of butter ice cream, the viral dessert dividing the internet learn its origins",
+      "primaryKeyword": "butter ice cream",
+      "supportingKeywords": [
+        "butter ice cream",
+        "summer s most polarizing viral dessert",
+        "explore the rise of butter ice cream",
+        "the viral dessert dividing the internet learn its origins",
+        "how to make it"
+      ],
+      "searchTags": [
+        "butter ice cream",
+        "summer s most polarizing viral dessert",
+        "explore the rise of butter ice cream",
+        "the viral dessert dividing the internet learn its origins",
+        "how to make it",
+        "trend",
+        "viral food trends & sweet ideas"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/butter-ice-cream-summer-s-most-polarizing-viral-de_20260809_082644.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-09T08:39:31.740Z",
+      "scheduledFor": "2026-08-09T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/butter-ice-cream-summer-s-most-polarizing-viral-de_20260809_082644.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/butter-ice-cream-viral-dessert-analysis-2-hero.jpg",
+      "renderedAt": "2026-08-09T08:39:47.870Z"
     }
   },
   "queue": {
@@ -22956,6 +23024,14 @@
       "postId": 5004,
       "boardName": "Viral Food Trends & Sweet Ideas",
       "scheduledFor": "2026-08-08T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5007-hero-queue": {
+      "id": "5007-hero-queue",
+      "assetId": "5007-hero",
+      "postId": 5007,
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "scheduledFor": "2026-08-09T09:00:00.000Z",
       "status": "draft"
     }
   }
