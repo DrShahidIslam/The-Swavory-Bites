@@ -6869,6 +6869,31 @@
         "recipe"
       ],
       "discoveredAt": "2026-08-09T08:39:31.738Z"
+    },
+    "5010": {
+      "postId": 5010,
+      "title": "How to Make Trendy Pistachio Cream Dessert Sandwiches",
+      "url": "https://el-mordjene.info/pistachio-cream-dessert-sandwiches/",
+      "slug": "pistachio-cream-dessert-sandwiches",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/how-to-make-trendy-pistachio-cream-dessert-sandwic_20260809_201626.webp",
+      "keywordSet": [
+        "how to make trendy pistachio cream dessert sandwiches",
+        "master the art of crafting pistachio cream dessert sandwiches discover how to balance strawberry",
+        "and nut",
+        "based spreads for a modern treat",
+        "dessert sandwiches",
+        "viral trends",
+        "defining the pistachio cream dessert sandwich",
+        "decision criteria for quality ingredients",
+        "chocolate",
+        "pistachio"
+      ],
+      "discoveredAt": "2026-08-09T20:29:21.842Z"
     }
   },
   "assets": {
@@ -20282,6 +20307,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/butter-ice-cream-viral-dessert-analysis-2-hero.jpg",
       "renderedAt": "2026-08-09T08:39:47.870Z"
+    },
+    "5010-hero": {
+      "id": "5010-hero",
+      "postId": 5010,
+      "postSlug": "pistachio-cream-dessert-sandwiches",
+      "postUrl": "https://el-mordjene.info/pistachio-cream-dessert-sandwiches/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "How To Make Trendy Pistachio Cream Dessert Sandwiches...",
+      "overlaySubtitle": "Defining the Pistachio Cream Dessert Sandwich",
+      "pinTitle": "How to Make Trendy Pistachio Cream Dessert Sandwiches",
+      "pinDescription": "How To Make Trendy Pistachio Cream Dessert Sandwiches with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of crafting pistachio cream dessert sandwiches discover how to balance strawberry, and nut, based spreads for a modern treat",
+      "primaryKeyword": "how to make trendy pistachio cream dessert sandwiches",
+      "supportingKeywords": [
+        "how to make trendy pistachio cream dessert sandwiches",
+        "master the art of crafting pistachio cream dessert sandwiches discover how to balance strawberry",
+        "and nut",
+        "based spreads for a modern treat",
+        "dessert sandwiches"
+      ],
+      "searchTags": [
+        "how to make trendy pistachio cream dessert sandwiches",
+        "master the art of crafting pistachio cream dessert sandwiches discover how to balance strawberry",
+        "and nut",
+        "based spreads for a modern treat",
+        "dessert sandwiches",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/how-to-make-trendy-pistachio-cream-dessert-sandwic_20260809_201626.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-09T20:29:21.844Z",
+      "scheduledFor": "2026-08-09T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/how-to-make-trendy-pistachio-cream-dessert-sandwic_20260809_201626.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/pistachio-cream-dessert-sandwiches-hero.jpg",
+      "renderedAt": "2026-08-09T20:29:38.148Z"
     }
   },
   "queue": {
@@ -23036,6 +23104,14 @@
       "assetId": "5007-hero",
       "postId": 5007,
       "boardName": "Viral Food Trends & Sweet Ideas",
+      "scheduledFor": "2026-08-09T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5010-hero-queue": {
+      "id": "5010-hero-queue",
+      "assetId": "5010-hero",
+      "postId": 5010,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-09T09:00:00.000Z",
       "status": "draft"
     }
