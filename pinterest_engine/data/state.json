@@ -15459,7 +15459,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/the-science-and-craft-of-perfect-chocolate-chip-co_20260524_204103.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T20:56:37.970Z",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/the-science-and-craft-of-perfect-chocolate-chip-co_20260524_204103.jpg",
@@ -15467,7 +15467,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/perfect-chocolate-chip-cookies-guide-hero.jpg",
-      "renderedAt": "2026-07-26T20:56:42.258Z"
+      "renderedAt": "2026-07-26T20:56:42.258Z",
+      "pinId": "419397784073071248",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073071248/",
+      "publishedAt": "2026-08-09T12:45:01.501Z"
     },
     "4438-hero": {
       "id": "4438-hero",
@@ -22102,7 +22105,9 @@
       "postId": 4441,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073071248",
+      "publishedAt": "2026-08-09T12:45:01.502Z"
     },
     "4438-hero-queue": {
       "id": "4438-hero-queue",
