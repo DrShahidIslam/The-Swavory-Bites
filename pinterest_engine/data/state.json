@@ -6919,6 +6919,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-08-10T03:50:35.792Z"
+    },
+    "5014": {
+      "postId": 5014,
+      "title": "Publix Viral Dessert: The Bakery Trend Explained",
+      "url": "https://el-mordjene.info/publix-viral-dessert-trend/",
+      "slug": "publix-viral-dessert-trend",
+      "language": "en",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/publix-viral-dessert-the-bakery-trend-explained_20260810_090304.webp",
+      "keywordSet": [
+        "publix viral dessert",
+        "the bakery trend explained",
+        "discover why publix 8217",
+        "s bakery is sparking a viral dessert craze",
+        "leaving fans nostalgic for florida we break down the facts",
+        "and impact",
+        "bakery trends",
+        "viral dessert",
+        "trends",
+        "publix"
+      ],
+      "discoveredAt": "2026-08-10T13:02:29.676Z"
     }
   },
   "assets": {
@@ -16403,7 +16428,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/how-to-make-a-safe-homemade-hummingbird-nectar-rec_20260517_184319.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T07:28:56.166Z",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/how-to-make-a-safe-homemade-hummingbird-nectar-rec_20260517_184319.jpg",
@@ -16411,7 +16436,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/hummingbird-nectar-recipe-hero.jpg",
-      "renderedAt": "2026-07-27T07:29:00.595Z"
+      "renderedAt": "2026-07-27T07:29:00.595Z",
+      "pinId": "419397784073078961",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073078961/",
+      "publishedAt": "2026-08-10T13:02:50.490Z"
     },
     "4369-hero": {
       "id": "4369-hero",
@@ -20417,6 +20445,49 @@
       "scheduledFor": "2026-08-10T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-3-3-hero.jpg",
       "renderedAt": "2026-08-10T03:50:36.049Z"
+    },
+    "5014-hero": {
+      "id": "5014-hero",
+      "postId": 5014,
+      "postSlug": "publix-viral-dessert-trend",
+      "postUrl": "https://el-mordjene.info/publix-viral-dessert-trend/",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "en",
+      "overlayTitle": "Publix Viral Dessert Worth Trying",
+      "overlaySubtitle": "Understanding the Publix Bakery Craze",
+      "pinTitle": "Publix Viral Dessert: The Bakery Trend Explained",
+      "pinDescription": "Publix Viral Dessert with a click-worthy angle, useful details, and a more tempting way to explore the full post. the bakery trend explained, discover why publix 8217, s bakery is sparking a viral dessert craze",
+      "primaryKeyword": "publix viral dessert",
+      "supportingKeywords": [
+        "publix viral dessert",
+        "the bakery trend explained",
+        "discover why publix 8217",
+        "s bakery is sparking a viral dessert craze",
+        "leaving fans nostalgic for florida we break down the facts"
+      ],
+      "searchTags": [
+        "publix viral dessert",
+        "the bakery trend explained",
+        "discover why publix 8217",
+        "s bakery is sparking a viral dessert craze",
+        "leaving fans nostalgic for florida we break down the facts",
+        "trend",
+        "viral food trends & sweet ideas"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/publix-viral-dessert-the-bakery-trend-explained_20260810_090304.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-10T13:02:29.679Z",
+      "scheduledFor": "2026-08-10T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/publix-viral-dessert-the-bakery-trend-explained_20260810_090304.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/publix-viral-dessert-trend-hero.jpg",
+      "renderedAt": "2026-08-10T13:02:47.084Z"
     }
   },
   "queue": {
@@ -22416,7 +22487,9 @@
       "postId": 4372,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073078961",
+      "publishedAt": "2026-08-10T13:02:50.490Z"
     },
     "4369-hero-queue": {
       "id": "4369-hero-queue",
@@ -23191,9 +23264,14 @@
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-08-10T09:00:00.000Z",
       "status": "draft"
+    },
+    "5014-hero-queue": {
+      "id": "5014-hero-queue",
+      "assetId": "5014-hero",
+      "postId": 5014,
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "scheduledFor": "2026-08-10T09:00:00.000Z",
+      "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
