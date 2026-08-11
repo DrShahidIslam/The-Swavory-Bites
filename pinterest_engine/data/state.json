@@ -6969,6 +6969,31 @@
         "step"
       ],
       "discoveredAt": "2026-08-11T03:40:13.723Z"
+    },
+    "5018": {
+      "postId": 5018,
+      "title": "Publix Viral Dessert: The Bakery Craze Explained",
+      "url": "https://el-mordjene.info/publix-bakery-viral-dessert-trend/",
+      "slug": "publix-bakery-viral-dessert-trend",
+      "language": "en",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/publix-viral-dessert-the-bakery-craze-explained_20260811_203025.webp",
+      "keywordSet": [
+        "publix viral dessert",
+        "the bakery craze explained",
+        "discover why the latest viral dessert from publix s bakery has customers buzzing and find out what makes this sweet treat a social media sensation",
+        "bakery trends",
+        "florida food",
+        "viral dessert",
+        "understanding the publix bakery phenomenon",
+        "myth vs fact",
+        "publix",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-11T20:40:46.522Z"
     }
   },
   "assets": {
@@ -20558,6 +20583,49 @@
       "scheduledFor": "2026-08-11T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-3-4-hero.jpg",
       "renderedAt": "2026-08-11T03:40:13.780Z"
+    },
+    "5018-hero": {
+      "id": "5018-hero",
+      "postId": 5018,
+      "postSlug": "publix-bakery-viral-dessert-trend",
+      "postUrl": "https://el-mordjene.info/publix-bakery-viral-dessert-trend/",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "en",
+      "overlayTitle": "Publix Viral Dessert Worth Trying",
+      "overlaySubtitle": "Understanding the Publix Bakery Phenomenon",
+      "pinTitle": "Publix Viral Dessert: The Bakery Craze Explained",
+      "pinDescription": "Publix Viral Dessert with a click-worthy angle, useful details, and a more tempting way to explore the full post. the bakery craze explained, discover why the latest viral dessert from publix s bakery has customers buzzing and find out what makes this sweet treat a social media sensation, bakery trends",
+      "primaryKeyword": "publix viral dessert",
+      "supportingKeywords": [
+        "publix viral dessert",
+        "the bakery craze explained",
+        "discover why the latest viral dessert from publix s bakery has customers buzzing and find out what makes this sweet treat a social media sensation",
+        "bakery trends",
+        "florida food"
+      ],
+      "searchTags": [
+        "publix viral dessert",
+        "the bakery craze explained",
+        "discover why the latest viral dessert from publix s bakery has customers buzzing and find out what makes this sweet treat a social media sensation",
+        "bakery trends",
+        "florida food",
+        "trend",
+        "viral food trends & sweet ideas"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/publix-viral-dessert-the-bakery-craze-explained_20260811_203025.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-11T20:40:46.524Z",
+      "scheduledFor": "2026-08-11T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/publix-viral-dessert-the-bakery-craze-explained_20260811_203025.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/publix-bakery-viral-dessert-trend-hero.jpg",
+      "renderedAt": "2026-08-11T20:41:05.997Z"
     }
   },
   "queue": {
@@ -23352,6 +23420,14 @@
       "assetId": "5016-hero",
       "postId": 5016,
       "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-11T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5018-hero-queue": {
+      "id": "5018-hero-queue",
+      "assetId": "5018-hero",
+      "postId": 5018,
+      "boardName": "Viral Food Trends & Sweet Ideas",
       "scheduledFor": "2026-08-11T09:00:00.000Z",
       "status": "draft"
     }
