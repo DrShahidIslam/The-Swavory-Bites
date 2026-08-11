@@ -17812,7 +17812,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/refreshing-mediterranean-orzo-salad-with-feta_20260510_094852.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T17:41:21.289Z",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/refreshing-mediterranean-orzo-salad-with-feta_20260510_094852.jpg",
@@ -17820,7 +17820,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/easy-summer-recipes-orzo-salad-hero.jpg",
-      "renderedAt": "2026-07-27T17:41:25.562Z"
+      "renderedAt": "2026-07-27T17:41:25.562Z",
+      "pinId": "419397784073087771",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073087771/",
+      "publishedAt": "2026-08-11T16:56:10.204Z"
     },
     "4261-hero": {
       "id": "4261-hero",
@@ -22820,7 +22823,9 @@
       "postId": 4264,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073087771",
+      "publishedAt": "2026-08-11T16:56:10.204Z"
     },
     "4261-hero-queue": {
       "id": "4261-hero-queue",
@@ -23350,8 +23355,5 @@
       "scheduledFor": "2026-08-11T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
