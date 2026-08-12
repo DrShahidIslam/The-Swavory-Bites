@@ -18819,7 +18819,7 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/03/make-biscoff-spread-for-under-100_20260329_142222.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-28T02:23:55.080Z",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/03/make-biscoff-spread-for-under-100_20260329_142222.jpg",
@@ -18827,7 +18827,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/homemade-biscoff-spread-under-100-hero.jpg",
-      "renderedAt": "2026-07-28T02:23:57.173Z"
+      "renderedAt": "2026-07-28T02:23:57.173Z",
+      "pinId": "419397784073096637",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073096637/",
+      "publishedAt": "2026-08-12T20:41:33.417Z"
     },
     "4072-hero": {
       "id": "4072-hero",
@@ -23210,7 +23213,9 @@
       "postId": 4077,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073096637",
+      "publishedAt": "2026-08-12T20:41:33.417Z"
     },
     "4072-hero-queue": {
       "id": "4072-hero-queue",
