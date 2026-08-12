@@ -7019,6 +7019,31 @@
         "step"
       ],
       "discoveredAt": "2026-08-12T04:04:49.815Z"
+    },
+    "5022": {
+      "postId": 5022,
+      "title": "Is The Viral Publix Bakery Dessert Worth The Hype?",
+      "url": "https://el-mordjene.info/publix-bakery-viral-dessert-guide/",
+      "slug": "publix-bakery-viral-dessert-guide",
+      "language": "en",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/is-the-viral-publix-bakery-dessert-worth-the-hype_20260812_085649.webp",
+      "keywordSet": [
+        "is the viral publix bakery dessert worth the hype",
+        "explore the viral dessert from publix 8217",
+        "s bakery that has social media buzzing our guide covers why fans are flocking to stores for this sweet sensation",
+        "bakery trends",
+        "food culture",
+        "viral dessert",
+        "understanding the publix bakery craze",
+        "selecting your viral dessert",
+        "publix",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-12T09:09:26.563Z"
     }
   },
   "assets": {
@@ -20693,6 +20718,49 @@
       "scheduledFor": "2026-08-12T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-3-3-2-hero.jpg",
       "renderedAt": "2026-08-12T04:04:49.883Z"
+    },
+    "5022-hero": {
+      "id": "5022-hero",
+      "postId": 5022,
+      "postSlug": "publix-bakery-viral-dessert-guide",
+      "postUrl": "https://el-mordjene.info/publix-bakery-viral-dessert-guide/",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "en",
+      "overlayTitle": "Is The Viral Publix Bakery Dessert Worth The Hype Wor...",
+      "overlaySubtitle": "Understanding the Publix Bakery Craze",
+      "pinTitle": "Is The Viral Publix Bakery Dessert Worth The Hype?",
+      "pinDescription": "Is The Viral Publix Bakery Dessert Worth The Hype with a click-worthy angle, useful details, and a more tempting way to explore the full post. explore the viral dessert from publix 8217, s bakery that has social media buzzing our guide covers why fans are flocking to stores for this sweet sensation, bakery trends",
+      "primaryKeyword": "is the viral publix bakery dessert worth the hype",
+      "supportingKeywords": [
+        "is the viral publix bakery dessert worth the hype",
+        "explore the viral dessert from publix 8217",
+        "s bakery that has social media buzzing our guide covers why fans are flocking to stores for this sweet sensation",
+        "bakery trends",
+        "food culture"
+      ],
+      "searchTags": [
+        "is the viral publix bakery dessert worth the hype",
+        "explore the viral dessert from publix 8217",
+        "s bakery that has social media buzzing our guide covers why fans are flocking to stores for this sweet sensation",
+        "bakery trends",
+        "food culture",
+        "trend",
+        "viral food trends & sweet ideas"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/is-the-viral-publix-bakery-dessert-worth-the-hype_20260812_085649.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-12T09:09:26.566Z",
+      "scheduledFor": "2026-08-12T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/is-the-viral-publix-bakery-dessert-worth-the-hype_20260812_085649.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/publix-bakery-viral-dessert-guide-hero.jpg",
+      "renderedAt": "2026-08-12T09:09:43.930Z"
     }
   },
   "queue": {
@@ -23507,9 +23575,14 @@
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-08-12T09:00:00.000Z",
       "status": "draft"
+    },
+    "5022-hero-queue": {
+      "id": "5022-hero-queue",
+      "assetId": "5022-hero",
+      "postId": 5022,
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "scheduledFor": "2026-08-12T09:00:00.000Z",
+      "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
