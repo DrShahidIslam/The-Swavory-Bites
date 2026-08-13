@@ -7069,6 +7069,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-08-13T04:08:21.557Z"
+    },
+    "5026": {
+      "postId": 5026,
+      "title": "Pistachio Cream Dessert Sandwiches: A Culinary Trend Analysis",
+      "url": "https://el-mordjene.info/pistachio-cream-dessert-sandwiches-trend-analysis/",
+      "slug": "pistachio-cream-dessert-sandwiches-trend-analysis",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/pistachio-cream-dessert-sandwiches-a-culinary-tren_20260813_085846.webp",
+      "keywordSet": [
+        "pistachio cream dessert sandwiches",
+        "a culinary trend analysis",
+        "explore the viral rise of pistachio cream dessert sandwiches learn why the combination of chocolate",
+        "and nut",
+        "based spreads is trending",
+        "dessert trends",
+        "pistachio cream",
+        "sweet sandwiches",
+        "strawberry",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-13T09:09:47.541Z"
     }
   },
   "assets": {
@@ -20831,6 +20856,49 @@
       "scheduledFor": "2026-08-13T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-3-4-2-hero.jpg",
       "renderedAt": "2026-08-13T04:08:21.615Z"
+    },
+    "5026-hero": {
+      "id": "5026-hero",
+      "postId": 5026,
+      "postSlug": "pistachio-cream-dessert-sandwiches-trend-analysis",
+      "postUrl": "https://el-mordjene.info/pistachio-cream-dessert-sandwiches-trend-analysis/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Pistachio Cream Dessert Sandwiches Worth Trying",
+      "overlaySubtitle": "Understanding the Rise of the Pistachio Cream Dessert Sandwich",
+      "pinTitle": "Pistachio Cream Dessert Sandwiches: A Culinary Trend Analysis",
+      "pinDescription": "Pistachio Cream Dessert Sandwiches with a click-worthy angle, useful details, and a more tempting way to explore the full post. a culinary trend analysis, explore the viral rise of pistachio cream dessert sandwiches learn why the combination of chocolate, and nut",
+      "primaryKeyword": "pistachio cream dessert sandwiches",
+      "supportingKeywords": [
+        "pistachio cream dessert sandwiches",
+        "a culinary trend analysis",
+        "explore the viral rise of pistachio cream dessert sandwiches learn why the combination of chocolate",
+        "and nut",
+        "based spreads is trending"
+      ],
+      "searchTags": [
+        "pistachio cream dessert sandwiches",
+        "a culinary trend analysis",
+        "explore the viral rise of pistachio cream dessert sandwiches learn why the combination of chocolate",
+        "and nut",
+        "based spreads is trending",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/pistachio-cream-dessert-sandwiches-a-culinary-tren_20260813_085846.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-13T09:09:47.543Z",
+      "scheduledFor": "2026-08-13T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/pistachio-cream-dessert-sandwiches-a-culinary-tren_20260813_085846.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/pistachio-cream-dessert-sandwiches-trend-analysis-hero.jpg",
+      "renderedAt": "2026-08-13T09:10:04.536Z"
     }
   },
   "queue": {
@@ -23665,9 +23733,14 @@
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-08-13T09:00:00.000Z",
       "status": "draft"
+    },
+    "5026-hero-queue": {
+      "id": "5026-hero-queue",
+      "assetId": "5026-hero",
+      "postId": 5026,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-08-13T09:00:00.000Z",
+      "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
