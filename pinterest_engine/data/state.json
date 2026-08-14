@@ -19679,7 +19679,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/authentic-traditional-pesto-recipe-for-home-cooks_20260729_102330.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-29T14:06:00.223Z",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/authentic-traditional-pesto-recipe-for-home-cooks_20260729_102330.webp",
@@ -19687,7 +19687,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-traditional-pesto-recipe-hero.jpg",
-      "renderedAt": "2026-07-29T14:06:17.410Z"
+      "renderedAt": "2026-07-29T14:06:17.410Z",
+      "pinId": "419397784073106551",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073106551/",
+      "publishedAt": "2026-08-14T01:46:35.770Z"
     },
     "4932-hero": {
       "id": "4932-hero",
@@ -23508,7 +23511,9 @@
       "postId": 4929,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073106551",
+      "publishedAt": "2026-08-14T01:46:35.770Z"
     },
     "4932-hero-queue": {
       "id": "4932-hero-queue",
