@@ -7119,6 +7119,31 @@
         "flavor"
       ],
       "discoveredAt": "2026-08-14T04:04:50.276Z"
+    },
+    "5030": {
+      "postId": 5030,
+      "title": "Why Everyone is Obsessed With Chili’s New Viral Dessert",
+      "url": "https://el-mordjene.info/chilis-new-viral-dessert-analysis/",
+      "slug": "chilis-new-viral-dessert-analysis",
+      "language": "en",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/why-everyone-is-obsessed-with-chili-s-new-viral-de_20260814_085411.webp",
+      "keywordSet": [
+        "why everyone is obsessed with chili s new viral dessert",
+        "dive into the details of the latest viral dessert from chili 8217",
+        "s we analyze why it s trending",
+        "how it compares to other sweets",
+        "and the recipe details",
+        "chili s",
+        "dessert recipes",
+        "food trends",
+        "recipes",
+        "faqs"
+      ],
+      "discoveredAt": "2026-08-14T09:04:55.765Z"
     }
   },
   "assets": {
@@ -20969,6 +20994,49 @@
       "scheduledFor": "2026-08-14T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-3-3-3-hero.jpg",
       "renderedAt": "2026-08-14T04:04:50.650Z"
+    },
+    "5030-hero": {
+      "id": "5030-hero",
+      "postId": 5030,
+      "postSlug": "chilis-new-viral-dessert-analysis",
+      "postUrl": "https://el-mordjene.info/chilis-new-viral-dessert-analysis/",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "en",
+      "overlayTitle": "Why Everyone Is Obsessed With Chili S New Viral Desse...",
+      "overlaySubtitle": "Understanding the Momentum Behind the Chili&#8217;s Craze",
+      "pinTitle": "Why Everyone Is Obsessed With Chili S New Viral Dessert | Why Everyone is Obsessed With Chili’s N...",
+      "pinDescription": "Why Everyone Is Obsessed With Chili S New Viral Dessert with a click-worthy angle, useful details, and a more tempting way to explore the full post. dive into the details of the latest viral dessert from chili 8217, s we analyze why it s trending, how it compares to other sweets",
+      "primaryKeyword": "why everyone is obsessed with chili s new viral dessert",
+      "supportingKeywords": [
+        "why everyone is obsessed with chili s new viral dessert",
+        "dive into the details of the latest viral dessert from chili 8217",
+        "s we analyze why it s trending",
+        "how it compares to other sweets",
+        "and the recipe details"
+      ],
+      "searchTags": [
+        "why everyone is obsessed with chili s new viral dessert",
+        "dive into the details of the latest viral dessert from chili 8217",
+        "s we analyze why it s trending",
+        "how it compares to other sweets",
+        "and the recipe details",
+        "trend",
+        "viral food trends & sweet ideas"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/why-everyone-is-obsessed-with-chili-s-new-viral-de_20260814_085411.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-14T09:04:55.767Z",
+      "scheduledFor": "2026-08-14T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/why-everyone-is-obsessed-with-chili-s-new-viral-de_20260814_085411.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chilis-new-viral-dessert-analysis-hero.jpg",
+      "renderedAt": "2026-08-14T09:05:14.518Z"
     }
   },
   "queue": {
@@ -23821,6 +23889,14 @@
       "assetId": "5028-hero",
       "postId": 5028,
       "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-14T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5030-hero-queue": {
+      "id": "5030-hero-queue",
+      "assetId": "5030-hero",
+      "postId": 5030,
+      "boardName": "Viral Food Trends & Sweet Ideas",
       "scheduledFor": "2026-08-14T09:00:00.000Z",
       "status": "draft"
     }
