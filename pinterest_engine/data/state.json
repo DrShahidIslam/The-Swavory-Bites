@@ -19749,7 +19749,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-authentic-guacamole-recipe-a-simple-culinary-g_20260729_204050.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-29T20:53:37.205Z",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-authentic-guacamole-recipe-a-simple-culinary-g_20260729_204050.webp",
@@ -19757,7 +19757,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-guacamole-recipe-hero.jpg",
-      "renderedAt": "2026-07-29T20:53:54.939Z"
+      "renderedAt": "2026-07-29T20:53:54.939Z",
+      "pinId": "419397784073107428",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073107428/",
+      "publishedAt": "2026-08-14T05:36:46.877Z"
     },
     "4935-hero": {
       "id": "4935-hero",
@@ -23585,7 +23588,9 @@
       "postId": 4932,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-29T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073107428",
+      "publishedAt": "2026-08-14T05:36:46.877Z"
     },
     "4935-hero-queue": {
       "id": "4935-hero-queue",
@@ -23819,8 +23824,5 @@
       "scheduledFor": "2026-08-14T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
