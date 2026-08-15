@@ -7169,6 +7169,31 @@
         "savory"
       ],
       "discoveredAt": "2026-08-15T02:48:29.306Z"
+    },
+    "5034": {
+      "postId": 5034,
+      "title": "Why Everyone is Talking About Chili’s New Viral Dessert",
+      "url": "https://el-mordjene.info/chilis-new-viral-dessert-analysis-2/",
+      "slug": "chilis-new-viral-dessert-analysis-2",
+      "language": "en",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/why-everyone-is-talking-about-chili-s-new-viral-de_20260815_200832.webp",
+      "keywordSet": [
+        "why everyone is talking about chili s new viral dessert",
+        "explore the craze behind chili s new viral dessert we analyze why this treat is capturing social media attention and how it compares to trends",
+        "chili s",
+        "food trends",
+        "viral dessert",
+        "understanding the momentum behind the latest restaurant trend",
+        "decision criteria",
+        "what makes a dessert viral",
+        "recipes",
+        "faqs"
+      ],
+      "discoveredAt": "2026-08-15T20:19:32.457Z"
     }
   },
   "assets": {
@@ -21107,6 +21132,49 @@
       "scheduledFor": "2026-08-15T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-3-4-2-2-hero.jpg",
       "renderedAt": "2026-08-15T02:48:29.565Z"
+    },
+    "5034-hero": {
+      "id": "5034-hero",
+      "postId": 5034,
+      "postSlug": "chilis-new-viral-dessert-analysis-2",
+      "postUrl": "https://el-mordjene.info/chilis-new-viral-dessert-analysis-2/",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "en",
+      "overlayTitle": "Why Everyone Is Talking About Chili S New Viral Desse...",
+      "overlaySubtitle": "Understanding the Momentum Behind the Latest Restaurant Trend",
+      "pinTitle": "Why Everyone Is Talking About Chili S New Viral Dessert | Why Everyone is Talking About Chili’s N...",
+      "pinDescription": "Why Everyone Is Talking About Chili S New Viral Dessert with a click-worthy angle, useful details, and a more tempting way to explore the full post. explore the craze behind chili s new viral dessert we analyze why this treat is capturing social media attention and how it compares to trends, chili s, food trends",
+      "primaryKeyword": "why everyone is talking about chili s new viral dessert",
+      "supportingKeywords": [
+        "why everyone is talking about chili s new viral dessert",
+        "explore the craze behind chili s new viral dessert we analyze why this treat is capturing social media attention and how it compares to trends",
+        "chili s",
+        "food trends",
+        "viral dessert"
+      ],
+      "searchTags": [
+        "why everyone is talking about chili s new viral dessert",
+        "explore the craze behind chili s new viral dessert we analyze why this treat is capturing social media attention and how it compares to trends",
+        "chili s",
+        "food trends",
+        "viral dessert",
+        "trend",
+        "viral food trends & sweet ideas"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/why-everyone-is-talking-about-chili-s-new-viral-de_20260815_200832.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-15T20:19:32.459Z",
+      "scheduledFor": "2026-08-15T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/why-everyone-is-talking-about-chili-s-new-viral-de_20260815_200832.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chilis-new-viral-dessert-analysis-2-hero.jpg",
+      "renderedAt": "2026-08-15T20:19:47.637Z"
     }
   },
   "queue": {
@@ -23979,6 +24047,14 @@
       "assetId": "5032-hero",
       "postId": 5032,
       "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-15T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5034-hero-queue": {
+      "id": "5034-hero-queue",
+      "assetId": "5034-hero",
+      "postId": 5034,
+      "boardName": "Viral Food Trends & Sweet Ideas",
       "scheduledFor": "2026-08-15T09:00:00.000Z",
       "status": "draft"
     }
