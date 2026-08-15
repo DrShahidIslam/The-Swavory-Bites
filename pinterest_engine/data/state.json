@@ -10762,12 +10762,15 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-raspberry-frangipane-tart_20260716_095129.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:36:28.412Z",
       "scheduledFor": "2026-07-29T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-raspberry-frangipane-tart-list.jpg",
-      "renderedAt": "2026-07-24T18:36:45.169Z"
+      "renderedAt": "2026-07-24T18:36:45.169Z",
+      "pinId": "419397784073115459",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073115459/",
+      "publishedAt": "2026-08-15T08:25:27.989Z"
     },
     "4789-guide": {
       "id": "4789-guide",
@@ -21907,7 +21910,9 @@
       "postId": 4789,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-07-29T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073115459",
+      "publishedAt": "2026-08-15T08:25:27.989Z"
     },
     "4789-guide-queue": {
       "id": "4789-guide-queue",
@@ -23977,8 +23982,5 @@
       "scheduledFor": "2026-08-15T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
