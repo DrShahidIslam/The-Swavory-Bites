@@ -7144,6 +7144,31 @@
         "faqs"
       ],
       "discoveredAt": "2026-08-14T09:04:55.765Z"
+    },
+    "5032": {
+      "postId": 5032,
+      "title": "Marry Me Chicken: 30-Minute Budget-Friendly Recipe",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-3-4-2-2/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-3-4-2-2",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "",
+      "keywordSet": [
+        "marry me chicken",
+        "minute budget",
+        "friendly recipe",
+        "discover how to whip up a restaurant",
+        "quality marry me chicken in under 30 minutes this budget",
+        "friendly guide makes gourmet dining accessible for busy families",
+        "what is marry me chicken",
+        "key takeaways",
+        "recipes",
+        "savory"
+      ],
+      "discoveredAt": "2026-08-15T02:48:29.306Z"
     }
   },
   "assets": {
@@ -9249,12 +9274,15 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/homemade-fresh-peach-ice-cream-recipe_20260721_101018.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.344Z",
       "scheduledFor": "2026-07-29T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/homemade-fresh-peach-ice-cream-recipe-list.jpg",
-      "renderedAt": "2026-07-24T18:36:43.568Z"
+      "renderedAt": "2026-07-24T18:36:43.568Z",
+      "pinId": "419397784073113962",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073113962/",
+      "publishedAt": "2026-08-15T02:48:32.284Z"
     },
     "4825-guide": {
       "id": "4825-guide",
@@ -21037,6 +21065,45 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chilis-new-viral-dessert-analysis-hero.jpg",
       "renderedAt": "2026-08-14T09:05:14.518Z"
+    },
+    "5032-hero": {
+      "id": "5032-hero",
+      "postId": 5032,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-3-4-2-2",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-3-4-2-2/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Marry Me Chicken Worth Trying",
+      "overlaySubtitle": "What is Marry Me Chicken?",
+      "pinTitle": "Marry Me Chicken: 30-Minute Budget-Friendly Recipe",
+      "pinDescription": "Marry Me Chicken with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute budget, friendly recipe, discover how to whip up a restaurant",
+      "primaryKeyword": "marry me chicken",
+      "supportingKeywords": [
+        "marry me chicken",
+        "minute budget",
+        "friendly recipe",
+        "discover how to whip up a restaurant",
+        "quality marry me chicken in under 30 minutes this budget"
+      ],
+      "searchTags": [
+        "marry me chicken",
+        "minute budget",
+        "friendly recipe",
+        "discover how to whip up a restaurant",
+        "quality marry me chicken in under 30 minutes this budget",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-15T02:48:29.309Z",
+      "scheduledFor": "2026-08-15T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-3-4-2-2-hero.jpg",
+      "renderedAt": "2026-08-15T02:48:29.565Z"
     }
   },
   "queue": {
@@ -21536,7 +21603,9 @@
       "postId": 4825,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-07-29T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073113962",
+      "publishedAt": "2026-08-15T02:48:32.284Z"
     },
     "4825-guide-queue": {
       "id": "4825-guide-queue",
@@ -23899,6 +23968,17 @@
       "boardName": "Viral Food Trends & Sweet Ideas",
       "scheduledFor": "2026-08-14T09:00:00.000Z",
       "status": "draft"
+    },
+    "5032-hero-queue": {
+      "id": "5032-hero-queue",
+      "assetId": "5032-hero",
+      "postId": 5032,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-15T09:00:00.000Z",
+      "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
