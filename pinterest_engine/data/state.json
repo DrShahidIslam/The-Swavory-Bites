@@ -13416,12 +13416,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/traditional-homemade-blackberry-jam-recipe_20260627_204605.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.363Z",
       "scheduledFor": "2026-07-29T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/blackberry-jam-recipe-list.jpg",
-      "renderedAt": "2026-07-24T19:04:16.906Z"
+      "renderedAt": "2026-07-24T19:04:16.906Z",
+      "pinId": "419397784073123079",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073123079/",
+      "publishedAt": "2026-08-16T08:26:52.746Z"
     },
     "4681-guide": {
       "id": "4681-guide",
@@ -22577,7 +22580,9 @@
       "postId": 4681,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-29T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073123079",
+      "publishedAt": "2026-08-16T08:26:52.746Z"
     },
     "4681-guide-queue": {
       "id": "4681-guide-queue",
@@ -24135,8 +24140,5 @@
       "scheduledFor": "2026-08-16T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
