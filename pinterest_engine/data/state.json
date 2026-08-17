@@ -9659,7 +9659,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/homemade-bread-and-butter-pickle-recipe_20260720_054712.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.348Z",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/homemade-bread-and-butter-pickle-recipe_20260720_054712.jpg",
@@ -9667,7 +9667,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/bread-and-butter-pickle-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T18:40:10.085Z"
+      "renderedAt": "2026-07-24T18:40:10.085Z",
+      "pinId": "419397784073131463",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073131463/",
+      "publishedAt": "2026-08-17T08:40:24.116Z"
     },
     "4816-list": {
       "id": "4816-list",
@@ -21819,7 +21822,9 @@
       "postId": 4816,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073131463",
+      "publishedAt": "2026-08-17T08:40:24.116Z"
     },
     "4816-list-queue": {
       "id": "4816-list-queue",
