@@ -8983,12 +8983,15 @@
         "tendances culinaires & recettes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-art-of-peach-desserts-seasonal-classics-and-tr_20260722_205057.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:22.421Z",
       "scheduledFor": "2026-07-29T19:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/art-of-peach-desserts-trends-guide.jpg",
-      "renderedAt": "2026-07-24T18:40:08.163Z"
+      "renderedAt": "2026-07-24T18:40:08.163Z",
+      "pinId": "419397784073130284",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073130284/",
+      "publishedAt": "2026-08-17T04:39:24.313Z"
     },
     "4832-hero": {
       "id": "4832-hero",
@@ -21670,7 +21673,9 @@
       "postId": 4835,
       "boardName": "Tendances Culinaires & Recettes",
       "scheduledFor": "2026-07-29T19:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073130284",
+      "publishedAt": "2026-08-17T04:39:24.313Z"
     },
     "4832-hero-queue": {
       "id": "4832-hero-queue",
