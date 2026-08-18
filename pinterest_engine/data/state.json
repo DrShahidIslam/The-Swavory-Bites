@@ -12316,7 +12316,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-homemade-dill-pickle-recipe_20260702_102522.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:53:55.541Z",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-homemade-dill-pickle-recipe_20260702_102522.jpg",
@@ -12324,7 +12324,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-homemade-dill-pickle-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T18:54:07.234Z"
+      "renderedAt": "2026-07-24T18:54:07.234Z",
+      "pinId": "419397784073139128",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073139128/",
+      "publishedAt": "2026-08-18T08:34:50.459Z"
     },
     "4708-list": {
       "id": "4708-list",
@@ -22488,7 +22491,9 @@
       "postId": 4708,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073139128",
+      "publishedAt": "2026-08-18T08:34:50.460Z"
     },
     "4708-list-queue": {
       "id": "4708-list-queue",
@@ -24298,8 +24303,5 @@
       "scheduledFor": "2026-08-18T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
