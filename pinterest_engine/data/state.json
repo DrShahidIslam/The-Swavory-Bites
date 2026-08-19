@@ -15698,7 +15698,7 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-classic-pina-colada-recipe_20260725_180720.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T14:10:09.120Z",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-classic-pina-colada-recipe_20260725_180720.webp",
@@ -15706,7 +15706,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-pina-colada-recipe-hero.jpg",
-      "renderedAt": "2026-07-26T16:58:14.072Z"
+      "renderedAt": "2026-07-26T16:58:14.072Z",
+      "pinId": "419397784073150532",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073150532/",
+      "publishedAt": "2026-08-19T20:24:17.683Z"
     },
     "4884-hero": {
       "id": "4884-hero",
@@ -23216,7 +23219,9 @@
       "postId": 4887,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073150532",
+      "publishedAt": "2026-08-19T20:24:17.683Z"
     },
     "4884-hero-queue": {
       "id": "4884-hero-queue",
