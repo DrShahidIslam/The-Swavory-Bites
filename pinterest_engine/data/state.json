@@ -7269,6 +7269,31 @@
         "step"
       ],
       "discoveredAt": "2026-08-18T02:52:08.070Z"
+    },
+    "5041": {
+      "postId": 5041,
+      "title": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-4-2",
+      "language": "fr",
+      "boardKey": "none",
+      "boardName": "None",
+      "shouldPin": false,
+      "contentType": "excluded",
+      "featuredImage": "",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to whip up the viral marry me chicken in under 30 minutes without breaking the bank this budget",
+        "friendly guide is designed for busy moms who refuse to sacrifice flavor for time",
+        "what makes marry me chicken the ultimate weeknight dinner",
+        "the key ingredients for budget success",
+        "key takeaways",
+        "why moms love this dish",
+        "recipes",
+        "step"
+      ],
+      "discoveredAt": "2026-08-19T02:53:31.333Z"
     }
   },
   "assets": {
@@ -24308,5 +24333,8 @@
       "scheduledFor": "2026-08-18T09:00:00.000Z",
       "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
