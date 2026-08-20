@@ -15959,7 +15959,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/essential-lemon-herb-roasted-chicken-recipe_20260524_094613.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T20:56:37.972Z",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/essential-lemon-herb-roasted-chicken-recipe_20260524_094613.jpg",
@@ -15967,7 +15967,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/essential-lemon-herb-roasted-chicken-recipe-hero.jpg",
-      "renderedAt": "2026-07-26T20:56:44.330Z"
+      "renderedAt": "2026-07-26T20:56:44.330Z",
+      "pinId": "419397784073156802",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073156802/",
+      "publishedAt": "2026-08-20T16:32:26.182Z"
     },
     "4435-hero": {
       "id": "4435-hero",
@@ -23273,7 +23276,9 @@
       "postId": 4438,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073156802",
+      "publishedAt": "2026-08-20T16:32:26.182Z"
     },
     "4435-hero-queue": {
       "id": "4435-hero-queue",
