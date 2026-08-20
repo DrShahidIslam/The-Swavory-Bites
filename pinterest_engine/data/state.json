@@ -16388,7 +16388,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/versatile-classic-beef-and-vegetable-skillet_20260519_175536.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T02:44:19.493Z",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/versatile-classic-beef-and-vegetable-skillet_20260519_175536.jpg",
@@ -16396,7 +16396,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-beef-and-vegetable-skillet-recipe-hero.jpg",
-      "renderedAt": "2026-07-27T02:44:26.431Z"
+      "renderedAt": "2026-07-27T02:44:26.431Z",
+      "pinId": "419397784073158339",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073158339/",
+      "publishedAt": "2026-08-20T20:25:38.106Z"
     },
     "4402-hero": {
       "id": "4402-hero",
@@ -23362,7 +23365,9 @@
       "postId": 4405,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073158339",
+      "publishedAt": "2026-08-20T20:25:38.106Z"
     },
     "4402-hero-queue": {
       "id": "4402-hero-queue",
