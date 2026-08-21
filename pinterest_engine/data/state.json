@@ -7294,6 +7294,31 @@
         "step"
       ],
       "discoveredAt": "2026-08-19T02:53:31.333Z"
+    },
+    "5042": {
+      "postId": 5042,
+      "title": "Marry Me Chicken: 30-Minute Budget-Friendly Recipe",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-3-4-3/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-3-4-3",
+      "language": "fr",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "",
+      "keywordSet": [
+        "marry me chicken",
+        "minute budget",
+        "friendly recipe",
+        "discover how to whip up the viral marry me chicken in under 30 minutes using pantry staples this budget",
+        "friendly guide delivers restaurant",
+        "quality flavor for busy families",
+        "what is marry me chicken",
+        "why this budget",
+        "recipes",
+        "step"
+      ],
+      "discoveredAt": "2026-08-21T02:58:50.994Z"
     }
   },
   "assets": {
@@ -21426,6 +21451,45 @@
       "scheduledFor": "2026-08-18T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-for-busy-moms-hero.jpg",
       "renderedAt": "2026-08-18T02:52:08.116Z"
+    },
+    "5042-hero": {
+      "id": "5042-hero",
+      "postId": 5042,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-3-4-3",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-3-4-3/",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "fr",
+      "overlayTitle": "Marry Me Chicken Worth Trying",
+      "overlaySubtitle": "What is Marry Me Chicken?",
+      "pinTitle": "Marry Me Chicken: 30-Minute Budget-Friendly Recipe",
+      "pinDescription": "Marry Me Chicken with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute budget, friendly recipe, discover how to whip up the viral marry me chicken in under 30 minutes using pantry staples this budget",
+      "primaryKeyword": "marry me chicken",
+      "supportingKeywords": [
+        "marry me chicken",
+        "minute budget",
+        "friendly recipe",
+        "discover how to whip up the viral marry me chicken in under 30 minutes using pantry staples this budget",
+        "friendly guide delivers restaurant"
+      ],
+      "searchTags": [
+        "marry me chicken",
+        "minute budget",
+        "friendly recipe",
+        "discover how to whip up the viral marry me chicken in under 30 minutes using pantry staples this budget",
+        "friendly guide delivers restaurant",
+        "trend",
+        "tendances culinaires & recettes"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-21T02:58:50.997Z",
+      "scheduledFor": "2026-08-21T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-3-4-3-hero.jpg",
+      "renderedAt": "2026-08-21T02:58:51.051Z"
     }
   },
   "queue": {
@@ -24352,6 +24416,17 @@
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-08-18T09:00:00.000Z",
       "status": "draft"
+    },
+    "5042-hero-queue": {
+      "id": "5042-hero-queue",
+      "assetId": "5042-hero",
+      "postId": 5042,
+      "boardName": "Tendances Culinaires & Recettes",
+      "scheduledFor": "2026-08-21T09:00:00.000Z",
+      "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
