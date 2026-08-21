@@ -16884,7 +16884,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/essential-summer-grilling-recipes-for-every-kitche_20260517_184104.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T07:28:56.168Z",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/essential-summer-grilling-recipes-for-every-kitche_20260517_184104.jpg",
@@ -16892,7 +16892,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/essential-summer-grilling-recipes-hero.jpg",
-      "renderedAt": "2026-07-27T07:29:02.666Z"
+      "renderedAt": "2026-07-27T07:29:02.666Z",
+      "pinId": "419397784073164935",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073164935/",
+      "publishedAt": "2026-08-21T20:23:32.871Z"
     },
     "4366-hero": {
       "id": "4366-hero",
@@ -23523,7 +23526,9 @@
       "postId": 4369,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073164935",
+      "publishedAt": "2026-08-21T20:23:32.872Z"
     },
     "4366-hero-queue": {
       "id": "4366-hero-queue",
@@ -24425,8 +24430,5 @@
       "scheduledFor": "2026-08-21T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
