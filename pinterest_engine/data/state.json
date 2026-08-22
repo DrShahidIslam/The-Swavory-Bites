@@ -17355,7 +17355,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/refreshing-summer-lunch-ideas-for-warm-weather_20260515_122904.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T11:18:53.876Z",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/refreshing-summer-lunch-ideas-for-warm-weather_20260515_122904.jpg",
@@ -17363,7 +17363,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/summer-lunch-ideas-2-hero.jpg",
-      "renderedAt": "2026-07-27T11:18:59.884Z"
+      "renderedAt": "2026-07-27T11:18:59.884Z",
+      "pinId": "419397784073166484",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073166484/",
+      "publishedAt": "2026-08-22T01:06:10.223Z"
     },
     "4330-hero": {
       "id": "4330-hero",
@@ -23620,7 +23623,9 @@
       "postId": 4333,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073166484",
+      "publishedAt": "2026-08-22T01:06:10.224Z"
     },
     "4330-hero-queue": {
       "id": "4330-hero-queue",
