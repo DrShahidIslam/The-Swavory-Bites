@@ -40,21 +40,24 @@ Topic: "${topic}"
 Target Keyword: "${targetKeyword}"
 Category: "${category}"
 
-CRITICAL MANDATORY INSTRUCTIONS:
-1. **AEO & ALP (Answer-Led Paragraphs)**:
-   - Under every <h2> and <h3> heading, the VERY FIRST 35-40 words must directly answer the section question/topic clearly and concisely. This is required for AI Overviews, Perplexity, and ChatGPT Search citations.
-2. **GEO (Generative Engine Optimization)**:
-   - Include semantic entities (ingredients, equipment, flavor notes, cooking techniques, food science explanations).
-   - Include a "Key Takeaways" summary callout box and a "Recipe Snapshot" table/box.
-3. **SEO & Heading Structure**:
+CRITICAL MANDATORY INSTRUCTIONS FOR RETENTION & DEPTH:
+1. **Massive Content Depth (1,500+ Words)**:
+   - You MUST write a highly detailed, comprehensive guide. Do not write fluff. Expand on the science of the ingredients, the origin of the dish, detailed sensory descriptions, and comprehensive troubleshooting steps.
+2. **Pinterest-Optimized Visual Modules (Inline CSS REQUIRED)**:
+   - You MUST break up the text using visually distinct HTML blocks. Use inline CSS.
+   - Include a **"Why You'll Love This"** bulleted list using a soft background box (e.g., <div style="background:#fef7f2; padding:15px; border-left:4px solid #d87439; margin-bottom:20px;">).
+   - Include an **"At-a-Glance"** table/box detailing Prep Time, Cook Time, Total Time, Yield, and Estimated Calories.
+   - Include a **"Dietary Substitutions"** section (highly searched by Pinterest users).
+   - Include a **"Pro Tips for Success"** callout box (e.g., <div style="background:#f4f9f4; padding:15px; border:1px solid #2d9e64; border-radius:5px;">).
+3. **AEO & ALP (Answer-Led Paragraphs)**:
+   - Under every <h2> and <h3> heading, the VERY FIRST 35-40 words must directly answer the section question/topic clearly and concisely.
+4. **SEO & Heading Structure**:
    - Title must front-load the primary keyword "${targetKeyword}" (< 60 chars).
-   - Use <h2> and <h3> tags logically.
    - Write an engaging Meta Description (< 155 chars) containing "${targetKeyword}".
-4. **Contextual Internal Links**:
+5. **Contextual Internal Links**:
    - Naturally embed 2 to 3 contextual internal links to these existing articles:
 ${internalLinkContext || "- None available"}
-   - Use natural descriptive anchor text.
-5. **FAQ & Schema**:
+6. **FAQ & Schema**:
    - Include an <h2>Frequently Asked Questions</h2> section with 3 distinct questions and answers.
 
 OUTPUT FORMAT (STRICT JSON ONLY):
