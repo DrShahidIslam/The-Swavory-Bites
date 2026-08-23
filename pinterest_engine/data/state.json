@@ -7344,6 +7344,81 @@
         "time"
       ],
       "discoveredAt": "2026-08-23T02:58:50.092Z"
+    },
+    "5045": {
+      "postId": 5045,
+      "title": "The Ultimate Creamy Garlic Butter Tuscan Chicken Guide",
+      "url": "https://el-mordjene.info/creamy-garlic-butter-tuscan-chicken-guide/",
+      "slug": "creamy-garlic-butter-tuscan-chicken-guide",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/the-ultimate-creamy-garlic-butter-tuscan-chicken-g_20260823_173813.webp",
+      "keywordSet": [
+        "the ultimate creamy garlic butter tuscan chicken guide",
+        "master the art of creamy garlic butter tuscan chicken a comprehensive guide covering culinary techniques",
+        "ingredient chemistry",
+        "and pro tips",
+        "the renaissance of creamy garlic butter tuscan chicken",
+        "creamy garlic butter tuscan chicken",
+        "frequently asked questions",
+        "can i make this dish ahead of time",
+        "chicken",
+        "dinner"
+      ],
+      "discoveredAt": "2026-08-23T18:32:22.099Z"
+    },
+    "5048": {
+      "postId": 5048,
+      "title": "One-Pot Creamy Marry Me Chicken Pasta: A Weeknight Masterclass",
+      "url": "https://el-mordjene.info/one-pot-creamy-marry-me-chicken-pasta/",
+      "slug": "one-pot-creamy-marry-me-chicken-pasta",
+      "language": "en",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/one-pot-creamy-marry-me-chicken-pasta-a-weeknight_20260823_174128.webp",
+      "keywordSet": [
+        "pot creamy marry me chicken pasta",
+        "a weeknight masterclass",
+        "master the viral one",
+        "pot creamy marry me chicken pasta with this expert guide learn culinary techniques for the perfect sauce and creamy texture",
+        "understanding the viral one",
+        "the culinary mechanics of one",
+        "pot pasta",
+        "ingredient substitution 038",
+        "one",
+        "chicken"
+      ],
+      "discoveredAt": "2026-08-23T18:32:22.096Z"
+    },
+    "5050": {
+      "postId": 5050,
+      "title": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-2/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-4-2-2",
+      "language": "en",
+      "boardKey": "none",
+      "boardName": "None",
+      "shouldPin": false,
+      "contentType": "excluded",
+      "featuredImage": "",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to make the viral marry me chicken in under 30 minutes without breaking the bank this comprehensive guide ensures a creamy",
+        "flavorful dinner every time",
+        "why you 8217",
+        "ll love this",
+        "what is the origin of marry me chicken",
+        "the science of the sauce",
+        "recipes",
+        "glance"
+      ],
+      "discoveredAt": "2026-08-23T18:32:22.096Z"
     }
   },
   "assets": {
@@ -18747,7 +18822,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/easy-chicken-caesar-wraps-a-quick-lunch-guide_20260509_203343.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T21:08:50.494Z",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/easy-chicken-caesar-wraps-a-quick-lunch-guide_20260509_203343.jpg",
@@ -18755,7 +18830,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chicken-caesar-wraps-recipes-3-hero.jpg",
-      "renderedAt": "2026-07-27T21:08:58.957Z"
+      "renderedAt": "2026-07-27T21:08:58.957Z",
+      "pinId": "419397784073178487",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073178487/",
+      "publishedAt": "2026-08-23T18:32:29.695Z"
     },
     "4215-hero": {
       "id": "4215-hero",
@@ -19212,7 +19290,7 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/03/crafting-homemade-chocolate-ice-cream-without-suga_20260329_120512.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-28T02:23:55.082Z",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/03/crafting-homemade-chocolate-ice-cream-without-suga_20260329_120512.jpg",
@@ -19220,7 +19298,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/homemade-chocolate-ice-cream-without-sugar-hero.jpg",
-      "renderedAt": "2026-07-28T02:23:59.165Z"
+      "renderedAt": "2026-07-28T02:23:59.165Z",
+      "pinId": "419397784073178489",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073178489/",
+      "publishedAt": "2026-08-23T18:32:32.427Z"
     },
     "3941-hero": {
       "id": "3941-hero",
@@ -20067,7 +20148,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-guide-to-strawberry-pretzel-salad_20260730_100731.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-30T10:23:16.521Z",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-guide-to-strawberry-pretzel-salad_20260730_100731.webp",
@@ -20075,7 +20156,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/strawberry-pretzel-salad-guide-hero.jpg",
-      "renderedAt": "2026-07-30T10:23:33.682Z"
+      "renderedAt": "2026-07-30T10:23:33.682Z",
+      "pinId": "419397784073178490",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073178490/",
+      "publishedAt": "2026-08-23T18:32:35.054Z"
     },
     "4938-hero": {
       "id": "4938-hero",
@@ -21566,6 +21650,92 @@
       "scheduledFor": "2026-08-23T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-for-busy-moms-2-hero.jpg",
       "renderedAt": "2026-08-23T02:58:50.147Z"
+    },
+    "5048-hero": {
+      "id": "5048-hero",
+      "postId": 5048,
+      "postSlug": "one-pot-creamy-marry-me-chicken-pasta",
+      "postUrl": "https://el-mordjene.info/one-pot-creamy-marry-me-chicken-pasta/",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "en",
+      "overlayTitle": "Pot Creamy Marry Me Chicken Pasta Worth Trying",
+      "overlaySubtitle": "Understanding the Viral One-Pot Creamy Marry Me Chicken Pasta",
+      "pinTitle": "One-Pot Creamy Marry Me Chicken Pasta: A Weeknight Masterclass",
+      "pinDescription": "Pot Creamy Marry Me Chicken Pasta with a click-worthy angle, useful details, and a more tempting way to explore the full post. a weeknight masterclass, master the viral one, pot creamy marry me chicken pasta with this expert guide learn culinary techniques for the perfect sauce and creamy texture",
+      "primaryKeyword": "pot creamy marry me chicken pasta",
+      "supportingKeywords": [
+        "pot creamy marry me chicken pasta",
+        "a weeknight masterclass",
+        "master the viral one",
+        "pot creamy marry me chicken pasta with this expert guide learn culinary techniques for the perfect sauce and creamy texture",
+        "understanding the viral one"
+      ],
+      "searchTags": [
+        "pot creamy marry me chicken pasta",
+        "a weeknight masterclass",
+        "master the viral one",
+        "pot creamy marry me chicken pasta with this expert guide learn culinary techniques for the perfect sauce and creamy texture",
+        "understanding the viral one",
+        "trend",
+        "viral food trends & sweet ideas"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/one-pot-creamy-marry-me-chicken-pasta-a-weeknight_20260823_174128.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-23T18:32:22.099Z",
+      "scheduledFor": "2026-08-23T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/one-pot-creamy-marry-me-chicken-pasta-a-weeknight_20260823_174128.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/one-pot-creamy-marry-me-chicken-pasta-hero.jpg",
+      "renderedAt": "2026-08-23T18:32:23.921Z"
+    },
+    "5045-hero": {
+      "id": "5045-hero",
+      "postId": 5045,
+      "postSlug": "creamy-garlic-butter-tuscan-chicken-guide",
+      "postUrl": "https://el-mordjene.info/creamy-garlic-butter-tuscan-chicken-guide/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "The Ultimate Creamy Garlic Butter Tuscan Chicken Guid...",
+      "overlaySubtitle": "The Renaissance of Creamy Garlic Butter Tuscan Chicken",
+      "pinTitle": "The Ultimate Creamy Garlic Butter Tuscan Chicken Guide",
+      "pinDescription": "The Ultimate Creamy Garlic Butter Tuscan Chicken Guide with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of creamy garlic butter tuscan chicken a comprehensive guide covering culinary techniques, ingredient chemistry, and pro tips",
+      "primaryKeyword": "the ultimate creamy garlic butter tuscan chicken guide",
+      "supportingKeywords": [
+        "the ultimate creamy garlic butter tuscan chicken guide",
+        "master the art of creamy garlic butter tuscan chicken a comprehensive guide covering culinary techniques",
+        "ingredient chemistry",
+        "and pro tips",
+        "the renaissance of creamy garlic butter tuscan chicken"
+      ],
+      "searchTags": [
+        "the ultimate creamy garlic butter tuscan chicken guide",
+        "master the art of creamy garlic butter tuscan chicken a comprehensive guide covering culinary techniques",
+        "ingredient chemistry",
+        "and pro tips",
+        "the renaissance of creamy garlic butter tuscan chicken",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/the-ultimate-creamy-garlic-butter-tuscan-chicken-g_20260823_173813.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-23T18:32:22.100Z",
+      "scheduledFor": "2026-08-23T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/the-ultimate-creamy-garlic-butter-tuscan-chicken-g_20260823_173813.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-garlic-butter-tuscan-chicken-guide-hero.jpg",
+      "renderedAt": "2026-08-23T18:32:26.118Z"
     }
   },
   "queue": {
@@ -23967,7 +24137,9 @@
       "postId": 4217,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073178487",
+      "publishedAt": "2026-08-23T18:32:29.695Z"
     },
     "4215-hero-queue": {
       "id": "4215-hero-queue",
@@ -24057,7 +24229,9 @@
       "postId": 4072,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073178489",
+      "publishedAt": "2026-08-23T18:32:32.427Z"
     },
     "3941-hero-queue": {
       "id": "3941-hero-queue",
@@ -24227,7 +24401,9 @@
       "postId": 4935,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073178490",
+      "publishedAt": "2026-08-23T18:32:35.054Z"
     },
     "4938-hero-queue": {
       "id": "4938-hero-queue",
@@ -24514,6 +24690,22 @@
       "assetId": "5043-hero",
       "postId": 5043,
       "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-23T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5048-hero-queue": {
+      "id": "5048-hero-queue",
+      "assetId": "5048-hero",
+      "postId": 5048,
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "scheduledFor": "2026-08-23T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5045-hero-queue": {
+      "id": "5045-hero-queue",
+      "assetId": "5045-hero",
+      "postId": 5045,
+      "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-08-23T09:00:00.000Z",
       "status": "draft"
     }
