@@ -17823,7 +17823,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/selecting-the-perfect-birthday-cake-a-consumer-gui_20260510_203507.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T14:29:32.056Z",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/selecting-the-perfect-birthday-cake-a-consumer-gui_20260510_203507.jpg",
@@ -17831,7 +17831,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/selecting-the-perfect-birthday-cake-hero.jpg",
-      "renderedAt": "2026-07-27T14:29:36.387Z"
+      "renderedAt": "2026-07-27T14:29:36.387Z",
+      "pinId": "419397784073173721",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073173721/",
+      "publishedAt": "2026-08-23T01:12:05.286Z"
     },
     "4288-hero": {
       "id": "4288-hero",
@@ -23715,7 +23718,9 @@
       "postId": 4297,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073173721",
+      "publishedAt": "2026-08-23T01:12:05.286Z"
     },
     "4288-hero-queue": {
       "id": "4288-hero-queue",
