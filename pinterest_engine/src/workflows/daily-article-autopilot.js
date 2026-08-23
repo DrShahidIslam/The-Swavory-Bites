@@ -110,6 +110,24 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
     console.warn("⚠️ Featured image upload skipped:", imgErr.message);
   }
 
+  // Fetch WordPress categories to dynamically map the topic category
+  let categoryIds = [];
+  try {
+    const wpCategories = await wordpress.fetchCategories();
+    const matchedCategory = wpCategories.find(c => 
+      c.name.toLowerCase() === selectedTopic.category.toLowerCase() || 
+      c.slug.toLowerCase() === selectedTopic.category.toLowerCase().replace(/[^a-z0-9]+/g, '-')
+    );
+    if (matchedCategory) {
+      categoryIds = [matchedCategory.id];
+      console.log(`📂 Mapped category "${selectedTopic.category}" to WP Category ID: ${matchedCategory.id}`);
+    } else {
+      console.log(`⚠️ Category "${selectedTopic.category}" not found in WordPress, defaulting to Uncategorized.`);
+    }
+  } catch (err) {
+    console.warn("⚠️ Failed to fetch categories:", err.message);
+  }
+
   // 6. Publish Post live to WordPress REST API
   const postData = {
     title: article.title,
@@ -118,6 +136,7 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
     excerpt: article.excerpt,
     status: "publish",
     featured_media: featuredMediaId,
+    categories: categoryIds.length > 0 ? categoryIds : undefined,
     meta: {
       meta_description: article.metaDescription,
       primary_keyword: article.primaryKeyword
