@@ -69,13 +69,36 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
   console.log(`📌 Target Topic for Today: "${selectedTopic.topic}"`);
   console.log(`🎯 Category: ${selectedTopic.category} | Board: ${selectedTopic.targetBoard}`);
 
+  // Fetch WordPress categories to dynamically map the topic category and build the SEO Silo
+  let categoryIds = [];
+  let siloPosts = existingPosts; // Fallback to all if no category match
+  try {
+    const wpCategories = await wordpress.fetchCategories();
+    const matchedCategory = wpCategories.find(c => 
+      c.name.toLowerCase() === selectedTopic.category.toLowerCase() || 
+      c.slug.toLowerCase() === selectedTopic.category.toLowerCase().replace(/[^a-z0-9]+/g, '-')
+    );
+    if (matchedCategory) {
+      categoryIds = [matchedCategory.id];
+      console.log(`📂 Mapped category "${selectedTopic.category}" to WP Category ID: ${matchedCategory.id}`);
+      
+      // SEO SILO: Filter existing posts to ONLY include posts in this exact category
+      siloPosts = existingPosts.filter(p => p.categories && p.categories.includes(matchedCategory.id));
+      console.log(`🔗 Found ${siloPosts.length} existing posts in this Silo for internal linking.`);
+    } else {
+      console.log(`⚠️ Category "${selectedTopic.category}" not found in WordPress, defaulting to Uncategorized.`);
+    }
+  } catch (err) {
+    console.warn("⚠️ Failed to fetch categories:", err.message);
+  }
+
   // 3. Generate article text with Gemini AI
   const generator = new ArticleGenerator(config);
   const article = await generator.generateArticle({
     topic: selectedTopic.topic,
     targetKeyword: selectedTopic.searchKeywords[0],
     category: selectedTopic.category,
-    existingPosts
+    existingPosts: siloPosts // Pass the strictly filtered Silo posts
   });
 
   // 4. Generate HD Food Photo via AI Image API (HuggingFace FLUX / Pexels)
@@ -108,24 +131,6 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
     console.log(`✅ Uploaded WebP Featured Image to WP Media | Media ID: ${featuredMediaId}`);
   } catch (imgErr) {
     console.warn("⚠️ Featured image upload skipped:", imgErr.message);
-  }
-
-  // Fetch WordPress categories to dynamically map the topic category
-  let categoryIds = [];
-  try {
-    const wpCategories = await wordpress.fetchCategories();
-    const matchedCategory = wpCategories.find(c => 
-      c.name.toLowerCase() === selectedTopic.category.toLowerCase() || 
-      c.slug.toLowerCase() === selectedTopic.category.toLowerCase().replace(/[^a-z0-9]+/g, '-')
-    );
-    if (matchedCategory) {
-      categoryIds = [matchedCategory.id];
-      console.log(`📂 Mapped category "${selectedTopic.category}" to WP Category ID: ${matchedCategory.id}`);
-    } else {
-      console.log(`⚠️ Category "${selectedTopic.category}" not found in WordPress, defaulting to Uncategorized.`);
-    }
-  } catch (err) {
-    console.warn("⚠️ Failed to fetch categories:", err.message);
   }
 
   // 6. Publish Post live to WordPress REST API

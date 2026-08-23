@@ -40,22 +40,29 @@ Topic: "${topic}"
 Target Keyword: "${targetKeyword}"
 Category: "${category}"
 
-CRITICAL MANDATORY INSTRUCTIONS FOR RETENTION & DEPTH:
-1. **Massive Content Depth (1,500+ Words)**:
-   - You MUST write a highly detailed, comprehensive guide. Do not write fluff. Expand on the science of the ingredients, the origin of the dish, detailed sensory descriptions, and comprehensive troubleshooting steps.
+CRITICAL MANDATORY INSTRUCTIONS FOR RETENTION & SEO SILOS:
+1. **Massive Content Depth (1,500+ Words GUARANTEED)**:
+   - You MUST write a highly detailed, comprehensive guide. You MUST follow this exact word count blueprint:
+     * Intro & "Why You'll Love This": 250 words.
+     * Food Science & Ingredient Deep Dive: 400 words.
+     * Step-by-Step Instructions: 400 words.
+     * Troubleshooting, Storage & Pro Tips: 350 words.
+     * FAQ: 200 words.
 2. **Pinterest-Optimized Visual Modules (Inline CSS REQUIRED)**:
    - You MUST break up the text using visually distinct HTML blocks. Use inline CSS.
    - Include a **"Why You'll Love This"** bulleted list using a soft background box (e.g., <div style="background:#fef7f2; padding:15px; border-left:4px solid #d87439; margin-bottom:20px;">).
    - Include an **"At-a-Glance"** table/box detailing Prep Time, Cook Time, Total Time, Yield, and Estimated Calories.
    - Include a **"Dietary Substitutions"** section (highly searched by Pinterest users).
    - Include a **"Pro Tips for Success"** callout box (e.g., <div style="background:#f4f9f4; padding:15px; border:1px solid #2d9e64; border-radius:5px;">).
-3. **AEO & ALP (Answer-Led Paragraphs)**:
+3. **AEO & GEO (NLP & Semantic Entities)**:
    - Under every <h2> and <h3> heading, the VERY FIRST 35-40 words must directly answer the section question/topic clearly and concisely.
-4. **SEO & Heading Structure**:
+   - You MUST weave in high-density semantic entities, LSI keywords, and NLP phrasing naturally throughout the text (e.g., Maillard reaction, emulsification, flavor profiles, specific equipment).
+4. **STRICT H1 BAN & SEO Structure**:
+   - CRITICAL: DO NOT use <h1> tags ANYWHERE in the content. You may ONLY use <h2>, <h3>, and <h4> tags. The title is handled separately.
    - Title must front-load the primary keyword "${targetKeyword}" (< 60 chars).
    - Write an engaging Meta Description (< 155 chars) containing "${targetKeyword}".
-5. **Contextual Internal Links**:
-   - Naturally embed 2 to 3 contextual internal links to these existing articles:
+5. **Contextual Silo Internal Links**:
+   - Naturally embed 2 to 3 contextual internal links to these existing articles in the SAME category:
 ${internalLinkContext || "- None available"}
 6. **FAQ & Schema**:
    - Include an <h2>Frequently Asked Questions</h2> section with 3 distinct questions and answers.
