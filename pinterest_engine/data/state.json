@@ -11199,12 +11199,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/traditional-homemade-raspberry-jam-recipe_20260715_204606.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:36:28.413Z",
       "scheduledFor": "2026-07-30T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/traditional-homemade-raspberry-jam-recipe-list.jpg",
-      "renderedAt": "2026-07-24T18:40:12.964Z"
+      "renderedAt": "2026-07-24T18:40:12.964Z",
+      "pinId": "419397784073187068",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073187068/",
+      "publishedAt": "2026-08-24T20:27:35.391Z"
     },
     "4786-guide": {
       "id": "4786-guide",
@@ -22711,7 +22714,9 @@
       "postId": 4786,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-30T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073187068",
+      "publishedAt": "2026-08-24T20:27:35.391Z"
     },
     "4786-guide-queue": {
       "id": "4786-guide-queue",
