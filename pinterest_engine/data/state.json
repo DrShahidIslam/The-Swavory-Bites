@@ -7444,6 +7444,31 @@
         "glance"
       ],
       "discoveredAt": "2026-08-24T02:59:05.791Z"
+    },
+    "5053": {
+      "postId": 5053,
+      "title": "Air Fryer Honey Garlic Salmon Bites: The Perfect Weeknight Guide",
+      "url": "https://el-mordjene.info/air-fryer-honey-garlic-salmon-bites/",
+      "slug": "air-fryer-honey-garlic-salmon-bites",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/air-fryer-honey-garlic-salmon-bites-the-perfect-we_20260824_083239.webp",
+      "keywordSet": [
+        "air fryer honey garlic salmon bites",
+        "the perfect weeknight guide",
+        "master the art of air fryer honey garlic salmon bites with this guide learn techniques",
+        "heat management",
+        "and flavor balancing for perfect results",
+        "air fryer",
+        "easy recipes",
+        "healthy cooking",
+        "salmon",
+        "seafood"
+      ],
+      "discoveredAt": "2026-08-24T08:45:02.772Z"
     }
   },
   "assets": {
@@ -21806,6 +21831,49 @@
       "scheduledFor": "2026-08-24T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-2-2-hero.jpg",
       "renderedAt": "2026-08-24T02:59:05.835Z"
+    },
+    "5053-hero": {
+      "id": "5053-hero",
+      "postId": 5053,
+      "postSlug": "air-fryer-honey-garlic-salmon-bites",
+      "postUrl": "https://el-mordjene.info/air-fryer-honey-garlic-salmon-bites/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Air Fryer Honey Garlic Salmon Bites Worth Trying",
+      "overlaySubtitle": "Understanding the Rise of Salmon Bites",
+      "pinTitle": "Air Fryer Honey Garlic Salmon Bites: The Perfect Weeknight Guide",
+      "pinDescription": "Air Fryer Honey Garlic Salmon Bites with a click-worthy angle, useful details, and a more tempting way to explore the full post. the perfect weeknight guide, master the art of air fryer honey garlic salmon bites with this guide learn techniques, heat management",
+      "primaryKeyword": "air fryer honey garlic salmon bites",
+      "supportingKeywords": [
+        "air fryer honey garlic salmon bites",
+        "the perfect weeknight guide",
+        "master the art of air fryer honey garlic salmon bites with this guide learn techniques",
+        "heat management",
+        "and flavor balancing for perfect results"
+      ],
+      "searchTags": [
+        "air fryer honey garlic salmon bites",
+        "the perfect weeknight guide",
+        "master the art of air fryer honey garlic salmon bites with this guide learn techniques",
+        "heat management",
+        "and flavor balancing for perfect results",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/air-fryer-honey-garlic-salmon-bites-the-perfect-we_20260824_083239.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-24T08:45:02.774Z",
+      "scheduledFor": "2026-08-24T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/air-fryer-honey-garlic-salmon-bites-the-perfect-we_20260824_083239.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/air-fryer-honey-garlic-salmon-bites-hero.jpg",
+      "renderedAt": "2026-08-24T08:45:22.599Z"
     }
   },
   "queue": {
@@ -24790,9 +24858,14 @@
       "boardName": "Tendances Culinaires & Recettes",
       "scheduledFor": "2026-08-24T09:00:00.000Z",
       "status": "draft"
+    },
+    "5053-hero-queue": {
+      "id": "5053-hero-queue",
+      "assetId": "5053-hero",
+      "postId": 5053,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-24T09:00:00.000Z",
+      "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
