@@ -7419,6 +7419,31 @@
         "glance"
       ],
       "discoveredAt": "2026-08-23T18:32:22.096Z"
+    },
+    "5051": {
+      "postId": 5051,
+      "title": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-2-2/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-4-2-2-2",
+      "language": "fr",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to whip up the viral marry me chicken in just 30 minutes using pantry staples this budget",
+        "friendly guide makes gourmet dinners accessible for busy families",
+        "why you 8217",
+        "ll love this marry me chicken",
+        "recipe details",
+        "food science 038",
+        "recipes",
+        "glance"
+      ],
+      "discoveredAt": "2026-08-24T02:59:05.791Z"
     }
   },
   "assets": {
@@ -9655,12 +9680,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/simple-roasted-honey-and-thyme-peaches_20260720_205703.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.345Z",
       "scheduledFor": "2026-07-30T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/simple-roasted-honey-thyme-peaches-list.jpg",
-      "renderedAt": "2026-07-24T18:40:10.706Z"
+      "renderedAt": "2026-07-24T18:40:10.706Z",
+      "pinId": "419397784073181486",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073181486/",
+      "publishedAt": "2026-08-24T02:59:11.351Z"
     },
     "4822-guide": {
       "id": "4822-guide",
@@ -20193,7 +20221,7 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/how-to-make-perfect-pancakes-from-scratch_20260730_205233.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-30T21:07:29.394Z",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/how-to-make-perfect-pancakes-from-scratch_20260730_205233.webp",
@@ -20201,7 +20229,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/pancakes-from-scratch-hero.jpg",
-      "renderedAt": "2026-07-30T21:07:50.567Z"
+      "renderedAt": "2026-07-30T21:07:50.567Z",
+      "pinId": "419397784073181485",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073181485/",
+      "publishedAt": "2026-08-24T02:59:08.872Z"
     },
     "4941-hero": {
       "id": "4941-hero",
@@ -21736,6 +21767,45 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-garlic-butter-tuscan-chicken-guide-hero.jpg",
       "renderedAt": "2026-08-23T18:32:26.118Z"
+    },
+    "5051-hero": {
+      "id": "5051-hero",
+      "postId": 5051,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-4-2-2-2",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-2-2/",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "fr",
+      "overlayTitle": "Creamy 30 Worth Trying",
+      "overlaySubtitle": "Why You&#8217;ll Love This Marry Me Chicken",
+      "pinTitle": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "pinDescription": "Creamy 30 with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute marry me chicken for busy moms on a budget, discover how to whip up the viral marry me chicken in just 30 minutes using pantry staples this budget, friendly guide makes gourmet dinners accessible for busy fa...",
+      "primaryKeyword": "creamy 30",
+      "supportingKeywords": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to whip up the viral marry me chicken in just 30 minutes using pantry staples this budget",
+        "friendly guide makes gourmet dinners accessible for busy families",
+        "why you 8217"
+      ],
+      "searchTags": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to whip up the viral marry me chicken in just 30 minutes using pantry staples this budget",
+        "friendly guide makes gourmet dinners accessible for busy families",
+        "why you 8217",
+        "trend",
+        "tendances culinaires & recettes"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-24T02:59:05.794Z",
+      "scheduledFor": "2026-08-24T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-2-2-hero.jpg",
+      "renderedAt": "2026-08-24T02:59:05.835Z"
     }
   },
   "queue": {
@@ -22265,7 +22335,9 @@
       "postId": 4822,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-30T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073181486",
+      "publishedAt": "2026-08-24T02:59:11.351Z"
     },
     "4822-guide-queue": {
       "id": "4822-guide-queue",
@@ -24411,7 +24483,9 @@
       "postId": 4938,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-07-30T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073181485",
+      "publishedAt": "2026-08-24T02:59:08.872Z"
     },
     "4941-hero-queue": {
       "id": "4941-hero-queue",
@@ -24707,6 +24781,14 @@
       "postId": 5045,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-08-23T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5051-hero-queue": {
+      "id": "5051-hero-queue",
+      "assetId": "5051-hero",
+      "postId": 5051,
+      "boardName": "Tendances Culinaires & Recettes",
+      "scheduledFor": "2026-08-24T09:00:00.000Z",
       "status": "draft"
     }
   },
