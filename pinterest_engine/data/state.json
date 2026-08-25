@@ -9027,12 +9027,15 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-moist-zucchini-bread-recipe-for-any-occasi_20260723_204741.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:05:48.554Z",
       "scheduledFor": "2026-07-30T19:00:00.000Z",
       "imageSourceDuplicate": true,
-      "outputPath": "C:\\SEO Projects\\the swavory bites\\pinterest_engine\\data\\assets\\pinterest\\classic-zucchini-bread-recipe-guide.jpg",
-      "renderedAt": "2026-07-24T18:06:28.578Z"
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-zucchini-bread-recipe-guide.jpg",
+      "renderedAt": "2026-07-24T18:06:28.578Z",
+      "pinId": "419397784073189785",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073189785/",
+      "publishedAt": "2026-08-25T04:36:25.268Z"
     },
     "4838-hero": {
       "id": "4838-hero",
@@ -22384,7 +22387,9 @@
       "postId": 4841,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-30T19:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073189785",
+      "publishedAt": "2026-08-25T04:36:25.268Z"
     },
     "4838-hero-queue": {
       "id": "4838-hero-queue",
@@ -25030,8 +25035,5 @@
       "scheduledFor": "2026-08-25T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
