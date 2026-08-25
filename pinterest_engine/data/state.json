@@ -7469,6 +7469,31 @@
         "seafood"
       ],
       "discoveredAt": "2026-08-24T08:45:02.772Z"
+    },
+    "5056": {
+      "postId": 5056,
+      "title": "20-Minute Korean Beef and Rice Bowls: A Weeknight Masterclass",
+      "url": "https://el-mordjene.info/20-minute-korean-beef-and-rice-bowls/",
+      "slug": "20-minute-korean-beef-and-rice-bowls",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/20-minute-korean-beef-and-rice-bowls-a-weeknight-m_20260824_201503.webp",
+      "keywordSet": [
+        "minute korean beef and rice bowls",
+        "a weeknight masterclass",
+        "master the art of 20",
+        "minute korean beef and rice bowls with this expert guide learn professional browning techniques",
+        "flavor balancing",
+        "and swaps",
+        "mastering 20",
+        "understanding the culinary mechanics",
+        "korean",
+        "beef"
+      ],
+      "discoveredAt": "2026-08-25T01:07:56.129Z"
     }
   },
   "assets": {
@@ -12318,12 +12343,15 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/crafting-the-perfect-father-s-day-cake_20260703_102319.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:53:55.538Z",
       "scheduledFor": "2026-07-30T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crafting-perfect-fathers-day-cake-list.jpg",
-      "renderedAt": "2026-07-24T18:54:07.854Z"
+      "renderedAt": "2026-07-24T18:54:07.854Z",
+      "pinId": "419397784073188497",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073188497/",
+      "publishedAt": "2026-08-25T01:08:18.896Z"
     },
     "4714-guide": {
       "id": "4714-guide",
@@ -21877,6 +21905,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/air-fryer-honey-garlic-salmon-bites-hero.jpg",
       "renderedAt": "2026-08-24T08:45:22.599Z"
+    },
+    "5056-hero": {
+      "id": "5056-hero",
+      "postId": 5056,
+      "postSlug": "20-minute-korean-beef-and-rice-bowls",
+      "postUrl": "https://el-mordjene.info/20-minute-korean-beef-and-rice-bowls/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Minute Korean Beef And Rice Bowls Worth Trying",
+      "overlaySubtitle": "Mastering 20-Minute Korean Beef and Rice Bowls",
+      "pinTitle": "20-Minute Korean Beef and Rice Bowls: A Weeknight Masterclass",
+      "pinDescription": "Minute Korean Beef And Rice Bowls with a click-worthy angle, useful details, and a more tempting way to explore the full post. a weeknight masterclass, master the art of 20, minute korean beef and rice bowls with this expert guide learn professional browning techniques",
+      "primaryKeyword": "minute korean beef and rice bowls",
+      "supportingKeywords": [
+        "minute korean beef and rice bowls",
+        "a weeknight masterclass",
+        "master the art of 20",
+        "minute korean beef and rice bowls with this expert guide learn professional browning techniques",
+        "flavor balancing"
+      ],
+      "searchTags": [
+        "minute korean beef and rice bowls",
+        "a weeknight masterclass",
+        "master the art of 20",
+        "minute korean beef and rice bowls with this expert guide learn professional browning techniques",
+        "flavor balancing",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/20-minute-korean-beef-and-rice-bowls-a-weeknight-m_20260824_201503.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-25T01:07:56.132Z",
+      "scheduledFor": "2026-08-24T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/20-minute-korean-beef-and-rice-bowls-a-weeknight-m_20260824_201503.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/20-minute-korean-beef-and-rice-bowls-hero.jpg",
+      "renderedAt": "2026-08-25T01:08:14.818Z"
     }
   },
   "queue": {
@@ -22944,7 +23015,9 @@
       "postId": 4714,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-30T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073188497",
+      "publishedAt": "2026-08-25T01:08:18.896Z"
     },
     "4714-guide-queue": {
       "id": "4714-guide-queue",
@@ -24869,6 +24942,14 @@
       "assetId": "5053-hero",
       "postId": 5053,
       "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-24T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5056-hero-queue": {
+      "id": "5056-hero-queue",
+      "assetId": "5056-hero",
+      "postId": 5056,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-24T09:00:00.000Z",
       "status": "draft"
     }
