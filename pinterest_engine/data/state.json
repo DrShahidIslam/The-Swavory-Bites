@@ -7544,6 +7544,31 @@
         "steak"
       ],
       "discoveredAt": "2026-08-25T08:39:14.399Z"
+    },
+    "5063": {
+      "postId": 5063,
+      "title": "Creamy Sun-Dried Tomato Gnocchi with Spinach Guide",
+      "url": "https://el-mordjene.info/creamy-sun-dried-tomato-gnocchi-with-spinach/",
+      "slug": "creamy-sun-dried-tomato-gnocchi-with-spinach",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-sun-dried-tomato-gnocchi-with-spinach-guide_20260825_201331.webp",
+      "keywordSet": [
+        "creamy sun",
+        "dried tomato gnocchi with spinach guide",
+        "master the art of creamy sun",
+        "dried tomato gnocchi with spinach a perfect blend of italian comfort and gourmet technique for your next weeknight dinner",
+        "comfort food",
+        "creamy pasta",
+        "italian cuisine",
+        "mastering creamy sun",
+        "gnocchi",
+        "vegetarian"
+      ],
+      "discoveredAt": "2026-08-25T20:26:04.656Z"
     }
   },
   "assets": {
@@ -22089,6 +22114,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/sheet-pan-garlic-herb-butter-steak-bites-and-potatoes-hero.jpg",
       "renderedAt": "2026-08-25T08:39:30.546Z"
+    },
+    "5063-hero": {
+      "id": "5063-hero",
+      "postId": 5063,
+      "postSlug": "creamy-sun-dried-tomato-gnocchi-with-spinach",
+      "postUrl": "https://el-mordjene.info/creamy-sun-dried-tomato-gnocchi-with-spinach/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Creamy Sun Worth Trying",
+      "overlaySubtitle": "Mastering Creamy Sun-Dried Tomato Gnocchi with Spinach",
+      "pinTitle": "Creamy Sun-Dried Tomato Gnocchi with Spinach Guide",
+      "pinDescription": "Creamy Sun with a click-worthy angle, useful details, and a more tempting way to explore the full post. dried tomato gnocchi with spinach guide, master the art of creamy sun, dried tomato gnocchi with spinach a perfect blend of italian comfort and gourmet technique for your next weeknight dinner",
+      "primaryKeyword": "creamy sun",
+      "supportingKeywords": [
+        "creamy sun",
+        "dried tomato gnocchi with spinach guide",
+        "master the art of creamy sun",
+        "dried tomato gnocchi with spinach a perfect blend of italian comfort and gourmet technique for your next weeknight dinner",
+        "comfort food"
+      ],
+      "searchTags": [
+        "creamy sun",
+        "dried tomato gnocchi with spinach guide",
+        "master the art of creamy sun",
+        "dried tomato gnocchi with spinach a perfect blend of italian comfort and gourmet technique for your next weeknight dinner",
+        "comfort food",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-sun-dried-tomato-gnocchi-with-spinach-guide_20260825_201331.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-25T20:26:04.658Z",
+      "scheduledFor": "2026-08-25T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-sun-dried-tomato-gnocchi-with-spinach-guide_20260825_201331.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-sun-dried-tomato-gnocchi-with-spinach-hero.jpg",
+      "renderedAt": "2026-08-25T20:26:23.749Z"
     }
   },
   "queue": {
@@ -25113,6 +25181,14 @@
       "assetId": "5060-hero",
       "postId": 5060,
       "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-08-25T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5063-hero-queue": {
+      "id": "5063-hero-queue",
+      "assetId": "5063-hero",
+      "postId": 5063,
+      "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-08-25T09:00:00.000Z",
       "status": "draft"
     }
