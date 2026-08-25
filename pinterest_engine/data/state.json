@@ -7519,6 +7519,31 @@
         "glance"
       ],
       "discoveredAt": "2026-08-25T02:55:00.254Z"
+    },
+    "5060": {
+      "postId": 5060,
+      "title": "Sheet Pan Garlic Herb Butter Steak Bites and Potatoes",
+      "url": "https://el-mordjene.info/sheet-pan-garlic-herb-butter-steak-bites-and-potatoes/",
+      "slug": "sheet-pan-garlic-herb-butter-steak-bites-and-potatoes",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/sheet-pan-garlic-herb-butter-steak-bites-and-potat_20260825_082630.webp",
+      "keywordSet": [
+        "sheet pan garlic herb butter steak bites and potatoes",
+        "master the art of the perfect sheet pan meal learn how to achieve tender",
+        "seared steak bites and crispy potatoes with our garlic herb butter method",
+        "garlic butter",
+        "quick dinners",
+        "sheet pan meals",
+        "the evolution of the sheet pan revolution",
+        "culinary mechanics and heat management",
+        "potatoes",
+        "steak"
+      ],
+      "discoveredAt": "2026-08-25T08:39:14.399Z"
     }
   },
   "assets": {
@@ -9158,12 +9183,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/how-to-make-vibrant-basil-salt-at-home_20260723_100824.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:05:48.558Z",
       "scheduledFor": "2026-07-30T19:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/basil-salt-recipe-guide.jpg",
-      "renderedAt": "2026-07-24T18:40:13.565Z"
+      "renderedAt": "2026-07-24T18:40:13.565Z",
+      "pinId": "419397784073190861",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073190861/",
+      "publishedAt": "2026-08-25T08:39:34.278Z"
     },
     "4835-hero": {
       "id": "4835-hero",
@@ -22018,6 +22046,49 @@
       "scheduledFor": "2026-08-25T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-2-2-2-hero.jpg",
       "renderedAt": "2026-08-25T02:55:00.491Z"
+    },
+    "5060-hero": {
+      "id": "5060-hero",
+      "postId": 5060,
+      "postSlug": "sheet-pan-garlic-herb-butter-steak-bites-and-potatoes",
+      "postUrl": "https://el-mordjene.info/sheet-pan-garlic-herb-butter-steak-bites-and-potatoes/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Sheet Pan Garlic Herb Butter Steak Bites And Potatoes...",
+      "overlaySubtitle": "The Evolution of the Sheet Pan Revolution",
+      "pinTitle": "Sheet Pan Garlic Herb Butter Steak Bites and Potatoes",
+      "pinDescription": "Sheet Pan Garlic Herb Butter Steak Bites And Potatoes with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of the perfect sheet pan meal learn how to achieve tender, seared steak bites and crispy potatoes with our garlic herb butter method, garlic butter",
+      "primaryKeyword": "sheet pan garlic herb butter steak bites and potatoes",
+      "supportingKeywords": [
+        "sheet pan garlic herb butter steak bites and potatoes",
+        "master the art of the perfect sheet pan meal learn how to achieve tender",
+        "seared steak bites and crispy potatoes with our garlic herb butter method",
+        "garlic butter",
+        "quick dinners"
+      ],
+      "searchTags": [
+        "sheet pan garlic herb butter steak bites and potatoes",
+        "master the art of the perfect sheet pan meal learn how to achieve tender",
+        "seared steak bites and crispy potatoes with our garlic herb butter method",
+        "garlic butter",
+        "quick dinners",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/sheet-pan-garlic-herb-butter-steak-bites-and-potat_20260825_082630.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-25T08:39:14.401Z",
+      "scheduledFor": "2026-08-25T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/sheet-pan-garlic-herb-butter-steak-bites-and-potat_20260825_082630.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/sheet-pan-garlic-herb-butter-steak-bites-and-potatoes-hero.jpg",
+      "renderedAt": "2026-08-25T08:39:30.546Z"
     }
   },
   "queue": {
@@ -22417,7 +22488,9 @@
       "postId": 4838,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-30T19:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073190861",
+      "publishedAt": "2026-08-25T08:39:34.279Z"
     },
     "4835-hero-queue": {
       "id": "4835-hero-queue",
@@ -25032,6 +25105,14 @@
       "assetId": "5058-hero",
       "postId": 5058,
       "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-25T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5060-hero-queue": {
+      "id": "5060-hero-queue",
+      "assetId": "5060-hero",
+      "postId": 5060,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-25T09:00:00.000Z",
       "status": "draft"
     }
