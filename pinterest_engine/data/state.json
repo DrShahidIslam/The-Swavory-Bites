@@ -7494,6 +7494,31 @@
         "beef"
       ],
       "discoveredAt": "2026-08-25T01:07:56.129Z"
+    },
+    "5058": {
+      "postId": 5058,
+      "title": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-2-2-2/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-4-2-2-2-2",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to whip up the famous creamy marry me chicken in just 30 minutes this budget",
+        "friendly guide ensures a restaurant",
+        "quality meal for your family",
+        "why you 8217",
+        "ll love this marry me chicken recipe",
+        "the quick stats",
+        "recipes",
+        "glance"
+      ],
+      "discoveredAt": "2026-08-25T02:55:00.254Z"
     }
   },
   "assets": {
@@ -13837,12 +13862,15 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/the-classic-chocolate-wafer-icebox-cake_20260627_095405.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.364Z",
       "scheduledFor": "2026-07-30T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-chocolate-wafer-icebox-cake-list.jpg",
-      "renderedAt": "2026-07-24T19:14:24.875Z"
+      "renderedAt": "2026-07-24T19:14:24.875Z",
+      "pinId": "419397784073189357",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073189357/",
+      "publishedAt": "2026-08-25T02:55:04.195Z"
     },
     "4678-guide": {
       "id": "4678-guide",
@@ -21948,6 +21976,45 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/20-minute-korean-beef-and-rice-bowls-hero.jpg",
       "renderedAt": "2026-08-25T01:08:14.818Z"
+    },
+    "5058-hero": {
+      "id": "5058-hero",
+      "postId": 5058,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-4-2-2-2-2",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-2-2-2/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Creamy 30 Worth Trying",
+      "overlaySubtitle": "Why You&#8217;ll Love This Marry Me Chicken Recipe",
+      "pinTitle": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "pinDescription": "Creamy 30 with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute marry me chicken for busy moms on a budget, discover how to whip up the famous creamy marry me chicken in just 30 minutes this budget, friendly guide ensures a restaurant",
+      "primaryKeyword": "creamy 30",
+      "supportingKeywords": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to whip up the famous creamy marry me chicken in just 30 minutes this budget",
+        "friendly guide ensures a restaurant",
+        "quality meal for your family"
+      ],
+      "searchTags": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to whip up the famous creamy marry me chicken in just 30 minutes this budget",
+        "friendly guide ensures a restaurant",
+        "quality meal for your family",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-25T02:55:00.256Z",
+      "scheduledFor": "2026-08-25T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-2-2-2-hero.jpg",
+      "renderedAt": "2026-08-25T02:55:00.491Z"
     }
   },
   "queue": {
@@ -23323,7 +23390,9 @@
       "postId": 4678,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-30T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073189357",
+      "publishedAt": "2026-08-25T02:55:04.195Z"
     },
     "4678-guide-queue": {
       "id": "4678-guide-queue",
@@ -24952,6 +25021,17 @@
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-24T09:00:00.000Z",
       "status": "draft"
+    },
+    "5058-hero-queue": {
+      "id": "5058-hero-queue",
+      "assetId": "5058-hero",
+      "postId": 5058,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-25T09:00:00.000Z",
+      "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
