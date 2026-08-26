@@ -16073,7 +16073,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/how-to-make-authentic-mexican-street-corn-elote_20260725_142739.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T14:10:09.121Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/how-to-make-authentic-mexican-street-corn-elote_20260725_142739.webp",
@@ -16081,7 +16081,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-elote-corn-recipe-hero.jpg",
-      "renderedAt": "2026-07-26T16:58:16.257Z"
+      "renderedAt": "2026-07-26T16:58:16.257Z",
+      "pinId": "419397784073200606",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073200606/",
+      "publishedAt": "2026-08-26T16:46:30.986Z"
     },
     "4881-hero": {
       "id": "4881-hero",
@@ -24066,7 +24069,9 @@
       "postId": 4884,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073200606",
+      "publishedAt": "2026-08-26T16:46:30.986Z"
     },
     "4881-hero-queue": {
       "id": "4881-hero-queue",
