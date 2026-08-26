@@ -10143,7 +10143,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/refreshing-watermelon-feta-salad-with-mint_20260719_203502.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.350Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/refreshing-watermelon-feta-salad-with-mint_20260719_203502.jpg",
@@ -10151,7 +10151,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/refreshing-watermelon-feta-salad-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T18:40:15.693Z"
+      "renderedAt": "2026-07-24T18:40:15.693Z",
+      "pinId": "419397784073195997",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073195997/",
+      "publishedAt": "2026-08-26T01:10:09.126Z"
     },
     "4813-list": {
       "id": "4813-list",
@@ -22760,7 +22763,9 @@
       "postId": 4813,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073195997",
+      "publishedAt": "2026-08-26T01:10:09.126Z"
     },
     "4813-list-queue": {
       "id": "4813-list-queue",
