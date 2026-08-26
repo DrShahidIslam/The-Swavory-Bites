@@ -7594,6 +7594,31 @@
         "dinner"
       ],
       "discoveredAt": "2026-08-26T08:40:14.874Z"
+    },
+    "5069": {
+      "postId": 5069,
+      "title": "One-Pan Creamy Lemon Herb Orzo with Shrimp",
+      "url": "https://el-mordjene.info/one-pan-creamy-lemon-herb-orzo-with-shrimp/",
+      "slug": "one-pan-creamy-lemon-herb-orzo-with-shrimp",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/one-pan-creamy-lemon-herb-orzo-with-shrimp_20260826_223244.webp",
+      "keywordSet": [
+        "pan creamy lemon herb orzo with shrimp",
+        "master the art of one",
+        "pan creamy lemon herb orzo with shrimp a restaurant",
+        "saving meal with expert tips on flavor development and technique",
+        "mediterranean cooking",
+        "pan meals",
+        "quick dinners",
+        "seafood recipes",
+        "one",
+        "quality"
+      ],
+      "discoveredAt": "2026-08-26T22:42:43.516Z"
     }
   },
   "assets": {
@@ -22240,6 +22265,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-parmesan-crusted-chicken-cutlets-hero.jpg",
       "renderedAt": "2026-08-26T08:40:31.556Z"
+    },
+    "5069-hero": {
+      "id": "5069-hero",
+      "postId": 5069,
+      "postSlug": "one-pan-creamy-lemon-herb-orzo-with-shrimp",
+      "postUrl": "https://el-mordjene.info/one-pan-creamy-lemon-herb-orzo-with-shrimp/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Pan Creamy Lemon Herb Orzo With Shrimp Worth Trying",
+      "overlaySubtitle": "The Masterclass: One-Pan Creamy Lemon Herb Orzo with Shrimp",
+      "pinTitle": "One-Pan Creamy Lemon Herb Orzo with Shrimp",
+      "pinDescription": "Pan Creamy Lemon Herb Orzo With Shrimp with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of one, pan creamy lemon herb orzo with shrimp a restaurant, saving meal with expert tips on flavor development and technique",
+      "primaryKeyword": "pan creamy lemon herb orzo with shrimp",
+      "supportingKeywords": [
+        "pan creamy lemon herb orzo with shrimp",
+        "master the art of one",
+        "pan creamy lemon herb orzo with shrimp a restaurant",
+        "saving meal with expert tips on flavor development and technique",
+        "mediterranean cooking"
+      ],
+      "searchTags": [
+        "pan creamy lemon herb orzo with shrimp",
+        "master the art of one",
+        "pan creamy lemon herb orzo with shrimp a restaurant",
+        "saving meal with expert tips on flavor development and technique",
+        "mediterranean cooking",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/one-pan-creamy-lemon-herb-orzo-with-shrimp_20260826_223244.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-26T22:42:43.518Z",
+      "scheduledFor": "2026-08-26T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/one-pan-creamy-lemon-herb-orzo-with-shrimp_20260826_223244.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/one-pan-creamy-lemon-herb-orzo-with-shrimp-hero.jpg",
+      "renderedAt": "2026-08-26T22:43:02.943Z"
     }
   },
   "queue": {
@@ -25290,6 +25358,14 @@
       "assetId": "5066-hero",
       "postId": 5066,
       "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-08-26T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5069-hero-queue": {
+      "id": "5069-hero-queue",
+      "assetId": "5069-hero",
+      "postId": 5069,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-26T09:00:00.000Z",
       "status": "draft"
     }
