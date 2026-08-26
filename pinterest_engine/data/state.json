@@ -15286,7 +15286,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/nutritious-quinoa-salad-with-roasted-vegetables_20260621_105726.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:14:10.184Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/nutritious-quinoa-salad-with-roasted-vegetables_20260621_105726.jpg",
@@ -15294,7 +15294,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/nutritious-quinoa-salad-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T19:14:28.860Z"
+      "renderedAt": "2026-07-24T19:14:28.860Z",
+      "pinId": "419397784073199109",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073199109/",
+      "publishedAt": "2026-08-26T12:47:41.885Z"
     },
     "4630-hero": {
       "id": "4630-hero",
@@ -23893,7 +23896,9 @@
       "postId": 4633,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073199109",
+      "publishedAt": "2026-08-26T12:47:41.885Z"
     },
     "4630-hero-queue": {
       "id": "4630-hero-queue",
