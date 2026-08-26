@@ -12759,7 +12759,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-vanilla-bean-cream-best-ice-cream-recipes_20260701_211435.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:53:55.543Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-vanilla-bean-cream-best-ice-cream-recipes_20260701_211435.jpg",
@@ -12767,7 +12767,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-ice-cream-recipes-for-ice-cream-maker-hero.jpg",
-      "renderedAt": "2026-07-24T18:54:09.635Z"
+      "renderedAt": "2026-07-24T18:54:09.635Z",
+      "pinId": "419397784073196853",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073196853/",
+      "publishedAt": "2026-08-26T04:37:17.226Z"
     },
     "4705-list": {
       "id": "4705-list",
@@ -23303,7 +23306,9 @@
       "postId": 4705,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073196853",
+      "publishedAt": "2026-08-26T04:37:17.226Z"
     },
     "4705-list-queue": {
       "id": "4705-list-queue",
