@@ -7569,6 +7569,31 @@
         "vegetarian"
       ],
       "discoveredAt": "2026-08-25T20:26:04.656Z"
+    },
+    "5066": {
+      "postId": 5066,
+      "title": "Crispy Parmesan Crusted Chicken Cutlets: The Ultimate Guide",
+      "url": "https://el-mordjene.info/crispy-parmesan-crusted-chicken-cutlets/",
+      "slug": "crispy-parmesan-crusted-chicken-cutlets",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/crispy-parmesan-crusted-chicken-cutlets-the-ultima_20260826_082656.webp",
+      "keywordSet": [
+        "crispy parmesan crusted chicken cutlets",
+        "the ultimate guide",
+        "master the art of crispy parmesan crusted chicken cutlets with our expert guide learn the science of the perfect golden crust and foolproof techniques",
+        "the science of the perfect crust",
+        "why this trend is here to stay",
+        "culinary mechanics",
+        "achieving the ideal texture",
+        "ingredient substitution and dietary swaps",
+        "chicken",
+        "dinner"
+      ],
+      "discoveredAt": "2026-08-26T08:40:14.874Z"
     }
   },
   "assets": {
@@ -14256,7 +14281,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/authentic-greek-tzatziki-sauce-a-simple-homemade-g_20260625_211953.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.369Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/authentic-greek-tzatziki-sauce-a-simple-homemade-g_20260625_211953.jpg",
@@ -14264,7 +14289,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-greek-tzatziki-sauce-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T19:14:26.876Z"
+      "renderedAt": "2026-07-24T19:14:26.876Z",
+      "pinId": "419397784073197972",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073197972/",
+      "publishedAt": "2026-08-26T08:40:35.405Z"
     },
     "4669-list": {
       "id": "4669-list",
@@ -22163,6 +22191,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-sun-dried-tomato-gnocchi-with-spinach-hero.jpg",
       "renderedAt": "2026-08-25T20:26:23.749Z"
+    },
+    "5066-hero": {
+      "id": "5066-hero",
+      "postId": 5066,
+      "postSlug": "crispy-parmesan-crusted-chicken-cutlets",
+      "postUrl": "https://el-mordjene.info/crispy-parmesan-crusted-chicken-cutlets/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Crispy Parmesan Crusted Chicken Cutlets Worth Trying",
+      "overlaySubtitle": "The Science of the Perfect Crust",
+      "pinTitle": "Crispy Parmesan Crusted Chicken Cutlets: The Ultimate Guide",
+      "pinDescription": "Crispy Parmesan Crusted Chicken Cutlets with a click-worthy angle, useful details, and a more tempting way to explore the full post. the ultimate guide, master the art of crispy parmesan crusted chicken cutlets with our expert guide learn the science of the perfect golden crust and foolproof techniques, the science...",
+      "primaryKeyword": "crispy parmesan crusted chicken cutlets",
+      "supportingKeywords": [
+        "crispy parmesan crusted chicken cutlets",
+        "the ultimate guide",
+        "master the art of crispy parmesan crusted chicken cutlets with our expert guide learn the science of the perfect golden crust and foolproof techniques",
+        "the science of the perfect crust",
+        "why this trend is here to stay"
+      ],
+      "searchTags": [
+        "crispy parmesan crusted chicken cutlets",
+        "the ultimate guide",
+        "master the art of crispy parmesan crusted chicken cutlets with our expert guide learn the science of the perfect golden crust and foolproof techniques",
+        "the science of the perfect crust",
+        "why this trend is here to stay",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/crispy-parmesan-crusted-chicken-cutlets-the-ultima_20260826_082656.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-26T08:40:14.876Z",
+      "scheduledFor": "2026-08-26T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/crispy-parmesan-crusted-chicken-cutlets-the-ultima_20260826_082656.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-parmesan-crusted-chicken-cutlets-hero.jpg",
+      "renderedAt": "2026-08-26T08:40:31.556Z"
     }
   },
   "queue": {
@@ -23616,7 +23687,9 @@
       "postId": 4669,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073197972",
+      "publishedAt": "2026-08-26T08:40:35.405Z"
     },
     "4669-list-queue": {
       "id": "4669-list-queue",
@@ -25200,6 +25273,14 @@
       "postId": 5063,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-08-25T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5066-hero-queue": {
+      "id": "5066-hero-queue",
+      "assetId": "5066-hero",
+      "postId": 5066,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-08-26T09:00:00.000Z",
       "status": "draft"
     }
   }
