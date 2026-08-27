@@ -7644,6 +7644,31 @@
         "budget"
       ],
       "discoveredAt": "2026-08-27T12:18:20.509Z"
+    },
+    "5073": {
+      "postId": 5073,
+      "title": "The Ultimate Quick Beef and Broccoli Stir Fry Guide",
+      "url": "https://el-mordjene.info/quick-beef-and-broccoli-stir-fry/",
+      "slug": "quick-beef-and-broccoli-stir-fry",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/the-ultimate-quick-beef-and-broccoli-stir-fry-guid_20260827_182622.webp",
+      "keywordSet": [
+        "the ultimate quick beef and broccoli stir fry guide",
+        "master the art of a restaurant",
+        "quality quick beef and broccoli stir fry learn professional searing techniques",
+        "sauce chemistry",
+        "and pro",
+        "chef shortcuts",
+        "asian cuisine",
+        "home cooking",
+        "beef",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-27T18:49:56.760Z"
     }
   },
   "assets": {
@@ -17767,7 +17792,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/classic-roasted-garlic-and-herb-chicken-a-weeknigh_20260514_210200.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T11:18:53.877Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/classic-roasted-garlic-and-herb-chicken-a-weeknigh_20260514_210200.jpg",
@@ -17775,7 +17800,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-roasted-garlic-and-herb-chicken-hero.jpg",
-      "renderedAt": "2026-07-27T11:19:01.814Z"
+      "renderedAt": "2026-07-27T11:19:01.814Z",
+      "pinId": "419397784073208890",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073208890/",
+      "publishedAt": "2026-08-27T18:50:16.283Z"
     },
     "4327-hero": {
       "id": "4327-hero",
@@ -22381,6 +22409,49 @@
       "scheduledFor": "2026-08-27T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-3-hero.jpg",
       "renderedAt": "2026-08-27T12:18:20.868Z"
+    },
+    "5073-hero": {
+      "id": "5073-hero",
+      "postId": 5073,
+      "postSlug": "quick-beef-and-broccoli-stir-fry",
+      "postUrl": "https://el-mordjene.info/quick-beef-and-broccoli-stir-fry/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "The Ultimate Quick Beef And Broccoli Stir Fry Guide W...",
+      "overlaySubtitle": "Mastering the Quick Beef and Broccoli Stir Fry",
+      "pinTitle": "The Ultimate Quick Beef and Broccoli Stir Fry Guide",
+      "pinDescription": "The Ultimate Quick Beef And Broccoli Stir Fry Guide with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of a restaurant, quality quick beef and broccoli stir fry learn professional searing techniques, sauce chemistry",
+      "primaryKeyword": "the ultimate quick beef and broccoli stir fry guide",
+      "supportingKeywords": [
+        "the ultimate quick beef and broccoli stir fry guide",
+        "master the art of a restaurant",
+        "quality quick beef and broccoli stir fry learn professional searing techniques",
+        "sauce chemistry",
+        "and pro"
+      ],
+      "searchTags": [
+        "the ultimate quick beef and broccoli stir fry guide",
+        "master the art of a restaurant",
+        "quality quick beef and broccoli stir fry learn professional searing techniques",
+        "sauce chemistry",
+        "and pro",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/the-ultimate-quick-beef-and-broccoli-stir-fry-guid_20260827_182622.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-27T18:49:56.763Z",
+      "scheduledFor": "2026-08-27T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/the-ultimate-quick-beef-and-broccoli-stir-fry-guid_20260827_182622.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/quick-beef-and-broccoli-stir-fry-hero.jpg",
+      "renderedAt": "2026-08-27T18:50:13.007Z"
     }
   },
   "queue": {
@@ -24546,7 +24617,9 @@
       "postId": 4330,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073208890",
+      "publishedAt": "2026-08-27T18:50:16.283Z"
     },
     "4327-hero-queue": {
       "id": "4327-hero-queue",
@@ -25455,9 +25528,14 @@
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-08-27T09:00:00.000Z",
       "status": "draft"
+    },
+    "5073-hero-queue": {
+      "id": "5073-hero-queue",
+      "assetId": "5073-hero",
+      "postId": 5073,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-27T09:00:00.000Z",
+      "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
