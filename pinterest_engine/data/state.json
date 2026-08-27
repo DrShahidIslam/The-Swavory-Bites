@@ -7619,6 +7619,31 @@
         "quality"
       ],
       "discoveredAt": "2026-08-26T22:42:43.516Z"
+    },
+    "5071": {
+      "postId": 5071,
+      "title": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-3/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-4-2-3",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "transform your weeknight dinner routine with this ultra",
+        "friendly marry me chicken that comes together in under 30 minutes it is the perfect balance of sun",
+        "dried tomato tang and savory parmesan richness",
+        "why you 8217",
+        "ll love this marry me chicken recipe",
+        "food science and ingredient deep dive",
+        "creamy",
+        "budget"
+      ],
+      "discoveredAt": "2026-08-27T12:18:20.509Z"
     }
   },
   "assets": {
@@ -16794,7 +16819,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/nutrient-dense-mediterranean-quinoa-and-roasted-ve_20260519_105156.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T02:44:19.494Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/nutrient-dense-mediterranean-quinoa-and-roasted-ve_20260519_105156.jpg",
@@ -16802,7 +16827,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/nutrient-dense-mediterranean-quinoa-bowl-hero.jpg",
-      "renderedAt": "2026-07-27T02:44:28.775Z"
+      "renderedAt": "2026-07-27T02:44:28.775Z",
+      "pinId": "419397784073206468",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073206468/",
+      "publishedAt": "2026-08-27T12:18:25.621Z"
     },
     "4399-hero": {
       "id": "4399-hero",
@@ -17265,7 +17293,7 @@
         "viral food trends & sweet ideas"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/a-guide-to-refreshing-summer-desserts_20260517_183848.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T07:28:56.169Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/a-guide-to-refreshing-summer-desserts_20260517_183848.jpg",
@@ -17273,7 +17301,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/guide-to-refreshing-summer-desserts-hero.jpg",
-      "renderedAt": "2026-07-27T07:29:04.758Z"
+      "renderedAt": "2026-07-27T07:29:04.758Z",
+      "pinId": "419397784073206471",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073206471/",
+      "publishedAt": "2026-08-27T12:18:28.695Z"
     },
     "4363-hero": {
       "id": "4363-hero",
@@ -22311,6 +22342,45 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/one-pan-creamy-lemon-herb-orzo-with-shrimp-hero.jpg",
       "renderedAt": "2026-08-26T22:43:02.943Z"
+    },
+    "5071-hero": {
+      "id": "5071-hero",
+      "postId": 5071,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-4-2-3",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-3/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Creamy 30 Worth Trying",
+      "overlaySubtitle": "Why You&#8217;ll Love This Marry Me Chicken Recipe",
+      "pinTitle": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "pinDescription": "Creamy 30 with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute marry me chicken for busy moms on a budget, transform your weeknight dinner routine with this ultra, friendly marry me chicken that comes together in under 30 minutes it is the perfect balance of sun",
+      "primaryKeyword": "creamy 30",
+      "supportingKeywords": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "transform your weeknight dinner routine with this ultra",
+        "friendly marry me chicken that comes together in under 30 minutes it is the perfect balance of sun",
+        "dried tomato tang and savory parmesan richness"
+      ],
+      "searchTags": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "transform your weeknight dinner routine with this ultra",
+        "friendly marry me chicken that comes together in under 30 minutes it is the perfect balance of sun",
+        "dried tomato tang and savory parmesan richness",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-27T12:18:20.511Z",
+      "scheduledFor": "2026-08-27T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-3-hero.jpg",
+      "renderedAt": "2026-08-27T12:18:20.868Z"
     }
   },
   "queue": {
@@ -24284,7 +24354,9 @@
       "postId": 4402,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073206468",
+      "publishedAt": "2026-08-27T12:18:25.621Z"
     },
     "4399-hero-queue": {
       "id": "4399-hero-queue",
@@ -24378,7 +24450,9 @@
       "postId": 4366,
       "boardName": "Viral Food Trends & Sweet Ideas",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073206471",
+      "publishedAt": "2026-08-27T12:18:28.695Z"
     },
     "4363-hero-queue": {
       "id": "4363-hero-queue",
@@ -25373,6 +25447,17 @@
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-26T09:00:00.000Z",
       "status": "draft"
+    },
+    "5071-hero-queue": {
+      "id": "5071-hero-queue",
+      "assetId": "5071-hero",
+      "postId": 5071,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-27T09:00:00.000Z",
+      "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
