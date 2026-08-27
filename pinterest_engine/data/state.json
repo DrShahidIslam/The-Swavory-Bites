@@ -16362,7 +16362,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/one-pan-lemon-herb-roasted-chicken-and-potatoes_20260524_070723.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T20:56:37.973Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/one-pan-lemon-herb-roasted-chicken-and-potatoes_20260524_070723.jpg",
@@ -16370,7 +16370,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/one-pan-lemon-herb-roasted-chicken-potatoes-hero.jpg",
-      "renderedAt": "2026-07-26T20:56:46.398Z"
+      "renderedAt": "2026-07-26T20:56:46.398Z",
+      "pinId": "419397784073205138",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073205138/",
+      "publishedAt": "2026-08-27T07:19:51.742Z"
     },
     "4432-hero": {
       "id": "4432-hero",
@@ -24193,7 +24196,9 @@
       "postId": 4435,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073205138",
+      "publishedAt": "2026-08-27T07:19:51.743Z"
     },
     "4432-hero-queue": {
       "id": "4432-hero-queue",
