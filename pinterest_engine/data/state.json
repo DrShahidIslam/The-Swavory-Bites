@@ -18692,7 +18692,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/summer-dessert-ideas-2026-cooling-trends-and-tips_20260510_094437.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T17:41:21.291Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/summer-dessert-ideas-2026-cooling-trends-and-tips_20260510_094437.jpg",
@@ -18700,7 +18700,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/summer-dessert-ideas-2026-2-hero.jpg",
-      "renderedAt": "2026-07-27T17:41:29.639Z"
+      "renderedAt": "2026-07-27T17:41:29.639Z",
+      "pinId": "419397784073211463",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073211463/",
+      "publishedAt": "2026-08-28T04:02:04.824Z"
     },
     "4255-hero": {
       "id": "4255-hero",
@@ -24797,7 +24800,9 @@
       "postId": 4258,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073211463",
+      "publishedAt": "2026-08-28T04:02:04.824Z"
     },
     "4255-hero-queue": {
       "id": "4255-hero-queue",
