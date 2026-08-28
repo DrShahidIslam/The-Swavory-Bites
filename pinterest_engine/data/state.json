@@ -7669,6 +7669,56 @@
         "recipes"
       ],
       "discoveredAt": "2026-08-27T18:49:56.760Z"
+    },
+    "5076": {
+      "postId": 5076,
+      "title": "The Ultimate Easy Cheesy Ground Beef Enchilada Skillet",
+      "url": "https://el-mordjene.info/easy-cheesy-ground-beef-enchilada-skillet/",
+      "slug": "easy-cheesy-ground-beef-enchilada-skillet",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/the-ultimate-easy-cheesy-ground-beef-enchilada-ski_20260828_035304.webp",
+      "keywordSet": [
+        "the ultimate easy cheesy ground beef enchilada skillet",
+        "master the easy cheesy ground beef enchilada skillet a professional guide to one",
+        "pan comfort food",
+        "including pro techniques for browning and sauce balance",
+        "beef recipes",
+        "comfort food",
+        "pan dinners",
+        "skillet meals",
+        "one",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-28T19:53:21.123Z"
+    },
+    "5079": {
+      "postId": 5079,
+      "title": "20-Minute Spicy Sesame Garlic Noodles: The Ultimate Guide",
+      "url": "https://el-mordjene.info/20-minute-spicy-sesame-garlic-noodles/",
+      "slug": "20-minute-spicy-sesame-garlic-noodles",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/20-minute-spicy-sesame-garlic-noodles-the-ultimate_20260828_193856.webp",
+      "keywordSet": [
+        "minute spicy sesame garlic noodles",
+        "the ultimate guide",
+        "master the art of 20",
+        "minute spicy sesame garlic noodles with our expert guide learn professional techniques for perfect flavor balance and texture",
+        "asian fusion",
+        "weeknight dinner",
+        "the rise of rapid asian fusion comfort foods",
+        "regional context and culinary adaptation",
+        "recipes",
+        "225g"
+      ],
+      "discoveredAt": "2026-08-28T19:53:21.119Z"
     }
   },
   "assets": {
@@ -19165,7 +19215,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/classic-rotel-dip-recipe-a-simple-cheese-appetizer_20260509_203243.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T21:08:50.495Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/classic-rotel-dip-recipe-a-simple-cheese-appetizer_20260509_203243.jpg",
@@ -19173,7 +19223,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/rotel-dip-recipe-3-hero.jpg",
-      "renderedAt": "2026-07-27T21:09:00.974Z"
+      "renderedAt": "2026-07-27T21:09:00.974Z",
+      "pinId": "419397784073215466",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073215466/",
+      "publishedAt": "2026-08-28T19:53:46.172Z"
     },
     "4211-hero": {
       "id": "4211-hero",
@@ -22455,6 +22508,92 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/quick-beef-and-broccoli-stir-fry-hero.jpg",
       "renderedAt": "2026-08-27T18:50:13.007Z"
+    },
+    "5079-hero": {
+      "id": "5079-hero",
+      "postId": 5079,
+      "postSlug": "20-minute-spicy-sesame-garlic-noodles",
+      "postUrl": "https://el-mordjene.info/20-minute-spicy-sesame-garlic-noodles/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Minute Spicy Sesame Garlic Noodles Worth Trying",
+      "overlaySubtitle": "The Rise of Rapid Asian Fusion Comfort Foods",
+      "pinTitle": "20-Minute Spicy Sesame Garlic Noodles: The Ultimate Guide",
+      "pinDescription": "Minute Spicy Sesame Garlic Noodles with a click-worthy angle, useful details, and a more tempting way to explore the full post. the ultimate guide, master the art of 20, minute spicy sesame garlic noodles with our expert guide learn professional techniques for perfect flavor balance and texture",
+      "primaryKeyword": "minute spicy sesame garlic noodles",
+      "supportingKeywords": [
+        "minute spicy sesame garlic noodles",
+        "the ultimate guide",
+        "master the art of 20",
+        "minute spicy sesame garlic noodles with our expert guide learn professional techniques for perfect flavor balance and texture",
+        "asian fusion"
+      ],
+      "searchTags": [
+        "minute spicy sesame garlic noodles",
+        "the ultimate guide",
+        "master the art of 20",
+        "minute spicy sesame garlic noodles with our expert guide learn professional techniques for perfect flavor balance and texture",
+        "asian fusion",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/20-minute-spicy-sesame-garlic-noodles-the-ultimate_20260828_193856.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-28T19:53:21.121Z",
+      "scheduledFor": "2026-08-28T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/20-minute-spicy-sesame-garlic-noodles-the-ultimate_20260828_193856.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/20-minute-spicy-sesame-garlic-noodles-hero.jpg",
+      "renderedAt": "2026-08-28T19:53:40.417Z"
+    },
+    "5076-hero": {
+      "id": "5076-hero",
+      "postId": 5076,
+      "postSlug": "easy-cheesy-ground-beef-enchilada-skillet",
+      "postUrl": "https://el-mordjene.info/easy-cheesy-ground-beef-enchilada-skillet/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "The Ultimate Easy Cheesy Ground Beef Enchilada Skille...",
+      "overlaySubtitle": "The Anatomy of a Perfect Skillet Enchilada",
+      "pinTitle": "The Ultimate Easy Cheesy Ground Beef Enchilada Skillet",
+      "pinDescription": "The Ultimate Easy Cheesy Ground Beef Enchilada Skillet with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the easy cheesy ground beef enchilada skillet a professional guide to one, pan comfort food, including pro techniques for browning and sauce balance",
+      "primaryKeyword": "the ultimate easy cheesy ground beef enchilada skillet",
+      "supportingKeywords": [
+        "the ultimate easy cheesy ground beef enchilada skillet",
+        "master the easy cheesy ground beef enchilada skillet a professional guide to one",
+        "pan comfort food",
+        "including pro techniques for browning and sauce balance",
+        "beef recipes"
+      ],
+      "searchTags": [
+        "the ultimate easy cheesy ground beef enchilada skillet",
+        "master the easy cheesy ground beef enchilada skillet a professional guide to one",
+        "pan comfort food",
+        "including pro techniques for browning and sauce balance",
+        "beef recipes",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/the-ultimate-easy-cheesy-ground-beef-enchilada-ski_20260828_035304.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-28T19:53:21.124Z",
+      "scheduledFor": "2026-08-28T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/the-ultimate-easy-cheesy-ground-beef-enchilada-ski_20260828_035304.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/easy-cheesy-ground-beef-enchilada-skillet-hero.jpg",
+      "renderedAt": "2026-08-28T19:53:41.686Z"
     }
   },
   "queue": {
@@ -24898,7 +25037,9 @@
       "postId": 4215,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073215466",
+      "publishedAt": "2026-08-28T19:53:46.172Z"
     },
     "4211-hero-queue": {
       "id": "4211-hero-queue",
@@ -25540,6 +25681,22 @@
       "postId": 5073,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-08-27T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5079-hero-queue": {
+      "id": "5079-hero-queue",
+      "assetId": "5079-hero",
+      "postId": 5079,
+      "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-08-28T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5076-hero-queue": {
+      "id": "5076-hero-queue",
+      "assetId": "5076-hero",
+      "postId": 5076,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-08-28T09:00:00.000Z",
       "status": "draft"
     }
   }
