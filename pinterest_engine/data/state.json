@@ -7719,6 +7719,31 @@
         "225g"
       ],
       "discoveredAt": "2026-08-28T19:53:21.119Z"
+    },
+    "5082": {
+      "postId": 5082,
+      "title": "Sheet Pan Greek Lemon Herb Chicken with Roasted Potatoes",
+      "url": "https://el-mordjene.info/sheet-pan-greek-lemon-herb-chicken-roasted-potatoes/",
+      "slug": "sheet-pan-greek-lemon-herb-chicken-roasted-potatoes",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/sheet-pan-greek-lemon-herb-chicken-with-roasted-po_20260829_022936.webp",
+      "keywordSet": [
+        "sheet pan greek lemon herb chicken with roasted potatoes",
+        "master the art of the perfect sheet pan greek lemon herb chicken with roasted potatoes learn professional techniques for crispy skin and tender veggies",
+        "greek cuisine",
+        "healthy dinner",
+        "roasted chicken",
+        "sheet pan meals",
+        "the ultimate sheet pan greek lemon herb chicken with roasted potatoes",
+        "culinary mechanics",
+        "recipes",
+        "potatoes"
+      ],
+      "discoveredAt": "2026-08-29T02:42:16.379Z"
     }
   },
   "assets": {
@@ -19686,7 +19711,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/03/chicago-sees-rising-interest-in-french-pastry-scho_20260325_074332.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-28T02:23:55.084Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/03/chicago-sees-rising-interest-in-french-pastry-scho_20260325_074332.jpg",
@@ -19694,7 +19719,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/french-pastry-school-chicago-trend-hero.jpg",
-      "renderedAt": "2026-07-28T02:24:01.197Z"
+      "renderedAt": "2026-07-28T02:24:01.197Z",
+      "pinId": "419397784073217623",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073217623/",
+      "publishedAt": "2026-08-29T02:42:37.752Z"
     },
     "3833-hero": {
       "id": "3833-hero",
@@ -22594,6 +22622,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/easy-cheesy-ground-beef-enchilada-skillet-hero.jpg",
       "renderedAt": "2026-08-28T19:53:41.686Z"
+    },
+    "5082-hero": {
+      "id": "5082-hero",
+      "postId": 5082,
+      "postSlug": "sheet-pan-greek-lemon-herb-chicken-roasted-potatoes",
+      "postUrl": "https://el-mordjene.info/sheet-pan-greek-lemon-herb-chicken-roasted-potatoes/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Sheet Pan Greek Lemon Herb Chicken With Roasted Potat...",
+      "overlaySubtitle": "The Ultimate Sheet Pan Greek Lemon Herb Chicken with Roasted Potatoes",
+      "pinTitle": "Sheet Pan Greek Lemon Herb Chicken with Roasted Potatoes",
+      "pinDescription": "Sheet Pan Greek Lemon Herb Chicken With Roasted Potatoes with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of the perfect sheet pan greek lemon herb chicken with roasted potatoes learn professional techniques for crispy skin and tender veggies, greek cuisine,...",
+      "primaryKeyword": "sheet pan greek lemon herb chicken with roasted potatoes",
+      "supportingKeywords": [
+        "sheet pan greek lemon herb chicken with roasted potatoes",
+        "master the art of the perfect sheet pan greek lemon herb chicken with roasted potatoes learn professional techniques for crispy skin and tender veggies",
+        "greek cuisine",
+        "healthy dinner",
+        "roasted chicken"
+      ],
+      "searchTags": [
+        "sheet pan greek lemon herb chicken with roasted potatoes",
+        "master the art of the perfect sheet pan greek lemon herb chicken with roasted potatoes learn professional techniques for crispy skin and tender veggies",
+        "greek cuisine",
+        "healthy dinner",
+        "roasted chicken",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/sheet-pan-greek-lemon-herb-chicken-with-roasted-po_20260829_022936.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-29T02:42:16.381Z",
+      "scheduledFor": "2026-08-29T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/sheet-pan-greek-lemon-herb-chicken-with-roasted-po_20260829_022936.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/sheet-pan-greek-lemon-herb-chicken-roasted-potatoes-hero.jpg",
+      "renderedAt": "2026-08-29T02:42:34.403Z"
     }
   },
   "queue": {
@@ -25131,7 +25202,9 @@
       "postId": 3941,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073217623",
+      "publishedAt": "2026-08-29T02:42:37.752Z"
     },
     "3833-hero-queue": {
       "id": "3833-hero-queue",
@@ -25697,6 +25770,14 @@
       "postId": 5076,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-28T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5082-hero-queue": {
+      "id": "5082-hero-queue",
+      "assetId": "5082-hero",
+      "postId": 5082,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-08-29T09:00:00.000Z",
       "status": "draft"
     }
   }
