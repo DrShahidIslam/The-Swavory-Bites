@@ -7744,6 +7744,31 @@
         "potatoes"
       ],
       "discoveredAt": "2026-08-29T02:42:16.379Z"
+    },
+    "5085": {
+      "postId": 5085,
+      "title": "Creamy Cajun Sausage and Pepper Pasta: Ultimate Comfort Guide",
+      "url": "https://el-mordjene.info/creamy-cajun-sausage-and-pepper-pasta/",
+      "slug": "creamy-cajun-sausage-and-pepper-pasta",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-cajun-sausage-and-pepper-pasta-ultimate-com_20260829_132521.webp",
+      "keywordSet": [
+        "creamy cajun sausage and pepper pasta",
+        "ultimate comfort guide",
+        "master the art of creamy cajun sausage and pepper pasta with our expert guide learn culinary techniques for bold flavors and perfect textures",
+        "understanding the rise of cajun comfort",
+        "culinary mechanics and flavor chemistry",
+        "comparative ingredient profiles",
+        "measurement conversions for precision",
+        "professional execution of the recipe",
+        "cajun",
+        "comfort"
+      ],
+      "discoveredAt": "2026-08-29T16:12:51.761Z"
     }
   },
   "assets": {
@@ -20620,7 +20645,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-guide-to-perfect-ninja-creami-recipes_20260731_102418.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-31T10:36:52.171Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-ultimate-guide-to-perfect-ninja-creami-recipes_20260731_102418.webp",
@@ -20628,7 +20653,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/ninja-creami-recipes-hero.jpg",
-      "renderedAt": "2026-07-31T10:37:10.252Z"
+      "renderedAt": "2026-07-31T10:37:10.252Z",
+      "pinId": "419397784073222271",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073222271/",
+      "publishedAt": "2026-08-29T16:13:15.036Z"
     },
     "4944-hero": {
       "id": "4944-hero",
@@ -22668,6 +22696,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/sheet-pan-greek-lemon-herb-chicken-roasted-potatoes-hero.jpg",
       "renderedAt": "2026-08-29T02:42:34.403Z"
+    },
+    "5085-hero": {
+      "id": "5085-hero",
+      "postId": 5085,
+      "postSlug": "creamy-cajun-sausage-and-pepper-pasta",
+      "postUrl": "https://el-mordjene.info/creamy-cajun-sausage-and-pepper-pasta/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Creamy Cajun Sausage And Pepper Pasta Worth Trying",
+      "overlaySubtitle": "Understanding the Rise of Cajun Comfort",
+      "pinTitle": "Creamy Cajun Sausage and Pepper Pasta: Ultimate Comfort Guide",
+      "pinDescription": "Creamy Cajun Sausage And Pepper Pasta with a click-worthy angle, useful details, and a more tempting way to explore the full post. ultimate comfort guide, master the art of creamy cajun sausage and pepper pasta with our expert guide learn culinary techniques for bold flavors and perfect textures, understanding the r...",
+      "primaryKeyword": "creamy cajun sausage and pepper pasta",
+      "supportingKeywords": [
+        "creamy cajun sausage and pepper pasta",
+        "ultimate comfort guide",
+        "master the art of creamy cajun sausage and pepper pasta with our expert guide learn culinary techniques for bold flavors and perfect textures",
+        "understanding the rise of cajun comfort",
+        "culinary mechanics and flavor chemistry"
+      ],
+      "searchTags": [
+        "creamy cajun sausage and pepper pasta",
+        "ultimate comfort guide",
+        "master the art of creamy cajun sausage and pepper pasta with our expert guide learn culinary techniques for bold flavors and perfect textures",
+        "understanding the rise of cajun comfort",
+        "culinary mechanics and flavor chemistry",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-cajun-sausage-and-pepper-pasta-ultimate-com_20260829_132521.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-29T16:12:51.762Z",
+      "scheduledFor": "2026-08-29T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-cajun-sausage-and-pepper-pasta-ultimate-com_20260829_132521.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-cajun-sausage-and-pepper-pasta-hero.jpg",
+      "renderedAt": "2026-08-29T16:13:11.532Z"
     }
   },
   "queue": {
@@ -25391,7 +25462,9 @@
       "postId": 4941,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073222271",
+      "publishedAt": "2026-08-29T16:13:15.036Z"
     },
     "4944-hero-queue": {
       "id": "4944-hero-queue",
@@ -25782,6 +25855,14 @@
       "assetId": "5082-hero",
       "postId": 5082,
       "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-08-29T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5085-hero-queue": {
+      "id": "5085-hero-queue",
+      "assetId": "5085-hero",
+      "postId": 5085,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-29T09:00:00.000Z",
       "status": "draft"
     }
