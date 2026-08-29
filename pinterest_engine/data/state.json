@@ -20095,7 +20095,7 @@
         "tendances culinaires & recettes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/03/trending-pastries-the-search-for-a-french-pastry-r_20260313_143354.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-28T06:25:25.877Z",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/03/trending-pastries-the-search-for-a-french-pastry-r_20260313_143354.jpg",
@@ -20103,7 +20103,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/trending-pastries-french-pastry-recipe-search-hero.jpg",
-      "renderedAt": "2026-07-28T06:25:29.786Z"
+      "renderedAt": "2026-07-28T06:25:29.786Z",
+      "pinId": "419397784073220030",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073220030/",
+      "publishedAt": "2026-08-29T10:47:30.468Z"
     },
     "2953-hero": {
       "id": "2953-hero",
@@ -25278,7 +25281,9 @@
       "postId": 2956,
       "boardName": "Tendances Culinaires & Recettes",
       "scheduledFor": "2026-07-31T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073220030",
+      "publishedAt": "2026-08-29T10:47:30.469Z"
     },
     "2953-hero-queue": {
       "id": "2953-hero-queue",
