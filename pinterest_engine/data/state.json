@@ -7769,6 +7769,31 @@
         "comfort"
       ],
       "discoveredAt": "2026-08-29T16:12:51.761Z"
+    },
+    "5088": {
+      "postId": 5088,
+      "title": "Ultimate Crispy Air Fryer Bang Bang Chicken Guide",
+      "url": "https://el-mordjene.info/crispy-air-fryer-bang-bang-chicken/",
+      "slug": "crispy-air-fryer-bang-bang-chicken",
+      "language": "fr",
+      "boardKey": "none",
+      "boardName": "None",
+      "shouldPin": false,
+      "contentType": "excluded",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/ultimate-crispy-air-fryer-bang-bang-chicken-guide_20260829_220311.webp",
+      "keywordSet": [
+        "ultimate crispy air fryer bang bang chicken guide",
+        "master the art of crispy air fryer bang bang chicken a deep dive into culinary mechanics",
+        "perfect breading techniques",
+        "and the viral sauce science",
+        "the science of crispy air fryer bang bang chicken",
+        "regional context and the viral shift",
+        "culinary mechanics",
+        "achieving the perfect texture",
+        "air",
+        "fryer"
+      ],
+      "discoveredAt": "2026-08-29T22:21:00.738Z"
     }
   },
   "assets": {
@@ -10139,12 +10164,15 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/understanding-the-lobster-cake-a-culinary-guide_20260720_103624.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.347Z",
       "scheduledFor": "2026-07-31T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/understanding-the-lobster-cake-list.jpg",
-      "renderedAt": "2026-07-24T18:40:16.287Z"
+      "renderedAt": "2026-07-24T18:40:16.287Z",
+      "pinId": "419397784073225101",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073225101/",
+      "publishedAt": "2026-08-29T22:21:19.313Z"
     },
     "4819-guide": {
       "id": "4819-guide",
@@ -23300,7 +23328,9 @@
       "postId": 4819,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-31T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073225101",
+      "publishedAt": "2026-08-29T22:21:19.314Z"
     },
     "4819-guide-queue": {
       "id": "4819-guide-queue",
