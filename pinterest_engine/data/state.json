@@ -7794,6 +7794,31 @@
         "fryer"
       ],
       "discoveredAt": "2026-08-29T22:21:00.738Z"
+    },
+    "5090": {
+      "postId": 5090,
+      "title": "The Ultimate One-Pot French Onion Beef Pasta Guide",
+      "url": "https://el-mordjene.info/one-pot-french-onion-beef-pasta/",
+      "slug": "one-pot-french-onion-beef-pasta",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "",
+      "keywordSet": [
+        "the ultimate one",
+        "pot french onion beef pasta guide",
+        "master the art of one",
+        "pot french onion beef pasta with our expert culinary guide learn techniques for deep umami",
+        "perfect pasta",
+        "and rich textures",
+        "the art of one",
+        "pot french onion beef pasta",
+        "beef",
+        "comfort"
+      ],
+      "discoveredAt": "2026-08-30T16:02:49.664Z"
     }
   },
   "assets": {
@@ -14286,12 +14311,15 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/classic-savory-meatballs-recipe-for-every-kitchen_20260626_211102.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.366Z",
       "scheduledFor": "2026-07-31T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-savory-meatballs-recipe-list.jpg",
-      "renderedAt": "2026-07-24T19:18:32.311Z"
+      "renderedAt": "2026-07-24T19:18:32.311Z",
+      "pinId": "419397784073229505",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073229505/",
+      "publishedAt": "2026-08-30T16:03:08.791Z"
     },
     "4675-guide": {
       "id": "4675-guide",
@@ -22773,6 +22801,45 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-cajun-sausage-and-pepper-pasta-hero.jpg",
       "renderedAt": "2026-08-29T16:13:11.532Z"
+    },
+    "5090-hero": {
+      "id": "5090-hero",
+      "postId": 5090,
+      "postSlug": "one-pot-french-onion-beef-pasta",
+      "postUrl": "https://el-mordjene.info/one-pot-french-onion-beef-pasta/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "The Ultimate One Worth Trying",
+      "overlaySubtitle": "The Art of One-Pot French Onion Beef Pasta",
+      "pinTitle": "The Ultimate One-Pot French Onion Beef Pasta Guide",
+      "pinDescription": "The Ultimate One with a click-worthy angle, useful details, and a more tempting way to explore the full post. pot french onion beef pasta guide, master the art of one, pot french onion beef pasta with our expert culinary guide learn techniques for deep umami",
+      "primaryKeyword": "the ultimate one",
+      "supportingKeywords": [
+        "the ultimate one",
+        "pot french onion beef pasta guide",
+        "master the art of one",
+        "pot french onion beef pasta with our expert culinary guide learn techniques for deep umami",
+        "perfect pasta"
+      ],
+      "searchTags": [
+        "the ultimate one",
+        "pot french onion beef pasta guide",
+        "master the art of one",
+        "pot french onion beef pasta with our expert culinary guide learn techniques for deep umami",
+        "perfect pasta",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-30T16:02:49.667Z",
+      "scheduledFor": "2026-08-30T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/one-pot-french-onion-beef-pasta-hero.jpg",
+      "renderedAt": "2026-08-30T16:03:05.375Z"
     }
   },
   "queue": {
@@ -24190,7 +24257,9 @@
       "postId": 4675,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-07-31T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073229505",
+      "publishedAt": "2026-08-30T16:03:08.791Z"
     },
     "4675-guide-queue": {
       "id": "4675-guide-queue",
@@ -25904,6 +25973,14 @@
       "postId": 5085,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-29T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5090-hero-queue": {
+      "id": "5090-hero-queue",
+      "assetId": "5090-hero",
+      "postId": 5090,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-08-30T09:00:00.000Z",
       "status": "draft"
     }
   }
