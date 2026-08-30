@@ -12786,12 +12786,15 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-spiced-apricot-galette-recipe_20260702_204847.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:53:55.540Z",
       "scheduledFor": "2026-07-31T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-spiced-apricot-galette-recipe-list.jpg",
-      "renderedAt": "2026-07-24T19:18:30.241Z"
+      "renderedAt": "2026-07-24T19:18:30.241Z",
+      "pinId": "419397784073227968",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073227968/",
+      "publishedAt": "2026-08-30T09:44:32.709Z"
     },
     "4711-guide": {
       "id": "4711-guide",
@@ -23875,7 +23878,9 @@
       "postId": 4711,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-31T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073227968",
+      "publishedAt": "2026-08-30T09:44:32.709Z"
     },
     "4711-guide-queue": {
       "id": "4711-guide-queue",
