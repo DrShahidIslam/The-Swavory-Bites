@@ -11664,12 +11664,15 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-art-of-cherry-desserts-a-culinary-guide_20260715_094515.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:36:28.414Z",
       "scheduledFor": "2026-07-31T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cherry-desserts-guide-list.jpg",
-      "renderedAt": "2026-07-24T18:40:18.613Z"
+      "renderedAt": "2026-07-24T18:40:18.613Z",
+      "pinId": "419397784073226593",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073226593/",
+      "publishedAt": "2026-08-30T03:40:02.926Z"
     },
     "4783-guide": {
       "id": "4783-guide",
@@ -23640,7 +23643,9 @@
       "postId": 4783,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-07-31T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073226593",
+      "publishedAt": "2026-08-30T03:40:02.926Z"
     },
     "4783-guide-queue": {
       "id": "4783-guide-queue",
