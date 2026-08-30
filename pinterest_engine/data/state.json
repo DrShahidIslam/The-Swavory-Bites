@@ -9199,12 +9199,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-homemade-peach-crisp-recipe_20260724_100320.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:05:48.551Z",
       "scheduledFor": "2026-07-31T19:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-homemade-peach-crisp-recipe-guide.jpg",
-      "renderedAt": "2026-07-24T19:18:32.966Z"
+      "renderedAt": "2026-07-24T19:18:32.966Z",
+      "pinId": "419397784073232270",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073232270/",
+      "publishedAt": "2026-08-30T22:23:34.870Z"
     },
     "4841-hero": {
       "id": "4841-hero",
@@ -23181,7 +23184,9 @@
       "postId": 4844,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-07-31T19:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073232270",
+      "publishedAt": "2026-08-30T22:23:34.870Z"
     },
     "4841-hero-queue": {
       "id": "4841-hero-queue",
