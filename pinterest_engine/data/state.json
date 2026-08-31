@@ -7869,6 +7869,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-08-31T18:46:16.536Z"
+    },
+    "5097": {
+      "postId": 5097,
+      "title": "Creamy Spinach Artichoke Chicken Skillet: A Culinary Masterclass",
+      "url": "https://el-mordjene.info/creamy-spinach-artichoke-chicken-skillet/",
+      "slug": "creamy-spinach-artichoke-chicken-skillet",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-spinach-artichoke-chicken-skillet-a-culinar_20260831_232741.webp",
+      "keywordSet": [
+        "creamy spinach artichoke chicken skillet",
+        "a culinary masterclass",
+        "master the art of the creamy spinach artichoke chicken skillet learn expert techniques",
+        "ingredient substitutions",
+        "and chef tips for a perfect weeknight meal",
+        "comfort food",
+        "easy recipes",
+        "skillet dinner",
+        "chicken",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-31T23:36:51.023Z"
     }
   },
   "assets": {
@@ -15633,7 +15658,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/the-authentic-eggplant-parmesan-recipe_20260620_210019.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:14:10.185Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/the-authentic-eggplant-parmesan-recipe_20260620_210019.jpg",
@@ -15641,7 +15666,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-eggplant-parmesan-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T19:18:43.299Z"
+      "renderedAt": "2026-07-24T19:18:43.299Z",
+      "pinId": "419397784073239693",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073239693/",
+      "publishedAt": "2026-08-31T23:37:09.970Z"
     },
     "4627-hero": {
       "id": "4627-hero",
@@ -22987,6 +23015,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/quick-sheet-pan-sausage-peppers-and-onions-hero.jpg",
       "renderedAt": "2026-08-31T18:46:36.865Z"
+    },
+    "5097-hero": {
+      "id": "5097-hero",
+      "postId": 5097,
+      "postSlug": "creamy-spinach-artichoke-chicken-skillet",
+      "postUrl": "https://el-mordjene.info/creamy-spinach-artichoke-chicken-skillet/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Creamy Spinach Artichoke Chicken Skillet Worth Trying",
+      "overlaySubtitle": "Understanding the Creamy Spinach Artichoke Chicken Skillet",
+      "pinTitle": "Creamy Spinach Artichoke Chicken Skillet: A Culinary Masterclass",
+      "pinDescription": "Creamy Spinach Artichoke Chicken Skillet with a click-worthy angle, useful details, and a more tempting way to explore the full post. a culinary masterclass, master the art of the creamy spinach artichoke chicken skillet learn expert techniques, ingredient substitutions",
+      "primaryKeyword": "creamy spinach artichoke chicken skillet",
+      "supportingKeywords": [
+        "creamy spinach artichoke chicken skillet",
+        "a culinary masterclass",
+        "master the art of the creamy spinach artichoke chicken skillet learn expert techniques",
+        "ingredient substitutions",
+        "and chef tips for a perfect weeknight meal"
+      ],
+      "searchTags": [
+        "creamy spinach artichoke chicken skillet",
+        "a culinary masterclass",
+        "master the art of the creamy spinach artichoke chicken skillet learn expert techniques",
+        "ingredient substitutions",
+        "and chef tips for a perfect weeknight meal",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-spinach-artichoke-chicken-skillet-a-culinar_20260831_232741.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-31T23:36:51.026Z",
+      "scheduledFor": "2026-08-31T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-spinach-artichoke-chicken-skillet-a-culinar_20260831_232741.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-spinach-artichoke-chicken-skillet-hero.jpg",
+      "renderedAt": "2026-08-31T23:37:06.153Z"
     }
   },
   "queue": {
@@ -24674,7 +24745,9 @@
       "postId": 4630,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073239693",
+      "publishedAt": "2026-08-31T23:37:09.970Z"
     },
     "4627-hero-queue": {
       "id": "4627-hero-queue",
@@ -26152,6 +26225,14 @@
       "id": "5094-hero-queue",
       "assetId": "5094-hero",
       "postId": 5094,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-08-31T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5097-hero-queue": {
+      "id": "5097-hero-queue",
+      "assetId": "5097-hero",
+      "postId": 5097,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-31T09:00:00.000Z",
       "status": "draft"
