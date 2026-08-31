@@ -10524,7 +10524,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-genovese-pesto-a-definitive-basil-recipe_20260719_094033.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.351Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-genovese-pesto-a-definitive-basil-recipe_20260719_094033.jpg",
@@ -10532,7 +10532,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-genovese-pesto-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T19:18:34.998Z"
+      "renderedAt": "2026-07-24T19:18:34.998Z",
+      "pinId": "419397784073234287",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073234287/",
+      "publishedAt": "2026-08-31T03:40:21.604Z"
     },
     "4810-list": {
       "id": "4810-list",
@@ -23476,7 +23479,9 @@
       "postId": 4810,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073234287",
+      "publishedAt": "2026-08-31T03:40:21.604Z"
     },
     "4810-list-queue": {
       "id": "4810-list-queue",
