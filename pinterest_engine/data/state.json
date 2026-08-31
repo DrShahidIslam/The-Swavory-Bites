@@ -7844,6 +7844,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-08-31T08:03:07.852Z"
+    },
+    "5094": {
+      "postId": 5094,
+      "title": "Quick Sheet Pan Sausage Peppers and Onions: The Ultimate Guide",
+      "url": "https://el-mordjene.info/quick-sheet-pan-sausage-peppers-and-onions/",
+      "slug": "quick-sheet-pan-sausage-peppers-and-onions",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/quick-sheet-pan-sausage-peppers-and-onions-the-ult_20260831_153256.webp",
+      "keywordSet": [
+        "quick sheet pan sausage peppers and onions",
+        "the ultimate guide",
+        "master the art of quick sheet pan sausage peppers and onions learn expert techniques",
+        "flavor pairings",
+        "and troubleshooting for perfect weeknight meals",
+        "sheet pan",
+        "culinary techniques",
+        "easy recipes",
+        "sausage",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-31T18:46:16.536Z"
     }
   },
   "assets": {
@@ -14680,7 +14705,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/classic-spiced-peach-cobbler-recipe_20260625_103137.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.371Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/classic-spiced-peach-cobbler-recipe_20260625_103137.jpg",
@@ -14688,7 +14713,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-spiced-peach-cobbler-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T19:18:41.149Z"
+      "renderedAt": "2026-07-24T19:18:41.149Z",
+      "pinId": "419397784073237985",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073237985/",
+      "publishedAt": "2026-08-31T18:46:40.993Z"
     },
     "4666-list": {
       "id": "4666-list",
@@ -22916,6 +22944,49 @@
       "scheduledFor": "2026-08-31T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-hero.jpg",
       "renderedAt": "2026-08-31T08:03:08.079Z"
+    },
+    "5094-hero": {
+      "id": "5094-hero",
+      "postId": 5094,
+      "postSlug": "quick-sheet-pan-sausage-peppers-and-onions",
+      "postUrl": "https://el-mordjene.info/quick-sheet-pan-sausage-peppers-and-onions/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Quick Sheet Pan Sausage Peppers And Onions Worth Trying",
+      "overlaySubtitle": "The Art of the Perfect Sheet Pan Roast",
+      "pinTitle": "Quick Sheet Pan Sausage Peppers and Onions: The Ultimate Guide",
+      "pinDescription": "Quick Sheet Pan Sausage Peppers And Onions with a click-worthy angle, useful details, and a more tempting way to explore the full post. the ultimate guide, master the art of quick sheet pan sausage peppers and onions learn expert techniques, flavor pairings",
+      "primaryKeyword": "quick sheet pan sausage peppers and onions",
+      "supportingKeywords": [
+        "quick sheet pan sausage peppers and onions",
+        "the ultimate guide",
+        "master the art of quick sheet pan sausage peppers and onions learn expert techniques",
+        "flavor pairings",
+        "and troubleshooting for perfect weeknight meals"
+      ],
+      "searchTags": [
+        "quick sheet pan sausage peppers and onions",
+        "the ultimate guide",
+        "master the art of quick sheet pan sausage peppers and onions learn expert techniques",
+        "flavor pairings",
+        "and troubleshooting for perfect weeknight meals",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/quick-sheet-pan-sausage-peppers-and-onions-the-ult_20260831_153256.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-08-31T18:46:16.538Z",
+      "scheduledFor": "2026-08-31T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/quick-sheet-pan-sausage-peppers-and-onions-the-ult_20260831_153256.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/quick-sheet-pan-sausage-peppers-and-onions-hero.jpg",
+      "renderedAt": "2026-08-31T18:46:36.865Z"
     }
   },
   "queue": {
@@ -24411,7 +24482,9 @@
       "postId": 4666,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073237985",
+      "publishedAt": "2026-08-31T18:46:40.993Z"
     },
     "4666-list-queue": {
       "id": "4666-list-queue",
@@ -26072,6 +26145,14 @@
       "assetId": "5092-hero",
       "postId": 5092,
       "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-08-31T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5094-hero-queue": {
+      "id": "5094-hero-queue",
+      "assetId": "5094-hero",
+      "postId": 5094,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-31T09:00:00.000Z",
       "status": "draft"
     }
