@@ -13177,7 +13177,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-art-of-pan-seared-cod-a-masterclass-in-texture_20260701_105906.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:53:55.544Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-art-of-pan-seared-cod-a-masterclass-in-texture_20260701_105906.jpg",
@@ -13185,7 +13185,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/perfect-pan-seared-cod-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T19:18:39.188Z"
+      "renderedAt": "2026-07-24T19:18:39.188Z",
+      "pinId": "419397784073235506",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073235506/",
+      "publishedAt": "2026-08-31T10:32:25.346Z"
     },
     "4702-list": {
       "id": "4702-list",
@@ -24094,7 +24097,9 @@
       "postId": 4702,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073235506",
+      "publishedAt": "2026-08-31T10:32:25.346Z"
     },
     "4702-list-queue": {
       "id": "4702-list-queue",
@@ -26070,8 +26075,5 @@
       "scheduledFor": "2026-08-31T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
