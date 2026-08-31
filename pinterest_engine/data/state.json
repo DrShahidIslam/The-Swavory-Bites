@@ -7819,6 +7819,31 @@
         "comfort"
       ],
       "discoveredAt": "2026-08-30T16:02:49.664Z"
+    },
+    "5092": {
+      "postId": 5092,
+      "title": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-3-2/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-4-2-3-2",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to make the viral marry me chicken in under 30 minutes with simple",
+        "affordable ingredients this creamy",
+        "dried tomato masterpiece is the perfect weeknight dinner solution for busy families",
+        "why you 8217",
+        "ll love this marry me chicken",
+        "marry me chicken details",
+        "sun",
+        "recipes"
+      ],
+      "discoveredAt": "2026-08-31T08:03:07.852Z"
     }
   },
   "assets": {
@@ -11777,7 +11802,7 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-perfect-peach-crumble-recipe-a-golden-summer-c_20260714_204707.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:36:28.416Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-perfect-peach-crumble-recipe-a-golden-summer-c_20260714_204707.jpg",
@@ -11785,7 +11810,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/perfect-peach-crumble-recipe-hero.jpg",
-      "renderedAt": "2026-07-24T19:18:37.242Z"
+      "renderedAt": "2026-07-24T19:18:37.242Z",
+      "pinId": "419397784073234985",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073234985/",
+      "publishedAt": "2026-08-31T08:03:11.649Z"
     },
     "4780-list": {
       "id": "4780-list",
@@ -22846,6 +22874,45 @@
       "scheduledFor": "2026-08-30T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/one-pot-french-onion-beef-pasta-hero.jpg",
       "renderedAt": "2026-08-30T16:03:05.375Z"
+    },
+    "5092-hero": {
+      "id": "5092-hero",
+      "postId": 5092,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-4-2-3-2",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-3-2/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Creamy 30 Worth Trying",
+      "overlaySubtitle": "Why You&#8217;ll Love This Marry Me Chicken",
+      "pinTitle": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "pinDescription": "Creamy 30 with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute marry me chicken for busy moms on a budget, discover how to make the viral marry me chicken in under 30 minutes with simple, affordable ingredients this creamy",
+      "primaryKeyword": "creamy 30",
+      "supportingKeywords": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to make the viral marry me chicken in under 30 minutes with simple",
+        "affordable ingredients this creamy",
+        "dried tomato masterpiece is the perfect weeknight dinner solution for busy families"
+      ],
+      "searchTags": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to make the viral marry me chicken in under 30 minutes with simple",
+        "affordable ingredients this creamy",
+        "dried tomato masterpiece is the perfect weeknight dinner solution for busy families",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-08-31T08:03:07.854Z",
+      "scheduledFor": "2026-08-31T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-hero.jpg",
+      "renderedAt": "2026-08-31T08:03:08.079Z"
     }
   },
   "queue": {
@@ -23741,7 +23808,9 @@
       "postId": 4780,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073234985",
+      "publishedAt": "2026-08-31T08:03:11.649Z"
     },
     "4780-list-queue": {
       "id": "4780-list-queue",
@@ -25992,6 +26061,17 @@
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-08-30T09:00:00.000Z",
       "status": "draft"
+    },
+    "5092-hero-queue": {
+      "id": "5092-hero-queue",
+      "assetId": "5092-hero",
+      "postId": 5092,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-08-31T09:00:00.000Z",
+      "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
