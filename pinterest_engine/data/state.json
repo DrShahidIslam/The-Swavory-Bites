@@ -7944,6 +7944,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-01T16:03:41.627Z"
+    },
+    "5104": {
+      "postId": 5104,
+      "title": "Garlic Butter Salmon with Lemon Asparagus: The Pro Guide",
+      "url": "https://el-mordjene.info/garlic-butter-salmon-with-lemon-asparagus/",
+      "slug": "garlic-butter-salmon-with-lemon-asparagus",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/garlic-butter-salmon-with-lemon-asparagus-the-pro_20260901_220802.webp",
+      "keywordSet": [
+        "garlic butter salmon with lemon asparagus",
+        "the pro guide",
+        "master the art of garlic butter salmon with lemon asparagus learn professional searing techniques",
+        "temperature control",
+        "and flavor balancing",
+        "garlic butter",
+        "healthy recipes",
+        "mastering the art of garlic butter salmon with lemon asparagus",
+        "dinner",
+        "salmon"
+      ],
+      "discoveredAt": "2026-09-01T22:22:32.328Z"
     }
   },
   "assets": {
@@ -17677,7 +17702,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/the-classic-chicken-salad-recipe-a-culinary-staple_20260517_180055.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T07:28:56.170Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/the-classic-chicken-salad-recipe-a-culinary-staple_20260517_180055.jpg",
@@ -17685,7 +17710,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-chicken-salad-recipe-hero.jpg",
-      "renderedAt": "2026-07-27T07:29:06.880Z"
+      "renderedAt": "2026-07-27T07:29:06.880Z",
+      "pinId": "419397784073247018",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073247018/",
+      "publishedAt": "2026-09-01T22:22:56.816Z"
     },
     "4360-hero": {
       "id": "4360-hero",
@@ -23199,6 +23227,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/15-minute-sweet-and-sour-chicken-meatballs-hero.jpg",
       "renderedAt": "2026-09-01T16:03:59.941Z"
+    },
+    "5104-hero": {
+      "id": "5104-hero",
+      "postId": 5104,
+      "postSlug": "garlic-butter-salmon-with-lemon-asparagus",
+      "postUrl": "https://el-mordjene.info/garlic-butter-salmon-with-lemon-asparagus/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Garlic Butter Salmon With Lemon Asparagus Worth Trying",
+      "overlaySubtitle": "Mastering the Art of Garlic Butter Salmon with Lemon Asparagus",
+      "pinTitle": "Garlic Butter Salmon with Lemon Asparagus: The Pro Guide",
+      "pinDescription": "Garlic Butter Salmon With Lemon Asparagus with a click-worthy angle, useful details, and a more tempting way to explore the full post. the pro guide, master the art of garlic butter salmon with lemon asparagus learn professional searing techniques, temperature control",
+      "primaryKeyword": "garlic butter salmon with lemon asparagus",
+      "supportingKeywords": [
+        "garlic butter salmon with lemon asparagus",
+        "the pro guide",
+        "master the art of garlic butter salmon with lemon asparagus learn professional searing techniques",
+        "temperature control",
+        "and flavor balancing"
+      ],
+      "searchTags": [
+        "garlic butter salmon with lemon asparagus",
+        "the pro guide",
+        "master the art of garlic butter salmon with lemon asparagus learn professional searing techniques",
+        "temperature control",
+        "and flavor balancing",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/garlic-butter-salmon-with-lemon-asparagus-the-pro_20260901_220802.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-01T22:22:32.330Z",
+      "scheduledFor": "2026-09-01T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/garlic-butter-salmon-with-lemon-asparagus-the-pro_20260901_220802.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/garlic-butter-salmon-with-lemon-asparagus-hero.jpg",
+      "renderedAt": "2026-09-01T22:22:52.497Z"
     }
   },
   "queue": {
@@ -25304,7 +25375,9 @@
       "postId": 4363,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073247018",
+      "publishedAt": "2026-09-01T22:22:56.816Z"
     },
     "4360-hero-queue": {
       "id": "4360-hero-queue",
@@ -26397,6 +26470,14 @@
       "assetId": "5101-hero",
       "postId": 5101,
       "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-09-01T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5104-hero-queue": {
+      "id": "5104-hero-queue",
+      "assetId": "5104-hero",
+      "postId": 5104,
+      "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-09-01T09:00:00.000Z",
       "status": "draft"
     }
