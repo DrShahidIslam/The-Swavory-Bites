@@ -16740,7 +16740,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/classic-garlic-butter-shrimp-recipe_20260523_203806.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T20:56:37.975Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/classic-garlic-butter-shrimp-recipe_20260523_203806.jpg",
@@ -16748,7 +16748,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-garlic-butter-shrimp-recipe-hero.jpg",
-      "renderedAt": "2026-07-26T20:56:48.320Z"
+      "renderedAt": "2026-07-26T20:56:48.320Z",
+      "pinId": "419397784073242324",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073242324/",
+      "publishedAt": "2026-09-01T09:10:26.627Z"
     },
     "4429-hero": {
       "id": "4429-hero",
@@ -25042,7 +25045,9 @@
       "postId": 4432,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073242324",
+      "publishedAt": "2026-09-01T09:10:26.627Z"
     },
     "4429-hero-queue": {
       "id": "4429-hero-queue",
@@ -26314,8 +26319,5 @@
       "scheduledFor": "2026-09-01T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
