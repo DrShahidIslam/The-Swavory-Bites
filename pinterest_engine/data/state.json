@@ -7894,6 +7894,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-08-31T23:36:51.023Z"
+    },
+    "5099": {
+      "postId": 5099,
+      "title": "Creamy 30-Minute Marry Me Chicken for Busy Moms",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-5/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-5",
+      "language": "fr",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken for busy moms",
+        "discover how to make the viral marry me chicken in under 30 minutes with this budget",
+        "skillet recipe perfect for busy weeknights",
+        "this creamy dish delivers restaurant",
+        "quality flavor every single time",
+        "why you 8217",
+        "ll love this marry me chicken",
+        "friendly",
+        "one"
+      ],
+      "discoveredAt": "2026-09-01T07:11:27.954Z"
     }
   },
   "assets": {
@@ -16448,7 +16473,7 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-essential-classic-french-crepe-recipe_20260725_092325.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T14:10:09.123Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-essential-classic-french-crepe-recipe_20260725_092325.webp",
@@ -16456,7 +16481,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-french-crepe-recipe-hero.jpg",
-      "renderedAt": "2026-07-26T16:58:18.539Z"
+      "renderedAt": "2026-07-26T16:58:18.539Z",
+      "pinId": "419397784073241691",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073241691/",
+      "publishedAt": "2026-09-01T07:11:32.026Z"
     },
     "4878-hero": {
       "id": "4878-hero",
@@ -23058,6 +23086,45 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-spinach-artichoke-chicken-skillet-hero.jpg",
       "renderedAt": "2026-08-31T23:37:06.153Z"
+    },
+    "5099-hero": {
+      "id": "5099-hero",
+      "postId": 5099,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-5",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-5/",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "fr",
+      "overlayTitle": "Creamy 30 Worth Trying",
+      "overlaySubtitle": "Why You&#8217;ll Love This Marry Me Chicken",
+      "pinTitle": "Creamy 30-Minute Marry Me Chicken for Busy Moms",
+      "pinDescription": "Creamy 30 with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute marry me chicken for busy moms, discover how to make the viral marry me chicken in under 30 minutes with this budget, skillet recipe perfect for busy weeknights",
+      "primaryKeyword": "creamy 30",
+      "supportingKeywords": [
+        "creamy 30",
+        "minute marry me chicken for busy moms",
+        "discover how to make the viral marry me chicken in under 30 minutes with this budget",
+        "skillet recipe perfect for busy weeknights",
+        "this creamy dish delivers restaurant"
+      ],
+      "searchTags": [
+        "creamy 30",
+        "minute marry me chicken for busy moms",
+        "discover how to make the viral marry me chicken in under 30 minutes with this budget",
+        "skillet recipe perfect for busy weeknights",
+        "this creamy dish delivers restaurant",
+        "trend",
+        "tendances culinaires & recettes"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-01T07:11:27.956Z",
+      "scheduledFor": "2026-09-01T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-5-hero.jpg",
+      "renderedAt": "2026-09-01T07:11:28.014Z"
     }
   },
   "queue": {
@@ -24917,7 +24984,9 @@
       "postId": 4881,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073241691",
+      "publishedAt": "2026-09-01T07:11:32.026Z"
     },
     "4878-hero-queue": {
       "id": "4878-hero-queue",
@@ -26236,6 +26305,17 @@
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-31T09:00:00.000Z",
       "status": "draft"
+    },
+    "5099-hero-queue": {
+      "id": "5099-hero-queue",
+      "assetId": "5099-hero",
+      "postId": 5099,
+      "boardName": "Tendances Culinaires & Recettes",
+      "scheduledFor": "2026-09-01T09:00:00.000Z",
+      "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
