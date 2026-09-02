@@ -18179,7 +18179,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/classic-shoneys-strawberry-pie-recipe_20260514_100329.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T11:18:53.878Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/classic-shoneys-strawberry-pie-recipe_20260514_100329.jpg",
@@ -18187,7 +18187,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/shoneys-strawberry-pie-recipe-hero.jpg",
-      "renderedAt": "2026-07-27T11:19:03.645Z"
+      "renderedAt": "2026-07-27T11:19:03.645Z",
+      "pinId": "419397784073248405",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073248405/",
+      "publishedAt": "2026-09-02T02:53:57.821Z"
     },
     "4324-hero": {
       "id": "4324-hero",
@@ -25473,7 +25476,9 @@
       "postId": 4327,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073248405",
+      "publishedAt": "2026-09-02T02:53:57.822Z"
     },
     "4324-hero-queue": {
       "id": "4324-hero-queue",
