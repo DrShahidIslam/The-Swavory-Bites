@@ -19082,7 +19082,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/fresh-tomato-cucumber-salad-recipe_20260510_094348.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T17:41:21.292Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/fresh-tomato-cucumber-salad-recipe_20260510_094348.jpg",
@@ -19090,7 +19090,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/tomato-cucumber-salad-recipe-hero.jpg",
-      "renderedAt": "2026-07-27T17:41:31.512Z"
+      "renderedAt": "2026-07-27T17:41:31.512Z",
+      "pinId": "419397784073249706",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073249706/",
+      "publishedAt": "2026-09-02T08:23:34.002Z"
     },
     "4249-hero": {
       "id": "4249-hero",
@@ -25658,7 +25661,9 @@
       "postId": 4255,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073249706",
+      "publishedAt": "2026-09-02T08:23:34.002Z"
     },
     "4249-hero-queue": {
       "id": "4249-hero-queue",
