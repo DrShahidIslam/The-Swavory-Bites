@@ -7969,6 +7969,31 @@
         "salmon"
       ],
       "discoveredAt": "2026-09-01T22:22:32.328Z"
+    },
+    "5107": {
+      "postId": 5107,
+      "title": "The Ultimate Cheesy Baked Ravioli Lasagna Casserole Guide",
+      "url": "https://el-mordjene.info/cheesy-baked-ravioli-lasagna-casserole/",
+      "slug": "cheesy-baked-ravioli-lasagna-casserole",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/the-ultimate-cheesy-baked-ravioli-lasagna-casserol_20260902_121906.webp",
+      "keywordSet": [
+        "the ultimate cheesy baked ravioli lasagna casserole guide",
+        "master the cheesy baked ravioli lasagna casserole with this expert guide learn layering techniques",
+        "sauce chemistry",
+        "and pro tips for the perfect bake",
+        "cheesy ravioli",
+        "comfort food",
+        "dinner recipes",
+        "the definitive guide to cheesy baked ravioli lasagna casserole",
+        "pasta",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-02T15:57:59.361Z"
     }
   },
   "assets": {
@@ -19558,7 +19583,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/easy-homemade-chicken-caesar-wraps-recipe_20260509_203009.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T21:08:50.496Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/easy-homemade-chicken-caesar-wraps-recipe_20260509_203009.jpg",
@@ -19566,7 +19591,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/easy-chicken-caesar-wraps-recipe-2-hero.jpg",
-      "renderedAt": "2026-07-27T21:09:03.104Z"
+      "renderedAt": "2026-07-27T21:09:03.104Z",
+      "pinId": "419397784073252190",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073252190/",
+      "publishedAt": "2026-09-02T15:58:23.013Z"
     },
     "4208-hero": {
       "id": "4208-hero",
@@ -23276,6 +23304,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/garlic-butter-salmon-with-lemon-asparagus-hero.jpg",
       "renderedAt": "2026-09-01T22:22:52.497Z"
+    },
+    "5107-hero": {
+      "id": "5107-hero",
+      "postId": 5107,
+      "postSlug": "cheesy-baked-ravioli-lasagna-casserole",
+      "postUrl": "https://el-mordjene.info/cheesy-baked-ravioli-lasagna-casserole/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "The Ultimate Cheesy Baked Ravioli Lasagna Casserole G...",
+      "overlaySubtitle": "The Definitive Guide to Cheesy Baked Ravioli Lasagna Casserole",
+      "pinTitle": "The Ultimate Cheesy Baked Ravioli Lasagna Casserole Guide",
+      "pinDescription": "The Ultimate Cheesy Baked Ravioli Lasagna Casserole Guide with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the cheesy baked ravioli lasagna casserole with this expert guide learn layering techniques, sauce chemistry, and pro tips for the perfect bake",
+      "primaryKeyword": "the ultimate cheesy baked ravioli lasagna casserole guide",
+      "supportingKeywords": [
+        "the ultimate cheesy baked ravioli lasagna casserole guide",
+        "master the cheesy baked ravioli lasagna casserole with this expert guide learn layering techniques",
+        "sauce chemistry",
+        "and pro tips for the perfect bake",
+        "cheesy ravioli"
+      ],
+      "searchTags": [
+        "the ultimate cheesy baked ravioli lasagna casserole guide",
+        "master the cheesy baked ravioli lasagna casserole with this expert guide learn layering techniques",
+        "sauce chemistry",
+        "and pro tips for the perfect bake",
+        "cheesy ravioli",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/the-ultimate-cheesy-baked-ravioli-lasagna-casserol_20260902_121906.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-02T15:57:59.364Z",
+      "scheduledFor": "2026-09-02T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/the-ultimate-cheesy-baked-ravioli-lasagna-casserol_20260902_121906.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cheesy-baked-ravioli-lasagna-casserole-hero.jpg",
+      "renderedAt": "2026-09-02T15:58:17.860Z"
     }
   },
   "queue": {
@@ -25761,7 +25832,9 @@
       "postId": 4211,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073252190",
+      "publishedAt": "2026-09-02T15:58:23.013Z"
     },
     "4208-hero-queue": {
       "id": "4208-hero-queue",
@@ -26489,6 +26562,14 @@
       "postId": 5104,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-09-01T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5107-hero-queue": {
+      "id": "5107-hero-queue",
+      "assetId": "5107-hero",
+      "postId": 5107,
+      "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-09-02T09:00:00.000Z",
       "status": "draft"
     }
   }
