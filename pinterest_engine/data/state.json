@@ -20441,7 +20441,7 @@
         "hazelnut & chocolate spreads"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/03/healthy-chocolate-ice-cream-the-homemade-chocolate_20260313_132352.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-28T06:25:25.878Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/03/healthy-chocolate-ice-cream-the-homemade-chocolate_20260313_132352.jpg",
@@ -20449,7 +20449,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/healthy-chocolate-icecream-homemade-chocolate-spread-hero.jpg",
-      "renderedAt": "2026-07-28T06:25:31.940Z"
+      "renderedAt": "2026-07-28T06:25:31.940Z",
+      "pinId": "419397784073253477",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073253477/",
+      "publishedAt": "2026-09-02T19:18:42.747Z"
     },
     "2945-hero": {
       "id": "2945-hero",
@@ -26004,7 +26007,9 @@
       "postId": 2953,
       "boardName": "Hazelnut & Chocolate Spreads",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073253477",
+      "publishedAt": "2026-09-02T19:18:42.747Z"
     },
     "2945-hero-queue": {
       "id": "2945-hero-queue",
