@@ -8019,6 +8019,56 @@
         "glance"
       ],
       "discoveredAt": "2026-09-03T06:48:44.960Z"
+    },
+    "5111": {
+      "postId": 5111,
+      "title": "Crispy Coconut Shrimp with Sweet Chili Dip: Ultimate Guide",
+      "url": "https://el-mordjene.info/crispy-coconut-shrimp-with-sweet-chili-dip/",
+      "slug": "crispy-coconut-shrimp-with-sweet-chili-dip",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-coconut-shrimp-with-sweet-chili-dip-ultimat_20260903_121706.webp",
+      "keywordSet": [
+        "crispy coconut shrimp with sweet chili dip",
+        "ultimate guide",
+        "master the art of perfect crispy coconut shrimp with sweet chili dip expert tips on dredging",
+        "temperature control",
+        "and achieving the perfect golden crunch",
+        "coconut shrimp",
+        "crispy shrimp",
+        "understanding the mechanics of crispy coconut shrimp",
+        "seafood",
+        "appetizers"
+      ],
+      "discoveredAt": "2026-09-03T19:05:19.233Z"
+    },
+    "5114": {
+      "postId": 5114,
+      "title": "One-Pan Mediterranean Baked Cod with Cherry Tomatoes",
+      "url": "https://el-mordjene.info/one-pan-mediterranean-baked-cod-cherry-tomatoes/",
+      "slug": "one-pan-mediterranean-baked-cod-cherry-tomatoes",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pan-mediterranean-baked-cod-with-cherry-tomato_20260903_170349.webp",
+      "keywordSet": [
+        "pan mediterranean baked cod with cherry tomatoes",
+        "master the art of one",
+        "pan mediterranean baked cod with cherry tomatoes a healthy",
+        "packed weeknight dinner that balances acidity and umami perfectly",
+        "mediterranean diet",
+        "cod recipe",
+        "healthy recipes",
+        "pan meals",
+        "one",
+        "flavor"
+      ],
+      "discoveredAt": "2026-09-03T19:05:19.230Z"
     }
   },
   "assets": {
@@ -10520,12 +10570,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/homemade-bread-and-butter-pickle-recipe_20260720_054712.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.348Z",
       "scheduledFor": "2026-08-01T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/bread-and-butter-pickle-recipe-list.jpg",
-      "renderedAt": "2026-07-24T19:18:45.282Z"
+      "renderedAt": "2026-07-24T19:18:45.282Z",
+      "pinId": "419397784073260789",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073260789/",
+      "publishedAt": "2026-09-03T19:05:42.567Z"
     },
     "4816-guide": {
       "id": "4816-guide",
@@ -23423,6 +23476,92 @@
       "scheduledFor": "2026-09-03T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-hero.jpg",
       "renderedAt": "2026-09-03T06:48:45.121Z"
+    },
+    "5114-hero": {
+      "id": "5114-hero",
+      "postId": 5114,
+      "postSlug": "one-pan-mediterranean-baked-cod-cherry-tomatoes",
+      "postUrl": "https://el-mordjene.info/one-pan-mediterranean-baked-cod-cherry-tomatoes/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Pan Mediterranean Baked Cod With Cherry Tomatoes Wort...",
+      "overlaySubtitle": "The Ultimate Guide to One-Pan Mediterranean Baked Cod with Cherry T...",
+      "pinTitle": "One-Pan Mediterranean Baked Cod with Cherry Tomatoes",
+      "pinDescription": "Pan Mediterranean Baked Cod With Cherry Tomatoes with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of one, pan mediterranean baked cod with cherry tomatoes a healthy, packed weeknight dinner that balances acidity and umami perfectly",
+      "primaryKeyword": "pan mediterranean baked cod with cherry tomatoes",
+      "supportingKeywords": [
+        "pan mediterranean baked cod with cherry tomatoes",
+        "master the art of one",
+        "pan mediterranean baked cod with cherry tomatoes a healthy",
+        "packed weeknight dinner that balances acidity and umami perfectly",
+        "mediterranean diet"
+      ],
+      "searchTags": [
+        "pan mediterranean baked cod with cherry tomatoes",
+        "master the art of one",
+        "pan mediterranean baked cod with cherry tomatoes a healthy",
+        "packed weeknight dinner that balances acidity and umami perfectly",
+        "mediterranean diet",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pan-mediterranean-baked-cod-with-cherry-tomato_20260903_170349.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-03T19:05:19.232Z",
+      "scheduledFor": "2026-09-03T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pan-mediterranean-baked-cod-with-cherry-tomato_20260903_170349.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/one-pan-mediterranean-baked-cod-cherry-tomatoes-hero.jpg",
+      "renderedAt": "2026-09-03T19:05:36.724Z"
+    },
+    "5111-hero": {
+      "id": "5111-hero",
+      "postId": 5111,
+      "postSlug": "crispy-coconut-shrimp-with-sweet-chili-dip",
+      "postUrl": "https://el-mordjene.info/crispy-coconut-shrimp-with-sweet-chili-dip/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Crispy Coconut Shrimp With Sweet Chili Dip Worth Trying",
+      "overlaySubtitle": "Understanding the Mechanics of Crispy Coconut Shrimp",
+      "pinTitle": "Crispy Coconut Shrimp with Sweet Chili Dip: Ultimate Guide",
+      "pinDescription": "Crispy Coconut Shrimp With Sweet Chili Dip with a click-worthy angle, useful details, and a more tempting way to explore the full post. ultimate guide, master the art of perfect crispy coconut shrimp with sweet chili dip expert tips on dredging, temperature control",
+      "primaryKeyword": "crispy coconut shrimp with sweet chili dip",
+      "supportingKeywords": [
+        "crispy coconut shrimp with sweet chili dip",
+        "ultimate guide",
+        "master the art of perfect crispy coconut shrimp with sweet chili dip expert tips on dredging",
+        "temperature control",
+        "and achieving the perfect golden crunch"
+      ],
+      "searchTags": [
+        "crispy coconut shrimp with sweet chili dip",
+        "ultimate guide",
+        "master the art of perfect crispy coconut shrimp with sweet chili dip expert tips on dredging",
+        "temperature control",
+        "and achieving the perfect golden crunch",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-coconut-shrimp-with-sweet-chili-dip-ultimat_20260903_121706.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-03T19:05:19.234Z",
+      "scheduledFor": "2026-09-03T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-coconut-shrimp-with-sweet-chili-dip-ultimat_20260903_121706.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-coconut-shrimp-with-sweet-chili-dip-hero.jpg",
+      "renderedAt": "2026-09-03T19:05:39.151Z"
     }
   },
   "queue": {
@@ -24014,7 +24153,9 @@
       "postId": 4816,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-01T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073260789",
+      "publishedAt": "2026-09-03T19:05:42.567Z"
     },
     "4816-guide-queue": {
       "id": "4816-guide-queue",
@@ -26661,6 +26802,22 @@
       "assetId": "5109-hero",
       "postId": 5109,
       "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-09-03T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5114-hero-queue": {
+      "id": "5114-hero-queue",
+      "assetId": "5114-hero",
+      "postId": 5114,
+      "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-09-03T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5111-hero-queue": {
+      "id": "5111-hero-queue",
+      "assetId": "5111-hero",
+      "postId": 5111,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-09-03T09:00:00.000Z",
       "status": "draft"
     }
