@@ -21084,7 +21084,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/authentic-cowboy-caviar-recipe-a-fresh-garden-sala_20260801_203748.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-08-01T20:49:48.084Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/authentic-cowboy-caviar-recipe-a-fresh-garden-sala_20260801_203748.webp",
@@ -21092,7 +21092,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cowboy-caviar-recipe-hero.jpg",
-      "renderedAt": "2026-08-01T20:50:03.063Z"
+      "renderedAt": "2026-08-01T20:50:03.063Z",
+      "pinId": "419397784073257472",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073257472/",
+      "publishedAt": "2026-09-03T08:33:18.806Z"
     },
     "4953-hero": {
       "id": "4953-hero",
@@ -26209,7 +26212,9 @@
       "postId": 4950,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073257472",
+      "publishedAt": "2026-09-03T08:33:18.806Z"
     },
     "4953-hero-queue": {
       "id": "4953-hero-queue",
@@ -26659,8 +26664,5 @@
       "scheduledFor": "2026-09-03T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
