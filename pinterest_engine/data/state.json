@@ -7994,6 +7994,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-02T15:57:59.361Z"
+    },
+    "5109": {
+      "postId": 5109,
+      "title": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to whip up a restaurant",
+        "quality marry me chicken in under 30 minutes this budget",
+        "friendly guide makes gourmet weeknight dinners easy for busy families",
+        "why you 8217",
+        "ll love this marry me chicken",
+        "the science of marry me chicken",
+        "recipes",
+        "glance"
+      ],
+      "discoveredAt": "2026-09-03T06:48:44.960Z"
     }
   },
   "assets": {
@@ -21014,7 +21039,7 @@
         "drink recipes — cocktails & mocktails"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/understanding-dutch-bros-drinks-a-guide-to-coffee_20260801_100006.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-08-01T13:15:42.293Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/understanding-dutch-bros-drinks-a-guide-to-coffee_20260801_100006.webp",
@@ -21022,7 +21047,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/understanding-dutch-bros-drinks-hero.jpg",
-      "renderedAt": "2026-08-01T13:16:00.059Z"
+      "renderedAt": "2026-08-01T13:16:00.059Z",
+      "pinId": "419397784073257123",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073257123/",
+      "publishedAt": "2026-09-03T06:48:48.182Z"
     },
     "4950-hero": {
       "id": "4950-hero",
@@ -23353,6 +23381,45 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cheesy-baked-ravioli-lasagna-casserole-hero.jpg",
       "renderedAt": "2026-09-02T15:58:17.860Z"
+    },
+    "5109-hero": {
+      "id": "5109-hero",
+      "postId": 5109,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Creamy 30 Worth Trying",
+      "overlaySubtitle": "Why You&#8217;ll Love This Marry Me Chicken",
+      "pinTitle": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "pinDescription": "Creamy 30 with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute marry me chicken for busy moms on a budget, discover how to whip up a restaurant, quality marry me chicken in under 30 minutes this budget",
+      "primaryKeyword": "creamy 30",
+      "supportingKeywords": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to whip up a restaurant",
+        "quality marry me chicken in under 30 minutes this budget",
+        "friendly guide makes gourmet weeknight dinners easy for busy families"
+      ],
+      "searchTags": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to whip up a restaurant",
+        "quality marry me chicken in under 30 minutes this budget",
+        "friendly guide makes gourmet weeknight dinners easy for busy families",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-03T06:48:44.962Z",
+      "scheduledFor": "2026-09-03T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-hero.jpg",
+      "renderedAt": "2026-09-03T06:48:45.121Z"
     }
   },
   "queue": {
@@ -26132,7 +26199,9 @@
       "postId": 4947,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073257123",
+      "publishedAt": "2026-09-03T06:48:48.182Z"
     },
     "4950-hero-queue": {
       "id": "4950-hero-queue",
@@ -26581,6 +26650,17 @@
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-09-02T09:00:00.000Z",
       "status": "draft"
+    },
+    "5109-hero-queue": {
+      "id": "5109-hero-queue",
+      "assetId": "5109-hero",
+      "postId": 5109,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-09-03T09:00:00.000Z",
+      "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
