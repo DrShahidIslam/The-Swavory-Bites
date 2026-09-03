@@ -20969,7 +20969,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/classic-blackstone-smash-burgers-the-ultimate-flat_20260801_094643.webp",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-08-01T09:56:37.493Z",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/classic-blackstone-smash-burgers-the-ultimate-flat_20260801_094643.webp",
@@ -20977,7 +20977,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-blackstone-smash-burgers-hero.jpg",
-      "renderedAt": "2026-08-01T09:56:52.263Z"
+      "renderedAt": "2026-08-01T09:56:52.263Z",
+      "pinId": "419397784073256097",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073256097/",
+      "publishedAt": "2026-09-03T02:58:04.457Z"
     },
     "4947-hero": {
       "id": "4947-hero",
@@ -26119,7 +26122,9 @@
       "postId": 4944,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-01T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073256097",
+      "publishedAt": "2026-09-03T02:58:04.457Z"
     },
     "4947-hero-queue": {
       "id": "4947-hero-queue",
