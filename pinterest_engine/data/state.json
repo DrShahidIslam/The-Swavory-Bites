@@ -8069,6 +8069,31 @@
         "flavor"
       ],
       "discoveredAt": "2026-09-03T19:05:19.230Z"
+    },
+    "5117": {
+      "postId": 5117,
+      "title": "Quick Teriyaki Chicken and Pineapple Rice Bowls",
+      "url": "https://el-mordjene.info/quick-teriyaki-chicken-and-pineapple-rice-bowls/",
+      "slug": "quick-teriyaki-chicken-and-pineapple-rice-bowls",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/quick-teriyaki-chicken-and-pineapple-rice-bowls_20260903_215757.webp",
+      "keywordSet": [
+        "quick teriyaki chicken and pineapple rice bowls",
+        "master the art of quick teriyaki chicken and pineapple rice bowls with this expert guide learn professional stir",
+        "fry techniques for a perfect weeknight meal",
+        "quick recipes",
+        "rice bowls",
+        "mastering the quick teriyaki chicken and pineapple rice bowl",
+        "why this preparation matters",
+        "professional ingredient dynamics",
+        "chicken",
+        "dinner"
+      ],
+      "discoveredAt": "2026-09-03T22:21:26.318Z"
     }
   },
   "assets": {
@@ -13201,12 +13226,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-homemade-dill-pickle-recipe_20260702_102522.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:53:55.541Z",
       "scheduledFor": "2026-08-01T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-homemade-dill-pickle-recipe-list.jpg",
-      "renderedAt": "2026-07-24T19:50:34.916Z"
+      "renderedAt": "2026-07-24T19:50:34.916Z",
+      "pinId": "419397784073261853",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073261853/",
+      "publishedAt": "2026-09-03T22:21:48.976Z"
     },
     "4708-guide": {
       "id": "4708-guide",
@@ -23562,6 +23590,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-coconut-shrimp-with-sweet-chili-dip-hero.jpg",
       "renderedAt": "2026-09-03T19:05:39.151Z"
+    },
+    "5117-hero": {
+      "id": "5117-hero",
+      "postId": 5117,
+      "postSlug": "quick-teriyaki-chicken-and-pineapple-rice-bowls",
+      "postUrl": "https://el-mordjene.info/quick-teriyaki-chicken-and-pineapple-rice-bowls/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Quick Teriyaki Chicken And Pineapple Rice Bowls Worth...",
+      "overlaySubtitle": "Mastering the Quick Teriyaki Chicken and Pineapple Rice Bowl",
+      "pinTitle": "Quick Teriyaki Chicken and Pineapple Rice Bowls",
+      "pinDescription": "Quick Teriyaki Chicken And Pineapple Rice Bowls with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of quick teriyaki chicken and pineapple rice bowls with this expert guide learn professional stir, fry techniques for a perfect weeknight meal, quick recipes",
+      "primaryKeyword": "quick teriyaki chicken and pineapple rice bowls",
+      "supportingKeywords": [
+        "quick teriyaki chicken and pineapple rice bowls",
+        "master the art of quick teriyaki chicken and pineapple rice bowls with this expert guide learn professional stir",
+        "fry techniques for a perfect weeknight meal",
+        "quick recipes",
+        "rice bowls"
+      ],
+      "searchTags": [
+        "quick teriyaki chicken and pineapple rice bowls",
+        "master the art of quick teriyaki chicken and pineapple rice bowls with this expert guide learn professional stir",
+        "fry techniques for a perfect weeknight meal",
+        "quick recipes",
+        "rice bowls",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/quick-teriyaki-chicken-and-pineapple-rice-bowls_20260903_215757.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-03T22:21:26.321Z",
+      "scheduledFor": "2026-09-03T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/quick-teriyaki-chicken-and-pineapple-rice-bowls_20260903_215757.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/quick-teriyaki-chicken-and-pineapple-rice-bowls-hero.jpg",
+      "renderedAt": "2026-09-03T22:21:45.020Z"
     }
   },
   "queue": {
@@ -24703,7 +24774,9 @@
       "postId": 4708,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-01T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073261853",
+      "publishedAt": "2026-09-03T22:21:48.976Z"
     },
     "4708-guide-queue": {
       "id": "4708-guide-queue",
@@ -26818,6 +26891,14 @@
       "assetId": "5111-hero",
       "postId": 5111,
       "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-03T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5117-hero-queue": {
+      "id": "5117-hero-queue",
+      "assetId": "5117-hero",
+      "postId": 5117,
+      "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-09-03T09:00:00.000Z",
       "status": "draft"
     }
