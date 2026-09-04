@@ -8094,6 +8094,31 @@
         "dinner"
       ],
       "discoveredAt": "2026-09-03T22:21:26.318Z"
+    },
+    "5119": {
+      "postId": 5119,
+      "title": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2",
+      "language": "fr",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to make the viral marry me chicken in under 30 minutes with this budget",
+        "approved recipe perfect for busy weeknights when you need a gourmet result without the stress",
+        "why you 8217",
+        "ll love this marry me chicken",
+        "quick dinner stats",
+        "food science and ingredient deep dive",
+        "friendly",
+        "family"
+      ],
+      "discoveredAt": "2026-09-04T06:57:38.248Z"
     }
   },
   "assets": {
@@ -9998,12 +10023,15 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/refreshing-peach-salsa-recipe-a-balanced-summer-fa_20260722_101012.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.341Z",
       "scheduledFor": "2026-08-01T19:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/refreshing-peach-salsa-recipe-guide.jpg",
-      "renderedAt": "2026-07-24T19:50:38.820Z"
+      "renderedAt": "2026-07-24T19:50:38.820Z",
+      "pinId": "419397784073263853",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073263853/",
+      "publishedAt": "2026-09-04T06:57:41.766Z"
     },
     "4828-hero": {
       "id": "4828-hero",
@@ -23636,6 +23664,45 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/quick-teriyaki-chicken-and-pineapple-rice-bowls-hero.jpg",
       "renderedAt": "2026-09-03T22:21:45.020Z"
+    },
+    "5119-hero": {
+      "id": "5119-hero",
+      "postId": 5119,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2/",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "fr",
+      "overlayTitle": "Creamy 30 Worth Trying",
+      "overlaySubtitle": "Why You&#8217;ll Love This Marry Me Chicken",
+      "pinTitle": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "pinDescription": "Creamy 30 with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute marry me chicken for busy moms on a budget, discover how to make the viral marry me chicken in under 30 minutes with this budget, approved recipe perfect for busy weeknights when you need a gourmet result wi...",
+      "primaryKeyword": "creamy 30",
+      "supportingKeywords": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to make the viral marry me chicken in under 30 minutes with this budget",
+        "approved recipe perfect for busy weeknights when you need a gourmet result without the stress",
+        "why you 8217"
+      ],
+      "searchTags": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "discover how to make the viral marry me chicken in under 30 minutes with this budget",
+        "approved recipe perfect for busy weeknights when you need a gourmet result without the stress",
+        "why you 8217",
+        "trend",
+        "tendances culinaires & recettes"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-04T06:57:38.251Z",
+      "scheduledFor": "2026-09-04T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-hero.jpg",
+      "renderedAt": "2026-09-04T06:57:38.477Z"
     }
   },
   "queue": {
@@ -24097,7 +24164,9 @@
       "postId": 4832,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-01T19:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073263853",
+      "publishedAt": "2026-09-04T06:57:41.766Z"
     },
     "4828-hero-queue": {
       "id": "4828-hero-queue",
@@ -26906,6 +26975,17 @@
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-09-03T09:00:00.000Z",
       "status": "draft"
+    },
+    "5119-hero-queue": {
+      "id": "5119-hero-queue",
+      "assetId": "5119-hero",
+      "postId": 5119,
+      "boardName": "Tendances Culinaires & Recettes",
+      "scheduledFor": "2026-09-04T09:00:00.000Z",
+      "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
