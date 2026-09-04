@@ -11532,12 +11532,15 @@
         "recettes faciles & desserts maison"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/simple-zucchini-fritters-a-quick-weeknight-staple_20260716_104129.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:36:28.409Z",
       "scheduledFor": "2026-08-01T19:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/easy-zucchini-recipes-fritters-guide.jpg",
-      "renderedAt": "2026-07-24T19:50:40.819Z"
+      "renderedAt": "2026-07-24T19:50:40.819Z",
+      "pinId": "419397784073264093",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073264093/",
+      "publishedAt": "2026-09-04T08:35:52.763Z"
     },
     "4792-hero": {
       "id": "4792-hero",
@@ -24482,7 +24485,9 @@
       "postId": 4795,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-08-01T19:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073264093",
+      "publishedAt": "2026-09-04T08:35:52.763Z"
     },
     "4792-hero-queue": {
       "id": "4792-hero-queue",
@@ -26984,8 +26989,5 @@
       "scheduledFor": "2026-09-04T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
