@@ -8144,6 +8144,31 @@
         "chicken"
       ],
       "discoveredAt": "2026-09-04T15:45:50.413Z"
+    },
+    "5124": {
+      "postId": 5124,
+      "title": "Sheet Pan Chicken Shawarma with Garlic Herb Sauce",
+      "url": "https://el-mordjene.info/sheet-pan-chicken-shawarma-garlic-herb-sauce/",
+      "slug": "sheet-pan-chicken-shawarma-garlic-herb-sauce",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/sheet-pan-chicken-shawarma-with-garlic-herb-sauce_20260904_215337.webp",
+      "keywordSet": [
+        "sheet pan chicken shawarma with garlic herb sauce",
+        "master the art of the perfect sheet pan chicken shawarma with garlic herb sauce a foolproof",
+        "packed guide for busy weeknights and home chefs",
+        "understanding the sheet pan shawarma revolution",
+        "the chemistry of the perfect char",
+        "the evolution of the garlic sauce",
+        "comparative culinary context",
+        "ingredient substitution 038",
+        "flavor",
+        "chicken"
+      ],
+      "discoveredAt": "2026-09-04T22:06:01.139Z"
     }
   },
   "assets": {
@@ -14191,12 +14216,15 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/simple-garlic-scapes-recipes-a-guide-to-spring-all_20260628_204821.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.358Z",
       "scheduledFor": "2026-08-01T19:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/garlic-scapes-recipes-guide.jpg",
-      "renderedAt": "2026-07-24T19:50:42.816Z"
+      "renderedAt": "2026-07-24T19:50:42.816Z",
+      "pinId": "419397784073268480",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073268480/",
+      "publishedAt": "2026-09-04T22:06:24.211Z"
     },
     "4684-hero": {
       "id": "4684-hero",
@@ -23774,6 +23802,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-chipotle-chicken-taquitos-guide-hero.jpg",
       "renderedAt": "2026-09-04T15:46:08.158Z"
+    },
+    "5124-hero": {
+      "id": "5124-hero",
+      "postId": 5124,
+      "postSlug": "sheet-pan-chicken-shawarma-garlic-herb-sauce",
+      "postUrl": "https://el-mordjene.info/sheet-pan-chicken-shawarma-garlic-herb-sauce/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Sheet Pan Chicken Shawarma With Garlic Herb Sauce Wor...",
+      "overlaySubtitle": "Understanding the Sheet Pan Shawarma Revolution",
+      "pinTitle": "Sheet Pan Chicken Shawarma with Garlic Herb Sauce",
+      "pinDescription": "Sheet Pan Chicken Shawarma With Garlic Herb Sauce with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of the perfect sheet pan chicken shawarma with garlic herb sauce a foolproof, packed guide for busy weeknights and home chefs, understanding the sheet pan shaw...",
+      "primaryKeyword": "sheet pan chicken shawarma with garlic herb sauce",
+      "supportingKeywords": [
+        "sheet pan chicken shawarma with garlic herb sauce",
+        "master the art of the perfect sheet pan chicken shawarma with garlic herb sauce a foolproof",
+        "packed guide for busy weeknights and home chefs",
+        "understanding the sheet pan shawarma revolution",
+        "the chemistry of the perfect char"
+      ],
+      "searchTags": [
+        "sheet pan chicken shawarma with garlic herb sauce",
+        "master the art of the perfect sheet pan chicken shawarma with garlic herb sauce a foolproof",
+        "packed guide for busy weeknights and home chefs",
+        "understanding the sheet pan shawarma revolution",
+        "the chemistry of the perfect char",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/sheet-pan-chicken-shawarma-with-garlic-herb-sauce_20260904_215337.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-04T22:06:01.141Z",
+      "scheduledFor": "2026-09-04T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/sheet-pan-chicken-shawarma-with-garlic-herb-sauce_20260904_215337.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/sheet-pan-chicken-shawarma-garlic-herb-sauce-hero.jpg",
+      "renderedAt": "2026-09-04T22:06:20.524Z"
     }
   },
   "queue": {
@@ -25105,7 +25176,9 @@
       "postId": 4687,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-01T19:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073268480",
+      "publishedAt": "2026-09-04T22:06:24.211Z"
     },
     "4684-hero-queue": {
       "id": "4684-hero-queue",
@@ -27062,6 +27135,14 @@
       "assetId": "5121-hero",
       "postId": 5121,
       "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-04T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5124-hero-queue": {
+      "id": "5124-hero-queue",
+      "assetId": "5124-hero",
+      "postId": 5124,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-09-04T09:00:00.000Z",
       "status": "draft"
     }
