@@ -8119,6 +8119,31 @@
         "family"
       ],
       "discoveredAt": "2026-09-04T06:57:38.248Z"
+    },
+    "5121": {
+      "postId": 5121,
+      "title": "Creamy Chipotle Chicken Taquitos: The Ultimate Guide",
+      "url": "https://el-mordjene.info/creamy-chipotle-chicken-taquitos-guide/",
+      "slug": "creamy-chipotle-chicken-taquitos-guide",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-chipotle-chicken-taquitos-the-ultimate-guid_20260904_121754.webp",
+      "keywordSet": [
+        "creamy chipotle chicken taquitos",
+        "the ultimate guide",
+        "master the art of crispy",
+        "smoky creamy chipotle chicken taquitos with our expert culinary guide",
+        "featuring pro tips for perfect crunch and flavor",
+        "the rise of the creamy chipotle chicken taquitos phenomenon",
+        "the chemistry of the crunch",
+        "social media and culinary accessibility",
+        "appetizer",
+        "chicken"
+      ],
+      "discoveredAt": "2026-09-04T15:45:50.413Z"
     }
   },
   "assets": {
@@ -23706,6 +23731,49 @@
       "scheduledFor": "2026-09-04T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-hero.jpg",
       "renderedAt": "2026-09-04T06:57:38.477Z"
+    },
+    "5121-hero": {
+      "id": "5121-hero",
+      "postId": 5121,
+      "postSlug": "creamy-chipotle-chicken-taquitos-guide",
+      "postUrl": "https://el-mordjene.info/creamy-chipotle-chicken-taquitos-guide/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Creamy Chipotle Chicken Taquitos Worth Trying",
+      "overlaySubtitle": "The Rise of the Creamy Chipotle Chicken Taquitos Phenomenon",
+      "pinTitle": "Creamy Chipotle Chicken Taquitos: The Ultimate Guide",
+      "pinDescription": "Creamy Chipotle Chicken Taquitos with a click-worthy angle, useful details, and a more tempting way to explore the full post. the ultimate guide, master the art of crispy, smoky creamy chipotle chicken taquitos with our expert culinary guide",
+      "primaryKeyword": "creamy chipotle chicken taquitos",
+      "supportingKeywords": [
+        "creamy chipotle chicken taquitos",
+        "the ultimate guide",
+        "master the art of crispy",
+        "smoky creamy chipotle chicken taquitos with our expert culinary guide",
+        "featuring pro tips for perfect crunch and flavor"
+      ],
+      "searchTags": [
+        "creamy chipotle chicken taquitos",
+        "the ultimate guide",
+        "master the art of crispy",
+        "smoky creamy chipotle chicken taquitos with our expert culinary guide",
+        "featuring pro tips for perfect crunch and flavor",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-chipotle-chicken-taquitos-the-ultimate-guid_20260904_121754.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-04T15:45:50.416Z",
+      "scheduledFor": "2026-09-04T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-chipotle-chicken-taquitos-the-ultimate-guid_20260904_121754.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-chipotle-chicken-taquitos-guide-hero.jpg",
+      "renderedAt": "2026-09-04T15:46:08.158Z"
     }
   },
   "queue": {
@@ -26986,6 +27054,14 @@
       "assetId": "5119-hero",
       "postId": 5119,
       "boardName": "Tendances Culinaires & Recettes",
+      "scheduledFor": "2026-09-04T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5121-hero-queue": {
+      "id": "5121-hero-queue",
+      "assetId": "5121-hero",
+      "postId": 5121,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-09-04T09:00:00.000Z",
       "status": "draft"
     }
