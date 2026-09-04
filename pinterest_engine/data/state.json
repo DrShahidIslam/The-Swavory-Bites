@@ -14732,12 +14732,15 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/the-ultimate-guide-to-homemade-pop-tarts_20260626_104050.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.368Z",
       "scheduledFor": "2026-08-01T14:00:00.000Z",
       "imageSourceDuplicate": true,
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/homemade-pop-tarts-recipe-list.jpg",
-      "renderedAt": "2026-07-24T19:50:36.910Z"
+      "renderedAt": "2026-07-24T19:50:36.910Z",
+      "pinId": "419397784073263248",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073263248/",
+      "publishedAt": "2026-09-04T03:02:17.982Z"
     },
     "4672-guide": {
       "id": "4672-guide",
@@ -25090,7 +25093,9 @@
       "postId": 4672,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-08-01T14:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073263248",
+      "publishedAt": "2026-09-04T03:02:17.982Z"
     },
     "4672-guide-queue": {
       "id": "4672-guide-queue",
