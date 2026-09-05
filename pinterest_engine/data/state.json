@@ -8219,6 +8219,31 @@
         "inspired"
       ],
       "discoveredAt": "2026-09-05T14:35:29.398Z"
+    },
+    "5131": {
+      "postId": 5131,
+      "title": "Creamy Tomato Basil Tortellini Soup with Sausage",
+      "url": "https://el-mordjene.info/creamy-tomato-basil-tortellini-soup-sausage/",
+      "slug": "creamy-tomato-basil-tortellini-soup-sausage",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-tomato-basil-tortellini-soup-with-sausage_20260905_214447.webp",
+      "keywordSet": [
+        "creamy tomato basil tortellini soup with sausage",
+        "master the art of the perfect creamy tomato basil tortellini soup with sausage expert techniques for balancing acidity",
+        "and texture in one pot",
+        "comfort food",
+        "italian cooking",
+        "soup recipes",
+        "mastering the creamy tomato basil tortellini soup with sausage",
+        "culinary mechanics",
+        "fat",
+        "tortellini"
+      ],
+      "discoveredAt": "2026-09-05T21:55:10.603Z"
     }
   },
   "assets": {
@@ -23989,6 +24014,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/20-minute-sesame-beef-lettuce-wraps-hero.jpg",
       "renderedAt": "2026-09-05T14:35:49.145Z"
+    },
+    "5131-hero": {
+      "id": "5131-hero",
+      "postId": 5131,
+      "postSlug": "creamy-tomato-basil-tortellini-soup-sausage",
+      "postUrl": "https://el-mordjene.info/creamy-tomato-basil-tortellini-soup-sausage/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Creamy Tomato Basil Tortellini Soup With Sausage Wort...",
+      "overlaySubtitle": "Mastering the Creamy Tomato Basil Tortellini Soup with Sausage",
+      "pinTitle": "Creamy Tomato Basil Tortellini Soup with Sausage",
+      "pinDescription": "Creamy Tomato Basil Tortellini Soup With Sausage with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of the perfect creamy tomato basil tortellini soup with sausage expert techniques for balancing acidity, and texture in one pot, comfort food",
+      "primaryKeyword": "creamy tomato basil tortellini soup with sausage",
+      "supportingKeywords": [
+        "creamy tomato basil tortellini soup with sausage",
+        "master the art of the perfect creamy tomato basil tortellini soup with sausage expert techniques for balancing acidity",
+        "and texture in one pot",
+        "comfort food",
+        "italian cooking"
+      ],
+      "searchTags": [
+        "creamy tomato basil tortellini soup with sausage",
+        "master the art of the perfect creamy tomato basil tortellini soup with sausage expert techniques for balancing acidity",
+        "and texture in one pot",
+        "comfort food",
+        "italian cooking",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-tomato-basil-tortellini-soup-with-sausage_20260905_214447.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-05T21:55:10.605Z",
+      "scheduledFor": "2026-09-05T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-tomato-basil-tortellini-soup-with-sausage_20260905_214447.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-tomato-basil-tortellini-soup-sausage-hero.jpg",
+      "renderedAt": "2026-09-05T21:55:25.992Z"
     }
   },
   "queue": {
@@ -27311,6 +27379,14 @@
       "assetId": "5128-hero",
       "postId": 5128,
       "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-09-05T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5131-hero-queue": {
+      "id": "5131-hero-queue",
+      "assetId": "5131-hero",
+      "postId": 5131,
+      "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-09-05T09:00:00.000Z",
       "status": "draft"
     }
