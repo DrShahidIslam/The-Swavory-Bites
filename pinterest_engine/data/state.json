@@ -8169,6 +8169,31 @@
         "chicken"
       ],
       "discoveredAt": "2026-09-04T22:06:01.139Z"
+    },
+    "5126": {
+      "postId": 5126,
+      "title": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-2/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-2",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "transform your weeknight dinner routine with this creamy 30",
+        "minute marry me chicken recipe that is both budget",
+        "friendly and incredibly decadent it 8217",
+        "s the perfect balance of savory sun",
+        "dried tomatoes and garlic cream sauce",
+        "why you 8217",
+        "recipes",
+        "glance"
+      ],
+      "discoveredAt": "2026-09-05T06:38:39.484Z"
     }
   },
   "assets": {
@@ -12264,7 +12289,7 @@
         "easy dessert recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-roasted-garlic-and-basil-tomato-confit_20260714_094215.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:36:28.418Z",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/classic-roasted-garlic-and-basil-tomato-confit_20260714_094215.jpg",
@@ -12272,7 +12297,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-roasted-garlic-and-basil-tomato-confit-hero.jpg",
-      "renderedAt": "2026-07-24T19:50:46.856Z"
+      "renderedAt": "2026-07-24T19:50:46.856Z",
+      "pinId": "419397784073270476",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073270476/",
+      "publishedAt": "2026-09-05T06:38:43.250Z"
     },
     "4777-list": {
       "id": "4777-list",
@@ -23848,6 +23876,45 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/sheet-pan-chicken-shawarma-garlic-herb-sauce-hero.jpg",
       "renderedAt": "2026-09-04T22:06:20.524Z"
+    },
+    "5126-hero": {
+      "id": "5126-hero",
+      "postId": 5126,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-2",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-2/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Creamy 30 Worth Trying",
+      "overlaySubtitle": "Why You&#8217;ll Love This Marry Me Chicken",
+      "pinTitle": "Creamy 30-Minute Marry Me Chicken for Busy Moms on a Budget",
+      "pinDescription": "Creamy 30 with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute marry me chicken for busy moms on a budget, transform your weeknight dinner routine with this creamy 30, minute marry me chicken recipe that is both budget",
+      "primaryKeyword": "creamy 30",
+      "supportingKeywords": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "transform your weeknight dinner routine with this creamy 30",
+        "minute marry me chicken recipe that is both budget",
+        "friendly and incredibly decadent it 8217"
+      ],
+      "searchTags": [
+        "creamy 30",
+        "minute marry me chicken for busy moms on a budget",
+        "transform your weeknight dinner routine with this creamy 30",
+        "minute marry me chicken recipe that is both budget",
+        "friendly and incredibly decadent it 8217",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-05T06:38:39.486Z",
+      "scheduledFor": "2026-09-05T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-2-hero.jpg",
+      "renderedAt": "2026-09-05T06:38:39.758Z"
     }
   },
   "queue": {
@@ -24777,7 +24844,9 @@
       "postId": 4777,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073270476",
+      "publishedAt": "2026-09-05T06:38:43.250Z"
     },
     "4777-list-queue": {
       "id": "4777-list-queue",
@@ -27150,6 +27219,17 @@
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-09-04T09:00:00.000Z",
       "status": "draft"
+    },
+    "5126-hero-queue": {
+      "id": "5126-hero-queue",
+      "assetId": "5126-hero",
+      "postId": 5126,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-09-05T09:00:00.000Z",
+      "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
