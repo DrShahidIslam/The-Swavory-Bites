@@ -8194,6 +8194,31 @@
         "glance"
       ],
       "discoveredAt": "2026-09-05T06:38:39.484Z"
+    },
+    "5128": {
+      "postId": 5128,
+      "title": "20-Minute Sesame Beef Lettuce Wraps: A Quick Weeknight Masterclass",
+      "url": "https://el-mordjene.info/20-minute-sesame-beef-lettuce-wraps/",
+      "slug": "20-minute-sesame-beef-lettuce-wraps",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/20-minute-sesame-beef-lettuce-wraps-a-quick-weekni_20260905_112513.webp",
+      "keywordSet": [
+        "minute sesame beef lettuce wraps",
+        "a quick weeknight masterclass",
+        "master the art of 20",
+        "minute sesame beef lettuce wraps discover culinary techniques for perfect browning",
+        "ingredient balancing",
+        "and healthy",
+        "fast dining",
+        "the ultimate 20",
+        "asian",
+        "inspired"
+      ],
+      "discoveredAt": "2026-09-05T14:35:29.398Z"
     }
   },
   "assets": {
@@ -15182,7 +15207,7 @@
         "baking recipes — breads & cakes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/creative-cake-flavor-ideas-for-every-occasion_20260624_211504.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:04:03.374Z",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/creative-cake-flavor-ideas-for-every-occasion_20260624_211504.jpg",
@@ -15190,7 +15215,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creative-cake-flavor-ideas-hero.jpg",
-      "renderedAt": "2026-07-24T19:53:33.990Z"
+      "renderedAt": "2026-07-24T19:53:33.990Z",
+      "pinId": "419397784073272121",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073272121/",
+      "publishedAt": "2026-09-05T14:35:53.523Z"
     },
     "4663-list": {
       "id": "4663-list",
@@ -23918,6 +23946,49 @@
       "scheduledFor": "2026-09-05T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-2-hero.jpg",
       "renderedAt": "2026-09-05T06:38:39.758Z"
+    },
+    "5128-hero": {
+      "id": "5128-hero",
+      "postId": 5128,
+      "postSlug": "20-minute-sesame-beef-lettuce-wraps",
+      "postUrl": "https://el-mordjene.info/20-minute-sesame-beef-lettuce-wraps/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Minute Sesame Beef Lettuce Wraps Worth Trying",
+      "overlaySubtitle": "The Ultimate 20-Minute Sesame Beef Lettuce Wraps",
+      "pinTitle": "20-Minute Sesame Beef Lettuce Wraps: A Quick Weeknight Masterclass",
+      "pinDescription": "Minute Sesame Beef Lettuce Wraps with a click-worthy angle, useful details, and a more tempting way to explore the full post. a quick weeknight masterclass, master the art of 20, minute sesame beef lettuce wraps discover culinary techniques for perfect browning",
+      "primaryKeyword": "minute sesame beef lettuce wraps",
+      "supportingKeywords": [
+        "minute sesame beef lettuce wraps",
+        "a quick weeknight masterclass",
+        "master the art of 20",
+        "minute sesame beef lettuce wraps discover culinary techniques for perfect browning",
+        "ingredient balancing"
+      ],
+      "searchTags": [
+        "minute sesame beef lettuce wraps",
+        "a quick weeknight masterclass",
+        "master the art of 20",
+        "minute sesame beef lettuce wraps discover culinary techniques for perfect browning",
+        "ingredient balancing",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/20-minute-sesame-beef-lettuce-wraps-a-quick-weekni_20260905_112513.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-05T14:35:29.400Z",
+      "scheduledFor": "2026-09-05T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/20-minute-sesame-beef-lettuce-wraps-a-quick-weekni_20260905_112513.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/20-minute-sesame-beef-lettuce-wraps-hero.jpg",
+      "renderedAt": "2026-09-05T14:35:49.145Z"
     }
   },
   "queue": {
@@ -25457,7 +25528,9 @@
       "postId": 4663,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073272121",
+      "publishedAt": "2026-09-05T14:35:53.523Z"
     },
     "4663-list-queue": {
       "id": "4663-list-queue",
@@ -27230,6 +27303,14 @@
       "assetId": "5126-hero",
       "postId": 5126,
       "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-09-05T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5128-hero-queue": {
+      "id": "5128-hero-queue",
+      "assetId": "5128-hero",
+      "postId": 5128,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-09-05T09:00:00.000Z",
       "status": "draft"
     }
