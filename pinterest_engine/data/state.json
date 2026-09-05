@@ -11005,7 +11005,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/07/the-best-oven-baked-zucchini-recipes-for-home-cook_20260718_091331.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T18:33:25.352Z",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/07/the-best-oven-baked-zucchini-recipes-for-home-cook_20260718_091331.jpg",
@@ -11013,7 +11013,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/oven-baked-zucchini-recipes-hero.jpg",
-      "renderedAt": "2026-07-24T19:50:44.813Z"
+      "renderedAt": "2026-07-24T19:50:44.813Z",
+      "pinId": "419397784073269757",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073269757/",
+      "publishedAt": "2026-09-05T02:58:32.290Z"
     },
     "4807-list": {
       "id": "4807-list",
@@ -24508,7 +24511,9 @@
       "postId": 4807,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073269757",
+      "publishedAt": "2026-09-05T02:58:32.290Z"
     },
     "4807-list-queue": {
       "id": "4807-list-queue",
