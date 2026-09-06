@@ -8269,6 +8269,31 @@
         "chicken"
       ],
       "discoveredAt": "2026-09-06T14:55:32.148Z"
+    },
+    "5137": {
+      "postId": 5137,
+      "title": "Quick Cheesy Taco Skillet with Tortilla Chips",
+      "url": "https://el-mordjene.info/quick-cheesy-taco-skillet-with-tortilla-chips/",
+      "slug": "quick-cheesy-taco-skillet-with-tortilla-chips",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/quick-cheesy-taco-skillet-with-tortilla-chips_20260906_214757.webp",
+      "keywordSet": [
+        "quick cheesy taco skillet with tortilla chips",
+        "master the art of the quick cheesy taco skillet with tortilla chips a flavorful",
+        "pan weeknight dinner that combines bold spices and melted cheese",
+        "the evolution of the quick cheesy taco skillet with tortilla chips",
+        "why this trend is here to stay",
+        "culinary mechanics",
+        "achieving the perfect texture",
+        "the science of browning and maillard reaction",
+        "one",
+        "dinner"
+      ],
+      "discoveredAt": "2026-09-06T21:56:44.471Z"
     }
   },
   "assets": {
@@ -18566,7 +18591,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/efficient-weeknight-cooking-simple-dinner-strategi_20260513_101249.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T11:18:53.879Z",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/efficient-weeknight-cooking-simple-dinner-strategi_20260513_101249.jpg",
@@ -18574,7 +18599,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/easy-dinner-ideas-guide-hero.jpg",
-      "renderedAt": "2026-07-27T11:19:05.537Z"
+      "renderedAt": "2026-07-27T11:19:05.537Z",
+      "pinId": "419397784073281926",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073281926/",
+      "publishedAt": "2026-09-06T21:57:05.801Z"
     },
     "4321-hero": {
       "id": "4321-hero",
@@ -24137,6 +24165,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-air-fryer-buffalo-chicken-tenders-hero.jpg",
       "renderedAt": "2026-09-06T14:55:49.963Z"
+    },
+    "5137-hero": {
+      "id": "5137-hero",
+      "postId": 5137,
+      "postSlug": "quick-cheesy-taco-skillet-with-tortilla-chips",
+      "postUrl": "https://el-mordjene.info/quick-cheesy-taco-skillet-with-tortilla-chips/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Quick Cheesy Taco Skillet With Tortilla Chips Worth T...",
+      "overlaySubtitle": "The Evolution of the Quick Cheesy Taco Skillet with Tortilla Chips",
+      "pinTitle": "Quick Cheesy Taco Skillet with Tortilla Chips",
+      "pinDescription": "Quick Cheesy Taco Skillet With Tortilla Chips with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of the quick cheesy taco skillet with tortilla chips a flavorful, pan weeknight dinner that combines bold spices and melted cheese, the evolution of the quick chee...",
+      "primaryKeyword": "quick cheesy taco skillet with tortilla chips",
+      "supportingKeywords": [
+        "quick cheesy taco skillet with tortilla chips",
+        "master the art of the quick cheesy taco skillet with tortilla chips a flavorful",
+        "pan weeknight dinner that combines bold spices and melted cheese",
+        "the evolution of the quick cheesy taco skillet with tortilla chips",
+        "why this trend is here to stay"
+      ],
+      "searchTags": [
+        "quick cheesy taco skillet with tortilla chips",
+        "master the art of the quick cheesy taco skillet with tortilla chips a flavorful",
+        "pan weeknight dinner that combines bold spices and melted cheese",
+        "the evolution of the quick cheesy taco skillet with tortilla chips",
+        "why this trend is here to stay",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/quick-cheesy-taco-skillet-with-tortilla-chips_20260906_214757.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-06T21:56:44.473Z",
+      "scheduledFor": "2026-09-06T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/quick-cheesy-taco-skillet-with-tortilla-chips_20260906_214757.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/quick-cheesy-taco-skillet-with-tortilla-chips-hero.jpg",
+      "renderedAt": "2026-09-06T21:57:01.644Z"
     }
   },
   "queue": {
@@ -26378,7 +26449,9 @@
       "postId": 4324,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073281926",
+      "publishedAt": "2026-09-06T21:57:05.801Z"
     },
     "4321-hero-queue": {
       "id": "4321-hero-queue",
@@ -27482,6 +27555,14 @@
       "id": "5134-hero-queue",
       "assetId": "5134-hero",
       "postId": 5134,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-09-06T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5137-hero-queue": {
+      "id": "5137-hero-queue",
+      "assetId": "5137-hero",
+      "postId": 5137,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-09-06T09:00:00.000Z",
       "status": "draft"
