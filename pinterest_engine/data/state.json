@@ -16083,7 +16083,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/06/authentic-tostadas-recipes-a-crispy-foundation-for_20260620_102414.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-24T19:14:10.186Z",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/06/authentic-tostadas-recipes-a-crispy-foundation-for_20260620_102414.jpg",
@@ -16091,7 +16091,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/authentic-tostadas-recipes-hero.jpg",
-      "renderedAt": "2026-07-24T19:53:36.168Z"
+      "renderedAt": "2026-07-24T19:53:36.168Z",
+      "pinId": "419397784073276136",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073276136/",
+      "publishedAt": "2026-09-06T02:57:43.995Z"
     },
     "4624-hero": {
       "id": "4624-hero",
@@ -25774,7 +25777,9 @@
       "postId": 4627,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073276136",
+      "publishedAt": "2026-09-06T02:57:43.995Z"
     },
     "4624-hero-queue": {
       "id": "4624-hero-queue",
