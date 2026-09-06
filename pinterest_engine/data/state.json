@@ -18086,7 +18086,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/the-essential-guide-to-perfect-pasta-salad-recipes_20260517_175009.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T07:28:56.171Z",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/the-essential-guide-to-perfect-pasta-salad-recipes_20260517_175009.jpg",
@@ -18094,7 +18094,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/pasta-salad-recipes-guide-hero.jpg",
-      "renderedAt": "2026-07-27T07:29:08.929Z"
+      "renderedAt": "2026-07-27T07:29:08.929Z",
+      "pinId": "419397784073280071",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073280071/",
+      "publishedAt": "2026-09-06T18:01:20.470Z"
     },
     "4357-hero": {
       "id": "4357-hero",
@@ -26275,7 +26278,9 @@
       "postId": 4360,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073280071",
+      "publishedAt": "2026-09-06T18:01:20.470Z"
     },
     "4357-hero-queue": {
       "id": "4357-hero-queue",
