@@ -8244,6 +8244,31 @@
         "tortellini"
       ],
       "discoveredAt": "2026-09-05T21:55:10.603Z"
+    },
+    "5134": {
+      "postId": 5134,
+      "title": "Ultimate Crispy Air Fryer Buffalo Chicken Tenders Guide",
+      "url": "https://el-mordjene.info/crispy-air-fryer-buffalo-chicken-tenders/",
+      "slug": "crispy-air-fryer-buffalo-chicken-tenders",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/ultimate-crispy-air-fryer-buffalo-chicken-tenders_20260906_114654.webp",
+      "keywordSet": [
+        "ultimate crispy air fryer buffalo chicken tenders guide",
+        "master the art of the perfect crispy air fryer buffalo chicken tenders learn professional techniques for crunch",
+        "and ultimate texture",
+        "air fryer",
+        "buffalo chicken",
+        "healthy recipes",
+        "mastering the crispy air fryer buffalo chicken tenders",
+        "understanding the mechanics of the air fryer crust",
+        "flavor",
+        "chicken"
+      ],
+      "discoveredAt": "2026-09-06T14:55:32.148Z"
     }
   },
   "assets": {
@@ -17146,7 +17171,7 @@
         "fruit desserts & summer recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/streamlining-your-kitchen-a-guide-to-easy-summer-d_20260523_093011.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-26T20:56:37.976Z",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/streamlining-your-kitchen-a-guide-to-easy-summer-d_20260523_093011.jpg",
@@ -17154,7 +17179,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/easy-summer-dinners-guide-hero.jpg",
-      "renderedAt": "2026-07-26T20:56:50.342Z"
+      "renderedAt": "2026-07-26T20:56:50.342Z",
+      "pinId": "419397784073279055",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073279055/",
+      "publishedAt": "2026-09-06T14:55:53.398Z"
     },
     "4423-hero": {
       "id": "4423-hero",
@@ -24063,6 +24091,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-tomato-basil-tortellini-soup-sausage-hero.jpg",
       "renderedAt": "2026-09-05T21:55:25.992Z"
+    },
+    "5134-hero": {
+      "id": "5134-hero",
+      "postId": 5134,
+      "postSlug": "crispy-air-fryer-buffalo-chicken-tenders",
+      "postUrl": "https://el-mordjene.info/crispy-air-fryer-buffalo-chicken-tenders/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Ultimate Crispy Air Fryer Buffalo Chicken Tenders Gui...",
+      "overlaySubtitle": "Mastering the Crispy Air Fryer Buffalo Chicken Tenders",
+      "pinTitle": "Ultimate Crispy Air Fryer Buffalo Chicken Tenders Guide",
+      "pinDescription": "Ultimate Crispy Air Fryer Buffalo Chicken Tenders Guide with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of the perfect crispy air fryer buffalo chicken tenders learn professional techniques for crunch, and ultimate texture, air fryer",
+      "primaryKeyword": "ultimate crispy air fryer buffalo chicken tenders guide",
+      "supportingKeywords": [
+        "ultimate crispy air fryer buffalo chicken tenders guide",
+        "master the art of the perfect crispy air fryer buffalo chicken tenders learn professional techniques for crunch",
+        "and ultimate texture",
+        "air fryer",
+        "buffalo chicken"
+      ],
+      "searchTags": [
+        "ultimate crispy air fryer buffalo chicken tenders guide",
+        "master the art of the perfect crispy air fryer buffalo chicken tenders learn professional techniques for crunch",
+        "and ultimate texture",
+        "air fryer",
+        "buffalo chicken",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/ultimate-crispy-air-fryer-buffalo-chicken-tenders_20260906_114654.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-06T14:55:32.151Z",
+      "scheduledFor": "2026-09-06T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/ultimate-crispy-air-fryer-buffalo-chicken-tenders_20260906_114654.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-air-fryer-buffalo-chicken-tenders-hero.jpg",
+      "renderedAt": "2026-09-06T14:55:49.963Z"
     }
   },
   "queue": {
@@ -26014,7 +26085,9 @@
       "postId": 4429,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073279055",
+      "publishedAt": "2026-09-06T14:55:53.399Z"
     },
     "4423-hero-queue": {
       "id": "4423-hero-queue",
@@ -27398,6 +27471,14 @@
       "postId": 5131,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-09-05T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5134-hero-queue": {
+      "id": "5134-hero-queue",
+      "assetId": "5134-hero",
+      "postId": 5134,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-09-06T09:00:00.000Z",
       "status": "draft"
     }
   }
