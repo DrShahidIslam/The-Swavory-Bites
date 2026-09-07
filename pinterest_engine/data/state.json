@@ -20001,7 +20001,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/05/classic-rotel-dip-recipe-a-simple-cheese-appetizer_20260509_202542.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-27T21:08:50.497Z",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/05/classic-rotel-dip-recipe-a-simple-cheese-appetizer_20260509_202542.jpg",
@@ -20009,7 +20009,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/rotel-dip-recipe-2-hero.jpg",
-      "renderedAt": "2026-07-27T21:09:05.088Z"
+      "renderedAt": "2026-07-27T21:09:05.088Z",
+      "pinId": "419397784073285046",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073285046/",
+      "publishedAt": "2026-09-07T08:55:29.458Z"
     },
     "4205-hero": {
       "id": "4205-hero",
@@ -26802,7 +26805,9 @@
       "postId": 4208,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073285046",
+      "publishedAt": "2026-09-07T08:55:29.458Z"
     },
     "4205-hero-queue": {
       "id": "4205-hero-queue",
@@ -27644,8 +27649,5 @@
       "scheduledFor": "2026-09-07T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
