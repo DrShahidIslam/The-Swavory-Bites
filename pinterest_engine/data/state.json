@@ -8319,6 +8319,31 @@
         "glance"
       ],
       "discoveredAt": "2026-09-07T06:57:40.366Z"
+    },
+    "5141": {
+      "postId": 5141,
+      "title": "One-Pan Honey Mustard Glazed Chicken and Potatoes",
+      "url": "https://el-mordjene.info/one-pan-honey-mustard-glazed-chicken-and-potatoes/",
+      "slug": "one-pan-honey-mustard-glazed-chicken-and-potatoes",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pan-honey-mustard-glazed-chicken-and-potatoes_20260907_134311.webp",
+      "keywordSet": [
+        "pan honey mustard glazed chicken and potatoes",
+        "master the art of one",
+        "pan honey mustard glazed chicken and potatoes expert techniques for perfect caramelization",
+        "flavor balance",
+        "and texture",
+        "chicken recipes",
+        "comfort food",
+        "easy dinners",
+        "one",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-07T17:15:29.584Z"
     }
   },
   "assets": {
@@ -20433,7 +20458,7 @@
         "quick & easy recipes"
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/03/homemade-chocolate-magic-easy-recipe-for-delicious_20260323_140819.jpg",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-07-28T02:23:55.086Z",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/03/homemade-chocolate-magic-easy-recipe-for-delicious_20260323_140819.jpg",
@@ -20441,7 +20466,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/homemade-chocolate-magic-easy-recipe-hero.jpg",
-      "renderedAt": "2026-07-28T02:24:02.946Z"
+      "renderedAt": "2026-07-28T02:24:02.946Z",
+      "pinId": "419397784073287796",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073287796/",
+      "publishedAt": "2026-09-07T17:15:53.453Z"
     },
     "3737-hero": {
       "id": "3737-hero",
@@ -24278,6 +24306,49 @@
       "scheduledFor": "2026-09-07T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-6-hero.jpg",
       "renderedAt": "2026-09-07T06:57:40.598Z"
+    },
+    "5141-hero": {
+      "id": "5141-hero",
+      "postId": 5141,
+      "postSlug": "one-pan-honey-mustard-glazed-chicken-and-potatoes",
+      "postUrl": "https://el-mordjene.info/one-pan-honey-mustard-glazed-chicken-and-potatoes/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Pan Honey Mustard Glazed Chicken And Potatoes Worth T...",
+      "overlaySubtitle": "The Rise of the One-Pan Culinary Phenomenon",
+      "pinTitle": "One-Pan Honey Mustard Glazed Chicken and Potatoes",
+      "pinDescription": "Pan Honey Mustard Glazed Chicken And Potatoes with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of one, pan honey mustard glazed chicken and potatoes expert techniques for perfect caramelization, flavor balance",
+      "primaryKeyword": "pan honey mustard glazed chicken and potatoes",
+      "supportingKeywords": [
+        "pan honey mustard glazed chicken and potatoes",
+        "master the art of one",
+        "pan honey mustard glazed chicken and potatoes expert techniques for perfect caramelization",
+        "flavor balance",
+        "and texture"
+      ],
+      "searchTags": [
+        "pan honey mustard glazed chicken and potatoes",
+        "master the art of one",
+        "pan honey mustard glazed chicken and potatoes expert techniques for perfect caramelization",
+        "flavor balance",
+        "and texture",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pan-honey-mustard-glazed-chicken-and-potatoes_20260907_134311.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-07T17:15:29.585Z",
+      "scheduledFor": "2026-09-07T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pan-honey-mustard-glazed-chicken-and-potatoes_20260907_134311.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/one-pan-honey-mustard-glazed-chicken-and-potatoes-hero.jpg",
+      "renderedAt": "2026-09-07T17:15:50.230Z"
     }
   },
   "queue": {
@@ -26893,7 +26964,9 @@
       "postId": 3833,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073287796",
+      "publishedAt": "2026-09-07T17:15:53.453Z"
     },
     "3737-hero-queue": {
       "id": "3737-hero-queue",
@@ -27646,6 +27719,14 @@
       "assetId": "5139-hero",
       "postId": 5139,
       "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-09-07T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5141-hero-queue": {
+      "id": "5141-hero-queue",
+      "assetId": "5141-hero",
+      "postId": 5141,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-09-07T09:00:00.000Z",
       "status": "draft"
     }
