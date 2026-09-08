@@ -8544,6 +8544,31 @@
         "autumn"
       ],
       "discoveredAt": "2026-09-08T15:59:18.619Z"
+    },
+    "5166": {
+      "postId": 5166,
+      "title": "Crockpot Melt-in-Your-Mouth Mississippi Pot Roast Guide",
+      "url": "https://el-mordjene.info/crockpot-melt-in-your-mouth-mississippi-pot-roast/",
+      "slug": "crockpot-melt-in-your-mouth-mississippi-pot-roast",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crockpot-melt-in-your-mouth-mississippi-pot-roast_20260908_220409.webp",
+      "keywordSet": [
+        "crockpot melt",
+        "mouth mississippi pot roast guide",
+        "master the crockpot melt",
+        "mouth mississippi pot roast our expert guide covers ingredients",
+        "and tips for the perfect slow",
+        "cooked dinner",
+        "beef recipes",
+        "comfort food",
+        "chemistry",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-08T22:21:47.698Z"
     }
   },
   "assets": {
@@ -16616,6 +16641,52 @@
       "pinId": "419397784073296189",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073296189/",
       "publishedAt": "2026-09-08T19:23:42.928Z"
+    },
+    "5166-hero": {
+      "id": "5166-hero",
+      "postId": 5166,
+      "postSlug": "crockpot-melt-in-your-mouth-mississippi-pot-roast",
+      "postUrl": "https://el-mordjene.info/crockpot-melt-in-your-mouth-mississippi-pot-roast/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Crockpot Melt Worth Trying",
+      "overlaySubtitle": "Understanding the Crockpot Melt-in-Your-Mouth Mississippi Pot Roast...",
+      "pinTitle": "Crockpot Melt-in-Your-Mouth Mississippi Pot Roast Guide",
+      "pinDescription": "Crockpot Melt with a click-worthy angle, useful details, and a more tempting way to explore the full post. mouth mississippi pot roast guide, master the crockpot melt, mouth mississippi pot roast our expert guide covers ingredients",
+      "primaryKeyword": "crockpot melt",
+      "supportingKeywords": [
+        "crockpot melt",
+        "mouth mississippi pot roast guide",
+        "master the crockpot melt",
+        "mouth mississippi pot roast our expert guide covers ingredients",
+        "and tips for the perfect slow"
+      ],
+      "searchTags": [
+        "crockpot melt",
+        "mouth mississippi pot roast guide",
+        "master the crockpot melt",
+        "mouth mississippi pot roast our expert guide covers ingredients",
+        "and tips for the perfect slow",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crockpot-melt-in-your-mouth-mississippi-pot-roast_20260908_220409.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "published_api",
+      "createdAt": "2026-09-08T22:21:47.700Z",
+      "scheduledFor": "2026-09-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/crockpot-melt-in-your-mouth-mississippi-pot-roast_20260908_220409.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crockpot-melt-in-your-mouth-mississippi-pot-roast-hero.jpg",
+      "renderedAt": "2026-09-08T22:22:06.709Z",
+      "pinId": "419397784073297073",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073297073/",
+      "publishedAt": "2026-09-08T22:22:08.671Z"
     }
   },
   "queue": {
@@ -18460,6 +18531,16 @@
       "status": "published_api",
       "pinId": "419397784073296189",
       "publishedAt": "2026-09-08T19:23:42.929Z"
+    },
+    "5166-hero-queue": {
+      "id": "5166-hero-queue",
+      "assetId": "5166-hero",
+      "postId": 5166,
+      "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-09-08T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073297073",
+      "publishedAt": "2026-09-08T22:22:08.671Z"
     }
   }
 }
