@@ -21679,7 +21679,7 @@
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-30-minute-marry-me-chicken-budget.webp",
       "overlayStyle": "clean_photo",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-08-02T13:16:07.727Z",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/08/creamy-30-minute-marry-me-chicken-budget.webp",
@@ -21687,7 +21687,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-hero.jpg",
-      "renderedAt": "2026-08-02T13:16:25.572Z"
+      "renderedAt": "2026-08-02T13:16:25.572Z",
+      "pinId": "419397784073291318",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073291318/",
+      "publishedAt": "2026-09-08T03:05:21.874Z"
     },
     "4966-hero": {
       "id": "4966-hero",
@@ -27537,7 +27540,9 @@
       "postId": 4962,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-08-02T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073291318",
+      "publishedAt": "2026-09-08T03:05:21.874Z"
     },
     "4966-hero-queue": {
       "id": "4966-hero-queue",
