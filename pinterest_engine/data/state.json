@@ -8519,6 +8519,31 @@
         "evidence"
       ],
       "discoveredAt": "2026-09-08T08:36:23.810Z"
+    },
+    "5163": {
+      "postId": 5163,
+      "title": "One-Pot Creamy Butternut Squash Sausage Gnocchi",
+      "url": "https://el-mordjene.info/one-pot-creamy-butternut-squash-sausage-gnocchi/",
+      "slug": "one-pot-creamy-butternut-squash-sausage-gnocchi",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pot-creamy-butternut-squash-sausage-gnocchi_20260908_121920.webp",
+      "keywordSet": [
+        "pot creamy butternut squash sausage gnocchi",
+        "master the art of one",
+        "pot creamy butternut squash sausage gnocchi a velvety",
+        "seasonal dinner guide perfect for busy weeknights and cozy gatherings",
+        "the rise of one",
+        "pot comfort cuisine",
+        "why the one",
+        "pot trend is accelerating",
+        "one",
+        "autumn"
+      ],
+      "discoveredAt": "2026-09-08T15:59:18.619Z"
     }
   },
   "assets": {
@@ -16533,7 +16558,7 @@
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-creamy-chicken-and-wild-rice-soup-guid_20260908_070533.webp",
       "overlayStyle": "minimal_luxury",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-09-08T08:36:23.812Z",
       "scheduledFor": "2026-09-08T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-creamy-chicken-and-wild-rice-soup-guid_20260908_070533.webp",
@@ -16541,7 +16566,53 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/slow-cooker-creamy-chicken-and-wild-rice-soup-hero.jpg",
-      "renderedAt": "2026-09-08T08:36:41.960Z"
+      "renderedAt": "2026-09-08T08:36:41.960Z",
+      "pinId": "419397784073294673",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073294673/",
+      "publishedAt": "2026-09-08T15:59:43.089Z"
+    },
+    "5163-hero": {
+      "id": "5163-hero",
+      "postId": 5163,
+      "postSlug": "one-pot-creamy-butternut-squash-sausage-gnocchi",
+      "postUrl": "https://el-mordjene.info/one-pot-creamy-butternut-squash-sausage-gnocchi/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Pot Creamy Butternut Squash Sausage Gnocchi Worth Trying",
+      "overlaySubtitle": "The Rise of One-Pot Comfort Cuisine",
+      "pinTitle": "One-Pot Creamy Butternut Squash Sausage Gnocchi",
+      "pinDescription": "Pot Creamy Butternut Squash Sausage Gnocchi with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of one, pot creamy butternut squash sausage gnocchi a velvety, seasonal dinner guide perfect for busy weeknights and cozy gatherings",
+      "primaryKeyword": "pot creamy butternut squash sausage gnocchi",
+      "supportingKeywords": [
+        "pot creamy butternut squash sausage gnocchi",
+        "master the art of one",
+        "pot creamy butternut squash sausage gnocchi a velvety",
+        "seasonal dinner guide perfect for busy weeknights and cozy gatherings",
+        "the rise of one"
+      ],
+      "searchTags": [
+        "pot creamy butternut squash sausage gnocchi",
+        "master the art of one",
+        "pot creamy butternut squash sausage gnocchi a velvety",
+        "seasonal dinner guide perfect for busy weeknights and cozy gatherings",
+        "the rise of one",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pot-creamy-butternut-squash-sausage-gnocchi_20260908_121920.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-08T15:59:18.621Z",
+      "scheduledFor": "2026-09-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pot-creamy-butternut-squash-sausage-gnocchi_20260908_121920.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/one-pot-creamy-butternut-squash-sausage-gnocchi-hero.jpg",
+      "renderedAt": "2026-09-08T15:59:39.205Z"
     }
   },
   "queue": {
@@ -18371,6 +18442,16 @@
       "id": "5160-hero-queue",
       "assetId": "5160-hero",
       "postId": 5160,
+      "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-09-08T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073294673",
+      "publishedAt": "2026-09-08T15:59:43.089Z"
+    },
+    "5163-hero-queue": {
+      "id": "5163-hero-queue",
+      "assetId": "5163-hero",
+      "postId": 5163,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-09-08T09:00:00.000Z",
       "status": "draft"
