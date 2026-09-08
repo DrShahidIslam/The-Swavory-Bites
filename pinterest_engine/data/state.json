@@ -8469,6 +8469,31 @@
         "bakery"
       ],
       "discoveredAt": "2026-09-07T22:29:48.921Z"
+    },
+    "5158": {
+      "postId": 5158,
+      "title": "Creamy 30-Minute Marry Me Chicken for Busy Moms",
+      "url": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-3/",
+      "slug": "creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-3",
+      "language": "fr",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "",
+      "keywordSet": [
+        "creamy 30",
+        "minute marry me chicken for busy moms",
+        "discover how to whip up the viral",
+        "quality marry me chicken in just 30 minutes this budget",
+        "pan meal is a lifesaver for busy families",
+        "why you 8217",
+        "ll love this marry me chicken",
+        "food science 038",
+        "restaurant",
+        "friendly"
+      ],
+      "discoveredAt": "2026-09-08T06:52:41.499Z"
     }
   },
   "assets": {
@@ -24695,6 +24720,45 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/brown-butter-sea-salt-toffee-chocolate-chip-cookies-hero.jpg",
       "renderedAt": "2026-09-07T22:30:15.328Z"
+    },
+    "5158-hero": {
+      "id": "5158-hero",
+      "postId": 5158,
+      "postSlug": "creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-3",
+      "postUrl": "https://el-mordjene.info/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-3/",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "fr",
+      "overlayTitle": "Creamy 30 Worth Trying",
+      "overlaySubtitle": "Why You&#8217;ll Love This Marry Me Chicken",
+      "pinTitle": "Creamy 30-Minute Marry Me Chicken for Busy Moms",
+      "pinDescription": "Creamy 30 with a click-worthy angle, useful details, and a more tempting way to explore the full post. minute marry me chicken for busy moms, discover how to whip up the viral, quality marry me chicken in just 30 minutes this budget",
+      "primaryKeyword": "creamy 30",
+      "supportingKeywords": [
+        "creamy 30",
+        "minute marry me chicken for busy moms",
+        "discover how to whip up the viral",
+        "quality marry me chicken in just 30 minutes this budget",
+        "pan meal is a lifesaver for busy families"
+      ],
+      "searchTags": [
+        "creamy 30",
+        "minute marry me chicken for busy moms",
+        "discover how to whip up the viral",
+        "quality marry me chicken in just 30 minutes this budget",
+        "pan meal is a lifesaver for busy families",
+        "trend",
+        "tendances culinaires & recettes"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-08T06:52:41.501Z",
+      "scheduledFor": "2026-09-08T09:00:00.000Z",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-4-2-3-2-2-2-3-hero.jpg",
+      "renderedAt": "2026-09-08T06:52:41.733Z"
     }
   },
   "queue": {
@@ -28119,6 +28183,17 @@
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-09-07T09:00:00.000Z",
       "status": "draft"
+    },
+    "5158-hero-queue": {
+      "id": "5158-hero-queue",
+      "assetId": "5158-hero",
+      "postId": 5158,
+      "boardName": "Tendances Culinaires & Recettes",
+      "scheduledFor": "2026-09-08T09:00:00.000Z",
+      "status": "draft"
     }
-  }
+  },
+  "publishedTrendIds": [
+    "trend-marry-me-chicken-splinter-0"
+  ]
 }
