@@ -112,6 +112,7 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
 
   // 5. Compress image to WebP < 100KB & upload to WordPress Media
   let featuredMediaId = null;
+  let uploadedMediaUrl = null;
   const inputPath = generatedImagePath || path.resolve("data/assets/pinterest/classic-homemade-peach-crisp-recipe-hero.jpg");
 
   try {
@@ -128,16 +129,44 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
       "image/webp"
     );
     featuredMediaId = mediaRes?.id;
+    uploadedMediaUrl = mediaRes?.url || null;
     console.log(`✅ Uploaded WebP Featured Image to WP Media | Media ID: ${featuredMediaId}`);
   } catch (imgErr) {
     console.warn("⚠️ Featured image upload skipped:", imgErr.message);
   }
 
-  // 6. Publish Post live to WordPress REST API
+  // 6. Build Rich Pin Schema & Publish Post live to WordPress REST API
+  let enrichedContentHtml = article.contentHtml;
+
+  if (article.recipeSchema) {
+    // Attach featured image to recipeSchema if available
+    if (uploadedMediaUrl) {
+      article.recipeSchema.image = [uploadedMediaUrl];
+    }
+    const recipeScript = `\n<!-- Schema.org Recipe Rich Pin Markup -->\n<script type="application/ld+json">\n${JSON.stringify(article.recipeSchema, null, 2)}\n</script>\n`;
+    enrichedContentHtml += recipeScript;
+  }
+
+  if (article.faqJsonLd && Array.isArray(article.faqJsonLd) && article.faqJsonLd.length > 0) {
+    const faqSchema = {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": article.faqJsonLd.map((f) => ({
+        "@type": "Question",
+        "name": f.question,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": f.answer
+        }
+      }))
+    };
+    enrichedContentHtml += `\n<!-- Schema.org FAQ Markup -->\n<script type="application/ld+json">\n${JSON.stringify(faqSchema, null, 2)}\n</script>\n`;
+  }
+
   const postData = {
     title: article.title,
     slug: article.slug,
-    content: article.contentHtml,
+    content: enrichedContentHtml,
     excerpt: article.excerpt,
     status: "publish",
     featured_media: featuredMediaId,

@@ -19,7 +19,7 @@ export async function publishApiDueQueue({ config, state }) {
   const publishedItems = allQueueItems.filter(q => q.status === "published_api" && q.publishedAt);
   
   let pinsToday = 0;
-  const recentlyPinnedSlugs = new Set();
+  const publishedSlugs = new Set();
   
   let earliestPubDate = now;
 
@@ -33,11 +33,9 @@ export async function publishApiDueQueue({ config, state }) {
       pinsToday++;
     }
     
-    if (ageMs < SEVEN_DAYS) {
-      const pastAsset = state.getAsset(item.assetId);
-      if (pastAsset && pastAsset.postSlug) {
-        recentlyPinnedSlugs.add(pastAsset.postSlug);
-      }
+    const pastAsset = state.getAsset(item.assetId);
+    if (pastAsset && pastAsset.postSlug) {
+      publishedSlugs.add(pastAsset.postSlug);
     }
   }
 
@@ -71,9 +69,10 @@ export async function publishApiDueQueue({ config, state }) {
       continue;
     }
 
-    // Phase B/C Cooldown: 7 Days per URL
-    if (recentlyPinnedSlugs.has(asset.postSlug)) {
-      console.log(`🛡️ SAFETY PROTOCOL: 7-Day Cooldown active for URL slug "${asset.postSlug}". Skipping...`);
+    // Strict 1 Pin : 1 URL Policy
+    if (publishedSlugs.has(asset.postSlug)) {
+      console.log(`🛡️ 1 PIN PER 1 URL POLICY: URL slug "${asset.postSlug}" has already been published to Pinterest. Skipping duplicate...`);
+      item.status = "duplicate_skipped";
       continue;
     }
 
@@ -128,7 +127,7 @@ export async function publishApiDueQueue({ config, state }) {
 
       publishedCount++;
       pinsToday++;
-      recentlyPinnedSlugs.add(slug);
+      publishedSlugs.add(slug);
       console.log(`✅ Pin published to board ID ${boardId} | Pin ID: ${pinResult.id}`);
     } catch (err) {
       console.error(`❌ Failed to publish pin for asset ${asset.id}:`, err.message);

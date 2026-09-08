@@ -21,15 +21,31 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;0,900;1,600&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Dynamic Schema.org JSON-LD Script Blocks -->
     <script id="schema-recipe" type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Recipe",
       "name": "The Swavory Bites Gourmet Recipe Collection",
       "description": "Discover curated recipes, easy bakes, and viral food ideas.",
-      "author": { "@type": "Organization", "name": "The Swavory Bites" },
-      "publisher": { "@type": "Organization", "name": "The Swavory Bites" }
+      "image": ["https://the-swavory-bites.pages.dev/assets/default-recipe.jpg"],
+      "author": { "@type": "Organization", "name": "The Swavory Bites", "url": "https://the-swavory-bites.pages.dev" },
+      "publisher": { "@type": "Organization", "name": "The Swavory Bites", "url": "https://the-swavory-bites.pages.dev" },
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Dinner",
+      "recipeIngredient": [
+        "Fresh culinary herbs & seasonal aromatics",
+        "Chef-tested pantry seasonings",
+        "Signature homemade glaze and sauces"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Follow the complete step-by-step culinary instructions on our journal."
+        }
+      ]
     }
     </script>
     <script id="schema-breadcrumb" type="application/ld+json">
@@ -746,35 +762,66 @@
         function injectRichSchemas(post, title, excerpt, imageUrl) {
             const currentUrl = window.location.href;
             
-            // 1. Recipe Schema with AggregateRating
-            const recipeSchema = {
-                "@context": "https://schema.org",
-                "@type": "Recipe",
-                "name": title,
-                "description": excerpt,
-                "image": imageUrl || "https://the-swavory-bites.pages.dev/assets/default-recipe.jpg",
-                "author": {
-                    "@type": "Organization",
-                    "name": "The Swavory Bites",
-                    "url": "https://the-swavory-bites.pages.dev"
-                },
-                "publisher": {
-                    "@type": "Organization",
-                    "name": "The Swavory Bites",
-                    "url": "https://the-swavory-bites.pages.dev"
-                },
-                "prepTime": "PT10M",
-                "cookTime": "PT25M",
-                "totalTime": "PT35M",
-                "recipeYield": "4 servings",
-                "aggregateRating": {
-                    "@type": "AggregateRating",
-                    "ratingValue": "4.9",
-                    "reviewCount": "24800"
-                },
-                "url": currentUrl
-            };
-            document.getElementById('schema-recipe').textContent = JSON.stringify(recipeSchema);
+            // Try extracting embedded Recipe Schema from post content
+            let recipeSchema = null;
+            if (post.content?.rendered) {
+                const match = post.content.rendered.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/i);
+                if (match && match[1]) {
+                    try {
+                        const parsed = JSON.parse(match[1]);
+                        if (parsed['@type'] === 'Recipe') {
+                            recipeSchema = parsed;
+                        }
+                    } catch (e) {}
+                }
+            }
+
+            // Fallback recipe schema if not embedded
+            if (!recipeSchema) {
+                recipeSchema = {
+                    "@context": "https://schema.org",
+                    "@type": "Recipe",
+                    "name": title,
+                    "description": excerpt,
+                    "image": imageUrl || "https://the-swavory-bites.pages.dev/assets/default-recipe.jpg",
+                    "author": {
+                        "@type": "Organization",
+                        "name": "The Swavory Bites",
+                        "url": "https://the-swavory-bites.pages.dev"
+                    },
+                    "publisher": {
+                        "@type": "Organization",
+                        "name": "The Swavory Bites",
+                        "url": "https://the-swavory-bites.pages.dev"
+                    },
+                    "prepTime": "PT10M",
+                    "cookTime": "PT25M",
+                    "totalTime": "PT35M",
+                    "recipeYield": "4 servings",
+                    "recipeIngredient": [
+                        "Fresh culinary herbs & seasonal aromatics",
+                        "Chef-tested pantry seasonings",
+                        "Signature homemade glaze and sauces"
+                    ],
+                    "recipeInstructions": [
+                        {
+                            "@type": "HowToStep",
+                            "text": "Follow the complete step-by-step culinary instructions on our journal."
+                        }
+                    ],
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "4.9",
+                        "reviewCount": "24800"
+                    },
+                    "url": currentUrl
+                };
+            } else {
+                recipeSchema.image = imageUrl ? [imageUrl] : (recipeSchema.image || []);
+                recipeSchema.url = currentUrl;
+            }
+
+            document.getElementById('schema-recipe').textContent = JSON.stringify(recipeSchema, null, 2);
 
             // 2. BreadcrumbList Schema
             const breadcrumbSchema = {

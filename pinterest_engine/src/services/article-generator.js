@@ -64,7 +64,11 @@ CRITICAL MANDATORY INSTRUCTIONS FOR RETENTION & SEO SILOS:
 5. **Contextual Silo Internal Links**:
    - Naturally embed 2 to 3 contextual internal links to these existing articles in the SAME category:
 ${internalLinkContext || "- None available"}
-6. **FAQ & Schema**:
+6. **Recipe Schema (CRITICAL FOR PINTEREST RICH PINS & GOOGLE RECIPES)**:
+   - Provide a complete, structured Schema.org Recipe JSON object with realistic prep/cook times and exact measured ingredients.
+   - Times MUST be in ISO 8601 duration format (e.g., "PT10M" for 10 mins, "PT25M" for 25 mins).
+   - Ingredients MUST include clear measurements (e.g. "1 1/2 lbs Chicken breasts", "2 tbsp Olive oil", "1/2 tsp Smoked paprika").
+7. **FAQ & Schema**:
    - Include an <h2>Frequently Asked Questions</h2> section with 3 distinct questions and answers.
 
 OUTPUT FORMAT (STRICT JSON ONLY):
@@ -80,6 +84,27 @@ OUTPUT FORMAT (STRICT JSON ONLY):
     { "question": "Question 2?", "answer": "Answer 2." },
     { "question": "Question 3?", "answer": "Answer 3." }
   ],
+  "recipeSchema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": "Recipe Title",
+    "description": "Short appetizing description",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 1/2 lbs Chicken breasts, boneless skinless",
+      "1/2 tsp Garlic powder",
+      "2 tbsp Honey"
+    ],
+    "recipeInstructions": [
+      { "@type": "HowToStep", "text": "Prep ingredients..." },
+      { "@type": "HowToStep", "text": "Cook the dish..." }
+    ]
+  },
   "primaryKeyword": "${targetKeyword}",
   "semanticEntities": ["entity1", "entity2", "entity3"]
 }
@@ -109,6 +134,14 @@ OUTPUT FORMAT (STRICT JSON ONLY):
     const data = await response.json();
     const rawJsonText = data.candidates?.[0]?.content?.parts?.[0]?.text;
     const article = JSON.parse(rawJsonText || "{}");
+
+    // Ensure recipeSchema has context, type, and title fallback
+    if (article.recipeSchema) {
+      article.recipeSchema["@context"] = "https://schema.org";
+      article.recipeSchema["@type"] = "Recipe";
+      article.recipeSchema.name = article.recipeSchema.name || article.title;
+      article.recipeSchema.description = article.recipeSchema.description || article.metaDescription || article.excerpt;
+    }
 
     console.log(`✅ Article generated: "${article.title}"`);
     return article;
