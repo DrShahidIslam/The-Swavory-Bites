@@ -16604,7 +16604,7 @@
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pot-creamy-butternut-squash-sausage-gnocchi_20260908_121920.webp",
       "overlayStyle": "clean_photo",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-09-08T15:59:18.621Z",
       "scheduledFor": "2026-09-08T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pot-creamy-butternut-squash-sausage-gnocchi_20260908_121920.webp",
@@ -16612,7 +16612,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/one-pot-creamy-butternut-squash-sausage-gnocchi-hero.jpg",
-      "renderedAt": "2026-09-08T15:59:39.205Z"
+      "renderedAt": "2026-09-08T15:59:39.205Z",
+      "pinId": "419397784073296189",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073296189/",
+      "publishedAt": "2026-09-08T19:23:42.928Z"
     }
   },
   "queue": {
@@ -18454,7 +18457,9 @@
       "postId": 5163,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-09-08T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073296189",
+      "publishedAt": "2026-09-08T19:23:42.929Z"
     }
   }
 }
