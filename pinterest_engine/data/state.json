@@ -8494,6 +8494,31 @@
         "friendly"
       ],
       "discoveredAt": "2026-09-08T06:52:41.499Z"
+    },
+    "5160": {
+      "postId": 5160,
+      "title": "Slow Cooker Creamy Chicken and Wild Rice Soup Guide",
+      "url": "https://el-mordjene.info/slow-cooker-creamy-chicken-and-wild-rice-soup/",
+      "slug": "slow-cooker-creamy-chicken-and-wild-rice-soup",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-creamy-chicken-and-wild-rice-soup-guid_20260908_070533.webp",
+      "keywordSet": [
+        "slow cooker creamy chicken and wild rice soup guide",
+        "master the art of the perfect slow cooker creamy chicken and wild rice soup expert tips on wild rice texture",
+        "thickening techniques",
+        "and prep",
+        "comfort food",
+        "meal prep",
+        "slow cooker",
+        "soup recipes",
+        "recipes",
+        "evidence"
+      ],
+      "discoveredAt": "2026-09-08T08:36:23.810Z"
     }
   },
   "assets": {
@@ -16474,6 +16499,49 @@
       "pinId": "419397784073291318",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073291318/",
       "publishedAt": "2026-09-08T03:05:21.874Z"
+    },
+    "5160-hero": {
+      "id": "5160-hero",
+      "postId": 5160,
+      "postSlug": "slow-cooker-creamy-chicken-and-wild-rice-soup",
+      "postUrl": "https://el-mordjene.info/slow-cooker-creamy-chicken-and-wild-rice-soup/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Slow Cooker Creamy Chicken And Wild Rice Soup Guide W...",
+      "overlaySubtitle": "The Ultimate Comfort: Slow Cooker Creamy Chicken and Wild Rice Soup",
+      "pinTitle": "Slow Cooker Creamy Chicken and Wild Rice Soup Guide",
+      "pinDescription": "Slow Cooker Creamy Chicken And Wild Rice Soup Guide with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of the perfect slow cooker creamy chicken and wild rice soup expert tips on wild rice texture, thickening techniques, and prep",
+      "primaryKeyword": "slow cooker creamy chicken and wild rice soup guide",
+      "supportingKeywords": [
+        "slow cooker creamy chicken and wild rice soup guide",
+        "master the art of the perfect slow cooker creamy chicken and wild rice soup expert tips on wild rice texture",
+        "thickening techniques",
+        "and prep",
+        "comfort food"
+      ],
+      "searchTags": [
+        "slow cooker creamy chicken and wild rice soup guide",
+        "master the art of the perfect slow cooker creamy chicken and wild rice soup expert tips on wild rice texture",
+        "thickening techniques",
+        "and prep",
+        "comfort food",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-creamy-chicken-and-wild-rice-soup-guid_20260908_070533.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-08T08:36:23.812Z",
+      "scheduledFor": "2026-09-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-creamy-chicken-and-wild-rice-soup-guid_20260908_070533.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/slow-cooker-creamy-chicken-and-wild-rice-soup-hero.jpg",
+      "renderedAt": "2026-09-08T08:36:41.960Z"
     }
   },
   "queue": {
@@ -18298,9 +18366,14 @@
       "status": "published_api",
       "pinId": "419397784073291318",
       "publishedAt": "2026-09-08T03:05:21.874Z"
+    },
+    "5160-hero-queue": {
+      "id": "5160-hero-queue",
+      "assetId": "5160-hero",
+      "postId": 5160,
+      "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-09-08T09:00:00.000Z",
+      "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
