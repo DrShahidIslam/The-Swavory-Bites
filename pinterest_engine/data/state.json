@@ -8594,6 +8594,31 @@
         "glance"
       ],
       "discoveredAt": "2026-09-09T07:01:39.256Z"
+    },
+    "5170": {
+      "postId": 5170,
+      "title": "Cozy Brown Butter Apple Cider Donuts with Cinnamon Sugar",
+      "url": "https://el-mordjene.info/cozy-brown-butter-apple-cider-donuts/",
+      "slug": "cozy-brown-butter-apple-cider-donuts",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/cozy-brown-butter-apple-cider-donuts-with-cinnamon_20260909_123046.webp",
+      "keywordSet": [
+        "cozy brown butter apple cider donuts with cinnamon sugar",
+        "master the art of cozy brown butter apple cider donuts with cinnamon sugar discover pro techniques for browning butter and achieving perfect cake donuts",
+        "brown butter",
+        "fall recipes",
+        "the ultimate guide to cozy brown butter apple cider donuts with cinnamon sugar",
+        "choosing your donut style",
+        "baked vs fried",
+        "culinary mechanics",
+        "baking",
+        "desserts"
+      ],
+      "discoveredAt": "2026-09-09T15:55:47.628Z"
     }
   },
   "assets": {
@@ -16746,11 +16771,57 @@
       ],
       "featuredImage": "",
       "overlayStyle": "minimal_luxury",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-09-09T07:01:39.259Z",
       "scheduledFor": "2026-09-09T09:00:00.000Z",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-30-minute-marry-me-chicken-budget-6-2-hero.jpg",
-      "renderedAt": "2026-09-09T07:01:39.499Z"
+      "renderedAt": "2026-09-09T07:01:39.499Z",
+      "pinId": "419397784073301656",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073301656/",
+      "publishedAt": "2026-09-09T15:56:05.973Z"
+    },
+    "5170-hero": {
+      "id": "5170-hero",
+      "postId": 5170,
+      "postSlug": "cozy-brown-butter-apple-cider-donuts",
+      "postUrl": "https://el-mordjene.info/cozy-brown-butter-apple-cider-donuts/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Cozy Brown Butter Apple Cider Donuts With Cinnamon Su...",
+      "overlaySubtitle": "The Ultimate Guide to Cozy Brown Butter Apple Cider Donuts with Cin...",
+      "pinTitle": "Cozy Brown Butter Apple Cider Donuts with Cinnamon Sugar",
+      "pinDescription": "Cozy Brown Butter Apple Cider Donuts With Cinnamon Sugar with a click-worthy angle, useful details, and a more tempting way to explore the full post. master the art of cozy brown butter apple cider donuts with cinnamon sugar discover pro techniques for browning butter and achieving perfect cake donuts, brown butter,...",
+      "primaryKeyword": "cozy brown butter apple cider donuts with cinnamon sugar",
+      "supportingKeywords": [
+        "cozy brown butter apple cider donuts with cinnamon sugar",
+        "master the art of cozy brown butter apple cider donuts with cinnamon sugar discover pro techniques for browning butter and achieving perfect cake donuts",
+        "brown butter",
+        "fall recipes",
+        "the ultimate guide to cozy brown butter apple cider donuts with cinnamon sugar"
+      ],
+      "searchTags": [
+        "cozy brown butter apple cider donuts with cinnamon sugar",
+        "master the art of cozy brown butter apple cider donuts with cinnamon sugar discover pro techniques for browning butter and achieving perfect cake donuts",
+        "brown butter",
+        "fall recipes",
+        "the ultimate guide to cozy brown butter apple cider donuts with cinnamon sugar",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/cozy-brown-butter-apple-cider-donuts-with-cinnamon_20260909_123046.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-09T15:55:47.631Z",
+      "scheduledFor": "2026-09-09T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/cozy-brown-butter-apple-cider-donuts-with-cinnamon_20260909_123046.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cozy-brown-butter-apple-cider-donuts-hero.jpg",
+      "renderedAt": "2026-09-09T15:56:04.201Z"
     }
   },
   "queue": {
@@ -18612,10 +18683,17 @@
       "postId": 5168,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-09-09T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073301656",
+      "publishedAt": "2026-09-09T15:56:05.973Z"
+    },
+    "5170-hero-queue": {
+      "id": "5170-hero-queue",
+      "assetId": "5170-hero",
+      "postId": 5170,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-09T09:00:00.000Z",
       "status": "draft"
     }
-  },
-  "publishedTrendIds": [
-    "trend-marry-me-chicken-splinter-0"
-  ]
+  }
 }
