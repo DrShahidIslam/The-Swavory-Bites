@@ -8669,6 +8669,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-09T19:05:33.743Z"
+    },
+    "5179": {
+      "postId": 5179,
+      "title": "Creamy Tuscan White Bean and Sausage Soup: A Comfort Classic",
+      "url": "https://el-mordjene.info/creamy-tuscan-white-bean-and-sausage-soup/",
+      "slug": "creamy-tuscan-white-bean-and-sausage-soup",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-tuscan-white-bean-and-sausage-soup-a-comfor_20260909_220147.webp",
+      "keywordSet": [
+        "creamy tuscan white bean and sausage soup",
+        "a comfort classic",
+        "master the art of the perfect creamy tuscan white bean and sausage soup with our expert guide on balancing aromatics",
+        "and textures",
+        "comfort food",
+        "sausage recipes",
+        "tuscan soup",
+        "white bean soup",
+        "emulsification",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-09T22:15:42.179Z"
     }
   },
   "assets": {
@@ -16909,7 +16934,7 @@
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-skillet-apple-crisp-with-salted-caramel-dri_20260909_190204.webp",
       "overlayStyle": "clean_photo",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-09-09T19:05:40.772Z",
       "scheduledFor": "2026-09-09T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-skillet-apple-crisp-with-salted-caramel-dri_20260909_190204.webp",
@@ -16917,7 +16942,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-skillet-apple-crisp-salted-caramel-drizzle-hero.jpg",
-      "renderedAt": "2026-09-09T19:06:01.534Z"
+      "renderedAt": "2026-09-09T19:06:01.534Z",
+      "pinId": "419397784073303962",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073303962/",
+      "publishedAt": "2026-09-09T22:16:07.455Z"
     },
     "5173-hero": {
       "id": "5173-hero",
@@ -16961,6 +16989,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/soft-swirled-pumpkin-cream-cheese-loaf-spiced-glaze-hero.jpg",
       "renderedAt": "2026-09-09T19:06:04.808Z"
+    },
+    "5179-hero": {
+      "id": "5179-hero",
+      "postId": 5179,
+      "postSlug": "creamy-tuscan-white-bean-and-sausage-soup",
+      "postUrl": "https://el-mordjene.info/creamy-tuscan-white-bean-and-sausage-soup/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Creamy Tuscan Sausage Soup",
+      "overlaySubtitle": "30-Minute Comfort Meal",
+      "pinTitle": "Creamy Tuscan White Bean and Sausage Soup: Easy One-Pot Dinner",
+      "pinDescription": "Warm up your kitchen with this velvety, flavor-packed Tuscan soup. Featuring savory Italian sausage, creamy white beans, and aromatic herbs, every spoonful is a cozy hug in a bowl. It’s the ultimate easy weeknight dinner that tastes like it simmered for hours, yet comes together in just thirty minutes. Perfectly bal...",
+      "primaryKeyword": "creamy tuscan white bean and sausage soup",
+      "supportingKeywords": [
+        "creamy tuscan white bean and sausage soup",
+        "a comfort classic",
+        "master the art of the perfect creamy tuscan white bean and sausage soup with our expert guide on balancing aromatics",
+        "and textures",
+        "comfort food"
+      ],
+      "searchTags": [
+        "creamy tuscan white bean and sausage soup",
+        "a comfort classic",
+        "master the art of the perfect creamy tuscan white bean and sausage soup with our expert guide on balancing aromatics",
+        "and textures",
+        "comfort food",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-tuscan-white-bean-and-sausage-soup-a-comfor_20260909_220147.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-09T22:15:45.578Z",
+      "scheduledFor": "2026-09-09T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-tuscan-white-bean-and-sausage-soup-a-comfor_20260909_220147.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-tuscan-white-bean-and-sausage-soup-hero.jpg",
+      "renderedAt": "2026-09-09T22:16:03.817Z"
     }
   },
   "queue": {
@@ -18842,13 +18913,23 @@
       "postId": 5176,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-09-09T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073303962",
+      "publishedAt": "2026-09-09T22:16:07.456Z"
     },
     "5173-hero-queue": {
       "id": "5173-hero-queue",
       "assetId": "5173-hero",
       "postId": 5173,
       "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-09-09T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5179-hero-queue": {
+      "id": "5179-hero-queue",
+      "assetId": "5179-hero",
+      "postId": 5179,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-09-09T09:00:00.000Z",
       "status": "draft"
     }
