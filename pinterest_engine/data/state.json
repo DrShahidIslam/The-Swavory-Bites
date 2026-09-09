@@ -8619,6 +8619,56 @@
         "desserts"
       ],
       "discoveredAt": "2026-09-09T15:55:47.628Z"
+    },
+    "5173": {
+      "postId": 5173,
+      "title": "Soft Swirled Pumpkin Cream Cheese Loaf with Spiced Glaze",
+      "url": "https://el-mordjene.info/soft-swirled-pumpkin-cream-cheese-loaf-spiced-glaze/",
+      "slug": "soft-swirled-pumpkin-cream-cheese-loaf-spiced-glaze",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/soft-swirled-pumpkin-cream-cheese-loaf-with-spiced_20260909_190009.webp",
+      "keywordSet": [
+        "soft swirled pumpkin cream cheese loaf with spiced glaze",
+        "master the ultimate autumn bake our guide to a soft swirled pumpkin cream cheese loaf with spiced glaze features expert techniques and flavor tips",
+        "cream cheese swirl",
+        "fall recipes",
+        "pumpkin bread",
+        "the anatomy of the perfect pumpkin loaf",
+        "trend analysis and culinary context",
+        "regional perspectives",
+        "baking",
+        "dessert"
+      ],
+      "discoveredAt": "2026-09-09T19:05:40.773Z"
+    },
+    "5176": {
+      "postId": 5176,
+      "title": "Crispy Skillet Apple Crisp with Salted Caramel Drizzle",
+      "url": "https://el-mordjene.info/crispy-skillet-apple-crisp-salted-caramel-drizzle/",
+      "slug": "crispy-skillet-apple-crisp-salted-caramel-drizzle",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-skillet-apple-crisp-with-salted-caramel-dri_20260909_190204.webp",
+      "keywordSet": [
+        "crispy skillet apple crisp with salted caramel drizzle",
+        "master the art of the crispy skillet apple crisp with salted caramel drizzle get our professional guide to perfect textures",
+        "and caramel",
+        "apple crisp",
+        "comfort food",
+        "fall baking",
+        "salted caramel",
+        "skillet dessert",
+        "crisping",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-09T19:05:33.743Z"
     }
   },
   "assets": {
@@ -16813,7 +16863,7 @@
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/cozy-brown-butter-apple-cider-donuts-with-cinnamon_20260909_123046.webp",
       "overlayStyle": "clean_photo",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-09-09T15:55:47.631Z",
       "scheduledFor": "2026-09-09T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/cozy-brown-butter-apple-cider-donuts-with-cinnamon_20260909_123046.webp",
@@ -16821,7 +16871,96 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cozy-brown-butter-apple-cider-donuts-hero.jpg",
-      "renderedAt": "2026-09-09T15:56:04.201Z"
+      "renderedAt": "2026-09-09T15:56:04.201Z",
+      "pinId": "419397784073302784",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073302784/",
+      "publishedAt": "2026-09-09T19:06:08.561Z"
+    },
+    "5176-hero": {
+      "id": "5176-hero",
+      "postId": 5176,
+      "postSlug": "crispy-skillet-apple-crisp-salted-caramel-drizzle",
+      "postUrl": "https://el-mordjene.info/crispy-skillet-apple-crisp-salted-caramel-drizzle/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Crispy Skillet Apple Crisp",
+      "overlaySubtitle": "Easy One-Pan Dessert",
+      "pinTitle": "Crispy Skillet Apple Crisp with Salted Caramel Drizzle",
+      "pinDescription": "Experience the ultimate comfort dessert with this crispy skillet apple crisp. Featuring tender, cinnamon-spiced apples topped with a buttery, golden-brown oat crumble, every bite is finished with a decadent, silky salted caramel drizzle. It is the perfect balance of sweet, salty, and crunchy textures that will becom...",
+      "primaryKeyword": "crispy skillet apple crisp with salted caramel drizzle",
+      "supportingKeywords": [
+        "crispy skillet apple crisp with salted caramel drizzle",
+        "master the art of the crispy skillet apple crisp with salted caramel drizzle get our professional guide to perfect textures",
+        "and caramel",
+        "apple crisp",
+        "comfort food"
+      ],
+      "searchTags": [
+        "crispy skillet apple crisp with salted caramel drizzle",
+        "master the art of the crispy skillet apple crisp with salted caramel drizzle get our professional guide to perfect textures",
+        "and caramel",
+        "apple crisp",
+        "comfort food",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-skillet-apple-crisp-with-salted-caramel-dri_20260909_190204.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-09T19:05:40.772Z",
+      "scheduledFor": "2026-09-09T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-skillet-apple-crisp-with-salted-caramel-dri_20260909_190204.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-skillet-apple-crisp-salted-caramel-drizzle-hero.jpg",
+      "renderedAt": "2026-09-09T19:06:01.534Z"
+    },
+    "5173-hero": {
+      "id": "5173-hero",
+      "postId": 5173,
+      "postSlug": "soft-swirled-pumpkin-cream-cheese-loaf-spiced-glaze",
+      "postUrl": "https://el-mordjene.info/soft-swirled-pumpkin-cream-cheese-loaf-spiced-glaze/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Swirled Pumpkin Cream Loaf",
+      "overlaySubtitle": "Ultimate Autumn Bake",
+      "pinTitle": "Soft Pumpkin Cream Cheese Loaf with Spiced Glaze",
+      "pinDescription": "Experience the ultimate autumn indulgence with this incredibly moist pumpkin loaf, featuring a luscious ribbon of sweetened cream cheese swirled throughout. Every bite is perfectly spiced, finished with a decadent, silky glaze that melts in your mouth. Whether you are hosting a fall brunch or craving a cozy afternoo...",
+      "primaryKeyword": "soft swirled pumpkin cream cheese loaf with spiced glaze",
+      "supportingKeywords": [
+        "soft swirled pumpkin cream cheese loaf with spiced glaze",
+        "master the ultimate autumn bake our guide to a soft swirled pumpkin cream cheese loaf with spiced glaze features expert techniques and flavor tips",
+        "cream cheese swirl",
+        "fall recipes",
+        "pumpkin bread"
+      ],
+      "searchTags": [
+        "soft swirled pumpkin cream cheese loaf with spiced glaze",
+        "master the ultimate autumn bake our guide to a soft swirled pumpkin cream cheese loaf with spiced glaze features expert techniques and flavor tips",
+        "cream cheese swirl",
+        "fall recipes",
+        "pumpkin bread",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/soft-swirled-pumpkin-cream-cheese-loaf-with-spiced_20260909_190009.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-09T19:05:44.552Z",
+      "scheduledFor": "2026-09-09T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/soft-swirled-pumpkin-cream-cheese-loaf-with-spiced_20260909_190009.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/soft-swirled-pumpkin-cream-cheese-loaf-spiced-glaze-hero.jpg",
+      "renderedAt": "2026-09-09T19:06:04.808Z"
     }
   },
   "queue": {
@@ -18692,6 +18831,24 @@
       "assetId": "5170-hero",
       "postId": 5170,
       "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-09T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073302784",
+      "publishedAt": "2026-09-09T19:06:08.561Z"
+    },
+    "5176-hero-queue": {
+      "id": "5176-hero-queue",
+      "assetId": "5176-hero",
+      "postId": 5176,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-09T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5173-hero-queue": {
+      "id": "5173-hero-queue",
+      "assetId": "5173-hero",
+      "postId": 5173,
+      "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-09-09T09:00:00.000Z",
       "status": "draft"
     }
