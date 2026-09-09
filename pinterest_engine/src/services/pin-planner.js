@@ -60,11 +60,8 @@ export function buildPinPlan(post, classification, config, options = {}) {
 }
 
 function buildHeroOverlay(post, primaryKeyword) {
-  if (post.language === "fr") {
-    return titleCase(`${primaryKeyword} a essayer`);
-  }
-
-  return titleCase(`${primaryKeyword} worth trying`);
+  const candidate = (primaryKeyword && primaryKeyword.length > 3) ? primaryKeyword : post.title.split(/[:|-]/)[0];
+  return titleCase(candidate.trim());
 }
 
 function buildHeroPinTitle(post, primaryKeyword) {
@@ -76,12 +73,12 @@ function buildHeroPinTitle(post, primaryKeyword) {
 }
 
 function buildHeroDescription(post, primaryKeyword, keywords) {
-  const extras = keywords.filter((value) => value !== primaryKeyword).slice(0, 3).join(", ");
+  const name = titleCase(primaryKeyword || post.title.split(/[:|-]/)[0].trim());
   if (post.language === "fr") {
-    return `${titleCase(primaryKeyword)} : decouvrez cette idee gourmande, ses etapes, ses astuces et pourquoi elle donne envie de cliquer. ${extras}`.trim();
+    return `${name} : découvrez cette délicieuse recette maison, facile et rapide avec des ingrédients simples et savoureux. Retrouvez toutes les étapes et astuces sur The Swavory Bites.`.trim();
   }
 
-  return `${titleCase(primaryKeyword)} with a click-worthy angle, useful details, and a more tempting way to explore the full post. ${extras}`.trim();
+  return `${name}: A delicious, easy-to-make dish packed with rich flavor and simple ingredients. Get the full step-by-step recipe, cooking times, and chef tips on The Swavory Bites.`.trim();
 }
 
 function buildListTitle(post, classification, primaryKeyword) {

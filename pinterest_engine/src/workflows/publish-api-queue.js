@@ -101,9 +101,25 @@ export async function publishApiDueQueue({ config, state }) {
       }
     }
 
-    // Resolve Board ID from environment variable or board key
-    const boardEnvKey = `PINTEREST_BOARD_${(asset.boardKey || "DESSERTS").toUpperCase()}`;
-    const boardId = process.env[boardEnvKey] || process.env.PINTEREST_BOARD_DESSERTS || "419397852738939911";
+    // Quality & Blank Image Guard
+    if (!resolvedImagePath || !fs.existsSync(resolvedImagePath)) {
+      console.warn(`⚠️ QUALITY GUARD: Pin asset ${asset.id} has no valid image file. Skipping publication.`);
+      continue;
+    }
+    const imgStat = fs.statSync(resolvedImagePath);
+    if (imgStat.size < 35000) {
+      console.warn(`⚠️ QUALITY GUARD: Image for ${asset.id} is too small (${imgStat.size} bytes, likely blank/corrupt). Skipping.`);
+      continue;
+    }
+
+    // Resolve Board ID: match exact key or stripped _EN/_FR suffix
+    const rawKey = (asset.boardKey || "QUICK").toUpperCase();
+    const cleanKey = rawKey.replace(/_EN$/, "").replace(/_FR$/, "_FR");
+    const boardId = process.env[`PINTEREST_BOARD_${rawKey}`] ||
+                    process.env[`PINTEREST_BOARD_${cleanKey}`] ||
+                    process.env.PINTEREST_BOARD_QUICK ||
+                    process.env.PINTEREST_BOARD_DESSERTS ||
+                    "419397852738939917";
 
     // Target link points to Bridge Page with slug parameter
     const slug = asset.postSlug || asset.postId;

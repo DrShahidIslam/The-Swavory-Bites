@@ -33,6 +33,12 @@ const DESSERT_KEYWORDS = [
   "dessert", "sweet", "ice cream", "chocolate", "pastry", "croissant", "candy", "treat"
 ];
 
+const SAVORY_KEYWORDS = [
+  "chicken", "beef", "roast", "pork", "soup", "stew", "pasta", "gnocchi", "skillet",
+  "dinner", "lunch", "casserole", "meat", "turkey", "salmon", "shrimp", "pot roast",
+  "crockpot", "slow cooker", "air fryer", "skewers", "sauce", "savory", "salad", "potatoes"
+];
+
 // EXCLUDED FROM PINTEREST: The Swavory Bites brand posts, legal news, recalls
 const EXCLUDED_PIN_KEYWORDS = [
   "the-swavory-bites", "The Swavory Bites", "cebon", "recall", "lawsuit", "ban", "banned", "regulation", "food safety", "nationwide recall"
@@ -40,11 +46,17 @@ const EXCLUDED_PIN_KEYWORDS = [
 
 export function classifyPost(post, boards = {}) {
   const tagsStr = (post.tags || []).join(" ").toLowerCase();
-  const catsStr = (post.categories || []).map((c) => `${c.name} ${c.slug}`).join(" ").toLowerCase();
+  const catsStr = (post.categories || []).map((c) => `${c.name || ""} ${c.slug || ""}`).join(" ").toLowerCase();
   const primaryHaystack = [post.title, post.excerpt, post.slug, tagsStr, catsStr].join(" ").toLowerCase();
-  const categorySlugs = new Set((post.categories || []).map((c) => c.slug.toLowerCase()));
+  const categorySlugs = new Set((post.categories || []).map((c) => (c.slug || "").toLowerCase()));
 
-  const isFrench = post.language === "fr" || primaryHaystack.includes("-fr") || catsStr.includes("fr");
+  // Strict French detection (prevent 'fresh', 'fruit', 'comfort' from triggering French)
+  const isFrench = post.language === "fr" || 
+    primaryHaystack.includes("-fr") || 
+    categorySlugs.has("recettes") || 
+    categorySlugs.has("pates-a-tartiner") ||
+    /\b(recettes|douceurs|francais)\b/i.test(catsStr);
+
   const isFoodNews = [...CATEGORY_SLUGS.foodNews].some((slug) => categorySlugs.has(slug));
   const istheswavorybitesCategory = [...CATEGORY_SLUGS.theswavorybites].some((slug) => categorySlugs.has(slug));
 
@@ -62,13 +74,15 @@ export function classifyPost(post, boards = {}) {
   }
 
   let contentType = "recipe";
-  let boardKey = "desserts_en";
+  let boardKey = "quick_en";
 
   const isDrink = DRINK_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
   const isBaking = BAKING_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
   const isFruit = FRUIT_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
   const isSpread = SPREAD_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
   const isQuick = QUICK_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
+  const isSavory = SAVORY_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
+  const isDessert = DESSERT_KEYWORDS.some((kw) => primaryHaystack.includes(kw));
   const isTrend = [...CATEGORY_SLUGS.trends].some((s) => categorySlugs.has(s)) || primaryHaystack.includes("viral") || primaryHaystack.includes("trend");
 
   if (isFrench) {
@@ -95,15 +109,18 @@ export function classifyPost(post, boards = {}) {
     } else if (isBaking) {
       contentType = "baking";
       boardKey = "baking_en";
-    } else if (isQuick && !isBaking) {
+    } else if (isSavory || isQuick) {
       contentType = "quick";
       boardKey = "quick_en";
+    } else if (isDessert) {
+      contentType = "recipe";
+      boardKey = "desserts_en";
     } else if (isTrend) {
       contentType = "trend";
       boardKey = "trends_en";
     } else {
-      contentType = "recipe";
-      boardKey = "desserts_en";
+      contentType = "quick";
+      boardKey = "quick_en";
     }
   }
 
