@@ -8694,6 +8694,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-09T22:15:42.179Z"
+    },
+    "5182": {
+      "postId": 5182,
+      "title": "One-Pan Maple Dijon Roasted Chicken Thighs and Sweet Potatoes",
+      "url": "https://el-mordjene.info/one-pan-maple-dijon-roasted-chicken-thighs-sweet-potatoes/",
+      "slug": "one-pan-maple-dijon-roasted-chicken-thighs-sweet-potatoes",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pan-maple-dijon-roasted-chicken-thighs-and-swe_20260910_122430.webp",
+      "keywordSet": [
+        "pan maple dijon roasted chicken thighs and sweet potatoes",
+        "master the art of one",
+        "pan maple dijon roasted chicken thighs and sweet potatoes a nutrient",
+        "sweet sheet pan dinner for busy nights",
+        "easy roasted chicken",
+        "fall dinner ideas",
+        "healthy chicken recipes",
+        "sheet pan dinner",
+        "one",
+        "dense"
+      ],
+      "discoveredAt": "2026-09-10T15:50:31.593Z"
     }
   },
   "assets": {
@@ -17038,6 +17063,49 @@
       "pinId": "419397784073306953",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073306953/",
       "publishedAt": "2026-09-10T08:39:12.115Z"
+    },
+    "5182-hero": {
+      "id": "5182-hero",
+      "postId": 5182,
+      "postSlug": "one-pan-maple-dijon-roasted-chicken-thighs-sweet-potatoes",
+      "postUrl": "https://el-mordjene.info/one-pan-maple-dijon-roasted-chicken-thighs-sweet-potatoes/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Maple Dijon Sheet Pan",
+      "overlaySubtitle": "30-Minute Easy Dinner",
+      "pinTitle": "One-Pan Maple Dijon Roasted Chicken & Sweet Potatoes",
+      "pinDescription": "Elevate your weeknight routine with this savory-sweet sheet pan masterpiece. Perfectly golden, crispy chicken thighs nestle alongside tender, caramelized sweet potatoes for a meal that hits every craving. The tangy Dijon and rich maple glaze create a mouth-watering harmony that the whole family will adore. Simple cl...",
+      "primaryKeyword": "pan maple dijon roasted chicken thighs and sweet potatoes",
+      "supportingKeywords": [
+        "pan maple dijon roasted chicken thighs and sweet potatoes",
+        "master the art of one",
+        "pan maple dijon roasted chicken thighs and sweet potatoes a nutrient",
+        "sweet sheet pan dinner for busy nights",
+        "easy roasted chicken"
+      ],
+      "searchTags": [
+        "pan maple dijon roasted chicken thighs and sweet potatoes",
+        "master the art of one",
+        "pan maple dijon roasted chicken thighs and sweet potatoes a nutrient",
+        "sweet sheet pan dinner for busy nights",
+        "easy roasted chicken",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pan-maple-dijon-roasted-chicken-thighs-and-swe_20260910_122430.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-10T15:50:36.406Z",
+      "scheduledFor": "2026-09-10T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pan-maple-dijon-roasted-chicken-thighs-and-swe_20260910_122430.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/one-pan-maple-dijon-roasted-chicken-thighs-sweet-potatoes-hero.jpg",
+      "renderedAt": "2026-09-10T15:50:54.840Z"
     }
   },
   "queue": {
@@ -18942,6 +19010,14 @@
       "status": "published_api",
       "pinId": "419397784073306953",
       "publishedAt": "2026-09-10T08:39:12.115Z"
+    },
+    "5182-hero-queue": {
+      "id": "5182-hero-queue",
+      "assetId": "5182-hero",
+      "postId": 5182,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-09-10T09:00:00.000Z",
+      "status": "draft"
     }
   }
 }
