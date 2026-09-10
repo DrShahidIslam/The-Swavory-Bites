@@ -16980,7 +16980,7 @@
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/soft-swirled-pumpkin-cream-cheese-loaf-with-spiced_20260909_190009.webp",
       "overlayStyle": "minimal_luxury",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-09-09T19:05:44.552Z",
       "scheduledFor": "2026-09-09T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/soft-swirled-pumpkin-cream-cheese-loaf-with-spiced_20260909_190009.webp",
@@ -16988,7 +16988,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/soft-swirled-pumpkin-cream-cheese-loaf-spiced-glaze-hero.jpg",
-      "renderedAt": "2026-09-09T19:06:04.808Z"
+      "renderedAt": "2026-09-09T19:06:04.808Z",
+      "pinId": "419397784073305702",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073305702/",
+      "publishedAt": "2026-09-10T03:07:16.967Z"
     },
     "5179-hero": {
       "id": "5179-hero",
@@ -18923,7 +18926,9 @@
       "postId": 5173,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-09-09T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073305702",
+      "publishedAt": "2026-09-10T03:07:16.967Z"
     },
     "5179-hero-queue": {
       "id": "5179-hero-queue",
