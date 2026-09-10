@@ -17097,7 +17097,7 @@
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pan-maple-dijon-roasted-chicken-thighs-and-swe_20260910_122430.webp",
       "overlayStyle": "clean_photo",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-09-10T15:50:36.406Z",
       "scheduledFor": "2026-09-10T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/one-pan-maple-dijon-roasted-chicken-thighs-and-swe_20260910_122430.webp",
@@ -17105,7 +17105,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/one-pan-maple-dijon-roasted-chicken-thighs-sweet-potatoes-hero.jpg",
-      "renderedAt": "2026-09-10T15:50:54.840Z"
+      "renderedAt": "2026-09-10T15:50:54.840Z",
+      "pinId": "419397784073309773",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073309773/",
+      "publishedAt": "2026-09-10T18:56:53.400Z"
     }
   },
   "queue": {
@@ -19017,7 +19020,9 @@
       "postId": 5182,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-09-10T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073309773",
+      "publishedAt": "2026-09-10T18:56:53.400Z"
     }
   }
 }
