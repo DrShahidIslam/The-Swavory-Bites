@@ -17026,7 +17026,7 @@
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-tuscan-white-bean-and-sausage-soup-a-comfor_20260909_220147.webp",
       "overlayStyle": "minimal_luxury",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-09-09T22:15:45.578Z",
       "scheduledFor": "2026-09-09T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-tuscan-white-bean-and-sausage-soup-a-comfor_20260909_220147.webp",
@@ -17034,7 +17034,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-tuscan-white-bean-and-sausage-soup-hero.jpg",
-      "renderedAt": "2026-09-09T22:16:03.817Z"
+      "renderedAt": "2026-09-09T22:16:03.817Z",
+      "pinId": "419397784073306953",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073306953/",
+      "publishedAt": "2026-09-10T08:39:12.115Z"
     }
   },
   "queue": {
@@ -18936,7 +18939,9 @@
       "postId": 5179,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-09-09T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073306953",
+      "publishedAt": "2026-09-10T08:39:12.115Z"
     }
   }
 }
