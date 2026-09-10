@@ -8719,6 +8719,31 @@
         "dense"
       ],
       "discoveredAt": "2026-09-10T15:50:31.593Z"
+    },
+    "5185": {
+      "postId": 5185,
+      "title": "Fudgy Pumpkin Spice Swirl Brownies: The Ultimate Autumn Treat",
+      "url": "https://el-mordjene.info/fudgy-pumpkin-spice-swirl-brownies/",
+      "slug": "fudgy-pumpkin-spice-swirl-brownies",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/fudgy-pumpkin-spice-swirl-brownies-the-ultimate-au_20260910_220013.webp",
+      "keywordSet": [
+        "fudgy pumpkin spice swirl brownies",
+        "the ultimate autumn treat",
+        "master the art of fudgy pumpkin spice swirl brownies with our expert guide discover secrets for the perfect texture",
+        "flavor balance",
+        "and pro",
+        "level tips",
+        "dessert recipes",
+        "fall baking",
+        "brownies",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-10T22:15:09.437Z"
     }
   },
   "assets": {
@@ -17109,6 +17134,52 @@
       "pinId": "419397784073309773",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073309773/",
       "publishedAt": "2026-09-10T18:56:53.400Z"
+    },
+    "5185-hero": {
+      "id": "5185-hero",
+      "postId": 5185,
+      "postSlug": "fudgy-pumpkin-spice-swirl-brownies",
+      "postUrl": "https://el-mordjene.info/fudgy-pumpkin-spice-swirl-brownies/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Fudgy Pumpkin Swirl Brownies",
+      "overlaySubtitle": "Ultimate Autumn Dessert",
+      "pinTitle": "Fudgy Pumpkin Spice Swirl Brownies: The Ultimate Autumn Treat",
+      "pinDescription": "Indulge in the perfect marriage of rich, decadent chocolate and warm pumpkin spice. These fudgy brownies feature a gorgeous marbled swirl that looks as impressive as it tastes. Each bite delivers a dense, melt-in-your-mouth texture with just the right amount of seasonal flair. Whether you are hosting a fall brunch o...",
+      "primaryKeyword": "fudgy pumpkin spice swirl brownies",
+      "supportingKeywords": [
+        "fudgy pumpkin spice swirl brownies",
+        "the ultimate autumn treat",
+        "master the art of fudgy pumpkin spice swirl brownies with our expert guide discover secrets for the perfect texture",
+        "flavor balance",
+        "and pro"
+      ],
+      "searchTags": [
+        "fudgy pumpkin spice swirl brownies",
+        "the ultimate autumn treat",
+        "master the art of fudgy pumpkin spice swirl brownies with our expert guide discover secrets for the perfect texture",
+        "flavor balance",
+        "and pro",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/fudgy-pumpkin-spice-swirl-brownies-the-ultimate-au_20260910_220013.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "published_api",
+      "createdAt": "2026-09-10T22:15:16.290Z",
+      "scheduledFor": "2026-09-10T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/fudgy-pumpkin-spice-swirl-brownies-the-ultimate-au_20260910_220013.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/fudgy-pumpkin-spice-swirl-brownies-hero.jpg",
+      "renderedAt": "2026-09-10T22:15:38.899Z",
+      "pinId": "419397784073311689",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073311689/",
+      "publishedAt": "2026-09-10T22:15:40.320Z"
     }
   },
   "queue": {
@@ -19023,6 +19094,16 @@
       "status": "published_api",
       "pinId": "419397784073309773",
       "publishedAt": "2026-09-10T18:56:53.400Z"
+    },
+    "5185-hero-queue": {
+      "id": "5185-hero-queue",
+      "assetId": "5185-hero",
+      "postId": 5185,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-09-10T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073311689",
+      "publishedAt": "2026-09-10T22:15:40.321Z"
     }
   }
 }
