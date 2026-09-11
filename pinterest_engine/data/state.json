@@ -8744,6 +8744,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-10T22:15:09.437Z"
+    },
+    "5188": {
+      "postId": 5188,
+      "title": "Slow Cooker Cheesy Crack Chicken Tater Tot Casserole Guide",
+      "url": "https://el-mordjene.info/slow-cooker-cheesy-crack-chicken-tater-tot-casserole/",
+      "slug": "slow-cooker-cheesy-crack-chicken-tater-tot-casserole",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-cheesy-crack-chicken-tater-tot-cassero_20260911_122313.webp",
+      "keywordSet": [
+        "slow cooker cheesy crack chicken tater tot casserole guide",
+        "master the ultimate slow cooker cheesy crack chicken tater tot casserole a perfect guide to comforting",
+        "and crispy weeknight family dinners",
+        "chicken casserole",
+        "comfort food",
+        "family dinner",
+        "slow cooker recipes",
+        "understanding the slow cooker cheesy crack chicken tater tot casserole",
+        "creamy",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-11T15:52:18.190Z"
     }
   },
   "assets": {
@@ -17180,6 +17205,52 @@
       "pinId": "419397784073311689",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073311689/",
       "publishedAt": "2026-09-10T22:15:40.320Z"
+    },
+    "5188-hero": {
+      "id": "5188-hero",
+      "postId": 5188,
+      "postSlug": "slow-cooker-cheesy-crack-chicken-tater-tot-casserole",
+      "postUrl": "https://el-mordjene.info/slow-cooker-cheesy-crack-chicken-tater-tot-casserole/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Cheesy Crack Chicken Casserole",
+      "overlaySubtitle": "Ultimate Comfort Food",
+      "pinTitle": "Slow Cooker Cheesy Crack Chicken Tater Tot Casserole Recipe",
+      "pinDescription": "Indulge in the ultimate comfort food with this creamy, cheesy crack chicken tater tot casserole. Featuring tender shredded chicken, melted cheddar, crispy bacon, and golden tater tots, this slow cooker masterpiece is a guaranteed family favorite. It is the perfect set-it-and-forget-it meal for busy weeknights when y...",
+      "primaryKeyword": "slow cooker cheesy crack chicken tater tot casserole guide",
+      "supportingKeywords": [
+        "slow cooker cheesy crack chicken tater tot casserole guide",
+        "master the ultimate slow cooker cheesy crack chicken tater tot casserole a perfect guide to comforting",
+        "and crispy weeknight family dinners",
+        "chicken casserole",
+        "comfort food"
+      ],
+      "searchTags": [
+        "slow cooker cheesy crack chicken tater tot casserole guide",
+        "master the ultimate slow cooker cheesy crack chicken tater tot casserole a perfect guide to comforting",
+        "and crispy weeknight family dinners",
+        "chicken casserole",
+        "comfort food",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-cheesy-crack-chicken-tater-tot-cassero_20260911_122313.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-11T15:54:00.576Z",
+      "scheduledFor": "2026-09-11T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-cheesy-crack-chicken-tater-tot-cassero_20260911_122313.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/slow-cooker-cheesy-crack-chicken-tater-tot-casserole-hero.jpg",
+      "renderedAt": "2026-09-11T15:54:20.007Z",
+      "pinId": "419397784073317067",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073317067/",
+      "publishedAt": "2026-09-11T15:54:21.731Z"
     }
   },
   "queue": {
@@ -19104,6 +19175,16 @@
       "status": "published_api",
       "pinId": "419397784073311689",
       "publishedAt": "2026-09-10T22:15:40.321Z"
+    },
+    "5188-hero-queue": {
+      "id": "5188-hero-queue",
+      "assetId": "5188-hero",
+      "postId": 5188,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-11T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073317067",
+      "publishedAt": "2026-09-11T15:54:21.731Z"
     }
   }
 }
