@@ -8769,6 +8769,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-11T15:52:18.190Z"
+    },
+    "5191": {
+      "postId": 5191,
+      "title": "Slow Cooker Buffalo Chicken Dip with Crispy Tortilla Chips",
+      "url": "https://el-mordjene.info/slow-cooker-buffalo-chicken-dip-with-crispy-tortilla-chips/",
+      "slug": "slow-cooker-buffalo-chicken-dip-with-crispy-tortilla-chips",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-buffalo-chicken-dip-with-crispy-tortil_20260911_220246.webp",
+      "keywordSet": [
+        "slow cooker buffalo chicken dip with crispy tortilla chips",
+        "master the art of the perfect slow cooker buffalo chicken dip with crispy tortilla chips expert tips for creamy",
+        "and addictive game",
+        "day appetizers",
+        "buffalo chicken dip",
+        "comfort food",
+        "game day appetizers",
+        "slow cooker recipes",
+        "tangy",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-11T22:15:27.886Z"
     }
   },
   "assets": {
@@ -17251,6 +17276,52 @@
       "pinId": "419397784073317067",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073317067/",
       "publishedAt": "2026-09-11T15:54:21.731Z"
+    },
+    "5191-hero": {
+      "id": "5191-hero",
+      "postId": 5191,
+      "postSlug": "slow-cooker-buffalo-chicken-dip-with-crispy-tortilla-chips",
+      "postUrl": "https://el-mordjene.info/slow-cooker-buffalo-chicken-dip-with-crispy-tortilla-chips/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Creamy Slow Cooker Buffalo Dip",
+      "overlaySubtitle": "Ultimate Party Appetizer",
+      "pinTitle": "Easy Slow Cooker Buffalo Chicken Dip (Best Game Day Recipe)",
+      "pinDescription": "Transform your party spread with this incredibly creamy and tangy Buffalo Chicken Dip. Slow-cooked to perfection, it features tender shredded chicken, bold hot sauce, and a blend of gooey melted cheeses. Served alongside golden, crispy tortilla chips, this addictive appetizer is guaranteed to be the star of your nex...",
+      "primaryKeyword": "slow cooker buffalo chicken dip with crispy tortilla chips",
+      "supportingKeywords": [
+        "slow cooker buffalo chicken dip with crispy tortilla chips",
+        "master the art of the perfect slow cooker buffalo chicken dip with crispy tortilla chips expert tips for creamy",
+        "and addictive game",
+        "day appetizers",
+        "buffalo chicken dip"
+      ],
+      "searchTags": [
+        "slow cooker buffalo chicken dip with crispy tortilla chips",
+        "master the art of the perfect slow cooker buffalo chicken dip with crispy tortilla chips expert tips for creamy",
+        "and addictive game",
+        "day appetizers",
+        "buffalo chicken dip",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-buffalo-chicken-dip-with-crispy-tortil_20260911_220246.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "published_api",
+      "createdAt": "2026-09-11T22:15:30.286Z",
+      "scheduledFor": "2026-09-11T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-buffalo-chicken-dip-with-crispy-tortil_20260911_220246.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/slow-cooker-buffalo-chicken-dip-with-crispy-tortilla-chips-hero.jpg",
+      "renderedAt": "2026-09-11T22:15:46.570Z",
+      "pinId": "419397784073319377",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073319377/",
+      "publishedAt": "2026-09-11T22:15:48.223Z"
     }
   },
   "queue": {
@@ -19185,6 +19256,16 @@
       "status": "published_api",
       "pinId": "419397784073317067",
       "publishedAt": "2026-09-11T15:54:21.731Z"
+    },
+    "5191-hero-queue": {
+      "id": "5191-hero-queue",
+      "assetId": "5191-hero",
+      "postId": 5191,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-11T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073319377",
+      "publishedAt": "2026-09-11T22:15:48.223Z"
     }
   }
 }
