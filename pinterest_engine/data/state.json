@@ -8794,6 +8794,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-11T22:15:27.886Z"
+    },
+    "5195": {
+      "postId": 5195,
+      "title": "Cheesy Hot Roast Beef and Cheddar Hawaiian Roll Sliders",
+      "url": "https://el-mordjene.info/cheesy-hot-roast-beef-and-cheddar-hawaiian-roll-sliders/",
+      "slug": "cheesy-hot-roast-beef-and-cheddar-hawaiian-roll-sliders",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/cheesy-hot-roast-beef-and-cheddar-hawaiian-roll-sl_20260912_114453.webp",
+      "keywordSet": [
+        "cheesy hot roast beef and cheddar hawaiian roll sliders",
+        "master the art of cheesy hot roast beef and cheddar hawaiian roll sliders with this expert guide perfect textures",
+        "flavor tips",
+        "and foolproof methods",
+        "comfort food",
+        "easy recipes",
+        "party food",
+        "roast beef",
+        "sliders",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-12T15:01:29.830Z"
     }
   },
   "assets": {
@@ -17322,6 +17347,52 @@
       "pinId": "419397784073319377",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073319377/",
       "publishedAt": "2026-09-11T22:15:48.223Z"
+    },
+    "5195-hero": {
+      "id": "5195-hero",
+      "postId": 5195,
+      "postSlug": "cheesy-hot-roast-beef-and-cheddar-hawaiian-roll-sliders",
+      "postUrl": "https://el-mordjene.info/cheesy-hot-roast-beef-and-cheddar-hawaiian-roll-sliders/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Cheesy Roast Beef Sliders",
+      "overlaySubtitle": "Ready in 20 Minutes",
+      "pinTitle": "Cheesy Hot Roast Beef and Cheddar Hawaiian Roll Sliders",
+      "pinDescription": "Sink your teeth into the ultimate comfort food. These roast beef and cheddar sliders feature pillowy Hawaiian rolls toasted to perfection with a savory, buttery glaze. The combination of melted sharp cheddar and tender, savory roast beef creates an irresistible flavor profile that is perfect for game days, parties,...",
+      "primaryKeyword": "cheesy hot roast beef and cheddar hawaiian roll sliders",
+      "supportingKeywords": [
+        "cheesy hot roast beef and cheddar hawaiian roll sliders",
+        "master the art of cheesy hot roast beef and cheddar hawaiian roll sliders with this expert guide perfect textures",
+        "flavor tips",
+        "and foolproof methods",
+        "comfort food"
+      ],
+      "searchTags": [
+        "cheesy hot roast beef and cheddar hawaiian roll sliders",
+        "master the art of cheesy hot roast beef and cheddar hawaiian roll sliders with this expert guide perfect textures",
+        "flavor tips",
+        "and foolproof methods",
+        "comfort food",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/cheesy-hot-roast-beef-and-cheddar-hawaiian-roll-sl_20260912_114453.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-12T15:01:32.228Z",
+      "scheduledFor": "2026-09-12T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/cheesy-hot-roast-beef-and-cheddar-hawaiian-roll-sl_20260912_114453.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cheesy-hot-roast-beef-and-cheddar-hawaiian-roll-sliders-hero.jpg",
+      "renderedAt": "2026-09-12T15:01:51.974Z",
+      "pinId": "419397784073325161",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073325161/",
+      "publishedAt": "2026-09-12T15:01:53.178Z"
     }
   },
   "queue": {
@@ -19266,6 +19337,16 @@
       "status": "published_api",
       "pinId": "419397784073319377",
       "publishedAt": "2026-09-11T22:15:48.223Z"
+    },
+    "5195-hero-queue": {
+      "id": "5195-hero-queue",
+      "assetId": "5195-hero",
+      "postId": 5195,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-09-12T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073325161",
+      "publishedAt": "2026-09-12T15:01:53.178Z"
     }
   }
 }
