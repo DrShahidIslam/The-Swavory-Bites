@@ -8869,6 +8869,31 @@
         "wings"
       ],
       "discoveredAt": "2026-09-13T15:37:11.335Z"
+    },
+    "5204": {
+      "postId": 5204,
+      "title": "Sheet Pan Loaded Cheesy Taco Nachos with Fresh Guacamole",
+      "url": "https://el-mordjene.info/sheet-pan-loaded-cheesy-taco-nachos-fresh-guacamole/",
+      "slug": "sheet-pan-loaded-cheesy-taco-nachos-fresh-guacamole",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/sheet-pan-loaded-cheesy-taco-nachos-with-fresh-gua_20260913_215042.webp",
+      "keywordSet": [
+        "sheet pan loaded cheesy taco nachos with fresh guacamole",
+        "master the art of the perfect game",
+        "day snack our expert guide to sheet pan loaded cheesy taco nachos with fresh guacamole ensures crispy chips every time",
+        "easy appetizers",
+        "game day food",
+        "mexican cuisine",
+        "sheet pan recipes",
+        "the evolution of the sheet pan nacho phenomenon",
+        "nachos",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-13T22:06:52.291Z"
     }
   },
   "assets": {
@@ -17535,6 +17560,52 @@
       "pinId": "419397784073333189",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073333189/",
       "publishedAt": "2026-09-13T15:37:35.245Z"
+    },
+    "5204-hero": {
+      "id": "5204-hero",
+      "postId": 5204,
+      "postSlug": "sheet-pan-loaded-cheesy-taco-nachos-fresh-guacamole",
+      "postUrl": "https://el-mordjene.info/sheet-pan-loaded-cheesy-taco-nachos-fresh-guacamole/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Sheet Pan Taco Nachos",
+      "overlaySubtitle": "Ultimate Game-Day Snack",
+      "pinTitle": "Sheet Pan Loaded Cheesy Taco Nachos with Fresh Guacamole",
+      "pinDescription": "Elevate your snack game with these irresistible, crowd-pleasing loaded taco nachos. Piled high with seasoned ground meat, melted gooey cheese, and mountains of vibrant, creamy fresh guacamole, every bite delivers the perfect crunch. This simple sheet pan method ensures perfectly crisp chips without the soggy mess, m...",
+      "primaryKeyword": "sheet pan loaded cheesy taco nachos with fresh guacamole",
+      "supportingKeywords": [
+        "sheet pan loaded cheesy taco nachos with fresh guacamole",
+        "master the art of the perfect game",
+        "day snack our expert guide to sheet pan loaded cheesy taco nachos with fresh guacamole ensures crispy chips every time",
+        "easy appetizers",
+        "game day food"
+      ],
+      "searchTags": [
+        "sheet pan loaded cheesy taco nachos with fresh guacamole",
+        "master the art of the perfect game",
+        "day snack our expert guide to sheet pan loaded cheesy taco nachos with fresh guacamole ensures crispy chips every time",
+        "easy appetizers",
+        "game day food",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/sheet-pan-loaded-cheesy-taco-nachos-with-fresh-gua_20260913_215042.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-13T22:06:56.366Z",
+      "scheduledFor": "2026-09-13T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/sheet-pan-loaded-cheesy-taco-nachos-with-fresh-gua_20260913_215042.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/sheet-pan-loaded-cheesy-taco-nachos-fresh-guacamole-hero.jpg",
+      "renderedAt": "2026-09-13T22:07:14.476Z",
+      "pinId": "419397784073336210",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073336210/",
+      "publishedAt": "2026-09-13T22:07:15.992Z"
     }
   },
   "queue": {
@@ -19509,6 +19580,16 @@
       "status": "published_api",
       "pinId": "419397784073333189",
       "publishedAt": "2026-09-13T15:37:35.245Z"
+    },
+    "5204-hero-queue": {
+      "id": "5204-hero-queue",
+      "assetId": "5204-hero",
+      "postId": 5204,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-09-13T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073336210",
+      "publishedAt": "2026-09-13T22:07:15.992Z"
     }
   }
 }
