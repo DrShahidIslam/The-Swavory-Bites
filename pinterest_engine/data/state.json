@@ -8844,6 +8844,31 @@
         "appetizer"
       ],
       "discoveredAt": "2026-09-13T03:11:13.085Z"
+    },
+    "5201": {
+      "postId": 5201,
+      "title": "Crispy Air Fryer Garlic Parmesan Wings with Ranch Dip",
+      "url": "https://el-mordjene.info/crispy-air-fryer-garlic-parmesan-wings/",
+      "slug": "crispy-air-fryer-garlic-parmesan-wings",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-air-fryer-garlic-parmesan-wings-with-ranch_20260913_125234.webp",
+      "keywordSet": [
+        "crispy air fryer garlic parmesan wings with ranch dip",
+        "master the art of crispy air fryer garlic parmesan wings with this foolproof guide get restaurant",
+        "quality texture and flavor at home every time",
+        "air fryer",
+        "easy dinner",
+        "garlic parmesan",
+        "the ultimate guide to crispy air fryer garlic parmesan wings",
+        "understanding the culinary mechanics",
+        "appetizers",
+        "wings"
+      ],
+      "discoveredAt": "2026-09-13T15:37:11.335Z"
     }
   },
   "assets": {
@@ -17464,6 +17489,52 @@
       "pinId": "419397784073329361",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073329361/",
       "publishedAt": "2026-09-13T03:11:32.042Z"
+    },
+    "5201-hero": {
+      "id": "5201-hero",
+      "postId": 5201,
+      "postSlug": "crispy-air-fryer-garlic-parmesan-wings",
+      "postUrl": "https://el-mordjene.info/crispy-air-fryer-garlic-parmesan-wings/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Crispy Garlic Parmesan Wings",
+      "overlaySubtitle": "Air Fryer Perfection",
+      "pinTitle": "Crispy Air Fryer Garlic Parmesan Wings (Restaurant Style)",
+      "pinDescription": "Craving the ultimate game-day snack? These air fryer garlic parmesan wings deliver an irresistible crunch without the deep-fryer mess. Tossed in a buttery, garlicky parmesan glaze and served with cool, creamy ranch, they are the perfect balance of savory and zesty. Whether you're hosting a party or need a quick week...",
+      "primaryKeyword": "crispy air fryer garlic parmesan wings with ranch dip",
+      "supportingKeywords": [
+        "crispy air fryer garlic parmesan wings with ranch dip",
+        "master the art of crispy air fryer garlic parmesan wings with this foolproof guide get restaurant",
+        "quality texture and flavor at home every time",
+        "air fryer",
+        "easy dinner"
+      ],
+      "searchTags": [
+        "crispy air fryer garlic parmesan wings with ranch dip",
+        "master the art of crispy air fryer garlic parmesan wings with this foolproof guide get restaurant",
+        "quality texture and flavor at home every time",
+        "air fryer",
+        "easy dinner",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-air-fryer-garlic-parmesan-wings-with-ranch_20260913_125234.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-13T15:37:13.149Z",
+      "scheduledFor": "2026-09-13T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-air-fryer-garlic-parmesan-wings-with-ranch_20260913_125234.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-air-fryer-garlic-parmesan-wings-hero.jpg",
+      "renderedAt": "2026-09-13T15:37:33.543Z",
+      "pinId": "419397784073333189",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073333189/",
+      "publishedAt": "2026-09-13T15:37:35.245Z"
     }
   },
   "queue": {
@@ -19428,6 +19499,16 @@
       "status": "published_api",
       "pinId": "419397784073329361",
       "publishedAt": "2026-09-13T03:11:32.043Z"
+    },
+    "5201-hero-queue": {
+      "id": "5201-hero-queue",
+      "assetId": "5201-hero",
+      "postId": 5201,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-09-13T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073333189",
+      "publishedAt": "2026-09-13T15:37:35.245Z"
     }
   }
 }
