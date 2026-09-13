@@ -8819,6 +8819,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-12T15:01:29.830Z"
+    },
+    "5198": {
+      "postId": 5198,
+      "title": "Baked Jalapeño Popper Dip with Bacon Breadcrumb Crust",
+      "url": "https://el-mordjene.info/baked-jalapeno-popper-dip-with-bacon-breadcrumb-crust/",
+      "slug": "baked-jalapeno-popper-dip-with-bacon-breadcrumb-crust",
+      "language": "en",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "shouldPin": true,
+      "contentType": "drink",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/baked-jalape-o-popper-dip-with-bacon-breadcrumb-cr_20260912_214445.webp",
+      "keywordSet": [
+        "baked jalapen o popper dip with bacon breadcrumb crust",
+        "master the ultimate baked jalapen o popper dip with bacon breadcrumb crust a creamy",
+        "and crunchy appetizer guide for home chefs and entertainers",
+        "comfort food",
+        "party food",
+        "mastering the baked jalapen o popper dip with bacon breadcrumb crust",
+        "culinary mechanics",
+        "the foundation of flavor",
+        "spicy",
+        "appetizer"
+      ],
+      "discoveredAt": "2026-09-13T03:11:13.085Z"
     }
   },
   "assets": {
@@ -17393,6 +17418,52 @@
       "pinId": "419397784073325161",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073325161/",
       "publishedAt": "2026-09-12T15:01:53.178Z"
+    },
+    "5198-hero": {
+      "id": "5198-hero",
+      "postId": 5198,
+      "postSlug": "baked-jalapeno-popper-dip-with-bacon-breadcrumb-crust",
+      "postUrl": "https://el-mordjene.info/baked-jalapeno-popper-dip-with-bacon-breadcrumb-crust/",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "variant": "hero",
+      "contentType": "drink",
+      "language": "en",
+      "overlayTitle": "Crispy Bacon Jalapeño Dip",
+      "overlaySubtitle": "Ultimate Party Appetizer",
+      "pinTitle": "Baked Jalapeño Popper Dip with Bacon Breadcrumb Crust",
+      "pinDescription": "Elevate your next gathering with this irresistible Baked Jalapeño Popper Dip. It features a velvety, spicy cream cheese base topped with a golden, buttery bacon breadcrumb crust that provides the perfect crunch. It is the ultimate crowd-pleasing appetizer that pairs beautifully with craft cocktails or a crisp glass...",
+      "primaryKeyword": "baked jalapen o popper dip with bacon breadcrumb crust",
+      "supportingKeywords": [
+        "baked jalapen o popper dip with bacon breadcrumb crust",
+        "master the ultimate baked jalapen o popper dip with bacon breadcrumb crust a creamy",
+        "and crunchy appetizer guide for home chefs and entertainers",
+        "comfort food",
+        "party food"
+      ],
+      "searchTags": [
+        "baked jalapen o popper dip with bacon breadcrumb crust",
+        "master the ultimate baked jalapen o popper dip with bacon breadcrumb crust a creamy",
+        "and crunchy appetizer guide for home chefs and entertainers",
+        "comfort food",
+        "party food",
+        "drink",
+        "drink recipes — cocktails & mocktails"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/baked-jalape-o-popper-dip-with-bacon-breadcrumb-cr_20260912_214445.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "published_api",
+      "createdAt": "2026-09-13T03:11:14.343Z",
+      "scheduledFor": "2026-09-12T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/baked-jalape-o-popper-dip-with-bacon-breadcrumb-cr_20260912_214445.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/baked-jalapeno-popper-dip-with-bacon-breadcrumb-crust-hero.jpg",
+      "renderedAt": "2026-09-13T03:11:30.277Z",
+      "pinId": "419397784073329361",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073329361/",
+      "publishedAt": "2026-09-13T03:11:32.042Z"
     }
   },
   "queue": {
@@ -19347,6 +19418,16 @@
       "status": "published_api",
       "pinId": "419397784073325161",
       "publishedAt": "2026-09-12T15:01:53.178Z"
+    },
+    "5198-hero-queue": {
+      "id": "5198-hero-queue",
+      "assetId": "5198-hero",
+      "postId": 5198,
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-09-12T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073329361",
+      "publishedAt": "2026-09-13T03:11:32.043Z"
     }
   }
 }
