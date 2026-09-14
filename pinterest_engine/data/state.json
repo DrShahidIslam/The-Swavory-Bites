@@ -8919,6 +8919,31 @@
         "appetizers"
       ],
       "discoveredAt": "2026-09-14T17:42:24.506Z"
+    },
+    "5210": {
+      "postId": 5210,
+      "title": "Sweet and Spicy Slow Cooker BBQ Meatballs: The Ultimate Guide",
+      "url": "https://el-mordjene.info/sweet-and-spicy-slow-cooker-bbq-meatballs/",
+      "slug": "sweet-and-spicy-slow-cooker-bbq-meatballs",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/sweet-and-spicy-slow-cooker-bbq-meatballs-the-ulti_20260914_224742.webp",
+      "keywordSet": [
+        "sweet and spicy slow cooker bbq meatballs",
+        "the ultimate guide",
+        "master the art of sweet and spicy slow cooker bbq meatballs learn expert tips for perfect texture",
+        "sauce balance",
+        "and effortless crowd",
+        "pleasing meals",
+        "easy recipes",
+        "slow cooker",
+        "appetizers",
+        "bbq"
+      ],
+      "discoveredAt": "2026-09-14T22:56:40.581Z"
     }
   },
   "assets": {
@@ -17677,6 +17702,52 @@
       "pinId": "419397784073344977",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073344977/",
       "publishedAt": "2026-09-14T17:43:16.316Z"
+    },
+    "5210-hero": {
+      "id": "5210-hero",
+      "postId": 5210,
+      "postSlug": "sweet-and-spicy-slow-cooker-bbq-meatballs",
+      "postUrl": "https://el-mordjene.info/sweet-and-spicy-slow-cooker-bbq-meatballs/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Sticky Sweet BBQ Meatballs",
+      "overlaySubtitle": "Effortless Slow Cooker Meal",
+      "pinTitle": "Sweet and Spicy Slow Cooker BBQ Meatballs",
+      "pinDescription": "Transform your dinner routine with these irresistibly tender slow cooker BBQ meatballs. Perfectly balanced with a sticky, sweet, and spicy glaze, they melt in your mouth with every bite. This set-it-and-forget-it recipe is the ultimate crowd-pleaser for busy weeknights or game day gatherings. You will love how simpl...",
+      "primaryKeyword": "sweet and spicy slow cooker bbq meatballs",
+      "supportingKeywords": [
+        "sweet and spicy slow cooker bbq meatballs",
+        "the ultimate guide",
+        "master the art of sweet and spicy slow cooker bbq meatballs learn expert tips for perfect texture",
+        "sauce balance",
+        "and effortless crowd"
+      ],
+      "searchTags": [
+        "sweet and spicy slow cooker bbq meatballs",
+        "the ultimate guide",
+        "master the art of sweet and spicy slow cooker bbq meatballs learn expert tips for perfect texture",
+        "sauce balance",
+        "and effortless crowd",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/sweet-and-spicy-slow-cooker-bbq-meatballs-the-ulti_20260914_224742.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "published_api",
+      "createdAt": "2026-09-14T22:56:42.373Z",
+      "scheduledFor": "2026-09-14T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/sweet-and-spicy-slow-cooker-bbq-meatballs-the-ulti_20260914_224742.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/sweet-and-spicy-slow-cooker-bbq-meatballs-hero.jpg",
+      "renderedAt": "2026-09-14T22:56:58.201Z",
+      "pinId": "419397784073346901",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073346901/",
+      "publishedAt": "2026-09-14T22:56:59.802Z"
     }
   },
   "queue": {
@@ -19671,6 +19742,16 @@
       "status": "published_api",
       "pinId": "419397784073344977",
       "publishedAt": "2026-09-14T17:43:16.316Z"
+    },
+    "5210-hero-queue": {
+      "id": "5210-hero-queue",
+      "assetId": "5210-hero",
+      "postId": 5210,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-09-14T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073346901",
+      "publishedAt": "2026-09-14T22:56:59.802Z"
     }
   }
 }
