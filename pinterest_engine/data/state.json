@@ -8894,6 +8894,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-13T22:06:52.291Z"
+    },
+    "5207": {
+      "postId": 5207,
+      "title": "Cheesy Garlic Herb Pull-Apart Sourdough Bread Guide",
+      "url": "https://el-mordjene.info/cheesy-garlic-herb-pull-apart-sourdough-bread/",
+      "slug": "cheesy-garlic-herb-pull-apart-sourdough-bread",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/cheesy-garlic-herb-pull-apart-sourdough-bread-guid_20260914_142741.webp",
+      "keywordSet": [
+        "cheesy garlic herb pull",
+        "apart sourdough bread guide",
+        "master the art of cheesy garlic herb pull",
+        "apart sourdough bread a crispy",
+        "and gooey delight perfect for gatherings includes expert tips and steps",
+        "bread recipes",
+        "garlic bread",
+        "mastering the cheesy garlic herb pull",
+        "tangy",
+        "appetizers"
+      ],
+      "discoveredAt": "2026-09-14T17:42:24.506Z"
     }
   },
   "assets": {
@@ -17606,6 +17631,52 @@
       "pinId": "419397784073336210",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073336210/",
       "publishedAt": "2026-09-13T22:07:15.992Z"
+    },
+    "5207-hero": {
+      "id": "5207-hero",
+      "postId": 5207,
+      "postSlug": "cheesy-garlic-herb-pull-apart-sourdough-bread",
+      "postUrl": "https://el-mordjene.info/cheesy-garlic-herb-pull-apart-sourdough-bread/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Cheesy Garlic Sourdough Pull-Apart",
+      "overlaySubtitle": "Easy Crowd-Pleaser Recipe",
+      "pinTitle": "Cheesy Garlic Herb Pull-Apart Sourdough Bread Guide",
+      "pinDescription": "Transform your artisan loaf into the ultimate pull-apart masterpiece. This sourdough is infused with fragrant garlic butter, fresh herbs, and pockets of molten, gooey cheese. Every bite offers that signature tangy sourdough crunch paired with a rich, savory center that is impossible to resist. Perfect for summer gat...",
+      "primaryKeyword": "cheesy garlic herb pull",
+      "supportingKeywords": [
+        "cheesy garlic herb pull",
+        "apart sourdough bread guide",
+        "master the art of cheesy garlic herb pull",
+        "apart sourdough bread a crispy",
+        "and gooey delight perfect for gatherings includes expert tips and steps"
+      ],
+      "searchTags": [
+        "cheesy garlic herb pull",
+        "apart sourdough bread guide",
+        "master the art of cheesy garlic herb pull",
+        "apart sourdough bread a crispy",
+        "and gooey delight perfect for gatherings includes expert tips and steps",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/cheesy-garlic-herb-pull-apart-sourdough-bread-guid_20260914_142741.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-14T17:42:58.703Z",
+      "scheduledFor": "2026-09-14T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/cheesy-garlic-herb-pull-apart-sourdough-bread-guid_20260914_142741.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cheesy-garlic-herb-pull-apart-sourdough-bread-hero.jpg",
+      "renderedAt": "2026-09-14T17:43:14.671Z",
+      "pinId": "419397784073344977",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073344977/",
+      "publishedAt": "2026-09-14T17:43:16.316Z"
     }
   },
   "queue": {
@@ -19590,6 +19661,16 @@
       "status": "published_api",
       "pinId": "419397784073336210",
       "publishedAt": "2026-09-13T22:07:15.992Z"
+    },
+    "5207-hero-queue": {
+      "id": "5207-hero-queue",
+      "assetId": "5207-hero",
+      "postId": 5207,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-14T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073344977",
+      "publishedAt": "2026-09-14T17:43:16.316Z"
     }
   }
 }
