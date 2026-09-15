@@ -8968,6 +8968,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-15T16:15:48.968Z"
+    },
+    "5216": {
+      "postId": 5216,
+      "title": "Crescent Roll Mummy Jalapeño Poppers with Cream Cheese",
+      "url": "https://el-mordjene.info/crescent-roll-mummy-jalapeno-poppers-with-cream-cheese/",
+      "slug": "crescent-roll-mummy-jalapeno-poppers-with-cream-cheese",
+      "language": "en",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crescent-roll-mummy-jalape-o-poppers-with-cream-ch_20260915_222845.webp",
+      "keywordSet": [
+        "crescent roll mummy jalapen o poppers with cream cheese",
+        "master the viral crescent roll mummy jalapen o poppers with cream cheese our expert guide covers prep",
+        "and troubleshooting for the perfect bite",
+        "halloween recipes",
+        "jalapen o poppers",
+        "party food",
+        "the rise of thematic culinary trends",
+        "regional context and global influence",
+        "techniques",
+        "appetizers"
+      ],
+      "discoveredAt": "2026-09-15T22:42:42.604Z"
     }
   },
   "assets": {
@@ -17818,6 +17843,52 @@
       "pinId": "419397784073352669",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073352669/",
       "publishedAt": "2026-09-15T16:16:19.803Z"
+    },
+    "5216-hero": {
+      "id": "5216-hero",
+      "postId": 5216,
+      "postSlug": "crescent-roll-mummy-jalapeno-poppers-with-cream-cheese",
+      "postUrl": "https://el-mordjene.info/crescent-roll-mummy-jalapeno-poppers-with-cream-cheese/",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "en",
+      "overlayTitle": "Spooky Mummy Jalapeño Poppers",
+      "overlaySubtitle": "Easy Halloween Appetizer",
+      "pinTitle": "Crescent Roll Mummy Jalapeño Poppers: The Ultimate Halloween Appetizer",
+      "pinDescription": "Get ready for the spookiest snack of the season! These Mummy Jalapeño Poppers feature a creamy, zesty cheese filling wrapped in buttery, golden crescent roll dough for the perfect crunch. They are incredibly easy to assemble and guaranteed to be the star of your Halloween party spread. Impress your guests with these...",
+      "primaryKeyword": "crescent roll mummy jalapen o poppers with cream cheese",
+      "supportingKeywords": [
+        "crescent roll mummy jalapen o poppers with cream cheese",
+        "master the viral crescent roll mummy jalapen o poppers with cream cheese our expert guide covers prep",
+        "and troubleshooting for the perfect bite",
+        "halloween recipes",
+        "jalapen o poppers"
+      ],
+      "searchTags": [
+        "crescent roll mummy jalapen o poppers with cream cheese",
+        "master the viral crescent roll mummy jalapen o poppers with cream cheese our expert guide covers prep",
+        "and troubleshooting for the perfect bite",
+        "halloween recipes",
+        "jalapen o poppers",
+        "trend",
+        "viral food trends & sweet ideas"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crescent-roll-mummy-jalape-o-poppers-with-cream-ch_20260915_222845.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "published_api",
+      "createdAt": "2026-09-15T22:42:46.524Z",
+      "scheduledFor": "2026-09-15T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/crescent-roll-mummy-jalape-o-poppers-with-cream-ch_20260915_222845.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crescent-roll-mummy-jalapeno-poppers-with-cream-cheese-hero.jpg",
+      "renderedAt": "2026-09-15T22:43:01.978Z",
+      "pinId": "419397784073355339",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073355339/",
+      "publishedAt": "2026-09-15T22:43:03.665Z"
     }
   },
   "queue": {
@@ -19832,6 +19903,16 @@
       "status": "published_api",
       "pinId": "419397784073352669",
       "publishedAt": "2026-09-15T16:16:19.803Z"
+    },
+    "5216-hero-queue": {
+      "id": "5216-hero-queue",
+      "assetId": "5216-hero",
+      "postId": 5216,
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "scheduledFor": "2026-09-15T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073355339",
+      "publishedAt": "2026-09-15T22:43:03.665Z"
     }
   }
 }
