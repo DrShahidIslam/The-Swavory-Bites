@@ -8944,6 +8944,30 @@
         "bbq"
       ],
       "discoveredAt": "2026-09-14T22:56:40.581Z"
+    },
+    "5213": {
+      "postId": 5213,
+      "title": "Spooky Ghost Meringue Cupcakes with Rich Chocolate Base",
+      "url": "https://el-mordjene.info/spooky-ghost-meringue-cupcakes-rich-chocolate-base/",
+      "slug": "spooky-ghost-meringue-cupcakes-rich-chocolate-base",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/spooky-ghost-meringue-cupcakes-with-rich-chocolate_20260915_125538.webp",
+      "keywordSet": [
+        "spooky ghost meringue cupcakes with rich chocolate base",
+        "master the art of spooky ghost meringue cupcakes with a rich chocolate base expert tips for stable meringue",
+        "decadent cocoa batter",
+        "and festive flair",
+        "chocolate cupcakes",
+        "halloween baking",
+        "meringue ghost cupcakes",
+        "seasonal desserts",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-15T16:15:48.968Z"
     }
   },
   "assets": {
@@ -17748,6 +17772,52 @@
       "pinId": "419397784073346901",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073346901/",
       "publishedAt": "2026-09-14T22:56:59.802Z"
+    },
+    "5213-hero": {
+      "id": "5213-hero",
+      "postId": 5213,
+      "postSlug": "spooky-ghost-meringue-cupcakes-rich-chocolate-base",
+      "postUrl": "https://el-mordjene.info/spooky-ghost-meringue-cupcakes-rich-chocolate-base/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Spooky Ghost Meringue Cupcakes",
+      "overlaySubtitle": "Fun Halloween Treat",
+      "pinTitle": "Ghost Meringue Cupcakes: Easy Halloween Chocolate Baking",
+      "pinDescription": "Indulge in deep, rich chocolate cupcakes topped with delicate, marshmallowy meringue ghosts! These festive Halloween treats combine fluffy cocoa cake with sweet toasted meringue toppers that melt in your mouth. Perfect for spooktacular party platters or fun weeknight baking. Get the full recipe with ingredients, coo...",
+      "primaryKeyword": "spooky ghost meringue cupcakes with rich chocolate base",
+      "supportingKeywords": [
+        "spooky ghost meringue cupcakes with rich chocolate base",
+        "master the art of spooky ghost meringue cupcakes with a rich chocolate base expert tips for stable meringue",
+        "decadent cocoa batter",
+        "and festive flair",
+        "chocolate cupcakes"
+      ],
+      "searchTags": [
+        "spooky ghost meringue cupcakes with rich chocolate base",
+        "master the art of spooky ghost meringue cupcakes with a rich chocolate base expert tips for stable meringue",
+        "decadent cocoa batter",
+        "and festive flair",
+        "chocolate cupcakes",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/spooky-ghost-meringue-cupcakes-with-rich-chocolate_20260915_125538.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-15T16:15:59.653Z",
+      "scheduledFor": "2026-09-15T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/spooky-ghost-meringue-cupcakes-with-rich-chocolate_20260915_125538.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/spooky-ghost-meringue-cupcakes-rich-chocolate-base-hero.jpg",
+      "renderedAt": "2026-09-15T16:16:18.053Z",
+      "pinId": "419397784073352669",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073352669/",
+      "publishedAt": "2026-09-15T16:16:19.803Z"
     }
   },
   "queue": {
@@ -19752,6 +19822,16 @@
       "status": "published_api",
       "pinId": "419397784073346901",
       "publishedAt": "2026-09-14T22:56:59.802Z"
+    },
+    "5213-hero-queue": {
+      "id": "5213-hero-queue",
+      "assetId": "5213-hero",
+      "postId": 5213,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-09-15T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073352669",
+      "publishedAt": "2026-09-15T16:16:19.803Z"
     }
   }
 }
