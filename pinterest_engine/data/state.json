@@ -8993,6 +8993,31 @@
         "appetizers"
       ],
       "discoveredAt": "2026-09-15T22:42:42.604Z"
+    },
+    "5219": {
+      "postId": 5219,
+      "title": "Fudgy Halloween Graveyard Brownies with Cookie Tombstones",
+      "url": "https://el-mordjene.info/fudgy-halloween-graveyard-brownies-cookie-tombstones/",
+      "slug": "fudgy-halloween-graveyard-brownies-cookie-tombstones",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/fudgy-halloween-graveyard-brownies-with-cookie-tom_20260916_125232.webp",
+      "keywordSet": [
+        "fudgy halloween graveyard brownies with cookie tombstones",
+        "master the art of fudgy halloween graveyard brownies with cookie tombstones follow our professional guide for perfect textures and spooky presentation",
+        "the spooky science of perfect graveyard brownies",
+        "understanding the mechanics of fudgy texture",
+        "ingredient substitution and dietary considerations",
+        "dual measurement conversion guide",
+        "troubleshooting common baking issues",
+        "fudgy halloween graveyard brownies",
+        "baking",
+        "brownies"
+      ],
+      "discoveredAt": "2026-09-16T16:08:17.334Z"
     }
   },
   "assets": {
@@ -17889,6 +17914,52 @@
       "pinId": "419397784073355339",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073355339/",
       "publishedAt": "2026-09-15T22:43:03.665Z"
+    },
+    "5219-hero": {
+      "id": "5219-hero",
+      "postId": 5219,
+      "postSlug": "fudgy-halloween-graveyard-brownies-cookie-tombstones",
+      "postUrl": "https://el-mordjene.info/fudgy-halloween-graveyard-brownies-cookie-tombstones/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Fudgy Graveyard Brownies",
+      "overlaySubtitle": "Spooky Halloween Treat",
+      "pinTitle": "Fudgy Halloween Graveyard Brownies with Cookie Tombstones",
+      "pinDescription": "Transform your kitchen into a spooky delight with these decadent, ultra-fudgy Halloween graveyard brownies. Topped with crunchy cookie tombstones and a rich chocolate base, these treats are the perfect centerpiece for your fall festivities. They are incredibly easy to bake and guaranteed to be the hit of any party....",
+      "primaryKeyword": "fudgy halloween graveyard brownies with cookie tombstones",
+      "supportingKeywords": [
+        "fudgy halloween graveyard brownies with cookie tombstones",
+        "master the art of fudgy halloween graveyard brownies with cookie tombstones follow our professional guide for perfect textures and spooky presentation",
+        "the spooky science of perfect graveyard brownies",
+        "understanding the mechanics of fudgy texture",
+        "ingredient substitution and dietary considerations"
+      ],
+      "searchTags": [
+        "fudgy halloween graveyard brownies with cookie tombstones",
+        "master the art of fudgy halloween graveyard brownies with cookie tombstones follow our professional guide for perfect textures and spooky presentation",
+        "the spooky science of perfect graveyard brownies",
+        "understanding the mechanics of fudgy texture",
+        "ingredient substitution and dietary considerations",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/fudgy-halloween-graveyard-brownies-with-cookie-tom_20260916_125232.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-16T16:08:19.147Z",
+      "scheduledFor": "2026-09-16T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/fudgy-halloween-graveyard-brownies-with-cookie-tom_20260916_125232.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/fudgy-halloween-graveyard-brownies-cookie-tombstones-hero.jpg",
+      "renderedAt": "2026-09-16T16:08:36.404Z",
+      "pinId": "419397784073359735",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073359735/",
+      "publishedAt": "2026-09-16T16:08:38.767Z"
     }
   },
   "queue": {
@@ -19913,6 +19984,16 @@
       "status": "published_api",
       "pinId": "419397784073355339",
       "publishedAt": "2026-09-15T22:43:03.665Z"
+    },
+    "5219-hero-queue": {
+      "id": "5219-hero-queue",
+      "assetId": "5219-hero",
+      "postId": 5219,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-09-16T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073359735",
+      "publishedAt": "2026-09-16T16:08:38.767Z"
     }
   }
 }
