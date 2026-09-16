@@ -9018,6 +9018,31 @@
         "brownies"
       ],
       "discoveredAt": "2026-09-16T16:08:17.334Z"
+    },
+    "5222": {
+      "postId": 5222,
+      "title": "Chewy Monster Eyeball Chocolate Chip Cookies",
+      "url": "https://el-mordjene.info/chewy-monster-eyeball-chocolate-chip-cookies/",
+      "slug": "chewy-monster-eyeball-chocolate-chip-cookies",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/chewy-monster-eyeball-chocolate-chip-cookies_20260916_222643.webp",
+      "keywordSet": [
+        "chewy monster eyeball chocolate chip cookies",
+        "master the art of chewy monster eyeball chocolate chip cookies with this expert guide get perfect",
+        "baked texture with a spooky",
+        "fun twist",
+        "chocolate chip",
+        "the science of the perfect spooky cookie",
+        "myth vs fact",
+        "decoding cookie chemistry",
+        "soft",
+        "baking"
+      ],
+      "discoveredAt": "2026-09-16T22:38:44.334Z"
     }
   },
   "assets": {
@@ -17960,6 +17985,52 @@
       "pinId": "419397784073359735",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073359735/",
       "publishedAt": "2026-09-16T16:08:38.767Z"
+    },
+    "5222-hero": {
+      "id": "5222-hero",
+      "postId": 5222,
+      "postSlug": "chewy-monster-eyeball-chocolate-chip-cookies",
+      "postUrl": "https://el-mordjene.info/chewy-monster-eyeball-chocolate-chip-cookies/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Chewy Monster Eyeball Cookies",
+      "overlaySubtitle": "Easy Spooky Treat",
+      "pinTitle": "Chewy Monster Eyeball Chocolate Chip Cookies Recipe",
+      "pinDescription": "Sink your teeth into the ultimate spooky treat! These monster eyeball chocolate chip cookies feature a perfectly chewy, buttery center and crisp edges that melt in your mouth. Topped with playful candy eyes, they are the perfect balance of sweet, fun, and gourmet quality. Whether you are prepping for a Halloween par...",
+      "primaryKeyword": "chewy monster eyeball chocolate chip cookies",
+      "supportingKeywords": [
+        "chewy monster eyeball chocolate chip cookies",
+        "master the art of chewy monster eyeball chocolate chip cookies with this expert guide get perfect",
+        "baked texture with a spooky",
+        "fun twist",
+        "chocolate chip"
+      ],
+      "searchTags": [
+        "chewy monster eyeball chocolate chip cookies",
+        "master the art of chewy monster eyeball chocolate chip cookies with this expert guide get perfect",
+        "baked texture with a spooky",
+        "fun twist",
+        "chocolate chip",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/chewy-monster-eyeball-chocolate-chip-cookies_20260916_222643.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-16T22:38:47.957Z",
+      "scheduledFor": "2026-09-16T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/chewy-monster-eyeball-chocolate-chip-cookies_20260916_222643.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chewy-monster-eyeball-chocolate-chip-cookies-hero.jpg",
+      "renderedAt": "2026-09-16T22:39:05.701Z",
+      "pinId": "419397784073362213",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073362213/",
+      "publishedAt": "2026-09-16T22:39:07.116Z"
     }
   },
   "queue": {
@@ -19994,6 +20065,16 @@
       "status": "published_api",
       "pinId": "419397784073359735",
       "publishedAt": "2026-09-16T16:08:38.767Z"
+    },
+    "5222-hero-queue": {
+      "id": "5222-hero-queue",
+      "assetId": "5222-hero",
+      "postId": 5222,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-09-16T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073362213",
+      "publishedAt": "2026-09-16T22:39:07.116Z"
     }
   }
 }
