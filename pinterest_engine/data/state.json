@@ -9068,6 +9068,31 @@
         "mocktails"
       ],
       "discoveredAt": "2026-09-17T16:15:04.400Z"
+    },
+    "5228": {
+      "postId": 5228,
+      "title": "Creamy Spooky Pumpkin Cheesecake Dip with Ginger Snaps",
+      "url": "https://el-mordjene.info/creamy-spooky-pumpkin-cheesecake-dip-with-ginger-snaps/",
+      "slug": "creamy-spooky-pumpkin-cheesecake-dip-with-ginger-snaps",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-spooky-pumpkin-cheesecake-dip-with-ginger-s_20260917_222849.webp",
+      "keywordSet": [
+        "creamy spooky pumpkin cheesecake dip with ginger snaps",
+        "master the viral creamy spooky pumpkin cheesecake dip with ginger snaps a professional guide to texture",
+        "balancing spices",
+        "and perfect party presentation",
+        "cheesecake dip",
+        "fall desserts",
+        "holiday treats",
+        "party appetizers",
+        "pumpkin",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-17T22:39:51.677Z"
     }
   },
   "assets": {
@@ -18102,6 +18127,52 @@
       "pinId": "419397784073366884",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073366884/",
       "publishedAt": "2026-09-17T16:15:28.351Z"
+    },
+    "5228-hero": {
+      "id": "5228-hero",
+      "postId": 5228,
+      "postSlug": "creamy-spooky-pumpkin-cheesecake-dip-with-ginger-snaps",
+      "postUrl": "https://el-mordjene.info/creamy-spooky-pumpkin-cheesecake-dip-with-ginger-snaps/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Creamy Pumpkin Cheesecake Dip",
+      "overlaySubtitle": "Easy 10-Minute Appetizer",
+      "pinTitle": "Creamy Pumpkin Cheesecake Dip with Ginger Snaps",
+      "pinDescription": "Get ready for your new favorite party centerpiece. This velvety, spiced pumpkin cheesecake dip is the ultimate seasonal treat, perfectly balanced with warm autumn spices and a smooth, airy texture. Paired with the signature crunch of zesty ginger snaps, it is a crowd-pleasing delight that comes together in minutes....",
+      "primaryKeyword": "creamy spooky pumpkin cheesecake dip with ginger snaps",
+      "supportingKeywords": [
+        "creamy spooky pumpkin cheesecake dip with ginger snaps",
+        "master the viral creamy spooky pumpkin cheesecake dip with ginger snaps a professional guide to texture",
+        "balancing spices",
+        "and perfect party presentation",
+        "cheesecake dip"
+      ],
+      "searchTags": [
+        "creamy spooky pumpkin cheesecake dip with ginger snaps",
+        "master the viral creamy spooky pumpkin cheesecake dip with ginger snaps a professional guide to texture",
+        "balancing spices",
+        "and perfect party presentation",
+        "cheesecake dip",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-spooky-pumpkin-cheesecake-dip-with-ginger-s_20260917_222849.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-17T22:39:55.016Z",
+      "scheduledFor": "2026-09-17T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-spooky-pumpkin-cheesecake-dip-with-ginger-s_20260917_222849.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-spooky-pumpkin-cheesecake-dip-with-ginger-snaps-hero.jpg",
+      "renderedAt": "2026-09-17T22:40:13.122Z",
+      "pinId": "419397784073369247",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073369247/",
+      "publishedAt": "2026-09-17T22:40:14.370Z"
     }
   },
   "queue": {
@@ -20156,6 +20227,16 @@
       "status": "published_api",
       "pinId": "419397784073366884",
       "publishedAt": "2026-09-17T16:15:28.351Z"
+    },
+    "5228-hero-queue": {
+      "id": "5228-hero-queue",
+      "assetId": "5228-hero",
+      "postId": 5228,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-09-17T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073369247",
+      "publishedAt": "2026-09-17T22:40:14.370Z"
     }
   }
 }
