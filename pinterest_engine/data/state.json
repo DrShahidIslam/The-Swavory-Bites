@@ -9043,6 +9043,31 @@
         "baking"
       ],
       "discoveredAt": "2026-09-16T22:38:44.334Z"
+    },
+    "5225": {
+      "postId": 5225,
+      "title": "Warm Spooky Apple Cider Witch&#8217;s Brew Mocktail",
+      "url": "https://el-mordjene.info/warm-spooky-apple-cider-witchs-brew-mocktail/",
+      "slug": "warm-spooky-apple-cider-witchs-brew-mocktail",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/warm-spooky-apple-cider-witch-s-brew-mocktail_20260917_124831.webp",
+      "keywordSet": [
+        "warm spooky apple cider witch 8217",
+        "s brew mocktail",
+        "master the art of the warm spooky apple cider witch 8217",
+        "s brew mocktail a perfect",
+        "friendly fall drink with aromatic spices and magical presentation",
+        "apple cider",
+        "fall drinks",
+        "halloween recipes",
+        "family",
+        "mocktails"
+      ],
+      "discoveredAt": "2026-09-17T16:15:04.400Z"
     }
   },
   "assets": {
@@ -18031,6 +18056,52 @@
       "pinId": "419397784073362213",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073362213/",
       "publishedAt": "2026-09-16T22:39:07.116Z"
+    },
+    "5225-hero": {
+      "id": "5225-hero",
+      "postId": 5225,
+      "postSlug": "warm-spooky-apple-cider-witchs-brew-mocktail",
+      "postUrl": "https://el-mordjene.info/warm-spooky-apple-cider-witchs-brew-mocktail/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Spooky Apple Cider Brew",
+      "overlaySubtitle": "Family-Friendly Fall Drink",
+      "pinTitle": "Warm Spooky Apple Cider Witch’s Brew (Non-Alcoholic)",
+      "pinDescription": "Transform your fall gathering with this enchanting warm apple cider mocktail. Infused with aromatic cinnamon, star anise, and a magical presentation, this cozy brew is the ultimate kid-friendly party treat. It is incredibly easy to prepare and fills your home with the nostalgic scent of autumn spices. Serve this bub...",
+      "primaryKeyword": "warm spooky apple cider witch 8217",
+      "supportingKeywords": [
+        "warm spooky apple cider witch 8217",
+        "s brew mocktail",
+        "master the art of the warm spooky apple cider witch 8217",
+        "s brew mocktail a perfect",
+        "friendly fall drink with aromatic spices and magical presentation"
+      ],
+      "searchTags": [
+        "warm spooky apple cider witch 8217",
+        "s brew mocktail",
+        "master the art of the warm spooky apple cider witch 8217",
+        "s brew mocktail a perfect",
+        "friendly fall drink with aromatic spices and magical presentation",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/warm-spooky-apple-cider-witch-s-brew-mocktail_20260917_124831.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-17T16:15:05.456Z",
+      "scheduledFor": "2026-09-17T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/warm-spooky-apple-cider-witch-s-brew-mocktail_20260917_124831.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/warm-spooky-apple-cider-witchs-brew-mocktail-hero.jpg",
+      "renderedAt": "2026-09-17T16:15:26.605Z",
+      "pinId": "419397784073366884",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073366884/",
+      "publishedAt": "2026-09-17T16:15:28.351Z"
     }
   },
   "queue": {
@@ -20075,6 +20146,16 @@
       "status": "published_api",
       "pinId": "419397784073362213",
       "publishedAt": "2026-09-16T22:39:07.116Z"
+    },
+    "5225-hero-queue": {
+      "id": "5225-hero-queue",
+      "assetId": "5225-hero",
+      "postId": 5225,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-09-17T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073366884",
+      "publishedAt": "2026-09-17T16:15:28.351Z"
     }
   }
 }
