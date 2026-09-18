@@ -9093,6 +9093,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-17T22:39:51.677Z"
+    },
+    "5231": {
+      "postId": 5231,
+      "title": "The Ultimate Brown Sugar Pecan Crunch Sweet Potato Casserole",
+      "url": "https://el-mordjene.info/brown-sugar-pecan-crunch-sweet-potato-casserole/",
+      "slug": "brown-sugar-pecan-crunch-sweet-potato-casserole",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/the-ultimate-brown-sugar-pecan-crunch-sweet-potato_20260918_122411.webp",
+      "keywordSet": [
+        "the ultimate brown sugar pecan crunch sweet potato casserole",
+        "master the art of the perfect brown sugar pecan crunch sweet potato casserole with our expert guide to texture",
+        "flavor balance",
+        "and holiday prep",
+        "sweet potato casserole",
+        "comfort food",
+        "holiday recipes",
+        "thanksgiving sides",
+        "recipes",
+        "softened"
+      ],
+      "discoveredAt": "2026-09-18T15:50:22.196Z"
     }
   },
   "assets": {
@@ -18173,6 +18198,52 @@
       "pinId": "419397784073369247",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073369247/",
       "publishedAt": "2026-09-17T22:40:14.370Z"
+    },
+    "5231-hero": {
+      "id": "5231-hero",
+      "postId": 5231,
+      "postSlug": "brown-sugar-pecan-crunch-sweet-potato-casserole",
+      "postUrl": "https://el-mordjene.info/brown-sugar-pecan-crunch-sweet-potato-casserole/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Ultimate Pecan Sweet Potato",
+      "overlaySubtitle": "Perfect Holiday Side",
+      "pinTitle": "The Ultimate Brown Sugar Pecan Sweet Potato Casserole",
+      "pinDescription": "Elevate your holiday table with this irresistible sweet potato casserole. Featuring a velvety, spiced sweet potato base topped with a decadent, buttery brown sugar and toasted pecan crumble, every bite offers the perfect balance of texture and comfort. It is remarkably easy to assemble, making it the ideal side dish...",
+      "primaryKeyword": "the ultimate brown sugar pecan crunch sweet potato casserole",
+      "supportingKeywords": [
+        "the ultimate brown sugar pecan crunch sweet potato casserole",
+        "master the art of the perfect brown sugar pecan crunch sweet potato casserole with our expert guide to texture",
+        "flavor balance",
+        "and holiday prep",
+        "sweet potato casserole"
+      ],
+      "searchTags": [
+        "the ultimate brown sugar pecan crunch sweet potato casserole",
+        "master the art of the perfect brown sugar pecan crunch sweet potato casserole with our expert guide to texture",
+        "flavor balance",
+        "and holiday prep",
+        "sweet potato casserole",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/the-ultimate-brown-sugar-pecan-crunch-sweet-potato_20260918_122411.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "published_api",
+      "createdAt": "2026-09-18T15:50:24.962Z",
+      "scheduledFor": "2026-09-18T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/the-ultimate-brown-sugar-pecan-crunch-sweet-potato_20260918_122411.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/brown-sugar-pecan-crunch-sweet-potato-casserole-hero.jpg",
+      "renderedAt": "2026-09-18T15:50:42.909Z",
+      "pinId": "419397784073375126",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073375126/",
+      "publishedAt": "2026-09-18T15:50:44.218Z"
     }
   },
   "queue": {
@@ -20237,6 +20308,16 @@
       "status": "published_api",
       "pinId": "419397784073369247",
       "publishedAt": "2026-09-17T22:40:14.370Z"
+    },
+    "5231-hero-queue": {
+      "id": "5231-hero-queue",
+      "assetId": "5231-hero",
+      "postId": 5231,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-09-18T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073375126",
+      "publishedAt": "2026-09-18T15:50:44.218Z"
     }
   }
 }
