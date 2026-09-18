@@ -1,269 +1,574 @@
 [
     {
-        "id":  "trend-marry-me-chicken",
-        "category":  "Easy Dinners",
-        "topic":  "Creamy 30-Minute Marry Me Chicken",
-        "searchKeywords":  [
-                               "marry me chicken",
-                               "30 minute dinner",
-                               "creamy chicken recipe",
-                               "viral recipes",
-                               "easy chicken dinner"
-                           ],
-        "suggestedSlug":  "creamy-marry-me-chicken-recipe",
-        "pinHook":  "The Chicken Recipe That Broke The Internet 💍",
-        "targetBoard":  "Quick \u0026 Easy Recipes"
+        "id": "trend-marry-me-chicken",
+        "category": "Easy Dinners",
+        "topic": "Creamy 30-Minute Marry Me Chicken",
+        "searchKeywords": [
+            "marry me chicken",
+            "30 minute dinner",
+            "creamy chicken recipe",
+            "viral recipes",
+            "easy chicken dinner"
+        ],
+        "suggestedSlug": "creamy-marry-me-chicken-recipe",
+        "pinHook": "The Chicken Recipe That Broke The Internet 💍",
+        "targetBoard": "Quick & Easy Recipes"
     },
     {
-        "id":  "trend-hot-honey-pepperoni-pizza",
-        "category":  "Easy Dinners",
-        "topic":  "Detroit-Style Hot Honey Pepperoni Pizza",
-        "searchKeywords":  [
-                               "hot honey pizza",
-                               "detroit style pizza",
-                               "homemade pizza dough",
-                               "spicy honey recipe"
-                           ],
-        "suggestedSlug":  "detroit-style-hot-honey-pizza",
-        "pinHook":  "You\u0027ll Never Order Delivery Again 🍕🍯",
-        "targetBoard":  "Quick \u0026 Easy Recipes"
+        "id": "trend-hot-honey-pepperoni-pizza",
+        "category": "Easy Dinners",
+        "topic": "Detroit-Style Hot Honey Pepperoni Pizza",
+        "searchKeywords": [
+            "hot honey pizza",
+            "detroit style pizza",
+            "homemade pizza dough",
+            "spicy honey recipe"
+        ],
+        "suggestedSlug": "detroit-style-hot-honey-pizza",
+        "pinHook": "You'll Never Order Delivery Again 🍕🍯",
+        "targetBoard": "Quick & Easy Recipes"
     },
     {
-        "id":  "trend-gochujang-glazed-salmon",
-        "category":  "Easy Dinners",
-        "topic":  "Sticky Gochujang Glazed Salmon Bowls",
-        "searchKeywords":  [
-                               "gochujang salmon",
-                               "salmon bowl",
-                               "korean inspired dinner",
-                               "healthy weeknight meal"
-                           ],
-        "suggestedSlug":  "sticky-gochujang-salmon-bowls",
-        "pinHook":  "The 15-Minute Salmon Bowl Everyone is Obsessed With 🍣",
-        "targetBoard":  "Quick \u0026 Easy Recipes"
+        "id": "trend-gochujang-glazed-salmon",
+        "category": "Easy Dinners",
+        "topic": "Sticky Gochujang Glazed Salmon Bowls",
+        "searchKeywords": [
+            "gochujang salmon",
+            "salmon bowl",
+            "korean inspired dinner",
+            "healthy weeknight meal"
+        ],
+        "suggestedSlug": "sticky-gochujang-salmon-bowls",
+        "pinHook": "The 15-Minute Salmon Bowl Everyone is Obsessed With 🍣",
+        "targetBoard": "Quick & Easy Recipes"
     },
     {
-        "id":  "trend-mango-float",
-        "category":  "No-Bake Desserts",
-        "topic":  "Viral 3-Ingredient Mango Float",
-        "searchKeywords":  [
-                               "mango float",
-                               "mango sago",
-                               "no bake dessert",
-                               "easy summer dessert"
-                           ],
-        "suggestedSlug":  "viral-mango-float-recipe",
-        "pinHook":  "3 Ingredients. No Baking. Pure Heaven. 🥭",
-        "targetBoard":  "Easy Dessert Recipes"
+        "id": "trend-mango-float",
+        "category": "No-Bake Desserts",
+        "topic": "Viral 3-Ingredient Mango Float",
+        "searchKeywords": [
+            "mango float",
+            "mango sago",
+            "no bake dessert",
+            "easy summer dessert"
+        ],
+        "suggestedSlug": "viral-mango-float-recipe",
+        "pinHook": "3 Ingredients. No Baking. Pure Heaven. 🥭",
+        "targetBoard": "Easy Dessert Recipes"
     },
     {
-        "id":  "trend-sourdough-chocolate-chip",
-        "category":  "Viral Baking",
-        "topic":  "Brown Butter Sourdough Discard Chocolate Chip Cookies",
-        "searchKeywords":  [
-                               "sourdough discard cookies",
-                               "brown butter chocolate chip",
-                               "sourdough baking",
-                               "thick chewy cookies"
-                           ],
-        "suggestedSlug":  "sourdough-discard-chocolate-chip-cookies",
-        "pinHook":  "Don\u0027t Throw Away Your Sourdough Discard! Make These 🍪",
-        "targetBoard":  "Baking Recipes"
+        "id": "trend-sourdough-chocolate-chip",
+        "category": "Viral Baking",
+        "topic": "Brown Butter Sourdough Discard Chocolate Chip Cookies",
+        "searchKeywords": [
+            "sourdough discard cookies",
+            "brown butter chocolate chip",
+            "sourdough baking",
+            "thick chewy cookies"
+        ],
+        "suggestedSlug": "sourdough-discard-chocolate-chip-cookies",
+        "pinHook": "Don't Throw Away Your Sourdough Discard! Make These 🍪",
+        "targetBoard": "Baking Recipes"
     },
     {
-        "id":  "trend-cottage-cheese-flatbread",
-        "category":  "High-Protein Breakfast",
-        "topic":  "High-Protein 2-Ingredient Cottage Cheese Flatbread",
-        "searchKeywords":  [
-                               "cottage cheese flatbread",
-                               "high protein breakfast",
-                               "viral tiktok recipes",
-                               "low carb wrap"
-                           ],
-        "suggestedSlug":  "cottage-cheese-flatbread-wrap",
-        "pinHook":  "35g Protein and Only 2 Ingredients?! 🤯",
-        "targetBoard":  "Baking Recipes"
+        "id": "trend-cottage-cheese-flatbread",
+        "category": "High-Protein Breakfast",
+        "topic": "High-Protein 2-Ingredient Cottage Cheese Flatbread",
+        "searchKeywords": [
+            "cottage cheese flatbread",
+            "high protein breakfast",
+            "viral tiktok recipes",
+            "low carb wrap"
+        ],
+        "suggestedSlug": "cottage-cheese-flatbread-wrap",
+        "pinHook": "35g Protein and Only 2 Ingredients?! 🤯",
+        "targetBoard": "Baking Recipes"
     },
     {
-        "id":  "trend-bridgerton-tea-sandwiches",
-        "category":  "Snacks \u0026 Appetizers",
-        "topic":  "Elegant Bridgerton-Inspired Cucumber Tea Sandwiches",
-        "searchKeywords":  [
-                               "tea party food",
-                               "cucumber sandwiches",
-                               "bridgerton tea party",
-                               "finger sandwiches"
-                           ],
-        "suggestedSlug":  "bridgerton-cucumber-tea-sandwiches",
-        "pinHook":  "Host the Perfect Afternoon Tea Party 🫖",
-        "targetBoard":  "Snacks \u0026 Appetizers"
+        "id": "trend-bridgerton-tea-sandwiches",
+        "category": "Snacks & Appetizers",
+        "topic": "Elegant Bridgerton-Inspired Cucumber Tea Sandwiches",
+        "searchKeywords": [
+            "tea party food",
+            "cucumber sandwiches",
+            "bridgerton tea party",
+            "finger sandwiches"
+        ],
+        "suggestedSlug": "bridgerton-cucumber-tea-sandwiches",
+        "pinHook": "Host the Perfect Afternoon Tea Party 🫖",
+        "targetBoard": "Snacks & Appetizers"
     },
     {
-        "id":  "trend-matcha-tiramisu",
-        "category":  "Easy Dessert Recipes",
-        "topic":  "No-Bake Matcha Green Tea Tiramisu",
-        "searchKeywords":  [
-                               "matcha tiramisu",
-                               "matcha dessert",
-                               "no bake cake",
-                               "japanese dessert"
-                           ],
-        "suggestedSlug":  "no-bake-matcha-tiramisu",
-        "pinHook":  "A Modern Twist on a Classic Italian Dessert 🍵",
-        "targetBoard":  "Easy Dessert Recipes"
+        "id": "trend-matcha-tiramisu",
+        "category": "Easy Dessert Recipes",
+        "topic": "No-Bake Matcha Green Tea Tiramisu",
+        "searchKeywords": [
+            "matcha tiramisu",
+            "matcha dessert",
+            "no bake cake",
+            "japanese dessert"
+        ],
+        "suggestedSlug": "no-bake-matcha-tiramisu",
+        "pinHook": "A Modern Twist on a Classic Italian Dessert 🍵",
+        "targetBoard": "Easy Dessert Recipes"
     },
     {
-        "id":  "trend-pistachio-kunafa-chocolate",
-        "category":  "Viral Baking",
-        "topic":  "Viral Dubai Pistachio Kunafa Chocolate Bar",
-        "searchKeywords":  [
-                               "dubai chocolate",
-                               "pistachio kunafa",
-                               "viral chocolate bar",
-                               "stuffed chocolate"
-                           ],
-        "suggestedSlug":  "viral-dubai-pistachio-chocolate-bar",
-        "pinHook":  "Make The Viral $30 Chocolate Bar At Home! 🍫",
-        "targetBoard":  "Easy Dessert Recipes"
+        "id": "trend-pistachio-kunafa-chocolate",
+        "category": "Viral Baking",
+        "topic": "Viral Dubai Pistachio Kunafa Chocolate Bar",
+        "searchKeywords": [
+            "dubai chocolate",
+            "pistachio kunafa",
+            "viral chocolate bar",
+            "stuffed chocolate"
+        ],
+        "suggestedSlug": "viral-dubai-pistachio-chocolate-bar",
+        "pinHook": "Make The Viral $30 Chocolate Bar At Home! 🍫",
+        "targetBoard": "Easy Dessert Recipes"
     },
     {
-        "id":  "trend-whipped-feta-dip",
-        "category":  "Snacks \u0026 Appetizers",
-        "topic":  "Creamy Whipped Feta Dip with Hot Honey",
-        "searchKeywords":  [
-                               "whipped feta dip",
-                               "hot honey recipe",
-                               "easy appetizer",
-                               "party dip"
-                           ],
-        "suggestedSlug":  "whipped-feta-dip-hot-honey",
-        "pinHook":  "The Ultimate 5-Minute Party Appetizer 🍯",
-        "targetBoard":  "Snacks \u0026 Appetizers"
+        "id": "trend-whipped-feta-dip",
+        "category": "Snacks & Appetizers",
+        "topic": "Creamy Whipped Feta Dip with Hot Honey",
+        "searchKeywords": [
+            "whipped feta dip",
+            "hot honey recipe",
+            "easy appetizer",
+            "party dip"
+        ],
+        "suggestedSlug": "whipped-feta-dip-hot-honey",
+        "pinHook": "The Ultimate 5-Minute Party Appetizer 🍯",
+        "targetBoard": "Snacks & Appetizers"
     },
     {
-        "id":  "trend-strawberry-matcha-latte",
-        "category":  "Refreshing Drinks",
-        "topic":  "Iced Strawberry Oat Milk Matcha Latte",
-        "searchKeywords":  [
-                               "strawberry matcha",
-                               "iced matcha latte",
-                               "cafe drinks at home",
-                               "oat milk latte"
-                           ],
-        "suggestedSlug":  "iced-strawberry-matcha-latte",
-        "pinHook":  "Save $8 and Make This Cafe-Quality Drink at Home 🍓🍵",
-        "targetBoard":  "Drink Recipes"
+        "id": "trend-strawberry-matcha-latte",
+        "category": "Refreshing Drinks",
+        "topic": "Iced Strawberry Oat Milk Matcha Latte",
+        "searchKeywords": [
+            "strawberry matcha",
+            "iced matcha latte",
+            "cafe drinks at home",
+            "oat milk latte"
+        ],
+        "suggestedSlug": "iced-strawberry-matcha-latte",
+        "pinHook": "Save $8 and Make This Cafe-Quality Drink at Home 🍓🍵",
+        "targetBoard": "Drink Recipes"
     },
     {
-        "id":  "trend-balsamic-peach-burrata",
-        "category":  "Snacks \u0026 Appetizers",
-        "topic":  "Summer Peach and Burrata Salad with Balsamic Glaze",
-        "searchKeywords":  [
-                               "burrata salad",
-                               "peach salad",
-                               "summer appetizer",
-                               "balsamic glaze"
-                           ],
-        "suggestedSlug":  "peach-burrata-summer-salad",
-        "pinHook":  "The Prettiest 10-Minute Summer Salad 🍑",
-        "targetBoard":  "Snacks \u0026 Appetizers"
+        "id": "trend-balsamic-peach-burrata",
+        "category": "Snacks & Appetizers",
+        "topic": "Summer Peach and Burrata Salad with Balsamic Glaze",
+        "searchKeywords": [
+            "burrata salad",
+            "peach salad",
+            "summer appetizer",
+            "balsamic glaze"
+        ],
+        "suggestedSlug": "peach-burrata-summer-salad",
+        "pinHook": "The Prettiest 10-Minute Summer Salad 🍑",
+        "targetBoard": "Snacks & Appetizers"
     },
     {
-        "id":  "trend-garlic-parmesan-smashed-potatoes",
-        "category":  "Quick \u0026 Easy Recipes",
-        "topic":  "Crispy Garlic Parmesan Smashed Potatoes",
-        "searchKeywords":  [
-                               "smashed potatoes",
-                               "crispy potatoes",
-                               "easy side dish",
-                               "garlic parmesan"
-                           ],
-        "suggestedSlug":  "crispy-garlic-parmesan-smashed-potatoes",
-        "pinHook":  "The Crispiest Potatoes You Will Ever Eat! 🥔",
-        "targetBoard":  "Quick \u0026 Easy Recipes"
+        "id": "trend-garlic-parmesan-smashed-potatoes",
+        "category": "Quick & Easy Recipes",
+        "topic": "Crispy Garlic Parmesan Smashed Potatoes",
+        "searchKeywords": [
+            "smashed potatoes",
+            "crispy potatoes",
+            "easy side dish",
+            "garlic parmesan"
+        ],
+        "suggestedSlug": "crispy-garlic-parmesan-smashed-potatoes",
+        "pinHook": "The Crispiest Potatoes You Will Ever Eat! 🥔",
+        "targetBoard": "Quick & Easy Recipes"
     },
     {
-        "id":  "trend-chili-crunch-eggs",
-        "category":  "High-Protein Breakfast",
-        "topic":  "Crispy Chili Oil Fried Eggs over Rice",
-        "searchKeywords":  [
-                               "chili crunch eggs",
-                               "chili oil recipe",
-                               "quick healthy breakfast",
-                               "savory breakfast"
-                           ],
-        "suggestedSlug":  "crispy-chili-oil-fried-eggs",
-        "pinHook":  "The 5-Minute Breakfast Taking Over TikTok 🍳🌶️",
-        "targetBoard":  "Quick \u0026 Easy Recipes"
+        "id": "trend-chili-crunch-eggs",
+        "category": "High-Protein Breakfast",
+        "topic": "Crispy Chili Oil Fried Eggs over Rice",
+        "searchKeywords": [
+            "chili crunch eggs",
+            "chili oil recipe",
+            "quick healthy breakfast",
+            "savory breakfast"
+        ],
+        "suggestedSlug": "crispy-chili-oil-fried-eggs",
+        "pinHook": "The 5-Minute Breakfast Taking Over TikTok 🍳🌶️",
+        "targetBoard": "Quick & Easy Recipes"
     },
     {
-        "id":  "trend-one-pot-french-onion-pasta",
-        "category":  "Easy Dinners",
-        "topic":  "Cozy One-Pot French Onion Pasta",
-        "searchKeywords":  [
-                               "french onion pasta",
-                               "one pot dinner",
-                               "comfort food",
-                               "easy weeknight meal"
-                           ],
-        "suggestedSlug":  "one-pot-french-onion-pasta",
-        "pinHook":  "All The Flavor of French Onion Soup in a 30-Minute Pasta! 🧅",
-        "targetBoard":  "Quick \u0026 Easy Recipes"
+        "id": "trend-one-pot-french-onion-pasta",
+        "category": "Easy Dinners",
+        "topic": "Cozy One-Pot French Onion Pasta",
+        "searchKeywords": [
+            "french onion pasta",
+            "one pot dinner",
+            "comfort food",
+            "easy weeknight meal"
+        ],
+        "suggestedSlug": "one-pot-french-onion-pasta",
+        "pinHook": "All The Flavor of French Onion Soup in a 30-Minute Pasta! 🧅",
+        "targetBoard": "Quick & Easy Recipes"
     },
     {
-        "id":  "trend-pumpkin-spice-cold-foam",
-        "targetBoard":  "Drink Recipes",
-        "suggestedSlug":  "copycat-pumpkin-cream-cold-brew",
-        "searchKeywords":  [
-                               "pumpkin cold foam",
-                               "fall coffee",
-                               "copycat starbucks",
-                               "pumpkin spice"
-                           ],
-        "pinHook":  "Skip the Drive-Thru! Make This Fall Favorite at Home ???",
-        "topic":  "Copycat Pumpkin Cream Cold Brew",
-        "category":  "Refreshing Drinks"
+        "id": "trend-pumpkin-spice-cold-foam",
+        "targetBoard": "Drink Recipes",
+        "suggestedSlug": "copycat-pumpkin-cream-cold-brew",
+        "searchKeywords": [
+            "pumpkin cold foam",
+            "fall coffee",
+            "copycat starbucks",
+            "pumpkin spice"
+        ],
+        "pinHook": "Skip the Drive-Thru! Make This Fall Favorite at Home ???",
+        "topic": "Copycat Pumpkin Cream Cold Brew",
+        "category": "Refreshing Drinks"
     },
     {
-        "id":  "trend-slow-cooker-pot-roast",
-        "targetBoard":  "Quick \u0026 Easy Recipes",
-        "suggestedSlug":  "slow-cooker-pot-roast-comfort-food",
-        "searchKeywords":  [
-                               "crockpot dinner",
-                               "fall comfort food",
-                               "slow cooker roast",
-                               "dump and go meal"
-                           ],
-        "pinHook":  "The Ultimate Set-It-And-Forget-It Fall Dinner ????",
-        "topic":  "Melt-in-Your-Mouth Slow Cooker Pot Roast",
-        "category":  "Easy Dinners"
+        "id": "trend-slow-cooker-pot-roast",
+        "targetBoard": "Quick & Easy Recipes",
+        "suggestedSlug": "slow-cooker-pot-roast-comfort-food",
+        "searchKeywords": [
+            "crockpot dinner",
+            "fall comfort food",
+            "slow cooker roast",
+            "dump and go meal"
+        ],
+        "pinHook": "The Ultimate Set-It-And-Forget-It Fall Dinner ????",
+        "topic": "Melt-in-Your-Mouth Slow Cooker Pot Roast",
+        "category": "Easy Dinners"
     },
     {
-        "id":  "trend-apple-cider-donuts",
-        "targetBoard":  "Baking Recipes",
-        "suggestedSlug":  "baked-apple-cider-donuts",
-        "searchKeywords":  [
-                               "apple cider donuts",
-                               "fall baking",
-                               "baked donuts",
-                               "apple recipes"
-                           ],
-        "pinHook":  "Your House Will Smell Like a Fall Bakery ????",
-        "topic":  "Baked Cinnamon Sugar Apple Cider Donuts",
-        "category":  "Baking Recipes"
+        "id": "trend-apple-cider-donuts",
+        "targetBoard": "Baking Recipes",
+        "suggestedSlug": "baked-apple-cider-donuts",
+        "searchKeywords": [
+            "apple cider donuts",
+            "fall baking",
+            "baked donuts",
+            "apple recipes"
+        ],
+        "pinHook": "Your House Will Smell Like a Fall Bakery ????",
+        "topic": "Baked Cinnamon Sugar Apple Cider Donuts",
+        "category": "Baking Recipes"
     },
     {
-        "id":  "trend-air-fryer-squash",
-        "targetBoard":  "Quick \u0026 Easy Recipes",
-        "suggestedSlug":  "air-fryer-maple-butternut-squash",
-        "searchKeywords":  [
-                               "air fryer sides",
-                               "butternut squash",
-                               "fall side dish",
-                               "maple roasted squash"
-                           ],
-        "pinHook":  "The Most Addicting Fall Side Dish (Ready in 15 Mins!) ??",
-        "topic":  "Crispy Air Fryer Butternut Squash with Maple Pecans",
-        "category":  "Quick \u0026 Easy Recipes"
+        "id": "trend-air-fryer-squash",
+        "targetBoard": "Quick & Easy Recipes",
+        "suggestedSlug": "air-fryer-maple-butternut-squash",
+        "searchKeywords": [
+            "air fryer sides",
+            "butternut squash",
+            "fall side dish",
+            "maple roasted squash"
+        ],
+        "pinHook": "The Most Addicting Fall Side Dish (Ready in 15 Mins!) ??",
+        "topic": "Crispy Air Fryer Butternut Squash with Maple Pecans",
+        "category": "Quick & Easy Recipes"
+    },
+    {
+        "id": "trend-tuscan-chicken-gnocchi-soup",
+        "category": "Easy Dinners",
+        "topic": "Creamy Tuscan Chicken Gnocchi Soup",
+        "searchKeywords": [
+            "tuscan chicken soup",
+            "chicken gnocchi soup",
+            "fall soup recipes",
+            "creamy soup",
+            "olive garden copycat"
+        ],
+        "suggestedSlug": "creamy-tuscan-chicken-gnocchi-soup",
+        "pinHook": "Better Than Olive Garden! Ready in 30 Mins 🥣✨",
+        "targetBoard": "Quick & Easy Recipes"
+    },
+    {
+        "id": "trend-ghost-brownies",
+        "category": "Baking Recipes",
+        "topic": "Fudgy Halloween Ghost Brownies with Marshmallow Fluff",
+        "searchKeywords": [
+            "halloween brownies",
+            "ghost brownies",
+            "halloween treats",
+            "spooky baking",
+            "marshmallow ghost"
+        ],
+        "suggestedSlug": "fudgy-halloween-ghost-brownies",
+        "pinHook": "The Cutest Halloween Treat Ever! 👻🍫",
+        "targetBoard": "Baking Recipes"
+    },
+    {
+        "id": "trend-mummy-brie",
+        "category": "Appetizers",
+        "topic": "Baked Mummy Brie en Croûte with Blackberry Jam",
+        "searchKeywords": [
+            "mummy brie",
+            "baked brie",
+            "halloween appetizer",
+            "puff pastry brie",
+            "spooky party food"
+        ],
+        "suggestedSlug": "baked-mummy-brie-en-croute",
+        "pinHook": "The #1 Viral Halloween Party Appetizer! 🧀👀",
+        "targetBoard": "Quick & Easy Recipes"
+    },
+    {
+        "id": "trend-monster-cookie-dough-dip",
+        "category": "No-Bake Desserts",
+        "topic": "Spooky Monster Cookie Dough Dip with M&Ms",
+        "searchKeywords": [
+            "cookie dough dip",
+            "monster cookies",
+            "halloween dessert",
+            "no bake treats",
+            "party dip"
+        ],
+        "suggestedSlug": "spooky-monster-cookie-dough-dip",
+        "pinHook": "Safe-To-Eat Cookie Dough Dip in 5 Minutes! 🍪👾",
+        "targetBoard": "Easy Dessert Recipes"
+    },
+    {
+        "id": "trend-poison-apple-punch",
+        "category": "Refreshing Drinks",
+        "topic": "Shimmering Poison Apple Halloween Punch",
+        "searchKeywords": [
+            "poison apple punch",
+            "halloween mocktails",
+            "halloween punch",
+            "fall drinks",
+            "glitter punch"
+        ],
+        "suggestedSlug": "poison-apple-halloween-punch",
+        "pinHook": "Sparkly Poison Apple Punch Everyone Will Love! 🍏✨",
+        "targetBoard": "Drink Recipes"
+    },
+    {
+        "id": "trend-pumpkin-snickerdoodles",
+        "category": "Baking Recipes",
+        "topic": "Chewy Brown Butter Pumpkin Snickerdoodle Cookies",
+        "searchKeywords": [
+            "pumpkin snickerdoodles",
+            "fall cookies",
+            "brown butter pumpkin",
+            "chewy pumpkin cookies"
+        ],
+        "suggestedSlug": "chewy-brown-butter-pumpkin-snickerdoodles",
+        "pinHook": "Melt-In-Your-Mouth Fall Cookie Perfection 🎃🍪",
+        "targetBoard": "Baking Recipes"
+    },
+    {
+        "id": "trend-mummy-jalapeno-poppers",
+        "category": "Appetizers",
+        "topic": "Crispy Mummy Jalapeño Poppers with Bacon",
+        "searchKeywords": [
+            "mummy jalapeno poppers",
+            "halloween poppers",
+            "bacon jalapeno poppers",
+            "spooky appetizers"
+        ],
+        "suggestedSlug": "crispy-mummy-jalapeno-poppers",
+        "pinHook": "Spicy, Cheesy, and Spooky! 🥓🌶️",
+        "targetBoard": "Quick & Easy Recipes"
+    },
+    {
+        "id": "trend-make-ahead-mashed-potatoes",
+        "category": "Thanksgiving Sides",
+        "topic": "Ultra-Creamy Make-Ahead Garlic Mashed Potatoes",
+        "searchKeywords": [
+            "make ahead mashed potatoes",
+            "creamy mashed potatoes",
+            "thanksgiving side dishes",
+            "best mashed potatoes"
+        ],
+        "suggestedSlug": "make-ahead-garlic-mashed-potatoes",
+        "pinHook": "The Secret to The Creamiest Potatoes Ever 🥔🧈",
+        "targetBoard": "Quick & Easy Recipes"
+    },
+    {
+        "id": "trend-sweet-potato-casserole",
+        "category": "Thanksgiving Sides",
+        "topic": "Brown Butter Pecan Sweet Potato Casserole",
+        "searchKeywords": [
+            "sweet potato casserole",
+            "pecan crumble",
+            "thanksgiving sides",
+            "brown butter sweet potato"
+        ],
+        "suggestedSlug": "brown-butter-pecan-sweet-potato-casserole",
+        "pinHook": "Tastes Like Dessert! The Crumble is Incredible 🍠🍁",
+        "targetBoard": "Baking Recipes"
+    },
+    {
+        "id": "trend-cranberry-brie-pull-apart",
+        "category": "Appetizers",
+        "topic": "Cranberry Brie Pull-Apart Garlic Bread",
+        "searchKeywords": [
+            "cranberry brie bread",
+            "pull apart bread",
+            "holiday appetizer",
+            "cheesy garlic bread"
+        ],
+        "suggestedSlug": "cranberry-brie-pull-apart-bread",
+        "pinHook": "Gooey Melted Cheese & Tart Cranberry Heaven! 🥖🧀",
+        "targetBoard": "Quick & Easy Recipes"
+    },
+    {
+        "id": "trend-scratch-green-bean-casserole",
+        "category": "Thanksgiving Sides",
+        "topic": "Creamy Green Bean Casserole with Crispy Fried Shallots",
+        "searchKeywords": [
+            "green bean casserole from scratch",
+            "homemade green bean casserole",
+            "crispy shallots",
+            "thanksgiving side dish"
+        ],
+        "suggestedSlug": "green-bean-casserole-crispy-shallots",
+        "pinHook": "No Canned Soup! 100x Better From Scratch 🌿🍲",
+        "targetBoard": "Quick & Easy Recipes"
+    },
+    {
+        "id": "trend-turkey-cranberry-sliders",
+        "category": "Easy Dinners",
+        "topic": "Leftover Turkey & Cranberry Sliders on Hawaiian Rolls",
+        "searchKeywords": [
+            "turkey sliders",
+            "leftover turkey recipe",
+            "hawaiian roll sliders",
+            "cranberry sliders",
+            "post thanksgiving"
+        ],
+        "suggestedSlug": "leftover-turkey-cranberry-sliders",
+        "pinHook": "The BEST Reason to Make Extra Turkey! 🥪🦃",
+        "targetBoard": "Quick & Easy Recipes"
+    },
+    {
+        "id": "trend-salted-caramel-apple-pie",
+        "category": "Baking Recipes",
+        "topic": "Mile-High Salted Caramel Dutch Apple Pie",
+        "searchKeywords": [
+            "dutch apple pie",
+            "salted caramel apple pie",
+            "thanksgiving pie",
+            "streusel apple pie"
+        ],
+        "suggestedSlug": "salted-caramel-dutch-apple-pie",
+        "pinHook": "Buttery Streusel & Rich Caramel Drizzle 🥧🍏",
+        "targetBoard": "Baking Recipes"
+    },
+    {
+        "id": "trend-make-ahead-turkey-gravy",
+        "category": "Thanksgiving Sides",
+        "topic": "Foolproof 15-Minute Make-Ahead Turkey Gravy",
+        "searchKeywords": [
+            "make ahead turkey gravy",
+            "easy gravy recipe",
+            "thanksgiving gravy",
+            "no drippings gravy"
+        ],
+        "suggestedSlug": "foolproof-make-ahead-turkey-gravy",
+        "pinHook": "Zero Stress on Thanksgiving Day! 🦃🥄",
+        "targetBoard": "Quick & Easy Recipes"
+    },
+    {
+        "id": "trend-gingerbread-crinkle-cookies",
+        "category": "Baking Recipes",
+        "topic": "Chewy Spiced Gingerbread Crinkle Cookies",
+        "searchKeywords": [
+            "gingerbread crinkle cookies",
+            "christmas cookies",
+            "holiday baking",
+            "chewy gingerbread",
+            "cookie exchange"
+        ],
+        "suggestedSlug": "chewy-gingerbread-crinkle-cookies",
+        "pinHook": "The Star of Every Christmas Cookie Box! 🎄🍪",
+        "targetBoard": "Baking Recipes"
+    },
+    {
+        "id": "trend-cranberry-shortbread-bars",
+        "category": "Baking Recipes",
+        "topic": "White Chocolate Cranberry Shortbread Bars",
+        "searchKeywords": [
+            "cranberry shortbread",
+            "white chocolate cranberry bars",
+            "holiday baking",
+            "christmas dessert"
+        ],
+        "suggestedSlug": "white-chocolate-cranberry-shortbread-bars",
+        "pinHook": "Melt-In-Your-Mouth Buttery Holiday Bars ✨🍒",
+        "targetBoard": "Baking Recipes"
+    },
+    {
+        "id": "trend-prime-rib-roast",
+        "category": "Easy Dinners",
+        "topic": "Garlic Herb Butter Crusted Prime Rib Roast",
+        "searchKeywords": [
+            "prime rib roast",
+            "christmas dinner",
+            "holiday beef roast",
+            "garlic herb prime rib",
+            "foolproof prime rib"
+        ],
+        "suggestedSlug": "garlic-herb-crusted-prime-rib",
+        "pinHook": "Juicy, Tender, Medium-Rare Perfection! 🥩🍷",
+        "targetBoard": "Quick & Easy Recipes"
+    },
+    {
+        "id": "trend-cinnamon-roll-french-toast",
+        "category": "Breakfast Recipes",
+        "topic": "Overnight Cinnamon Roll French Toast Casserole",
+        "searchKeywords": [
+            "cinnamon roll casserole",
+            "christmas morning breakfast",
+            "overnight french toast",
+            "holiday brunch"
+        ],
+        "suggestedSlug": "cinnamon-roll-french-toast-casserole",
+        "pinHook": "Prep The Night Before. Wake Up To Heaven! 🥐🥞",
+        "targetBoard": "Baking Recipes"
+    },
+    {
+        "id": "trend-peppermint-bark-spoons",
+        "category": "No-Bake Desserts",
+        "topic": "Homemade Peppermint Bark Hot Chocolate Spoons",
+        "searchKeywords": [
+            "peppermint bark spoons",
+            "hot chocolate spoons",
+            "edible gifts",
+            "christmas crafts food",
+            "holiday gifts"
+        ],
+        "suggestedSlug": "peppermint-bark-hot-chocolate-spoons",
+        "pinHook": "The Perfect  Edible Christmas Gift! 🎁☕",
+        "targetBoard": "Easy Dessert Recipes"
+    },
+    {
+        "id": "trend-crispy-loaded-potato-skins",
+        "category": "Appetizers",
+        "topic": "Crispy Loaded Baked Potato Skins with Cheddar & Bacon",
+        "searchKeywords": [
+            "loaded potato skins",
+            "nye party food",
+            "game day appetizers",
+            "crispy potato skins",
+            "finger food"
+        ],
+        "suggestedSlug": "crispy-loaded-baked-potato-skins",
+        "pinHook": "The Ultimate New Year’s Eve Finger Food! 🥔🥓",
+        "targetBoard": "Quick & Easy Recipes"
+    },
+    {
+        "id": "trend-midnight-sparkler-punch",
+        "category": "Refreshing Drinks",
+        "topic": "Sparkling Blackberry Champagne Mocktail for NYE",
+        "searchKeywords": [
+            "nye mocktail",
+            "blackberry mocktail",
+            "champagne punch",
+            "new years eve drinks",
+            "sparkling drinks"
+        ],
+        "suggestedSlug": "sparkling-blackberry-nye-mocktail",
+        "pinHook": "Ring in the New Year with This Gorgeous Sparkler! 🥂🎆",
+        "targetBoard": "Drink Recipes"
     }
 ]

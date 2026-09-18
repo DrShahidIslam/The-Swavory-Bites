@@ -2,8 +2,9 @@ name: Pinterest Autopilot Engine
 
 on:
   schedule:
-    # Runs 6 times a day (every 4 hours: 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
-    - cron: '0 */4 * * *'
+    # Runs 4 times a day aligned with US peak pinner planning windows:
+    # 02:00 UTC (10 PM ET), 08:00 UTC (4 AM ET), 14:00 UTC (10 AM ET), 20:00 UTC (4 PM ET)
+    - cron: '0 2,8,14,20 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
 permissions:

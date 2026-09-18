@@ -13,13 +13,13 @@ export async function publishApiDueQueue({ config, state }) {
   // --- SAFETY PROTOCOL: 7-Day Cooldown & Daily Limit ---
   const now = new Date();
   const ONE_DAY = 24 * 60 * 60 * 1000;
-  const SEVEN_DAYS = 7 * ONE_DAY;
+  const TWENTY_DAYS = 20 * ONE_DAY;
   
   const allQueueItems = Object.values(state.state.queue || {});
-  const publishedItems = allQueueItems.filter(q => q.status === "published_api" && q.publishedAt);
+  const publishedItems = allQueueItems.filter((q) => q.status === "published_api" && q.publishedAt);
   
   let pinsToday = 0;
-  const publishedSlugs = new Set();
+  const cooldownSlugs = new Set();
   
   let earliestPubDate = now;
 
@@ -33,24 +33,20 @@ export async function publishApiDueQueue({ config, state }) {
       pinsToday++;
     }
     
-    const pastAsset = state.getAsset(item.assetId);
-    if (pastAsset && pastAsset.postSlug) {
-      publishedSlugs.add(pastAsset.postSlug);
+    // Strict 20-Day Cooldown: No URL repeat within 20 days
+    if (ageMs < TWENTY_DAYS) {
+      const pastAsset = state.getAsset(item.assetId);
+      if (pastAsset && pastAsset.postSlug) {
+        cooldownSlugs.add(pastAsset.postSlug);
+      }
     }
   }
 
-  // Calculate Account Age to determine Phase
-  const accountAgeDays = publishedItems.length > 0 ? (now - earliestPubDate) / ONE_DAY : 0;
-  let maxPinsPerDay = 2; // Phase A (< 30 days)
-  
-  if (accountAgeDays >= 60) {
-    maxPinsPerDay = 15; // Phase C (Month 3+)
-  } else if (accountAgeDays >= 30) {
-    maxPinsPerDay = 5; // Phase B (Month 2)
-  }
+  // Daily Pacing: Strictly 4 High-Quality Pins per Day
+  const maxPinsPerDay = 4;
 
   if (pinsToday >= maxPinsPerDay) {
-    console.log(`🛡️ SAFETY PROTOCOL: Daily limit reached (${pinsToday}/${maxPinsPerDay} pins for day ${Math.floor(accountAgeDays)}). Sleeping...`);
+    console.log(`🛡️ SAFETY PROTOCOL: Daily limit reached (${pinsToday}/${maxPinsPerDay} pins for today). Sleeping...`);
     return { publishedCount: 0, dueCount: 0 };
   }
 
@@ -69,10 +65,9 @@ export async function publishApiDueQueue({ config, state }) {
       continue;
     }
 
-    // Strict 1 Pin : 1 URL Policy
-    if (publishedSlugs.has(asset.postSlug)) {
-      console.log(`🛡️ 1 PIN PER 1 URL POLICY: URL slug "${asset.postSlug}" has already been published to Pinterest. Skipping duplicate...`);
-      item.status = "duplicate_skipped";
+    // Strict 20-Day URL Cooldown Check
+    if (cooldownSlugs.has(asset.postSlug)) {
+      console.log(`🛡️ 20-DAY COOLDOWN: URL slug "${asset.postSlug}" was pinned within the last 20 days. Skipping...`);
       continue;
     }
 
@@ -143,7 +138,7 @@ export async function publishApiDueQueue({ config, state }) {
 
       publishedCount++;
       pinsToday++;
-      publishedSlugs.add(slug);
+      cooldownSlugs.add(slug);
       console.log(`✅ Pin published to board ID ${boardId} | Pin ID: ${pinResult.id}`);
     } catch (err) {
       console.error(`❌ Failed to publish pin for asset ${asset.id}:`, err.message);

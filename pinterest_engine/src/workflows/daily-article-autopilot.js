@@ -48,9 +48,9 @@ export async function runDailyArticleAutopilot({ config, state, wordpress }) {
   let selectedTopic = null;
   let selectedSplinterId = null;
 
-  // Find the first combo of Base Topic + Splinter Identity that hasn't been published
-  for (const t of trendingTopics) {
-    for (let i = 0; i < SPLINTER_IDENTITIES.length; i++) {
+  // Round-Robin Topic Rotation: Cycle through ALL 40 seasonal topics first before repeating any recipe
+  for (let i = 0; i < SPLINTER_IDENTITIES.length; i++) {
+    for (const t of trendingTopics) {
       const splinterId = `${t.id}-splinter-${i}`;
       if (!state.state.publishedTrendIds.includes(splinterId)) {
         selectedTopic = { ...t, topic: `${t.topic} ${SPLINTER_IDENTITIES[i]}` };
