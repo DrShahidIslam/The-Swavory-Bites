@@ -18516,7 +18516,7 @@
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/warm-baked-cranberry-pecan-brie-bites-with-flaky-p_20260919_120518.webp",
       "overlayStyle": "minimal_luxury",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-09-19T12:07:00.856Z",
       "scheduledFor": "2026-09-19T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/warm-baked-cranberry-pecan-brie-bites-with-flaky-p_20260919_120518.webp",
@@ -18524,7 +18524,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/warm-baked-cranberry-pecan-brie-bites-flaky-pastry-hero.jpg",
-      "renderedAt": "2026-09-19T12:07:19.059Z"
+      "renderedAt": "2026-09-19T12:07:19.059Z",
+      "pinId": "419397784073382594",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073382594/",
+      "publishedAt": "2026-09-19T16:51:46.234Z"
     }
   },
   "queue": {
@@ -20636,7 +20639,9 @@
       "postId": 5243,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-09-19T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073382594",
+      "publishedAt": "2026-09-19T16:51:46.234Z"
     }
   }
 }
