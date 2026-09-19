@@ -18399,7 +18399,7 @@
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/classic-herb-sausage-and-sourdough-stuffing-from-s_20260918_185734.webp",
       "overlayStyle": "minimal_luxury",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-09-18T22:00:06.780Z",
       "scheduledFor": "2026-09-18T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/classic-herb-sausage-and-sourdough-stuffing-from-s_20260918_185734.webp",
@@ -18407,7 +18407,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-herb-sausage-and-sourdough-stuffing-from-scratch-2-hero.jpg",
-      "renderedAt": "2026-09-18T22:00:28.960Z"
+      "renderedAt": "2026-09-18T22:00:28.960Z",
+      "pinId": "419397784073380491",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073380491/",
+      "publishedAt": "2026-09-19T06:48:15.855Z"
     },
     "5234-hero": {
       "id": "5234-hero",
@@ -20542,7 +20545,9 @@
       "postId": 5237,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-09-18T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073380491",
+      "publishedAt": "2026-09-19T06:48:15.855Z"
     },
     "5234-hero-queue": {
       "id": "5234-hero-queue",
