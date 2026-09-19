@@ -9193,6 +9193,31 @@
         "casserole"
       ],
       "discoveredAt": "2026-09-18T22:00:01.908Z"
+    },
+    "5243": {
+      "postId": 5243,
+      "title": "Warm Baked Cranberry Pecan Brie Bites with Flaky Pastry",
+      "url": "https://el-mordjene.info/warm-baked-cranberry-pecan-brie-bites-flaky-pastry/",
+      "slug": "warm-baked-cranberry-pecan-brie-bites-flaky-pastry",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/warm-baked-cranberry-pecan-brie-bites-with-flaky-p_20260919_120518.webp",
+      "keywordSet": [
+        "warm baked cranberry pecan brie bites with flaky pastry",
+        "master the art of warm baked cranberry pecan brie bites with flaky pastry a perfect",
+        "elegant appetizer guide for home chefs seeking sophisticated flavor",
+        "brie bites",
+        "finger food",
+        "holiday recipes",
+        "puff pastry",
+        "understanding the elegance of warm baked cranberry pecan brie bites with flaky pastry",
+        "appetizers",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-19T12:06:51.771Z"
     }
   },
   "assets": {
@@ -18445,7 +18470,7 @@
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/classic-herb-sausage-and-sourdough-stuffing-from-s_20260918_185649.webp",
       "overlayStyle": "minimal_luxury",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-09-18T22:00:08.827Z",
       "scheduledFor": "2026-09-18T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/classic-herb-sausage-and-sourdough-stuffing-from-s_20260918_185649.webp",
@@ -18453,7 +18478,53 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-herb-sausage-and-sourdough-stuffing-from-scratch-hero.jpg",
-      "renderedAt": "2026-09-18T22:00:31.167Z"
+      "renderedAt": "2026-09-18T22:00:31.167Z",
+      "pinId": "419397784073381519",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073381519/",
+      "publishedAt": "2026-09-19T12:07:22.919Z"
+    },
+    "5243-hero": {
+      "id": "5243-hero",
+      "postId": 5243,
+      "postSlug": "warm-baked-cranberry-pecan-brie-bites-flaky-pastry",
+      "postUrl": "https://el-mordjene.info/warm-baked-cranberry-pecan-brie-bites-flaky-pastry/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Baked Cranberry Brie Bites",
+      "overlaySubtitle": "15-Minute Elegant Appetizer",
+      "pinTitle": "Warm Baked Cranberry Pecan Brie Bites (Easy Appetizer)",
+      "pinDescription": "Experience the ultimate bite-sized indulgence with these warm cranberry pecan brie bites. Featuring buttery, flaky golden pastry wrapped around creamy melted brie and tart, sweet cranberry sauce, every bite is finished with a satisfying crunch of toasted pecans. Perfect for your next gathering or holiday party, thes...",
+      "primaryKeyword": "warm baked cranberry pecan brie bites with flaky pastry",
+      "supportingKeywords": [
+        "warm baked cranberry pecan brie bites with flaky pastry",
+        "master the art of warm baked cranberry pecan brie bites with flaky pastry a perfect",
+        "elegant appetizer guide for home chefs seeking sophisticated flavor",
+        "brie bites",
+        "finger food"
+      ],
+      "searchTags": [
+        "warm baked cranberry pecan brie bites with flaky pastry",
+        "master the art of warm baked cranberry pecan brie bites with flaky pastry a perfect",
+        "elegant appetizer guide for home chefs seeking sophisticated flavor",
+        "brie bites",
+        "finger food",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/warm-baked-cranberry-pecan-brie-bites-with-flaky-p_20260919_120518.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-19T12:07:00.856Z",
+      "scheduledFor": "2026-09-19T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/warm-baked-cranberry-pecan-brie-bites-with-flaky-p_20260919_120518.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/warm-baked-cranberry-pecan-brie-bites-flaky-pastry-hero.jpg",
+      "renderedAt": "2026-09-19T12:07:19.059Z"
     }
   },
   "queue": {
@@ -20555,6 +20626,16 @@
       "postId": 5234,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-09-18T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073381519",
+      "publishedAt": "2026-09-19T12:07:22.919Z"
+    },
+    "5243-hero-queue": {
+      "id": "5243-hero-queue",
+      "assetId": "5243-hero",
+      "postId": 5243,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-19T09:00:00.000Z",
       "status": "draft"
     }
   }
