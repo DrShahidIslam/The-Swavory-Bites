@@ -9218,6 +9218,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-19T12:06:51.771Z"
+    },
+    "5246": {
+      "postId": 5246,
+      "title": "Mile-High Classic Southern Pecan Pie with Flaky Butter Crust",
+      "url": "https://el-mordjene.info/mile-high-classic-southern-pecan-pie-flaky-butter-crust/",
+      "slug": "mile-high-classic-southern-pecan-pie-flaky-butter-crust",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/mile-high-classic-southern-pecan-pie-with-flaky-bu_20260919_214900.webp",
+      "keywordSet": [
+        "high classic southern pecan pie with flaky butter crust",
+        "master the art of a mile",
+        "high classic southern pecan pie with flaky butter crust follow our expert guide for a perfectly balanced",
+        "decadent dessert",
+        "baking guide",
+        "holiday baking",
+        "pecan pie",
+        "southern dessert",
+        "mile",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-19T21:51:13.983Z"
     }
   },
   "assets": {
@@ -18528,6 +18553,49 @@
       "pinId": "419397784073382594",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073382594/",
       "publishedAt": "2026-09-19T16:51:46.234Z"
+    },
+    "5246-hero": {
+      "id": "5246-hero",
+      "postId": 5246,
+      "postSlug": "mile-high-classic-southern-pecan-pie-flaky-butter-crust",
+      "postUrl": "https://el-mordjene.info/mile-high-classic-southern-pecan-pie-flaky-butter-crust/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Mile-High Southern Pecan Pie",
+      "overlaySubtitle": "Classic Flaky Butter Crust",
+      "pinTitle": "Mile-High Classic Southern Pecan Pie with Flaky Butter Crust",
+      "pinDescription": "Experience the ultimate Southern indulgence with this mile-high pecan pie. Featuring a perfectly golden, ultra-flaky butter crust cradling a rich, gooey, and perfectly toasted pecan filling, every bite is a masterclass in texture and flavor. Whether you are baking for the holidays or a cozy weekend treat, this foolp...",
+      "primaryKeyword": "high classic southern pecan pie with flaky butter crust",
+      "supportingKeywords": [
+        "high classic southern pecan pie with flaky butter crust",
+        "master the art of a mile",
+        "high classic southern pecan pie with flaky butter crust follow our expert guide for a perfectly balanced",
+        "decadent dessert",
+        "baking guide"
+      ],
+      "searchTags": [
+        "high classic southern pecan pie with flaky butter crust",
+        "master the art of a mile",
+        "high classic southern pecan pie with flaky butter crust follow our expert guide for a perfectly balanced",
+        "decadent dessert",
+        "baking guide",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/mile-high-classic-southern-pecan-pie-with-flaky-bu_20260919_214900.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-19T21:51:15.673Z",
+      "scheduledFor": "2026-09-19T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/mile-high-classic-southern-pecan-pie-with-flaky-bu_20260919_214900.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/mile-high-classic-southern-pecan-pie-flaky-butter-crust-hero.jpg",
+      "renderedAt": "2026-09-19T21:51:34.243Z"
     }
   },
   "queue": {
@@ -20642,6 +20710,14 @@
       "status": "published_api",
       "pinId": "419397784073382594",
       "publishedAt": "2026-09-19T16:51:46.234Z"
+    },
+    "5246-hero-queue": {
+      "id": "5246-hero-queue",
+      "assetId": "5246-hero",
+      "postId": 5246,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-09-19T09:00:00.000Z",
+      "status": "draft"
     }
   }
 }
