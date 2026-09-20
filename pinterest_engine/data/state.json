@@ -9268,6 +9268,31 @@
         "brownies"
       ],
       "discoveredAt": "2026-09-20T12:41:51.963Z"
+    },
+    "5252": {
+      "postId": 5252,
+      "title": "Crispy Cinnamon Sugar Churro Bites with Chocolate Dip",
+      "url": "https://el-mordjene.info/crispy-cinnamon-sugar-churro-bites-with-chocolate-dip/",
+      "slug": "crispy-cinnamon-sugar-churro-bites-with-chocolate-dip",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-cinnamon-sugar-churro-bites-with-chocolate_20260920_215758.webp",
+      "keywordSet": [
+        "crispy cinnamon sugar churro bites with chocolate dip",
+        "master the art of homemade crispy cinnamon sugar churro bites with chocolate dip this expert guide covers dough chemistry",
+        "frying tips",
+        "and techniques",
+        "chocolate dip",
+        "dessert recipes",
+        "fried sweets",
+        "the art of the perfect churro bite",
+        "churros",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-20T21:59:04.130Z"
     }
   },
   "assets": {
@@ -18670,6 +18695,52 @@
       "pinId": "419397784073389109",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073389109/",
       "publishedAt": "2026-09-20T12:42:14.116Z"
+    },
+    "5252-hero": {
+      "id": "5252-hero",
+      "postId": 5252,
+      "postSlug": "crispy-cinnamon-sugar-churro-bites-with-chocolate-dip",
+      "postUrl": "https://el-mordjene.info/crispy-cinnamon-sugar-churro-bites-with-chocolate-dip/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Crispy Cinnamon Churro Bites",
+      "overlaySubtitle": "Easy 15-Minute Dessert",
+      "pinTitle": "Homemade Cinnamon Sugar Churro Bites with Rich Chocolate Dip",
+      "pinDescription": "Transform your kitchen into a cafe with these irresistible homemade Churro Bites. Perfectly crispy on the outside, light and airy on the inside, and coated in a generous dusting of warm cinnamon sugar. Served with a decadent, velvety chocolate dipping sauce, these bite-sized treats are the ultimate crowd-pleaser for...",
+      "primaryKeyword": "crispy cinnamon sugar churro bites with chocolate dip",
+      "supportingKeywords": [
+        "crispy cinnamon sugar churro bites with chocolate dip",
+        "master the art of homemade crispy cinnamon sugar churro bites with chocolate dip this expert guide covers dough chemistry",
+        "frying tips",
+        "and techniques",
+        "chocolate dip"
+      ],
+      "searchTags": [
+        "crispy cinnamon sugar churro bites with chocolate dip",
+        "master the art of homemade crispy cinnamon sugar churro bites with chocolate dip this expert guide covers dough chemistry",
+        "frying tips",
+        "and techniques",
+        "chocolate dip",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-cinnamon-sugar-churro-bites-with-chocolate_20260920_215758.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-20T21:59:06.184Z",
+      "scheduledFor": "2026-09-20T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/crispy-cinnamon-sugar-churro-bites-with-chocolate_20260920_215758.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-cinnamon-sugar-churro-bites-with-chocolate-dip-hero.jpg",
+      "renderedAt": "2026-09-20T21:59:24.430Z",
+      "pinId": "419397784073392304",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073392304/",
+      "publishedAt": "2026-09-20T21:59:25.696Z"
     }
   },
   "queue": {
@@ -20804,6 +20875,16 @@
       "status": "published_api",
       "pinId": "419397784073389109",
       "publishedAt": "2026-09-20T12:42:14.116Z"
+    },
+    "5252-hero-queue": {
+      "id": "5252-hero-queue",
+      "assetId": "5252-hero",
+      "postId": 5252,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-20T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073392304",
+      "publishedAt": "2026-09-20T21:59:25.696Z"
     }
   }
 }
