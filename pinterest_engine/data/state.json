@@ -9243,6 +9243,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-19T21:51:13.983Z"
+    },
+    "5249": {
+      "postId": 5249,
+      "title": "Ultimate Fudgy Salted Caramel Stuffed Brownies",
+      "url": "https://el-mordjene.info/fudgy-salted-caramel-stuffed-brownies/",
+      "slug": "fudgy-salted-caramel-stuffed-brownies",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/ultimate-fudgy-salted-caramel-stuffed-brownies_20260920_123950.webp",
+      "keywordSet": [
+        "ultimate fudgy salted caramel stuffed brownies",
+        "master the art of fudgy salted caramel stuffed brownies with our expert guide discover secrets for the perfect texture",
+        "gooey centers",
+        "and flavor",
+        "salted caramel",
+        "mastering fudgy salted caramel stuffed brownies",
+        "the culinary mechanics of the perfect brownie",
+        "myth vs fact",
+        "baking",
+        "brownies"
+      ],
+      "discoveredAt": "2026-09-20T12:41:51.963Z"
     }
   },
   "assets": {
@@ -18599,6 +18624,52 @@
       "pinId": "419397784073387117",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073387117/",
       "publishedAt": "2026-09-20T07:11:56.800Z"
+    },
+    "5249-hero": {
+      "id": "5249-hero",
+      "postId": 5249,
+      "postSlug": "fudgy-salted-caramel-stuffed-brownies",
+      "postUrl": "https://el-mordjene.info/fudgy-salted-caramel-stuffed-brownies/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Fudgy Salted Caramel Brownies",
+      "overlaySubtitle": "Decadent Gooey Centers",
+      "pinTitle": "Ultimate Fudgy Salted Caramel Stuffed Brownies",
+      "pinDescription": "Sink your teeth into the ultimate dessert experience. These brownies feature a crackly, paper-thin crust that gives way to an intensely fudgy center and a luscious, golden salted caramel core. Perfectly balanced with a pinch of sea salt, they are the definition of chocolate heaven. Simple to bake and impossible to r...",
+      "primaryKeyword": "ultimate fudgy salted caramel stuffed brownies",
+      "supportingKeywords": [
+        "ultimate fudgy salted caramel stuffed brownies",
+        "master the art of fudgy salted caramel stuffed brownies with our expert guide discover secrets for the perfect texture",
+        "gooey centers",
+        "and flavor",
+        "salted caramel"
+      ],
+      "searchTags": [
+        "ultimate fudgy salted caramel stuffed brownies",
+        "master the art of fudgy salted caramel stuffed brownies with our expert guide discover secrets for the perfect texture",
+        "gooey centers",
+        "and flavor",
+        "salted caramel",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/ultimate-fudgy-salted-caramel-stuffed-brownies_20260920_123950.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "published_api",
+      "createdAt": "2026-09-20T12:41:54.974Z",
+      "scheduledFor": "2026-09-20T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/ultimate-fudgy-salted-caramel-stuffed-brownies_20260920_123950.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/fudgy-salted-caramel-stuffed-brownies-hero.jpg",
+      "renderedAt": "2026-09-20T12:42:12.850Z",
+      "pinId": "419397784073389109",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073389109/",
+      "publishedAt": "2026-09-20T12:42:14.116Z"
     }
   },
   "queue": {
@@ -20723,6 +20794,16 @@
       "status": "published_api",
       "pinId": "419397784073387117",
       "publishedAt": "2026-09-20T07:11:56.800Z"
+    },
+    "5249-hero-queue": {
+      "id": "5249-hero-queue",
+      "assetId": "5249-hero",
+      "postId": 5249,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-09-20T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073389109",
+      "publishedAt": "2026-09-20T12:42:14.116Z"
     }
   }
 }
