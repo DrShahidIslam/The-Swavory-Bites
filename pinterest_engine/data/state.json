@@ -18587,7 +18587,7 @@
       ],
       "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/mile-high-classic-southern-pecan-pie-with-flaky-bu_20260919_214900.webp",
       "overlayStyle": "minimal_luxury",
-      "status": "rendered",
+      "status": "published_api",
       "createdAt": "2026-09-19T21:51:15.673Z",
       "scheduledFor": "2026-09-19T09:00:00.000Z",
       "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/mile-high-classic-southern-pecan-pie-with-flaky-bu_20260919_214900.webp",
@@ -18595,7 +18595,10 @@
       "imageSourceAttribution": "site",
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/mile-high-classic-southern-pecan-pie-flaky-butter-crust-hero.jpg",
-      "renderedAt": "2026-09-19T21:51:34.243Z"
+      "renderedAt": "2026-09-19T21:51:34.243Z",
+      "pinId": "419397784073387117",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073387117/",
+      "publishedAt": "2026-09-20T07:11:56.800Z"
     }
   },
   "queue": {
@@ -20717,7 +20720,9 @@
       "postId": 5246,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-09-19T09:00:00.000Z",
-      "status": "draft"
+      "status": "published_api",
+      "pinId": "419397784073387117",
+      "publishedAt": "2026-09-20T07:11:56.800Z"
     }
   }
 }
