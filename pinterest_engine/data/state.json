@@ -9293,6 +9293,30 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-20T21:59:04.130Z"
+    },
+    "5255": {
+      "postId": 5255,
+      "title": "The Ultimate Crispy Apple Crisp with Vanilla Bean Ice Cream",
+      "url": "https://el-mordjene.info/crispy-apple-crisp-with-vanilla-bean-ice-cream/",
+      "slug": "crispy-apple-crisp-with-vanilla-bean-ice-cream",
+      "language": "en",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "shouldPin": true,
+      "contentType": "drink",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/the-ultimate-crispy-apple-crisp-with-vanilla-bean_20260921_143450.webp",
+      "keywordSet": [
+        "the ultimate crispy apple crisp with vanilla bean ice cream",
+        "master the art of the perfect crispy apple crisp with vanilla bean ice cream discover pro techniques for golden",
+        "buttery crumbles and spiced fruit",
+        "apple crisp",
+        "comfort food",
+        "dessert recipes",
+        "fall baking",
+        "understanding the perfect crispy apple crisp with vanilla bean ice cream",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-21T14:38:00.559Z"
     }
   },
   "assets": {
@@ -18741,6 +18765,52 @@
       "pinId": "419397784073392304",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073392304/",
       "publishedAt": "2026-09-20T21:59:25.696Z"
+    },
+    "5255-hero": {
+      "id": "5255-hero",
+      "postId": 5255,
+      "postSlug": "crispy-apple-crisp-with-vanilla-bean-ice-cream",
+      "postUrl": "https://el-mordjene.info/crispy-apple-crisp-with-vanilla-bean-ice-cream/",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "variant": "hero",
+      "contentType": "drink",
+      "language": "en",
+      "overlayTitle": "Perfect Golden Apple Crisp",
+      "overlaySubtitle": "Classic Comfort Dessert",
+      "pinTitle": "The Ultimate Crispy Apple Crisp with Vanilla Bean Ice Cream",
+      "pinDescription": "Sink your spoon into the ultimate comfort dessert. This apple crisp features tender, cinnamon-spiced apples topped with a perfectly golden, buttery oat crumble that stays crunchy every time. Served warm with a generous scoop of melting vanilla bean ice cream, it is the cozy treat your family will crave all season lo...",
+      "primaryKeyword": "the ultimate crispy apple crisp with vanilla bean ice cream",
+      "supportingKeywords": [
+        "the ultimate crispy apple crisp with vanilla bean ice cream",
+        "master the art of the perfect crispy apple crisp with vanilla bean ice cream discover pro techniques for golden",
+        "buttery crumbles and spiced fruit",
+        "apple crisp",
+        "comfort food"
+      ],
+      "searchTags": [
+        "the ultimate crispy apple crisp with vanilla bean ice cream",
+        "master the art of the perfect crispy apple crisp with vanilla bean ice cream discover pro techniques for golden",
+        "buttery crumbles and spiced fruit",
+        "apple crisp",
+        "comfort food",
+        "drink",
+        "drink recipes — cocktails & mocktails"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/the-ultimate-crispy-apple-crisp-with-vanilla-bean_20260921_143450.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-21T14:38:03.735Z",
+      "scheduledFor": "2026-09-21T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/the-ultimate-crispy-apple-crisp-with-vanilla-bean_20260921_143450.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-apple-crisp-with-vanilla-bean-ice-cream-hero.jpg",
+      "renderedAt": "2026-09-21T14:38:21.380Z",
+      "pinId": "419397784073397434",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073397434/",
+      "publishedAt": "2026-09-21T14:38:22.977Z"
     }
   },
   "queue": {
@@ -20885,6 +20955,16 @@
       "status": "published_api",
       "pinId": "419397784073392304",
       "publishedAt": "2026-09-20T21:59:25.696Z"
+    },
+    "5255-hero-queue": {
+      "id": "5255-hero-queue",
+      "assetId": "5255-hero",
+      "postId": 5255,
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-09-21T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073397434",
+      "publishedAt": "2026-09-21T14:38:22.977Z"
     }
   }
 }
