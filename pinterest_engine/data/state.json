@@ -9317,6 +9317,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-21T14:38:00.559Z"
+    },
+    "5258": {
+      "postId": 5258,
+      "title": "Chewy Espresso Chocolate Brownie Cookies: A Culinary Guide",
+      "url": "https://el-mordjene.info/chewy-espresso-chocolate-brownie-cookies/",
+      "slug": "chewy-espresso-chocolate-brownie-cookies",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/chewy-espresso-chocolate-brownie-cookies-a-culinar_20260921_225234.webp",
+      "keywordSet": [
+        "chewy espresso chocolate brownie cookies",
+        "a culinary guide",
+        "master the art of chewy espresso chocolate brownie cookies learn the chemistry",
+        "and pro tips to achieve the perfect crackly",
+        "fudgy texture",
+        "the anatomy of the perfect brownie cookie",
+        "the role of espresso in chocolate chemistry",
+        "why texture matters",
+        "techniques",
+        "baking"
+      ],
+      "discoveredAt": "2026-09-21T22:54:23.205Z"
     }
   },
   "assets": {
@@ -18811,6 +18836,52 @@
       "pinId": "419397784073397434",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073397434/",
       "publishedAt": "2026-09-21T14:38:22.977Z"
+    },
+    "5258-hero": {
+      "id": "5258-hero",
+      "postId": 5258,
+      "postSlug": "chewy-espresso-chocolate-brownie-cookies",
+      "postUrl": "https://el-mordjene.info/chewy-espresso-chocolate-brownie-cookies/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Fudgy Espresso Brownie Cookies",
+      "overlaySubtitle": "Chewy, Crackly Perfection",
+      "pinTitle": "Chewy Espresso Brownie Cookies | Fudgy & Irresistible",
+      "pinDescription": "Indulge in the ultimate treat with these chewy espresso chocolate brownie cookies. Featuring a signature crackly top and a rich, fudgy center, these cookies marry deep cocoa notes with a bold espresso kick. They are the perfect balance of sophisticated coffee flavor and decadent chocolate comfort. Learn the secret t...",
+      "primaryKeyword": "chewy espresso chocolate brownie cookies",
+      "supportingKeywords": [
+        "chewy espresso chocolate brownie cookies",
+        "a culinary guide",
+        "master the art of chewy espresso chocolate brownie cookies learn the chemistry",
+        "and pro tips to achieve the perfect crackly",
+        "fudgy texture"
+      ],
+      "searchTags": [
+        "chewy espresso chocolate brownie cookies",
+        "a culinary guide",
+        "master the art of chewy espresso chocolate brownie cookies learn the chemistry",
+        "and pro tips to achieve the perfect crackly",
+        "fudgy texture",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/chewy-espresso-chocolate-brownie-cookies-a-culinar_20260921_225234.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "published_api",
+      "createdAt": "2026-09-21T22:54:25.961Z",
+      "scheduledFor": "2026-09-21T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/chewy-espresso-chocolate-brownie-cookies-a-culinar_20260921_225234.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chewy-espresso-chocolate-brownie-cookies-hero.jpg",
+      "renderedAt": "2026-09-21T22:54:43.719Z",
+      "pinId": "419397784073400685",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073400685/",
+      "publishedAt": "2026-09-21T22:54:45.564Z"
     }
   },
   "queue": {
@@ -20965,6 +21036,16 @@
       "status": "published_api",
       "pinId": "419397784073397434",
       "publishedAt": "2026-09-21T14:38:22.977Z"
+    },
+    "5258-hero-queue": {
+      "id": "5258-hero-queue",
+      "assetId": "5258-hero",
+      "postId": 5258,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-09-21T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073400685",
+      "publishedAt": "2026-09-21T22:54:45.565Z"
     }
   }
 }
