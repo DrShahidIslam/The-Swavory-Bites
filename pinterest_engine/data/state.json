@@ -9367,6 +9367,31 @@
         "breakfast"
       ],
       "discoveredAt": "2026-09-22T12:53:31.420Z"
+    },
+    "5264": {
+      "postId": 5264,
+      "title": "Cinnamon Roll Monkey Bread with Cream Cheese Icing",
+      "url": "https://el-mordjene.info/cinnamon-roll-monkey-bread-with-cream-cheese-icing/",
+      "slug": "cinnamon-roll-monkey-bread-with-cream-cheese-icing",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/cinnamon-roll-monkey-bread-with-cream-cheese-icing_20260922_222728.webp",
+      "keywordSet": [
+        "cinnamon roll monkey bread with cream cheese icing",
+        "master the art of cinnamon roll monkey bread with cream cheese icing a decadent",
+        "apart treat perfect for brunch or dessert easy",
+        "and rich",
+        "brunch recipes",
+        "cinnamon rolls",
+        "monkey bread",
+        "understanding the allure of pull",
+        "pull",
+        "buttery"
+      ],
+      "discoveredAt": "2026-09-22T22:27:58.711Z"
     }
   },
   "assets": {
@@ -18953,6 +18978,49 @@
       "pinId": "419397784073404939",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073404939/",
       "publishedAt": "2026-09-22T12:53:53.660Z"
+    },
+    "5264-hero": {
+      "id": "5264-hero",
+      "postId": 5264,
+      "postSlug": "cinnamon-roll-monkey-bread-with-cream-cheese-icing",
+      "postUrl": "https://el-mordjene.info/cinnamon-roll-monkey-bread-with-cream-cheese-icing/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Pull-Apart Cinnamon Monkey Bread",
+      "overlaySubtitle": "Easy Brunch Perfection",
+      "pinTitle": "Cinnamon Roll Monkey Bread with Cream Cheese Icing",
+      "pinDescription": "Indulge in the ultimate pull-apart treat that’s guaranteed to disappear in seconds. This decadent monkey bread combines soft, buttery dough chunks coated in caramelized cinnamon sugar and drizzled with a rich, velvety cream cheese icing. It is the perfect centerpiece for a cozy weekend brunch or a crowd-pleasing des...",
+      "primaryKeyword": "cinnamon roll monkey bread with cream cheese icing",
+      "supportingKeywords": [
+        "cinnamon roll monkey bread with cream cheese icing",
+        "master the art of cinnamon roll monkey bread with cream cheese icing a decadent",
+        "apart treat perfect for brunch or dessert easy",
+        "and rich",
+        "brunch recipes"
+      ],
+      "searchTags": [
+        "cinnamon roll monkey bread with cream cheese icing",
+        "master the art of cinnamon roll monkey bread with cream cheese icing a decadent",
+        "apart treat perfect for brunch or dessert easy",
+        "and rich",
+        "brunch recipes",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/cinnamon-roll-monkey-bread-with-cream-cheese-icing_20260922_222728.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-22T22:28:45.794Z",
+      "scheduledFor": "2026-09-22T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/cinnamon-roll-monkey-bread-with-cream-cheese-icing_20260922_222728.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cinnamon-roll-monkey-bread-with-cream-cheese-icing-hero.jpg",
+      "renderedAt": "2026-09-22T22:29:06.392Z"
     }
   },
   "queue": {
@@ -21127,6 +21195,14 @@
       "status": "published_api",
       "pinId": "419397784073404939",
       "publishedAt": "2026-09-22T12:53:53.660Z"
+    },
+    "5264-hero-queue": {
+      "id": "5264-hero-queue",
+      "assetId": "5264-hero",
+      "postId": 5264,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-09-22T09:00:00.000Z",
+      "status": "draft"
     }
   }
 }
