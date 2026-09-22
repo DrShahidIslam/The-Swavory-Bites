@@ -9342,6 +9342,31 @@
         "baking"
       ],
       "discoveredAt": "2026-09-21T22:54:23.205Z"
+    },
+    "5261": {
+      "postId": 5261,
+      "title": "Decadent Layered Nutella Stuffed French Toast Roll-Ups",
+      "url": "https://el-mordjene.info/layered-nutella-stuffed-french-toast-roll-ups/",
+      "slug": "layered-nutella-stuffed-french-toast-roll-ups",
+      "language": "fr",
+      "boardKey": "spreads_fr",
+      "boardName": "Pâtes à Tartiner & Douceurs",
+      "shouldPin": true,
+      "contentType": "spread",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/decadent-layered-nutella-stuffed-french-toast-roll_20260922_125256.webp",
+      "keywordSet": [
+        "decadent layered nutella stuffed french toast roll",
+        "master the art of layered nutella stuffed french toast roll",
+        "ups with this guide to perfect texture",
+        "flavor balance",
+        "and pro",
+        "level browning techniques",
+        "understanding the mechanics of layered nutella stuffed french toast roll",
+        "the science of the perfect roll",
+        "ups",
+        "breakfast"
+      ],
+      "discoveredAt": "2026-09-22T12:53:31.420Z"
     }
   },
   "assets": {
@@ -18882,6 +18907,52 @@
       "pinId": "419397784073400685",
       "pinterestUrl": "https://www.pinterest.com/pin/419397784073400685/",
       "publishedAt": "2026-09-21T22:54:45.564Z"
+    },
+    "5261-hero": {
+      "id": "5261-hero",
+      "postId": 5261,
+      "postSlug": "layered-nutella-stuffed-french-toast-roll-ups",
+      "postUrl": "https://el-mordjene.info/layered-nutella-stuffed-french-toast-roll-ups/",
+      "boardKey": "spreads_fr",
+      "boardName": "Pâtes à Tartiner & Douceurs",
+      "variant": "hero",
+      "contentType": "spread",
+      "language": "fr",
+      "overlayTitle": "Decadent Nutella French Toast",
+      "overlaySubtitle": "Easy 15-Minute Brunch",
+      "pinTitle": "Nutella Stuffed French Toast Roll-Ups Recipe",
+      "pinDescription": "Transform your morning with these irresistible Nutella stuffed French toast roll-ups. Each bite features a golden, crispy exterior giving way to a warm, molten chocolate-hazelnut center. Perfectly toasted and easy to assemble, these roll-ups are the ultimate indulgent breakfast or sweet weekend brunch treat that the...",
+      "primaryKeyword": "decadent layered nutella stuffed french toast roll",
+      "supportingKeywords": [
+        "decadent layered nutella stuffed french toast roll",
+        "master the art of layered nutella stuffed french toast roll",
+        "ups with this guide to perfect texture",
+        "flavor balance",
+        "and pro"
+      ],
+      "searchTags": [
+        "decadent layered nutella stuffed french toast roll",
+        "master the art of layered nutella stuffed french toast roll",
+        "ups with this guide to perfect texture",
+        "flavor balance",
+        "and pro",
+        "spread",
+        "pâtes à tartiner & douceurs"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/decadent-layered-nutella-stuffed-french-toast-roll_20260922_125256.webp",
+      "overlayStyle": "clean_photo",
+      "status": "published_api",
+      "createdAt": "2026-09-22T12:53:36.160Z",
+      "scheduledFor": "2026-09-22T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/decadent-layered-nutella-stuffed-french-toast-roll_20260922_125256.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/layered-nutella-stuffed-french-toast-roll-ups-hero.jpg",
+      "renderedAt": "2026-09-22T12:53:52.319Z",
+      "pinId": "419397784073404939",
+      "pinterestUrl": "https://www.pinterest.com/pin/419397784073404939/",
+      "publishedAt": "2026-09-22T12:53:53.660Z"
     }
   },
   "queue": {
@@ -21046,6 +21117,16 @@
       "status": "published_api",
       "pinId": "419397784073400685",
       "publishedAt": "2026-09-21T22:54:45.565Z"
+    },
+    "5261-hero-queue": {
+      "id": "5261-hero-queue",
+      "assetId": "5261-hero",
+      "postId": 5261,
+      "boardName": "Pâtes à Tartiner & Douceurs",
+      "scheduledFor": "2026-09-22T09:00:00.000Z",
+      "status": "published_api",
+      "pinId": "419397784073404939",
+      "publishedAt": "2026-09-22T12:53:53.660Z"
     }
   }
 }
