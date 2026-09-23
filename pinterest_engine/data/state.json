@@ -9392,6 +9392,31 @@
         "buttery"
       ],
       "discoveredAt": "2026-09-22T22:27:58.711Z"
+    },
+    "5267": {
+      "postId": 5267,
+      "title": "Ultimate Salted Caramel Pecan Tart with Shortbread Crust",
+      "url": "https://el-mordjene.info/salted-caramel-pecan-tart-with-shortbread-crust/",
+      "slug": "salted-caramel-pecan-tart-with-shortbread-crust",
+      "language": "en",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "shouldPin": true,
+      "contentType": "drink",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/ultimate-salted-caramel-pecan-tart-with-shortbread_20260923_130344.webp",
+      "keywordSet": [
+        "ultimate salted caramel pecan tart with shortbread crust",
+        "master the art of the perfect salted caramel pecan tart with shortbread crust expert techniques for a buttery",
+        "crumbly base and smooth",
+        "golden caramel",
+        "holiday baking",
+        "tart recipe",
+        "elevating the classic tart experience",
+        "the anatomy of a perfect tart",
+        "baking",
+        "dessert"
+      ],
+      "discoveredAt": "2026-09-23T13:05:00.183Z"
     }
   },
   "assets": {
@@ -19021,6 +19046,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cinnamon-roll-monkey-bread-with-cream-cheese-icing-hero.jpg",
       "renderedAt": "2026-09-22T22:29:06.392Z"
+    },
+    "5267-hero": {
+      "id": "5267-hero",
+      "postId": 5267,
+      "postSlug": "salted-caramel-pecan-tart-with-shortbread-crust",
+      "postUrl": "https://el-mordjene.info/salted-caramel-pecan-tart-with-shortbread-crust/",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "variant": "hero",
+      "contentType": "drink",
+      "language": "en",
+      "overlayTitle": "Ultimate Salted Caramel Tart",
+      "overlaySubtitle": "Showstopper Dessert Recipe",
+      "pinTitle": "Ultimate Salted Caramel Pecan Tart: Buttery Shortbread & Golden Caramel Perfection.",
+      "pinDescription": "Indulge in the ultimate salted caramel pecan tart! A buttery, crumbly shortbread crust cradles a luscious, golden caramel filling bursting with toasted pecans and a hint of sea salt. This showstopper dessert offers a symphony of sweet and salty flavors, perfectly balanced with crunchy and smooth textures. Surprising...",
+      "primaryKeyword": "ultimate salted caramel pecan tart with shortbread crust",
+      "supportingKeywords": [
+        "ultimate salted caramel pecan tart with shortbread crust",
+        "master the art of the perfect salted caramel pecan tart with shortbread crust expert techniques for a buttery",
+        "crumbly base and smooth",
+        "golden caramel",
+        "holiday baking"
+      ],
+      "searchTags": [
+        "ultimate salted caramel pecan tart with shortbread crust",
+        "master the art of the perfect salted caramel pecan tart with shortbread crust expert techniques for a buttery",
+        "crumbly base and smooth",
+        "golden caramel",
+        "holiday baking",
+        "drink",
+        "drink recipes — cocktails & mocktails"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/ultimate-salted-caramel-pecan-tart-with-shortbread_20260923_130344.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-23T13:05:29.443Z",
+      "scheduledFor": "2026-09-23T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/ultimate-salted-caramel-pecan-tart-with-shortbread_20260923_130344.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/salted-caramel-pecan-tart-with-shortbread-crust-hero.jpg",
+      "renderedAt": "2026-09-23T13:05:45.582Z"
     }
   },
   "queue": {
@@ -21202,6 +21270,14 @@
       "postId": 5264,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-09-22T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5267-hero-queue": {
+      "id": "5267-hero-queue",
+      "assetId": "5267-hero",
+      "postId": 5267,
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-09-23T09:00:00.000Z",
       "status": "draft"
     }
   }
