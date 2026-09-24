@@ -9442,6 +9442,31 @@
         "brunch"
       ],
       "discoveredAt": "2026-09-24T06:51:54.315Z"
+    },
+    "5273": {
+      "postId": 5273,
+      "title": "Perfect Spiced Pumpkin Snickerdoodle Cookies: A Fall Essential",
+      "url": "https://el-mordjene.info/spiced-pumpkin-snickerdoodle-cookies/",
+      "slug": "spiced-pumpkin-snickerdoodle-cookies",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/perfect-spiced-pumpkin-snickerdoodle-cookies-a-fal_20260924_125828.webp",
+      "keywordSet": [
+        "perfect spiced pumpkin snickerdoodle cookies",
+        "a fall essential",
+        "master the art of spiced pumpkin snickerdoodle cookies discover the science",
+        "pro techniques",
+        "and essential swaps for the perfect autumn treat",
+        "cookie recipes",
+        "fall desserts",
+        "pumpkin cookies",
+        "baking",
+        "snickerdoodles"
+      ],
+      "discoveredAt": "2026-09-24T18:01:20.312Z"
     }
   },
   "assets": {
@@ -19157,6 +19182,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/homemade-churro-waffles-with-cinnamon-sugar-hero.jpg",
       "renderedAt": "2026-09-24T06:52:36.278Z"
+    },
+    "5273-hero": {
+      "id": "5273-hero",
+      "postId": 5273,
+      "postSlug": "spiced-pumpkin-snickerdoodle-cookies",
+      "postUrl": "https://el-mordjene.info/spiced-pumpkin-snickerdoodle-cookies/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Chewy Pumpkin Snickerdoodle Cookies",
+      "overlaySubtitle": "Ultimate Autumn Treat",
+      "pinTitle": "Spiced Pumpkin Snickerdoodles (Soft & Chewy Recipe)",
+      "pinDescription": "Soft, pillowy centers rolled in warm cinnamon sugar make these spiced pumpkin snickerdoodle cookies an absolute autumn necessity. Loaded with real pumpkin puree and warm fall spices, every bite melts in your mouth with cozy flavor. Perfect for weekend baking, fall gatherings, or cozy sweater weather cravings. Get th...",
+      "primaryKeyword": "perfect spiced pumpkin snickerdoodle cookies",
+      "supportingKeywords": [
+        "perfect spiced pumpkin snickerdoodle cookies",
+        "a fall essential",
+        "master the art of spiced pumpkin snickerdoodle cookies discover the science",
+        "pro techniques",
+        "and essential swaps for the perfect autumn treat"
+      ],
+      "searchTags": [
+        "perfect spiced pumpkin snickerdoodle cookies",
+        "a fall essential",
+        "master the art of spiced pumpkin snickerdoodle cookies discover the science",
+        "pro techniques",
+        "and essential swaps for the perfect autumn treat",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/perfect-spiced-pumpkin-snickerdoodle-cookies-a-fal_20260924_125828.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-24T18:01:34.132Z",
+      "scheduledFor": "2026-09-24T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/perfect-spiced-pumpkin-snickerdoodle-cookies-a-fal_20260924_125828.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/spiced-pumpkin-snickerdoodle-cookies-hero.jpg",
+      "renderedAt": "2026-09-24T18:01:52.521Z"
     }
   },
   "queue": {
@@ -21354,6 +21422,14 @@
       "postId": 5270,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-09-23T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5273-hero-queue": {
+      "id": "5273-hero-queue",
+      "assetId": "5273-hero",
+      "postId": 5273,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-09-24T09:00:00.000Z",
       "status": "draft"
     }
   }
