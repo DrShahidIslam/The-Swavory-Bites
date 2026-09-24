@@ -9417,6 +9417,31 @@
         "dessert"
       ],
       "discoveredAt": "2026-09-23T13:05:00.183Z"
+    },
+    "5270": {
+      "postId": 5270,
+      "title": "Homemade Churro Waffles with Cinnamon Sugar Recipe",
+      "url": "https://el-mordjene.info/homemade-churro-waffles-with-cinnamon-sugar/",
+      "slug": "homemade-churro-waffles-with-cinnamon-sugar",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/homemade-churro-waffles-with-cinnamon-sugar-recipe_20260923_223103.webp",
+      "keywordSet": [
+        "homemade churro waffles with cinnamon sugar recipe",
+        "master the perfect homemade churro waffles with cinnamon sugar this guide covers the culinary science",
+        "expert techniques",
+        "and pro tips for golden perfection",
+        "churro waffles",
+        "cinnamon sugar",
+        "the ultimate guide to homemade churro waffles with cinnamon sugar",
+        "key ingredients and culinary mechanics",
+        "breakfast",
+        "brunch"
+      ],
+      "discoveredAt": "2026-09-24T06:51:54.315Z"
     }
   },
   "assets": {
@@ -19089,6 +19114,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/salted-caramel-pecan-tart-with-shortbread-crust-hero.jpg",
       "renderedAt": "2026-09-23T13:05:45.582Z"
+    },
+    "5270-hero": {
+      "id": "5270-hero",
+      "postId": 5270,
+      "postSlug": "homemade-churro-waffles-with-cinnamon-sugar",
+      "postUrl": "https://el-mordjene.info/homemade-churro-waffles-with-cinnamon-sugar/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Crispy Cinnamon Churro Waffles",
+      "overlaySubtitle": "15-Minute Breakfast Treat",
+      "pinTitle": "Homemade Churro Waffles with Cinnamon Sugar",
+      "pinDescription": "Experience the ultimate breakfast fusion with these golden, crispy Homemade Churro Waffles. Each bite is packed with warm cinnamon-sugar coating and a buttery, soft interior that melts in your mouth. Perfect for a quick weekend brunch or a decadent morning treat, these waffles are incredibly easy to whip up. Discove...",
+      "primaryKeyword": "homemade churro waffles with cinnamon sugar recipe",
+      "supportingKeywords": [
+        "homemade churro waffles with cinnamon sugar recipe",
+        "master the perfect homemade churro waffles with cinnamon sugar this guide covers the culinary science",
+        "expert techniques",
+        "and pro tips for golden perfection",
+        "churro waffles"
+      ],
+      "searchTags": [
+        "homemade churro waffles with cinnamon sugar recipe",
+        "master the perfect homemade churro waffles with cinnamon sugar this guide covers the culinary science",
+        "expert techniques",
+        "and pro tips for golden perfection",
+        "churro waffles",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/homemade-churro-waffles-with-cinnamon-sugar-recipe_20260923_223103.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-24T06:52:04.262Z",
+      "scheduledFor": "2026-09-23T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/homemade-churro-waffles-with-cinnamon-sugar-recipe_20260923_223103.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/homemade-churro-waffles-with-cinnamon-sugar-hero.jpg",
+      "renderedAt": "2026-09-24T06:52:36.278Z"
     }
   },
   "queue": {
@@ -21277,6 +21345,14 @@
       "assetId": "5267-hero",
       "postId": 5267,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-09-23T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5270-hero-queue": {
+      "id": "5270-hero-queue",
+      "assetId": "5270-hero",
+      "postId": 5270,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-09-23T09:00:00.000Z",
       "status": "draft"
     }
