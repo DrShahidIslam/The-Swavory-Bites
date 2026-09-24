@@ -9467,6 +9467,31 @@
         "snickerdoodles"
       ],
       "discoveredAt": "2026-09-24T18:01:20.312Z"
+    },
+    "5276": {
+      "postId": 5276,
+      "title": "Pumpkin Cream Cold Foam Iced Coffee at Home Guide",
+      "url": "https://el-mordjene.info/pumpkin-cream-cold-foam-iced-coffee-at-home/",
+      "slug": "pumpkin-cream-cold-foam-iced-coffee-at-home",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/pumpkin-cream-cold-foam-iced-coffee-at-home-guide_20260924_224523.webp",
+      "keywordSet": [
+        "pumpkin cream cold foam iced coffee at home guide",
+        "master the art of pumpkin cream cold foam iced coffee at home learn professional techniques",
+        "chemistry hacks",
+        "and the perfect recipe for fall",
+        "cold foam",
+        "fall recipes",
+        "home barista",
+        "iced coffee",
+        "recipes",
+        "preparation"
+      ],
+      "discoveredAt": "2026-09-24T22:47:05.541Z"
     }
   },
   "assets": {
@@ -19225,6 +19250,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/spiced-pumpkin-snickerdoodle-cookies-hero.jpg",
       "renderedAt": "2026-09-24T18:01:52.521Z"
+    },
+    "5276-hero": {
+      "id": "5276-hero",
+      "postId": 5276,
+      "postSlug": "pumpkin-cream-cold-foam-iced-coffee-at-home",
+      "postUrl": "https://el-mordjene.info/pumpkin-cream-cold-foam-iced-coffee-at-home/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Dreamy Pumpkin Cold Foam",
+      "overlaySubtitle": "Coffee Shop At Home",
+      "pinTitle": "Master Homemade Pumpkin Cream Cold Foam Iced Coffee This Fall",
+      "pinDescription": "Indulge in the velvety smooth, perfectly spiced Pumpkin Cream Cold Foam Iced Coffee right from your kitchen! This guide unlocks the secrets to crafting that iconic coffee shop experience, with rich espresso, a luscious pumpkin-infused foam, and a touch of sweet autumn magic. Forget the lines – create your dreamy fal...",
+      "primaryKeyword": "pumpkin cream cold foam iced coffee at home guide",
+      "supportingKeywords": [
+        "pumpkin cream cold foam iced coffee at home guide",
+        "master the art of pumpkin cream cold foam iced coffee at home learn professional techniques",
+        "chemistry hacks",
+        "and the perfect recipe for fall",
+        "cold foam"
+      ],
+      "searchTags": [
+        "pumpkin cream cold foam iced coffee at home guide",
+        "master the art of pumpkin cream cold foam iced coffee at home learn professional techniques",
+        "chemistry hacks",
+        "and the perfect recipe for fall",
+        "cold foam",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/pumpkin-cream-cold-foam-iced-coffee-at-home-guide_20260924_224523.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-24T22:47:57.065Z",
+      "scheduledFor": "2026-09-24T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/pumpkin-cream-cold-foam-iced-coffee-at-home-guide_20260924_224523.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/pumpkin-cream-cold-foam-iced-coffee-at-home-hero.jpg",
+      "renderedAt": "2026-09-24T22:48:11.799Z"
     }
   },
   "queue": {
@@ -21429,6 +21497,14 @@
       "assetId": "5273-hero",
       "postId": 5273,
       "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-09-24T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5276-hero-queue": {
+      "id": "5276-hero-queue",
+      "assetId": "5276-hero",
+      "postId": 5276,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-09-24T09:00:00.000Z",
       "status": "draft"
     }
