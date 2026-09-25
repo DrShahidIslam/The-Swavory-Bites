@@ -9492,6 +9492,31 @@
         "preparation"
       ],
       "discoveredAt": "2026-09-24T22:47:05.541Z"
+    },
+    "5279": {
+      "postId": 5279,
+      "title": "Creamy Roasted Butternut Squash Soup with Crispy Sage",
+      "url": "https://el-mordjene.info/creamy-roasted-butternut-squash-soup-crispy-sage/",
+      "slug": "creamy-roasted-butternut-squash-soup-crispy-sage",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-roasted-butternut-squash-soup-with-crispy-s_20260925_130348.webp",
+      "keywordSet": [
+        "creamy roasted butternut squash soup with crispy sage",
+        "master the art of creamy roasted butternut squash soup with crispy sage this guide covers roasting techniques",
+        "flavor balancing",
+        "and expert tips",
+        "butternut squash soup",
+        "fall recipes",
+        "soup recipes",
+        "the culinary renaissance of roasted squash soup",
+        "vegetarian",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-25T13:04:20.522Z"
     }
   },
   "assets": {
@@ -19293,6 +19318,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/pumpkin-cream-cold-foam-iced-coffee-at-home-hero.jpg",
       "renderedAt": "2026-09-24T22:48:11.799Z"
+    },
+    "5279-hero": {
+      "id": "5279-hero",
+      "postId": 5279,
+      "postSlug": "creamy-roasted-butternut-squash-soup-crispy-sage",
+      "postUrl": "https://el-mordjene.info/creamy-roasted-butternut-squash-soup-crispy-sage/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Creamy Roasted Butternut Soup",
+      "overlaySubtitle": "Velvety Comfort Food",
+      "pinTitle": "Creamy Roasted Butternut Squash Soup with Crispy Sage",
+      "pinDescription": "Experience the ultimate bowl of autumn comfort. This roasted butternut squash soup features a velvety texture, perfectly caramelized edges, and a fragrant garnish of crispy, butter-fried sage. It is the perfect balance of earthy sweetness and savory depth, making it an effortless yet elegant meal for chilly evenings...",
+      "primaryKeyword": "creamy roasted butternut squash soup with crispy sage",
+      "supportingKeywords": [
+        "creamy roasted butternut squash soup with crispy sage",
+        "master the art of creamy roasted butternut squash soup with crispy sage this guide covers roasting techniques",
+        "flavor balancing",
+        "and expert tips",
+        "butternut squash soup"
+      ],
+      "searchTags": [
+        "creamy roasted butternut squash soup with crispy sage",
+        "master the art of creamy roasted butternut squash soup with crispy sage this guide covers roasting techniques",
+        "flavor balancing",
+        "and expert tips",
+        "butternut squash soup",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-roasted-butternut-squash-soup-with-crispy-s_20260925_130348.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-25T13:04:23.043Z",
+      "scheduledFor": "2026-09-25T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-roasted-butternut-squash-soup-with-crispy-s_20260925_130348.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-roasted-butternut-squash-soup-crispy-sage-hero.jpg",
+      "renderedAt": "2026-09-25T13:04:41.734Z"
     }
   },
   "queue": {
@@ -21506,6 +21574,14 @@
       "postId": 5276,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-09-24T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5279-hero-queue": {
+      "id": "5279-hero-queue",
+      "assetId": "5279-hero",
+      "postId": 5279,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-25T09:00:00.000Z",
       "status": "draft"
     }
   }
