@@ -9517,6 +9517,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-25T13:04:20.522Z"
+    },
+    "5283": {
+      "postId": 5283,
+      "title": "Soft Baked Apple Cider Donut Bundt Cake: The Ultimate Guide",
+      "url": "https://el-mordjene.info/soft-baked-apple-cider-donut-bundt-cake/",
+      "slug": "soft-baked-apple-cider-donut-bundt-cake",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/soft-baked-apple-cider-donut-bundt-cake-the-ultima_20260925_225136.webp",
+      "keywordSet": [
+        "soft baked apple cider donut bundt cake",
+        "the ultimate guide",
+        "master the soft baked apple cider donut bundt cake learn the culinary science",
+        "expert techniques",
+        "and troubleshooting for this perfect seasonal treat",
+        "apple cider",
+        "bundt cake",
+        "dessert recipes",
+        "baking",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-25T22:53:27.611Z"
     }
   },
   "assets": {
@@ -19361,6 +19386,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-roasted-butternut-squash-soup-crispy-sage-hero.jpg",
       "renderedAt": "2026-09-25T13:04:41.734Z"
+    },
+    "5283-hero": {
+      "id": "5283-hero",
+      "postId": 5283,
+      "postSlug": "soft-baked-apple-cider-donut-bundt-cake",
+      "postUrl": "https://el-mordjene.info/soft-baked-apple-cider-donut-bundt-cake/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Soft Apple Cider Bundt",
+      "overlaySubtitle": "Melt In Your Mouth",
+      "pinTitle": "Soft Baked Apple Cider Donut Bundt Cake Recipe",
+      "pinDescription": "Indulge in the ultimate cozy dessert with this soft baked apple cider donut bundt cake. Coated in spiced cinnamon sugar, every bite is tender, moist, and packed with sweet fall apple flavors. It is surprisingly easy to make and brings the cider mill right into your kitchen. Get the full recipe with ingredients, cook...",
+      "primaryKeyword": "soft baked apple cider donut bundt cake",
+      "supportingKeywords": [
+        "soft baked apple cider donut bundt cake",
+        "the ultimate guide",
+        "master the soft baked apple cider donut bundt cake learn the culinary science",
+        "expert techniques",
+        "and troubleshooting for this perfect seasonal treat"
+      ],
+      "searchTags": [
+        "soft baked apple cider donut bundt cake",
+        "the ultimate guide",
+        "master the soft baked apple cider donut bundt cake learn the culinary science",
+        "expert techniques",
+        "and troubleshooting for this perfect seasonal treat",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/soft-baked-apple-cider-donut-bundt-cake-the-ultima_20260925_225136.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-25T22:53:38.614Z",
+      "scheduledFor": "2026-09-25T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/soft-baked-apple-cider-donut-bundt-cake-the-ultima_20260925_225136.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/soft-baked-apple-cider-donut-bundt-cake-hero.jpg",
+      "renderedAt": "2026-09-25T22:53:55.950Z"
     }
   },
   "queue": {
@@ -21580,6 +21648,14 @@
       "id": "5279-hero-queue",
       "assetId": "5279-hero",
       "postId": 5279,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-25T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5283-hero-queue": {
+      "id": "5283-hero-queue",
+      "assetId": "5283-hero",
+      "postId": 5283,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-09-25T09:00:00.000Z",
       "status": "draft"
