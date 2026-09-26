@@ -9542,6 +9542,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-25T22:53:27.611Z"
+    },
+    "5286": {
+      "postId": 5286,
+      "title": "Slow-Cooked Crockpot Beef Stew: A Tender Vegetable Guide",
+      "url": "https://el-mordjene.info/crockpot-beef-stew-tender-vegetables/",
+      "slug": "crockpot-beef-stew-tender-vegetables",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooked-crockpot-beef-stew-a-tender-vegetable_20260926_123057.webp",
+      "keywordSet": [
+        "cooked crockpot beef stew",
+        "a tender vegetable guide",
+        "master the art of the perfect crockpot beef stew with tender vegetables learn expert techniques for melt",
+        "mouth meat and ideal root veggies",
+        "beef stew",
+        "comfort food",
+        "crockpot recipes",
+        "easy dinner",
+        "slow",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-26T12:31:54.201Z"
     }
   },
   "assets": {
@@ -19429,6 +19454,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/soft-baked-apple-cider-donut-bundt-cake-hero.jpg",
       "renderedAt": "2026-09-25T22:53:55.950Z"
+    },
+    "5286-hero": {
+      "id": "5286-hero",
+      "postId": 5286,
+      "postSlug": "crockpot-beef-stew-tender-vegetables",
+      "postUrl": "https://el-mordjene.info/crockpot-beef-stew-tender-vegetables/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Perfect Crockpot Beef Stew",
+      "overlaySubtitle": "Melt-in-Your-Mouth Comfort",
+      "pinTitle": "Slow-Cooked Crockpot Beef Stew: The Ultimate Tender Recipe",
+      "pinDescription": "Transform humble ingredients into a bowl of pure comfort. This slow-cooked beef stew features succulent, fall-apart tender meat and perfectly softened root vegetables simmered in a rich, savory broth. It is the ultimate set-it-and-forget-it meal for busy weeknights when you crave something hearty and nourishing. Mas...",
+      "primaryKeyword": "cooked crockpot beef stew",
+      "supportingKeywords": [
+        "cooked crockpot beef stew",
+        "a tender vegetable guide",
+        "master the art of the perfect crockpot beef stew with tender vegetables learn expert techniques for melt",
+        "mouth meat and ideal root veggies",
+        "beef stew"
+      ],
+      "searchTags": [
+        "cooked crockpot beef stew",
+        "a tender vegetable guide",
+        "master the art of the perfect crockpot beef stew with tender vegetables learn expert techniques for melt",
+        "mouth meat and ideal root veggies",
+        "beef stew",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooked-crockpot-beef-stew-a-tender-vegetable_20260926_123057.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-26T12:31:55.457Z",
+      "scheduledFor": "2026-09-26T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooked-crockpot-beef-stew-a-tender-vegetable_20260926_123057.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crockpot-beef-stew-tender-vegetables-hero.jpg",
+      "renderedAt": "2026-09-26T12:32:14.411Z"
     }
   },
   "queue": {
@@ -21658,6 +21726,14 @@
       "postId": 5283,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-09-25T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5286-hero-queue": {
+      "id": "5286-hero-queue",
+      "assetId": "5286-hero",
+      "postId": 5286,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-09-26T09:00:00.000Z",
       "status": "draft"
     }
   }
