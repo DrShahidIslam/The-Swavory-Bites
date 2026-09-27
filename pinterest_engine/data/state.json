@@ -9567,6 +9567,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-26T12:31:54.201Z"
+    },
+    "5289": {
+      "postId": 5289,
+      "title": "Slow Cooker Apple Butter with Warm Spices: A Pro Guide",
+      "url": "https://el-mordjene.info/slow-cooker-apple-butter-with-warm-spices/",
+      "slug": "slow-cooker-apple-butter-with-warm-spices",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-apple-butter-with-warm-spices-a-pro-gu_20260926_221352.webp",
+      "keywordSet": [
+        "slow cooker apple butter with warm spices",
+        "a pro guide",
+        "master the art of homemade slow cooker apple butter with warm spices a comprehensive guide to velvety texture",
+        "deep flavor",
+        "and perfect preservation",
+        "apple butter",
+        "comfort food",
+        "fall baking",
+        "preserving",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-27T07:15:18.021Z"
     }
   },
   "assets": {
@@ -19497,6 +19522,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crockpot-beef-stew-tender-vegetables-hero.jpg",
       "renderedAt": "2026-09-26T12:32:14.411Z"
+    },
+    "5289-hero": {
+      "id": "5289-hero",
+      "postId": 5289,
+      "postSlug": "slow-cooker-apple-butter-with-warm-spices",
+      "postUrl": "https://el-mordjene.info/slow-cooker-apple-butter-with-warm-spices/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Homemade Slow Cooker Apple Butter",
+      "overlaySubtitle": "Rich, Velvety, Easy",
+      "pinTitle": "The Ultimate Slow Cooker Apple Butter Recipe",
+      "pinDescription": "Transform fresh orchard apples into a decadent, velvety spread with this easy slow cooker recipe. Infused with aromatic cinnamon, cloves, and nutmeg, this spiced apple butter is the ultimate cozy comfort food. It thickens to perfection while simmering, creating a deep, caramelized flavor profile that elevates your m...",
+      "primaryKeyword": "slow cooker apple butter with warm spices",
+      "supportingKeywords": [
+        "slow cooker apple butter with warm spices",
+        "a pro guide",
+        "master the art of homemade slow cooker apple butter with warm spices a comprehensive guide to velvety texture",
+        "deep flavor",
+        "and perfect preservation"
+      ],
+      "searchTags": [
+        "slow cooker apple butter with warm spices",
+        "a pro guide",
+        "master the art of homemade slow cooker apple butter with warm spices a comprehensive guide to velvety texture",
+        "deep flavor",
+        "and perfect preservation",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-apple-butter-with-warm-spices-a-pro-gu_20260926_221352.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-27T07:15:21.207Z",
+      "scheduledFor": "2026-09-26T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-apple-butter-with-warm-spices-a-pro-gu_20260926_221352.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/slow-cooker-apple-butter-with-warm-spices-hero.jpg",
+      "renderedAt": "2026-09-27T07:15:37.472Z"
     }
   },
   "queue": {
@@ -21733,6 +21801,14 @@
       "assetId": "5286-hero",
       "postId": 5286,
       "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-09-26T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5289-hero-queue": {
+      "id": "5289-hero-queue",
+      "assetId": "5289-hero",
+      "postId": 5289,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-09-26T09:00:00.000Z",
       "status": "draft"
     }
