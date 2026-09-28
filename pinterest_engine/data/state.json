@@ -9592,6 +9592,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-27T07:15:18.021Z"
+    },
+    "5292": {
+      "postId": 5292,
+      "title": "Creamy Tuscan White Bean and Sausage Stew: The Ultimate Guide",
+      "url": "https://el-mordjene.info/creamy-tuscan-white-bean-and-sausage-stew/",
+      "slug": "creamy-tuscan-white-bean-and-sausage-stew",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-tuscan-white-bean-and-sausage-stew-the-ulti_20260927_223717.webp",
+      "keywordSet": [
+        "creamy tuscan white bean and sausage stew",
+        "the ultimate guide",
+        "master the art of the creamy tuscan white bean and sausage stew learn pro techniques for depth",
+        "and flavor in this complete culinary guide",
+        "comfort food",
+        "pot meals",
+        "sausage recipes",
+        "tuscan stew",
+        "texture",
+        "one"
+      ],
+      "discoveredAt": "2026-09-28T07:50:20.905Z"
     }
   },
   "assets": {
@@ -19565,6 +19590,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/slow-cooker-apple-butter-with-warm-spices-hero.jpg",
       "renderedAt": "2026-09-27T07:15:37.472Z"
+    },
+    "5292-hero": {
+      "id": "5292-hero",
+      "postId": 5292,
+      "postSlug": "creamy-tuscan-white-bean-and-sausage-stew",
+      "postUrl": "https://el-mordjene.info/creamy-tuscan-white-bean-and-sausage-stew/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Creamy Tuscan Sausage Stew",
+      "overlaySubtitle": "Ready In 30 Minutes",
+      "pinTitle": "Creamy Tuscan White Bean & Sausage Stew: Easy One-Pot Dinner",
+      "pinDescription": "Warm up your kitchen with this rich, comforting Tuscan white bean and sausage stew. Featuring savory Italian sausage, creamy white beans, and fresh spinach in a velvety, herb-infused broth, this one-pot wonder is pure soul food. It is the perfect balance of hearty protein and rustic flavors, making it an ideal fast...",
+      "primaryKeyword": "creamy tuscan white bean and sausage stew",
+      "supportingKeywords": [
+        "creamy tuscan white bean and sausage stew",
+        "the ultimate guide",
+        "master the art of the creamy tuscan white bean and sausage stew learn pro techniques for depth",
+        "and flavor in this complete culinary guide",
+        "comfort food"
+      ],
+      "searchTags": [
+        "creamy tuscan white bean and sausage stew",
+        "the ultimate guide",
+        "master the art of the creamy tuscan white bean and sausage stew learn pro techniques for depth",
+        "and flavor in this complete culinary guide",
+        "comfort food",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-tuscan-white-bean-and-sausage-stew-the-ulti_20260927_223717.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-28T07:50:22.956Z",
+      "scheduledFor": "2026-09-27T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-tuscan-white-bean-and-sausage-stew-the-ulti_20260927_223717.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-tuscan-white-bean-and-sausage-stew-hero.jpg",
+      "renderedAt": "2026-09-28T07:50:41.503Z"
     }
   },
   "queue": {
@@ -21810,6 +21878,14 @@
       "postId": 5289,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-09-26T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5292-hero-queue": {
+      "id": "5292-hero-queue",
+      "assetId": "5292-hero",
+      "postId": 5292,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-09-27T09:00:00.000Z",
       "status": "draft"
     }
   }
