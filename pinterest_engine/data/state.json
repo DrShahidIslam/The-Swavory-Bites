@@ -9667,6 +9667,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-29T00:01:29.274Z"
+    },
+    "5301": {
+      "postId": 5301,
+      "title": "Caramel Apple Galette with Flaky Butter Crust: A Masterclass",
+      "url": "https://el-mordjene.info/caramel-apple-galette-flaky-butter-crust/",
+      "slug": "caramel-apple-galette-flaky-butter-crust",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/caramel-apple-galette-with-flaky-butter-crust-a-ma_20260929_142341.webp",
+      "keywordSet": [
+        "caramel apple galette with flaky butter crust",
+        "a masterclass",
+        "master the art of the caramel apple galette with flaky butter crust expert tips",
+        "backed techniques",
+        "and a foolproof recipe for the perfect pastry",
+        "apple galette",
+        "baking guide",
+        "caramel dessert",
+        "science",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-29T14:24:48.107Z"
     }
   },
   "assets": {
@@ -19769,6 +19794,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/slow-cooker-pulled-pork-apple-cider-bbq-sauce-hero.jpg",
       "renderedAt": "2026-09-29T00:02:01.770Z"
+    },
+    "5301-hero": {
+      "id": "5301-hero",
+      "postId": 5301,
+      "postSlug": "caramel-apple-galette-flaky-butter-crust",
+      "postUrl": "https://el-mordjene.info/caramel-apple-galette-flaky-butter-crust/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Perfect Caramel Apple Galette",
+      "overlaySubtitle": "Foolproof Flaky Crust",
+      "pinTitle": "Easy Caramel Apple Galette with Flaky Butter Crust",
+      "pinDescription": "Master the art of the perfect rustic dessert with this indulgent Caramel Apple Galette. Featuring tender, cinnamon-spiced apples nestled in a buttery, golden-brown pastry crust, every bite offers the ultimate balance of sweet and crisp. This foolproof recipe breaks down expert techniques to ensure your crust turns o...",
+      "primaryKeyword": "caramel apple galette with flaky butter crust",
+      "supportingKeywords": [
+        "caramel apple galette with flaky butter crust",
+        "a masterclass",
+        "master the art of the caramel apple galette with flaky butter crust expert tips",
+        "backed techniques",
+        "and a foolproof recipe for the perfect pastry"
+      ],
+      "searchTags": [
+        "caramel apple galette with flaky butter crust",
+        "a masterclass",
+        "master the art of the caramel apple galette with flaky butter crust expert tips",
+        "backed techniques",
+        "and a foolproof recipe for the perfect pastry",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/caramel-apple-galette-with-flaky-butter-crust-a-ma_20260929_142341.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-29T14:24:51.799Z",
+      "scheduledFor": "2026-09-29T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/caramel-apple-galette-with-flaky-butter-crust-a-ma_20260929_142341.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/caramel-apple-galette-flaky-butter-crust-hero.jpg",
+      "renderedAt": "2026-09-29T14:25:09.172Z"
     }
   },
   "queue": {
@@ -22038,6 +22106,14 @@
       "postId": 5295,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-09-28T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5301-hero-queue": {
+      "id": "5301-hero-queue",
+      "assetId": "5301-hero",
+      "postId": 5301,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-29T09:00:00.000Z",
       "status": "draft"
     }
   }
