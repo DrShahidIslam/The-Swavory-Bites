@@ -9617,6 +9617,56 @@
         "one"
       ],
       "discoveredAt": "2026-09-28T07:50:20.905Z"
+    },
+    "5295": {
+      "postId": 5295,
+      "title": "Slow Cooker Pulled Pork with Apple Cider BBQ Sauce",
+      "url": "https://el-mordjene.info/slow-cooker-pulled-pork-apple-cider-bbq-sauce/",
+      "slug": "slow-cooker-pulled-pork-apple-cider-bbq-sauce",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-pulled-pork-with-apple-cider-bbq-sauce_20260928_160908.webp",
+      "keywordSet": [
+        "slow cooker pulled pork with apple cider bbq sauce",
+        "master the art of tender",
+        "succulent slow cooker pulled pork with apple cider bbq sauce a professional guide to achieving restaurant",
+        "quality flavor at home",
+        "pulled pork",
+        "apple cider",
+        "comfort food",
+        "slow cooker",
+        "barbecue",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-29T00:01:43.868Z"
+    },
+    "5298": {
+      "postId": 5298,
+      "title": "Ultimate Loaded Baked Potato Soup with Cheddar and Crispy Bacon",
+      "url": "https://el-mordjene.info/loaded-baked-potato-soup-cheddar-crispy-bacon/",
+      "slug": "loaded-baked-potato-soup-cheddar-crispy-bacon",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/ultimate-loaded-baked-potato-soup-with-cheddar-and_20260929_000003.webp",
+      "keywordSet": [
+        "ultimate loaded baked potato soup with cheddar and crispy bacon",
+        "master the art of the perfect loaded baked potato soup with cheddar and crispy bacon a creamy",
+        "comforting guide to texture",
+        "and technique",
+        "bacon cheddar",
+        "comfort food",
+        "potato soup",
+        "soup recipe",
+        "flavor",
+        "recipes"
+      ],
+      "discoveredAt": "2026-09-29T00:01:29.274Z"
     }
   },
   "assets": {
@@ -19633,6 +19683,92 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-tuscan-white-bean-and-sausage-stew-hero.jpg",
       "renderedAt": "2026-09-28T07:50:41.503Z"
+    },
+    "5298-hero": {
+      "id": "5298-hero",
+      "postId": 5298,
+      "postSlug": "loaded-baked-potato-soup-cheddar-crispy-bacon",
+      "postUrl": "https://el-mordjene.info/loaded-baked-potato-soup-cheddar-crispy-bacon/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Ultimate Loaded Potato Soup",
+      "overlaySubtitle": "Extra Creamy & Comforting",
+      "pinTitle": "Ultimate Loaded Baked Potato Soup with Cheddar and Bacon",
+      "pinDescription": "Warm up with the ultimate comfort food. This loaded baked potato soup is decadently creamy, packed with sharp cheddar cheese, and topped with salty, crispy bacon bits. It captures that classic baked potato flavor in every single spoonful. Perfect for chilly evenings when you need a hearty, restaurant-quality meal ma...",
+      "primaryKeyword": "ultimate loaded baked potato soup with cheddar and crispy bacon",
+      "supportingKeywords": [
+        "ultimate loaded baked potato soup with cheddar and crispy bacon",
+        "master the art of the perfect loaded baked potato soup with cheddar and crispy bacon a creamy",
+        "comforting guide to texture",
+        "and technique",
+        "bacon cheddar"
+      ],
+      "searchTags": [
+        "ultimate loaded baked potato soup with cheddar and crispy bacon",
+        "master the art of the perfect loaded baked potato soup with cheddar and crispy bacon a creamy",
+        "comforting guide to texture",
+        "and technique",
+        "bacon cheddar",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/ultimate-loaded-baked-potato-soup-with-cheddar-and_20260929_000003.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-29T00:01:43.867Z",
+      "scheduledFor": "2026-09-29T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/ultimate-loaded-baked-potato-soup-with-cheddar-and_20260929_000003.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/loaded-baked-potato-soup-cheddar-crispy-bacon-hero.jpg",
+      "renderedAt": "2026-09-29T00:02:05.048Z"
+    },
+    "5295-hero": {
+      "id": "5295-hero",
+      "postId": 5295,
+      "postSlug": "slow-cooker-pulled-pork-apple-cider-bbq-sauce",
+      "postUrl": "https://el-mordjene.info/slow-cooker-pulled-pork-apple-cider-bbq-sauce/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Tender Apple Cider Pulled Pork",
+      "overlaySubtitle": "Easiest Set-And-Forget Dinner",
+      "pinTitle": "Slow Cooker Pulled Pork with Apple Cider BBQ Sauce",
+      "pinDescription": "Elevate your dinner game with the ultimate tender, succulent pulled pork. Infused with the crisp, sweet tang of apple cider and a smoky, bold BBQ glaze, this slow-cooked masterpiece melts in your mouth every single time. It is the perfect stress-free meal for family gatherings or busy weeknights when you crave resta...",
+      "primaryKeyword": "slow cooker pulled pork with apple cider bbq sauce",
+      "supportingKeywords": [
+        "slow cooker pulled pork with apple cider bbq sauce",
+        "master the art of tender",
+        "succulent slow cooker pulled pork with apple cider bbq sauce a professional guide to achieving restaurant",
+        "quality flavor at home",
+        "pulled pork"
+      ],
+      "searchTags": [
+        "slow cooker pulled pork with apple cider bbq sauce",
+        "master the art of tender",
+        "succulent slow cooker pulled pork with apple cider bbq sauce a professional guide to achieving restaurant",
+        "quality flavor at home",
+        "pulled pork",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-pulled-pork-with-apple-cider-bbq-sauce_20260928_160908.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-29T00:01:46.270Z",
+      "scheduledFor": "2026-09-28T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/slow-cooker-pulled-pork-with-apple-cider-bbq-sauce_20260928_160908.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/slow-cooker-pulled-pork-apple-cider-bbq-sauce-hero.jpg",
+      "renderedAt": "2026-09-29T00:02:01.770Z"
     }
   },
   "queue": {
@@ -21886,6 +22022,22 @@
       "postId": 5292,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-09-27T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5298-hero-queue": {
+      "id": "5298-hero-queue",
+      "assetId": "5298-hero",
+      "postId": 5298,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-29T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5295-hero-queue": {
+      "id": "5295-hero-queue",
+      "assetId": "5295-hero",
+      "postId": 5295,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-28T09:00:00.000Z",
       "status": "draft"
     }
   }
