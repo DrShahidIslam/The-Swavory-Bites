@@ -9692,6 +9692,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-09-29T14:24:48.107Z"
+    },
+    "5304": {
+      "postId": 5304,
+      "title": "Maple Glazed Pecan Shortbread Cookies: A Seasonal Guide",
+      "url": "https://el-mordjene.info/maple-glazed-pecan-shortbread-cookies/",
+      "slug": "maple-glazed-pecan-shortbread-cookies",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/maple-glazed-pecan-shortbread-cookies-a-seasonal-g_20260929_231438.webp",
+      "keywordSet": [
+        "maple glazed pecan shortbread cookies",
+        "a seasonal guide",
+        "master the art of buttery maple glazed pecan shortbread cookies with our expert guide learn the science of texture",
+        "and storage techniques",
+        "the rise of maple glazed pecan shortbread cookies",
+        "culinary mechanics",
+        "achieving the perfect snap",
+        "the role of maple and pecans in flavor profiling",
+        "glazing",
+        "baking"
+      ],
+      "discoveredAt": "2026-09-30T07:36:32.369Z"
     }
   },
   "assets": {
@@ -19837,6 +19862,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/caramel-apple-galette-flaky-butter-crust-hero.jpg",
       "renderedAt": "2026-09-29T14:25:09.172Z"
+    },
+    "5304-hero": {
+      "id": "5304-hero",
+      "postId": 5304,
+      "postSlug": "maple-glazed-pecan-shortbread-cookies",
+      "postUrl": "https://el-mordjene.info/maple-glazed-pecan-shortbread-cookies/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Maple Pecan Shortbread Bliss",
+      "overlaySubtitle": "Buttery Melt-in-Mouth Treat",
+      "pinTitle": "Maple Glazed Pecan Shortbread Cookies: The Ultimate Buttery Recipe",
+      "pinDescription": "Indulge in the perfect harmony of rich, buttery shortbread and crunchy toasted pecans, finished with a luscious maple glaze. These cookies deliver a sophisticated, melt-in-your-mouth texture that captures the cozy essence of the season. Whether you are baking for the holidays or a weekend treat, this foolproof guide...",
+      "primaryKeyword": "maple glazed pecan shortbread cookies",
+      "supportingKeywords": [
+        "maple glazed pecan shortbread cookies",
+        "a seasonal guide",
+        "master the art of buttery maple glazed pecan shortbread cookies with our expert guide learn the science of texture",
+        "and storage techniques",
+        "the rise of maple glazed pecan shortbread cookies"
+      ],
+      "searchTags": [
+        "maple glazed pecan shortbread cookies",
+        "a seasonal guide",
+        "master the art of buttery maple glazed pecan shortbread cookies with our expert guide learn the science of texture",
+        "and storage techniques",
+        "the rise of maple glazed pecan shortbread cookies",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/maple-glazed-pecan-shortbread-cookies-a-seasonal-g_20260929_231438.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-09-30T07:36:34.216Z",
+      "scheduledFor": "2026-09-29T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/maple-glazed-pecan-shortbread-cookies-a-seasonal-g_20260929_231438.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/maple-glazed-pecan-shortbread-cookies-hero.jpg",
+      "renderedAt": "2026-09-30T07:36:54.057Z"
     }
   },
   "queue": {
@@ -22113,6 +22181,14 @@
       "assetId": "5301-hero",
       "postId": 5301,
       "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-29T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5304-hero-queue": {
+      "id": "5304-hero-queue",
+      "assetId": "5304-hero",
+      "postId": 5304,
+      "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-09-29T09:00:00.000Z",
       "status": "draft"
     }
