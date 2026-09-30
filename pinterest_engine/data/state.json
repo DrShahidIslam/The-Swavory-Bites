@@ -9717,6 +9717,31 @@
         "baking"
       ],
       "discoveredAt": "2026-09-30T07:36:32.369Z"
+    },
+    "5307": {
+      "postId": 5307,
+      "title": "Creamy Pumpkin Risotto with Crispy Prosciutto",
+      "url": "https://el-mordjene.info/creamy-pumpkin-risotto-with-crispy-prosciutto/",
+      "slug": "creamy-pumpkin-risotto-with-crispy-prosciutto",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-pumpkin-risotto-with-crispy-prosciutto_20260930_231508.webp",
+      "keywordSet": [
+        "creamy pumpkin risotto with crispy prosciutto",
+        "master the art of creamy pumpkin risotto with crispy prosciutto a velvety italian classic perfected with seasonal sweetness and salty",
+        "cured crunch",
+        "autumn recipes",
+        "italian cuisine",
+        "the seasonal elegance of pumpkin risotto",
+        "the mechanics of a perfect risotto",
+        "the role of pumpkin",
+        "pumpkin",
+        "risotto"
+      ],
+      "discoveredAt": "2026-09-30T23:16:36.357Z"
     }
   },
   "assets": {
@@ -19905,6 +19930,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/maple-glazed-pecan-shortbread-cookies-hero.jpg",
       "renderedAt": "2026-09-30T07:36:54.057Z"
+    },
+    "5307-hero": {
+      "id": "5307-hero",
+      "postId": 5307,
+      "postSlug": "creamy-pumpkin-risotto-with-crispy-prosciutto",
+      "postUrl": "https://el-mordjene.info/creamy-pumpkin-risotto-with-crispy-prosciutto/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Creamy Pumpkin Risotto",
+      "overlaySubtitle": "Velvety Italian Comfort",
+      "pinTitle": "Creamy Pumpkin Risotto with Crispy Prosciutto",
+      "pinDescription": "Experience the ultimate autumn comfort with this luxurious Creamy Pumpkin Risotto. Each bite is a velvety symphony of earthy pumpkin, aromatic herbs, and perfectly cooked arborio rice, topped with a salty, golden crunch of crispy prosciutto. It is the perfect sophisticated yet cozy dinner for cool evenings. Impress...",
+      "primaryKeyword": "creamy pumpkin risotto with crispy prosciutto",
+      "supportingKeywords": [
+        "creamy pumpkin risotto with crispy prosciutto",
+        "master the art of creamy pumpkin risotto with crispy prosciutto a velvety italian classic perfected with seasonal sweetness and salty",
+        "cured crunch",
+        "autumn recipes",
+        "italian cuisine"
+      ],
+      "searchTags": [
+        "creamy pumpkin risotto with crispy prosciutto",
+        "master the art of creamy pumpkin risotto with crispy prosciutto a velvety italian classic perfected with seasonal sweetness and salty",
+        "cured crunch",
+        "autumn recipes",
+        "italian cuisine",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-pumpkin-risotto-with-crispy-prosciutto_20260930_231508.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-09-30T23:16:39.235Z",
+      "scheduledFor": "2026-09-30T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/09/creamy-pumpkin-risotto-with-crispy-prosciutto_20260930_231508.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-pumpkin-risotto-with-crispy-prosciutto-hero.jpg",
+      "renderedAt": "2026-09-30T23:16:56.937Z"
     }
   },
   "queue": {
@@ -22190,6 +22258,14 @@
       "postId": 5304,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-09-29T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5307-hero-queue": {
+      "id": "5307-hero-queue",
+      "assetId": "5307-hero",
+      "postId": 5307,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-09-30T09:00:00.000Z",
       "status": "draft"
     }
   }
