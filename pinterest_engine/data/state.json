@@ -9742,6 +9742,31 @@
         "risotto"
       ],
       "discoveredAt": "2026-09-30T23:16:36.357Z"
+    },
+    "5310": {
+      "postId": 5310,
+      "title": "Spiced Chai Latte Cupcakes with Cinnamon Buttercream",
+      "url": "https://el-mordjene.info/spiced-chai-latte-cupcakes-with-cinnamon-buttercream/",
+      "slug": "spiced-chai-latte-cupcakes-with-cinnamon-buttercream",
+      "language": "en",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "shouldPin": true,
+      "contentType": "drink",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/spiced-chai-latte-cupcakes-with-cinnamon-buttercre_20261001_145139.webp",
+      "keywordSet": [
+        "spiced chai latte cupcakes with cinnamon buttercream",
+        "master the art of spiced chai latte cupcakes with cinnamon buttercream a professional guide to achieving the perfect aromatic crumb and silky frosting",
+        "the anatomy of a perfect chai",
+        "infused dessert",
+        "decision criteria",
+        "quality and ingredient sourcing",
+        "the role of spices",
+        "mastering the cinnamon buttercream",
+        "baking",
+        "chai"
+      ],
+      "discoveredAt": "2026-10-01T14:53:14.857Z"
     }
   },
   "assets": {
@@ -19973,6 +19998,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-pumpkin-risotto-with-crispy-prosciutto-hero.jpg",
       "renderedAt": "2026-09-30T23:16:56.937Z"
+    },
+    "5310-hero": {
+      "id": "5310-hero",
+      "postId": 5310,
+      "postSlug": "spiced-chai-latte-cupcakes-with-cinnamon-buttercream",
+      "postUrl": "https://el-mordjene.info/spiced-chai-latte-cupcakes-with-cinnamon-buttercream/",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "variant": "hero",
+      "contentType": "drink",
+      "language": "en",
+      "overlayTitle": "Spiced Chai Latte Cupcakes",
+      "overlaySubtitle": "Silky Cinnamon Frosting",
+      "pinTitle": "Spiced Chai Latte Cupcakes with Cinnamon Buttercream",
+      "pinDescription": "Experience the cozy warmth of a café-style chai latte in every bite of these decadent cupcakes. Infused with aromatic spices like cardamom, ginger, and cloves, they feature a perfectly tender crumb topped with a velvety, whipped cinnamon buttercream. They are the ultimate indulgence for chilly afternoons or sophisti...",
+      "primaryKeyword": "spiced chai latte cupcakes with cinnamon buttercream",
+      "supportingKeywords": [
+        "spiced chai latte cupcakes with cinnamon buttercream",
+        "master the art of spiced chai latte cupcakes with cinnamon buttercream a professional guide to achieving the perfect aromatic crumb and silky frosting",
+        "the anatomy of a perfect chai",
+        "infused dessert",
+        "decision criteria"
+      ],
+      "searchTags": [
+        "spiced chai latte cupcakes with cinnamon buttercream",
+        "master the art of spiced chai latte cupcakes with cinnamon buttercream a professional guide to achieving the perfect aromatic crumb and silky frosting",
+        "the anatomy of a perfect chai",
+        "infused dessert",
+        "decision criteria",
+        "drink",
+        "drink recipes — cocktails & mocktails"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/spiced-chai-latte-cupcakes-with-cinnamon-buttercre_20261001_145139.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-01T14:53:17.215Z",
+      "scheduledFor": "2026-10-01T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/spiced-chai-latte-cupcakes-with-cinnamon-buttercre_20261001_145139.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/spiced-chai-latte-cupcakes-with-cinnamon-buttercream-hero.jpg",
+      "renderedAt": "2026-10-01T14:53:43.026Z"
     }
   },
   "queue": {
@@ -22266,6 +22334,14 @@
       "postId": 5307,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-09-30T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5310-hero-queue": {
+      "id": "5310-hero-queue",
+      "assetId": "5310-hero",
+      "postId": 5310,
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-10-01T09:00:00.000Z",
       "status": "draft"
     }
   }
