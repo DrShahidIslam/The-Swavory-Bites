@@ -9767,6 +9767,31 @@
         "chai"
       ],
       "discoveredAt": "2026-10-01T14:53:14.857Z"
+    },
+    "5313": {
+      "postId": 5313,
+      "title": "Autumn Harvest Salad with Apples, Cranberries &#038; Maple Dressing",
+      "url": "https://el-mordjene.info/autumn-harvest-salad-apples-cranberries-maple-dressing/",
+      "slug": "autumn-harvest-salad-apples-cranberries-maple-dressing",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/autumn-harvest-salad-with-apples-cranberries-maple_20261001_233102.webp",
+      "keywordSet": [
+        "autumn harvest salad with apples",
+        "cranberries 038",
+        "maple dressing",
+        "master the perfect autumn harvest salad with apples",
+        "cranberries and maple dressing a crisp",
+        "seasonal dish balancing sweet",
+        "and savory notes",
+        "understanding the autumn harvest salad",
+        "tart",
+        "autumn"
+      ],
+      "discoveredAt": "2026-10-02T07:38:43.079Z"
     }
   },
   "assets": {
@@ -20041,6 +20066,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/spiced-chai-latte-cupcakes-with-cinnamon-buttercream-hero.jpg",
       "renderedAt": "2026-10-01T14:53:43.026Z"
+    },
+    "5313-hero": {
+      "id": "5313-hero",
+      "postId": 5313,
+      "postSlug": "autumn-harvest-salad-apples-cranberries-maple-dressing",
+      "postUrl": "https://el-mordjene.info/autumn-harvest-salad-apples-cranberries-maple-dressing/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Crisp Autumn Harvest Salad",
+      "overlaySubtitle": "Ready in 15 Minutes",
+      "pinTitle": "Autumn Harvest Salad with Maple Vinaigrette",
+      "pinDescription": "Experience the ultimate taste of fall with this vibrant Autumn Harvest Salad. Featuring crisp orchard apples, tart dried cranberries, and a perfectly balanced maple dressing, it hits every craving for sweet and savory notes. It is the ideal healthy lunch or sophisticated side dish for your next dinner party. Easy to...",
+      "primaryKeyword": "autumn harvest salad with apples",
+      "supportingKeywords": [
+        "autumn harvest salad with apples",
+        "cranberries 038",
+        "maple dressing",
+        "master the perfect autumn harvest salad with apples",
+        "cranberries and maple dressing a crisp"
+      ],
+      "searchTags": [
+        "autumn harvest salad with apples",
+        "cranberries 038",
+        "maple dressing",
+        "master the perfect autumn harvest salad with apples",
+        "cranberries and maple dressing a crisp",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/autumn-harvest-salad-with-apples-cranberries-maple_20261001_233102.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-02T07:38:44.860Z",
+      "scheduledFor": "2026-10-01T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/autumn-harvest-salad-with-apples-cranberries-maple_20261001_233102.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/autumn-harvest-salad-apples-cranberries-maple-dressing-hero.jpg",
+      "renderedAt": "2026-10-02T07:39:02.118Z"
     }
   },
   "queue": {
@@ -22341,6 +22409,14 @@
       "assetId": "5310-hero",
       "postId": 5310,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-10-01T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5313-hero-queue": {
+      "id": "5313-hero-queue",
+      "assetId": "5313-hero",
+      "postId": 5313,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-01T09:00:00.000Z",
       "status": "draft"
     }
