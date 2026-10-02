@@ -9792,6 +9792,31 @@
         "autumn"
       ],
       "discoveredAt": "2026-10-02T07:38:43.079Z"
+    },
+    "5316": {
+      "postId": 5316,
+      "title": "Ultimate Pumpkin Roll with Cream Cheese Swirl Filling Guide",
+      "url": "https://el-mordjene.info/pumpkin-roll-with-cream-cheese-swirl-filling/",
+      "slug": "pumpkin-roll-with-cream-cheese-swirl-filling",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/ultimate-pumpkin-roll-with-cream-cheese-swirl-fill_20261002_141140.webp",
+      "keywordSet": [
+        "ultimate pumpkin roll with cream cheese swirl filling guide",
+        "master the art of the perfect pumpkin roll with cream cheese swirl filling learn essential baking techniques",
+        "and tips for success",
+        "cake roll",
+        "fall recipes",
+        "the art of the pumpkin roll with cream cheese swirl filling",
+        "understanding the baking mechanics",
+        "practical steps to success",
+        "troubleshooting",
+        "baking"
+      ],
+      "discoveredAt": "2026-10-02T14:14:26.831Z"
     }
   },
   "assets": {
@@ -20109,6 +20134,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/autumn-harvest-salad-apples-cranberries-maple-dressing-hero.jpg",
       "renderedAt": "2026-10-02T07:39:02.118Z"
+    },
+    "5316-hero": {
+      "id": "5316-hero",
+      "postId": 5316,
+      "postSlug": "pumpkin-roll-with-cream-cheese-swirl-filling",
+      "postUrl": "https://el-mordjene.info/pumpkin-roll-with-cream-cheese-swirl-filling/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Perfect Pumpkin Cream Roll",
+      "overlaySubtitle": "Foolproof Holiday Baking",
+      "pinTitle": "Ultimate Pumpkin Roll with Cream Cheese Swirl Filling",
+      "pinDescription": "Master the art of the perfect pumpkin roll with this foolproof guide. Featuring a moist, spiced sponge and a luscious, velvety cream cheese swirl, this dessert is the quintessential taste of fall. We break down the essential techniques to ensure a crack-free roll every single time. It is the show-stopping centerpiec...",
+      "primaryKeyword": "ultimate pumpkin roll with cream cheese swirl filling guide",
+      "supportingKeywords": [
+        "ultimate pumpkin roll with cream cheese swirl filling guide",
+        "master the art of the perfect pumpkin roll with cream cheese swirl filling learn essential baking techniques",
+        "and tips for success",
+        "cake roll",
+        "fall recipes"
+      ],
+      "searchTags": [
+        "ultimate pumpkin roll with cream cheese swirl filling guide",
+        "master the art of the perfect pumpkin roll with cream cheese swirl filling learn essential baking techniques",
+        "and tips for success",
+        "cake roll",
+        "fall recipes",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/ultimate-pumpkin-roll-with-cream-cheese-swirl-fill_20261002_141140.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-10-02T14:14:28.635Z",
+      "scheduledFor": "2026-10-02T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/ultimate-pumpkin-roll-with-cream-cheese-swirl-fill_20261002_141140.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/pumpkin-roll-with-cream-cheese-swirl-filling-hero.jpg",
+      "renderedAt": "2026-10-02T14:14:48.627Z"
     }
   },
   "queue": {
@@ -22418,6 +22486,14 @@
       "postId": 5313,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-01T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5316-hero-queue": {
+      "id": "5316-hero-queue",
+      "assetId": "5316-hero",
+      "postId": 5316,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-02T09:00:00.000Z",
       "status": "draft"
     }
   }
