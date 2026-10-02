@@ -9817,6 +9817,31 @@
         "baking"
       ],
       "discoveredAt": "2026-10-02T14:14:26.831Z"
+    },
+    "5319": {
+      "postId": 5319,
+      "title": "The Ultimate Guide to Cozy Chicken and Wild Rice Soup",
+      "url": "https://el-mordjene.info/cozy-chicken-and-wild-rice-soup/",
+      "slug": "cozy-chicken-and-wild-rice-soup",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-guide-to-cozy-chicken-and-wild-rice-s_20261002_232009.webp",
+      "keywordSet": [
+        "the ultimate guide to cozy chicken and wild rice soup",
+        "master the art of the perfect cozy chicken and wild rice soup with our expert culinary guide",
+        "covering techniques",
+        "ingredient swaps",
+        "and pro tips",
+        "chicken soup",
+        "comfort food",
+        "seasonal cooking",
+        "recipes",
+        "rinsed"
+      ],
+      "discoveredAt": "2026-10-02T23:22:00.512Z"
     }
   },
   "assets": {
@@ -20177,6 +20202,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/pumpkin-roll-with-cream-cheese-swirl-filling-hero.jpg",
       "renderedAt": "2026-10-02T14:14:48.627Z"
+    },
+    "5319-hero": {
+      "id": "5319-hero",
+      "postId": 5319,
+      "postSlug": "cozy-chicken-and-wild-rice-soup",
+      "postUrl": "https://el-mordjene.info/cozy-chicken-and-wild-rice-soup/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Creamy Chicken Wild Rice",
+      "overlaySubtitle": "One-Pot Comfort Food",
+      "pinTitle": "Ultimate Cozy Chicken and Wild Rice Soup Recipe",
+      "pinDescription": "Warm up with the most comforting bowl of creamy chicken and wild rice soup you will ever make. This foolproof recipe features tender chicken, earthy wild rice, and a velvety broth that feels like a hug in a bowl. Perfect for chilly evenings when you need a quick, wholesome meal that the whole family will adore. Mast...",
+      "primaryKeyword": "the ultimate guide to cozy chicken and wild rice soup",
+      "supportingKeywords": [
+        "the ultimate guide to cozy chicken and wild rice soup",
+        "master the art of the perfect cozy chicken and wild rice soup with our expert culinary guide",
+        "covering techniques",
+        "ingredient swaps",
+        "and pro tips"
+      ],
+      "searchTags": [
+        "the ultimate guide to cozy chicken and wild rice soup",
+        "master the art of the perfect cozy chicken and wild rice soup with our expert culinary guide",
+        "covering techniques",
+        "ingredient swaps",
+        "and pro tips",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-guide-to-cozy-chicken-and-wild-rice-s_20261002_232009.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-10-02T23:22:01.945Z",
+      "scheduledFor": "2026-10-02T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-guide-to-cozy-chicken-and-wild-rice-s_20261002_232009.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cozy-chicken-and-wild-rice-soup-hero.jpg",
+      "renderedAt": "2026-10-02T23:22:19.860Z"
     }
   },
   "queue": {
@@ -22493,6 +22561,14 @@
       "assetId": "5316-hero",
       "postId": 5316,
       "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-02T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5319-hero-queue": {
+      "id": "5319-hero-queue",
+      "assetId": "5319-hero",
+      "postId": 5319,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-10-02T09:00:00.000Z",
       "status": "draft"
     }
