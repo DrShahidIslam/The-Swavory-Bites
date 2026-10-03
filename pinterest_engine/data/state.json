@@ -9867,6 +9867,31 @@
         "desserts"
       ],
       "discoveredAt": "2026-10-03T12:47:53.766Z"
+    },
+    "5325": {
+      "postId": 5325,
+      "title": "Warm Cinnamon Baked Apples with Granola Streusel Recipe",
+      "url": "https://el-mordjene.info/warm-cinnamon-baked-apples-with-granola-streusel/",
+      "slug": "warm-cinnamon-baked-apples-with-granola-streusel",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/warm-cinnamon-baked-apples-with-granola-streusel-r_20261003_222909.webp",
+      "keywordSet": [
+        "warm cinnamon baked apples with granola streusel recipe",
+        "master the art of warm cinnamon baked apples with granola streusel a comforting",
+        "rich dessert guide covering apple selection and techniques",
+        "baked apples",
+        "comfort food",
+        "easy recipes",
+        "fall desserts",
+        "healthy sweets",
+        "texture",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-03T22:29:50.925Z"
     }
   },
   "assets": {
@@ -20313,6 +20338,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/spiced-apple-cinnamon-hand-pies-hero.jpg",
       "renderedAt": "2026-10-03T12:48:11.178Z"
+    },
+    "5325-hero": {
+      "id": "5325-hero",
+      "postId": 5325,
+      "postSlug": "warm-cinnamon-baked-apples-with-granola-streusel",
+      "postUrl": "https://el-mordjene.info/warm-cinnamon-baked-apples-with-granola-streusel/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Warm Cinnamon Baked Apples",
+      "overlaySubtitle": "Easy Fall Dessert",
+      "pinTitle": "Warm Cinnamon Baked Apples with Crunchy Granola Streusel",
+      "pinDescription": "Experience the ultimate cozy dessert with these warm cinnamon baked apples. Each bite features tender, spiced fruit topped with a golden, buttery granola streusel that adds the perfect crunch. Whether you are looking for a quick weeknight treat or an impressive post-dinner delight, this easy recipe delivers pure com...",
+      "primaryKeyword": "warm cinnamon baked apples with granola streusel recipe",
+      "supportingKeywords": [
+        "warm cinnamon baked apples with granola streusel recipe",
+        "master the art of warm cinnamon baked apples with granola streusel a comforting",
+        "rich dessert guide covering apple selection and techniques",
+        "baked apples",
+        "comfort food"
+      ],
+      "searchTags": [
+        "warm cinnamon baked apples with granola streusel recipe",
+        "master the art of warm cinnamon baked apples with granola streusel a comforting",
+        "rich dessert guide covering apple selection and techniques",
+        "baked apples",
+        "comfort food",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/warm-cinnamon-baked-apples-with-granola-streusel-r_20261003_222909.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-10-03T22:30:03.865Z",
+      "scheduledFor": "2026-10-03T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/warm-cinnamon-baked-apples-with-granola-streusel-r_20261003_222909.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/warm-cinnamon-baked-apples-with-granola-streusel-hero.jpg",
+      "renderedAt": "2026-10-03T22:30:21.402Z"
     }
   },
   "queue": {
@@ -22644,6 +22712,14 @@
       "id": "5322-hero-queue",
       "assetId": "5322-hero",
       "postId": 5322,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-10-03T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5325-hero-queue": {
+      "id": "5325-hero-queue",
+      "assetId": "5325-hero",
+      "postId": 5325,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-03T09:00:00.000Z",
       "status": "draft"
