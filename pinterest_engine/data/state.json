@@ -9842,6 +9842,31 @@
         "rinsed"
       ],
       "discoveredAt": "2026-10-02T23:22:00.512Z"
+    },
+    "5322": {
+      "postId": 5322,
+      "title": "The Ultimate Guide to Perfect Spiced Apple Cinnamon Hand Pies",
+      "url": "https://el-mordjene.info/spiced-apple-cinnamon-hand-pies/",
+      "slug": "spiced-apple-cinnamon-hand-pies",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-guide-to-perfect-spiced-apple-cinnamo_20261003_124719.webp",
+      "keywordSet": [
+        "the ultimate guide to perfect spiced apple cinnamon hand pies",
+        "master the art of spiced apple cinnamon hand pies with our professional guide",
+        "featuring flaky crust techniques",
+        "apple selection",
+        "and expert tips",
+        "apple pies",
+        "autumn recipes",
+        "hand pies",
+        "baking",
+        "desserts"
+      ],
+      "discoveredAt": "2026-10-03T12:47:53.766Z"
     }
   },
   "assets": {
@@ -20245,6 +20270,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cozy-chicken-and-wild-rice-soup-hero.jpg",
       "renderedAt": "2026-10-02T23:22:19.860Z"
+    },
+    "5322-hero": {
+      "id": "5322-hero",
+      "postId": 5322,
+      "postSlug": "spiced-apple-cinnamon-hand-pies",
+      "postUrl": "https://el-mordjene.info/spiced-apple-cinnamon-hand-pies/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Perfect Spiced Apple Pies",
+      "overlaySubtitle": "Buttery Flaky Crust",
+      "pinTitle": "Easy Spiced Apple Cinnamon Hand Pies: Ultimate Flaky Recipe",
+      "pinDescription": "Master the art of the perfect hand pie with this ultimate guide. Featuring a golden, buttery crust that shatters with every bite and a warm, spiced apple filling that tastes like autumn in every mouthful. Whether you are a beginner or a pro, these portable treats are incredibly easy to assemble and impossible to res...",
+      "primaryKeyword": "the ultimate guide to perfect spiced apple cinnamon hand pies",
+      "supportingKeywords": [
+        "the ultimate guide to perfect spiced apple cinnamon hand pies",
+        "master the art of spiced apple cinnamon hand pies with our professional guide",
+        "featuring flaky crust techniques",
+        "apple selection",
+        "and expert tips"
+      ],
+      "searchTags": [
+        "the ultimate guide to perfect spiced apple cinnamon hand pies",
+        "master the art of spiced apple cinnamon hand pies with our professional guide",
+        "featuring flaky crust techniques",
+        "apple selection",
+        "and expert tips",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-guide-to-perfect-spiced-apple-cinnamo_20261003_124719.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-10-03T12:47:55.763Z",
+      "scheduledFor": "2026-10-03T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-guide-to-perfect-spiced-apple-cinnamo_20261003_124719.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/spiced-apple-cinnamon-hand-pies-hero.jpg",
+      "renderedAt": "2026-10-03T12:48:11.178Z"
     }
   },
   "queue": {
@@ -22570,6 +22638,14 @@
       "postId": 5319,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-10-02T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5322-hero-queue": {
+      "id": "5322-hero-queue",
+      "assetId": "5322-hero",
+      "postId": 5322,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-10-03T09:00:00.000Z",
       "status": "draft"
     }
   }
