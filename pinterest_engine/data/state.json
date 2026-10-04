@@ -9892,6 +9892,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-10-03T22:29:50.925Z"
+    },
+    "5328": {
+      "postId": 5328,
+      "title": "Ultimate Cheesy Garlic Butter Pull-Apart Bread Recipe",
+      "url": "https://el-mordjene.info/cheesy-garlic-butter-pull-apart-bread/",
+      "slug": "cheesy-garlic-butter-pull-apart-bread",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/ultimate-cheesy-garlic-butter-pull-apart-bread-rec_20261004_133045.webp",
+      "keywordSet": [
+        "ultimate cheesy garlic butter pull",
+        "apart bread recipe",
+        "master the art of cheesy garlic butter pull",
+        "apart bread with our expert guide learn the secrets to perfect golden crust",
+        "gooey cheese",
+        "and flavor",
+        "comfort food",
+        "understanding the culinary appeal of pull",
+        "appetizer",
+        "baking"
+      ],
+      "discoveredAt": "2026-10-04T13:31:29.836Z"
     }
   },
   "assets": {
@@ -20381,6 +20406,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/warm-cinnamon-baked-apples-with-granola-streusel-hero.jpg",
       "renderedAt": "2026-10-03T22:30:21.402Z"
+    },
+    "5328-hero": {
+      "id": "5328-hero",
+      "postId": 5328,
+      "postSlug": "cheesy-garlic-butter-pull-apart-bread",
+      "postUrl": "https://el-mordjene.info/cheesy-garlic-butter-pull-apart-bread/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Ultimate Cheesy Garlic Bread",
+      "overlaySubtitle": "Irresistible Pull-Apart Layers",
+      "pinTitle": "Cheesy Garlic Butter Pull-Apart Bread: The Ultimate Crowd-Pleaser",
+      "pinDescription": "Transform your kitchen into a bakery with this indulgent Cheesy Garlic Butter Pull-Apart Bread. Featuring golden, crispy edges, a soft, pillowy center, and an explosion of savory melted cheese in every bite, this recipe is the ultimate comfort food for any occasion. It is incredibly easy to assemble and guaranteed t...",
+      "primaryKeyword": "ultimate cheesy garlic butter pull",
+      "supportingKeywords": [
+        "ultimate cheesy garlic butter pull",
+        "apart bread recipe",
+        "master the art of cheesy garlic butter pull",
+        "apart bread with our expert guide learn the secrets to perfect golden crust",
+        "gooey cheese"
+      ],
+      "searchTags": [
+        "ultimate cheesy garlic butter pull",
+        "apart bread recipe",
+        "master the art of cheesy garlic butter pull",
+        "apart bread with our expert guide learn the secrets to perfect golden crust",
+        "gooey cheese",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/ultimate-cheesy-garlic-butter-pull-apart-bread-rec_20261004_133045.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-04T13:31:31.552Z",
+      "scheduledFor": "2026-10-04T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/ultimate-cheesy-garlic-butter-pull-apart-bread-rec_20261004_133045.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cheesy-garlic-butter-pull-apart-bread-hero.jpg",
+      "renderedAt": "2026-10-04T13:31:52.288Z"
     }
   },
   "queue": {
@@ -22722,6 +22790,14 @@
       "postId": 5325,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-03T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5328-hero-queue": {
+      "id": "5328-hero-queue",
+      "assetId": "5328-hero",
+      "postId": 5328,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-04T09:00:00.000Z",
       "status": "draft"
     }
   }
