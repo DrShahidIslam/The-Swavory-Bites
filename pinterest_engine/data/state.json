@@ -9917,6 +9917,31 @@
         "baking"
       ],
       "discoveredAt": "2026-10-04T13:31:29.836Z"
+    },
+    "5331": {
+      "postId": 5331,
+      "title": "Crispy Air Fryer Pizza Rolls with Garlic Butter",
+      "url": "https://el-mordjene.info/crispy-air-fryer-pizza-rolls-with-garlic-butter/",
+      "slug": "crispy-air-fryer-pizza-rolls-with-garlic-butter",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/crispy-air-fryer-pizza-rolls-with-garlic-butter_20261004_223428.webp",
+      "keywordSet": [
+        "crispy air fryer pizza rolls with garlic butter",
+        "master the art of homemade crispy air fryer pizza rolls with garlic butter this guide covers techniques for perfect crusts and flavor balance",
+        "air fryer recipes",
+        "easy appetizers",
+        "garlic butter",
+        "pizza rolls",
+        "snack ideas",
+        "the ultimate guide to crispy air fryer pizza rolls with garlic butter",
+        "recipes",
+        "melted"
+      ],
+      "discoveredAt": "2026-10-04T22:35:02.509Z"
     }
   },
   "assets": {
@@ -20449,6 +20474,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/cheesy-garlic-butter-pull-apart-bread-hero.jpg",
       "renderedAt": "2026-10-04T13:31:52.288Z"
+    },
+    "5331-hero": {
+      "id": "5331-hero",
+      "postId": 5331,
+      "postSlug": "crispy-air-fryer-pizza-rolls-with-garlic-butter",
+      "postUrl": "https://el-mordjene.info/crispy-air-fryer-pizza-rolls-with-garlic-butter/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Crispy Garlic Pizza Rolls",
+      "overlaySubtitle": "15-Minute Air Fryer Snack",
+      "pinTitle": "Crispy Air Fryer Pizza Rolls with Garlic Butter",
+      "pinDescription": "Craving the ultimate comfort food? These golden, crispy air fryer pizza rolls are stuffed with gooey melted cheese and savory toppings, then brushed with a decadent garlic butter glaze. They are perfectly crunchy on the outside and irresistibly soft on the inside. Whether you need a quick after-school snack or an ea...",
+      "primaryKeyword": "crispy air fryer pizza rolls with garlic butter",
+      "supportingKeywords": [
+        "crispy air fryer pizza rolls with garlic butter",
+        "master the art of homemade crispy air fryer pizza rolls with garlic butter this guide covers techniques for perfect crusts and flavor balance",
+        "air fryer recipes",
+        "easy appetizers",
+        "garlic butter"
+      ],
+      "searchTags": [
+        "crispy air fryer pizza rolls with garlic butter",
+        "master the art of homemade crispy air fryer pizza rolls with garlic butter this guide covers techniques for perfect crusts and flavor balance",
+        "air fryer recipes",
+        "easy appetizers",
+        "garlic butter",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/crispy-air-fryer-pizza-rolls-with-garlic-butter_20261004_223428.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-04T22:35:17.739Z",
+      "scheduledFor": "2026-10-04T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/crispy-air-fryer-pizza-rolls-with-garlic-butter_20261004_223428.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-air-fryer-pizza-rolls-with-garlic-butter-hero.jpg",
+      "renderedAt": "2026-10-04T22:35:32.817Z"
     }
   },
   "queue": {
@@ -22797,6 +22865,14 @@
       "assetId": "5328-hero",
       "postId": 5328,
       "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-04T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5331-hero-queue": {
+      "id": "5331-hero-queue",
+      "assetId": "5331-hero",
+      "postId": 5331,
+      "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-10-04T09:00:00.000Z",
       "status": "draft"
     }
