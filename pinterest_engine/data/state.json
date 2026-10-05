@@ -9942,6 +9942,31 @@
         "melted"
       ],
       "discoveredAt": "2026-10-04T22:35:02.509Z"
+    },
+    "5334": {
+      "postId": 5334,
+      "title": "Classic French Crème Brûlée with Caramelized Sugar Crust",
+      "url": "https://el-mordjene.info/classic-french-creme-brulee-with-caramelized-sugar-crust/",
+      "slug": "classic-french-creme-brulee-with-caramelized-sugar-crust",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/classic-french-cr-me-br-l-e-with-caramelized-sugar_20261005_162748.webp",
+      "keywordSet": [
+        "classic french cre me bru le e with caramelized sugar crust",
+        "master the art of the classic french cre me bru le e with caramelized sugar crust expert techniques for a silky custard and the perfect shatter",
+        "crisp top",
+        "baking techniques",
+        "fine dining",
+        "french dessert",
+        "mastering the art of cre me bru le e",
+        "the culinary evolution",
+        "custard",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-05T16:30:40.536Z"
     }
   },
   "assets": {
@@ -20517,6 +20542,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-air-fryer-pizza-rolls-with-garlic-butter-hero.jpg",
       "renderedAt": "2026-10-04T22:35:32.817Z"
+    },
+    "5334-hero": {
+      "id": "5334-hero",
+      "postId": 5334,
+      "postSlug": "classic-french-creme-brulee-with-caramelized-sugar-crust",
+      "postUrl": "https://el-mordjene.info/classic-french-creme-brulee-with-caramelized-sugar-crust/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Silky Crème Brûlée Perfection",
+      "overlaySubtitle": "Master Classic Dessert",
+      "pinTitle": "Classic Crème Brûlée: Silky Custard & Perfect Caramelized Sugar Crust",
+      "pinDescription": "Indulge in the luxurious simplicity of classic French Crème Brûlée. This recipe guides you to a rich, velvety custard, infused with delicate vanilla, crowned with a perfectly shatter-crisp caramelized sugar crust. Experience the satisfying crack, then the smooth, cool cream beneath. Impress your guests with this ele...",
+      "primaryKeyword": "classic french cre me bru le e with caramelized sugar crust",
+      "supportingKeywords": [
+        "classic french cre me bru le e with caramelized sugar crust",
+        "master the art of the classic french cre me bru le e with caramelized sugar crust expert techniques for a silky custard and the perfect shatter",
+        "crisp top",
+        "baking techniques",
+        "fine dining"
+      ],
+      "searchTags": [
+        "classic french cre me bru le e with caramelized sugar crust",
+        "master the art of the classic french cre me bru le e with caramelized sugar crust expert techniques for a silky custard and the perfect shatter",
+        "crisp top",
+        "baking techniques",
+        "fine dining",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/classic-french-cr-me-br-l-e-with-caramelized-sugar_20261005_162748.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-05T16:31:14.537Z",
+      "scheduledFor": "2026-10-05T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/classic-french-cr-me-br-l-e-with-caramelized-sugar_20261005_162748.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-french-creme-brulee-with-caramelized-sugar-crust-hero.jpg",
+      "renderedAt": "2026-10-05T16:31:34.812Z"
     }
   },
   "queue": {
@@ -22874,6 +22942,14 @@
       "postId": 5331,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-10-04T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5334-hero-queue": {
+      "id": "5334-hero-queue",
+      "assetId": "5334-hero",
+      "postId": 5334,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-10-05T09:00:00.000Z",
       "status": "draft"
     }
   }
