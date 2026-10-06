@@ -10017,6 +10017,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-10-06T19:10:13.662Z"
+    },
+    "5343": {
+      "postId": 5343,
+      "title": "Molten Chocolate Lava Cakes for Two: A Masterclass",
+      "url": "https://el-mordjene.info/molten-chocolate-lava-cakes-for-two/",
+      "slug": "molten-chocolate-lava-cakes-for-two",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/molten-chocolate-lava-cakes-for-two-a-masterclass_20261006_232318.webp",
+      "keywordSet": [
+        "molten chocolate lava cakes for two",
+        "a masterclass",
+        "master the art of the perfect molten chocolate lava cake for two learn professional techniques",
+        "precise chemistry",
+        "and troubleshooting tips for success",
+        "the art and science of molten chocolate lava cakes for two",
+        "understanding the culinary mechanics",
+        "selecting your ingredients",
+        "baking",
+        "dessert"
+      ],
+      "discoveredAt": "2026-10-06T23:24:03.005Z"
     }
   },
   "assets": {
@@ -20721,6 +20746,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/no-bake-strawberry-shortcake-icebox-cake-hero.jpg",
       "renderedAt": "2026-10-06T19:11:09.458Z"
+    },
+    "5343-hero": {
+      "id": "5343-hero",
+      "postId": 5343,
+      "postSlug": "molten-chocolate-lava-cakes-for-two",
+      "postUrl": "https://el-mordjene.info/molten-chocolate-lava-cakes-for-two/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Perfect Molten Lava Cakes",
+      "overlaySubtitle": "Ready In 20 Minutes",
+      "pinTitle": "Perfect Molten Chocolate Lava Cakes for Two",
+      "pinDescription": "Indulge in the ultimate decadent dessert with these perfectly gooey, restaurant-quality chocolate lava cakes. Featuring a crisp exterior that gives way to a silky, warm molten center, this recipe is surprisingly simple to master at home. Whether you are planning a romantic date night or a sweet solo treat, these ele...",
+      "primaryKeyword": "molten chocolate lava cakes for two",
+      "supportingKeywords": [
+        "molten chocolate lava cakes for two",
+        "a masterclass",
+        "master the art of the perfect molten chocolate lava cake for two learn professional techniques",
+        "precise chemistry",
+        "and troubleshooting tips for success"
+      ],
+      "searchTags": [
+        "molten chocolate lava cakes for two",
+        "a masterclass",
+        "master the art of the perfect molten chocolate lava cake for two learn professional techniques",
+        "precise chemistry",
+        "and troubleshooting tips for success",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/molten-chocolate-lava-cakes-for-two-a-masterclass_20261006_232318.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-06T23:24:29.937Z",
+      "scheduledFor": "2026-10-06T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/molten-chocolate-lava-cakes-for-two-a-masterclass_20261006_232318.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/molten-chocolate-lava-cakes-for-two-hero.jpg",
+      "renderedAt": "2026-10-06T23:24:44.197Z"
     }
   },
   "queue": {
@@ -23101,6 +23169,14 @@
       "assetId": "5340-hero",
       "postId": 5340,
       "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-10-06T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5343-hero-queue": {
+      "id": "5343-hero-queue",
+      "assetId": "5343-hero",
+      "postId": 5343,
+      "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-10-06T09:00:00.000Z",
       "status": "draft"
     }
