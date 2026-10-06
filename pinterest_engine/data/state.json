@@ -9967,6 +9967,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-10-05T16:30:40.536Z"
+    },
+    "5337": {
+      "postId": 5337,
+      "title": "Bakery Style Giant Chocolate Chip Cookies: The Ultimate Guide",
+      "url": "https://el-mordjene.info/bakery-style-giant-chocolate-chip-cookies/",
+      "slug": "bakery-style-giant-chocolate-chip-cookies",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/bakery-style-giant-chocolate-chip-cookies-the-ulti_20261006_010032.webp",
+      "keywordSet": [
+        "bakery style giant chocolate chip cookies",
+        "the ultimate guide",
+        "master the art of bakery style giant chocolate chip cookies discover the food science",
+        "professional techniques",
+        "and tips for massive",
+        "chewy perfection",
+        "the anatomy of bakery style giant chocolate chip cookies",
+        "myth vs fact",
+        "baking",
+        "cookies"
+      ],
+      "discoveredAt": "2026-10-06T08:14:45.982Z"
     }
   },
   "assets": {
@@ -20585,6 +20610,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-french-creme-brulee-with-caramelized-sugar-crust-hero.jpg",
       "renderedAt": "2026-10-05T16:31:34.812Z"
+    },
+    "5337-hero": {
+      "id": "5337-hero",
+      "postId": 5337,
+      "postSlug": "bakery-style-giant-chocolate-chip-cookies",
+      "postUrl": "https://el-mordjene.info/bakery-style-giant-chocolate-chip-cookies/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Bakery Style Giant Cookies",
+      "overlaySubtitle": "Chewy Center Perfection",
+      "pinTitle": "Bakery Style Giant Chocolate Chip Cookies: The Ultimate Guide",
+      "pinDescription": "Master the art of creating massive, bakery-quality chocolate chip cookies right in your own kitchen. These cookies feature perfectly crisp edges, an irresistibly gooey center, and pools of melted chocolate in every single bite. Learn the essential food science and professional techniques needed to achieve that baker...",
+      "primaryKeyword": "bakery style giant chocolate chip cookies",
+      "supportingKeywords": [
+        "bakery style giant chocolate chip cookies",
+        "the ultimate guide",
+        "master the art of bakery style giant chocolate chip cookies discover the food science",
+        "professional techniques",
+        "and tips for massive"
+      ],
+      "searchTags": [
+        "bakery style giant chocolate chip cookies",
+        "the ultimate guide",
+        "master the art of bakery style giant chocolate chip cookies discover the food science",
+        "professional techniques",
+        "and tips for massive",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/bakery-style-giant-chocolate-chip-cookies-the-ulti_20261006_010032.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-06T08:14:48.231Z",
+      "scheduledFor": "2026-10-06T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/bakery-style-giant-chocolate-chip-cookies-the-ulti_20261006_010032.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/bakery-style-giant-chocolate-chip-cookies-hero.jpg",
+      "renderedAt": "2026-10-06T08:15:03.878Z"
     }
   },
   "queue": {
@@ -22950,6 +23018,14 @@
       "postId": 5334,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-10-05T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5337-hero-queue": {
+      "id": "5337-hero-queue",
+      "assetId": "5337-hero",
+      "postId": 5337,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-06T09:00:00.000Z",
       "status": "draft"
     }
   }
