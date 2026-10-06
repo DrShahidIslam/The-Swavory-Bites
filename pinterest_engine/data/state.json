@@ -9992,6 +9992,31 @@
         "cookies"
       ],
       "discoveredAt": "2026-10-06T08:14:45.982Z"
+    },
+    "5340": {
+      "postId": 5340,
+      "title": "No-Bake Strawberry Shortcake Icebox Cake: Easy Guide",
+      "url": "https://el-mordjene.info/no-bake-strawberry-shortcake-icebox-cake/",
+      "slug": "no-bake-strawberry-shortcake-icebox-cake",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/no-bake-strawberry-shortcake-icebox-cake-easy-guid_20261006_143234.webp",
+      "keywordSet": [
+        "bake strawberry shortcake icebox cake",
+        "easy guide",
+        "master the no",
+        "bake strawberry shortcake icebox cake this guide covers techniques",
+        "ingredient swaps",
+        "and troubleshooting for the perfect summer dessert",
+        "icebox cake",
+        "strawberry dessert",
+        "bake",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-06T19:10:13.662Z"
     }
   },
   "assets": {
@@ -20653,6 +20678,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/bakery-style-giant-chocolate-chip-cookies-hero.jpg",
       "renderedAt": "2026-10-06T08:15:03.878Z"
+    },
+    "5340-hero": {
+      "id": "5340-hero",
+      "postId": 5340,
+      "postSlug": "no-bake-strawberry-shortcake-icebox-cake",
+      "postUrl": "https://el-mordjene.info/no-bake-strawberry-shortcake-icebox-cake/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "No-Bake Strawberry Icebox Cake",
+      "overlaySubtitle": "Easiest Summer Dessert",
+      "pinTitle": "No-Bake Strawberry Shortcake Icebox Cake Recipe",
+      "pinDescription": "Cool down with this dreamy no-bake strawberry shortcake icebox cake. Layers of buttery graham crackers, fluffy whipped cream, and sun-ripened strawberries meld together in the fridge to create a melt-in-your-mouth texture that tastes like pure summer bliss. It is the ultimate crowd-pleasing dessert that requires zer...",
+      "primaryKeyword": "bake strawberry shortcake icebox cake",
+      "supportingKeywords": [
+        "bake strawberry shortcake icebox cake",
+        "easy guide",
+        "master the no",
+        "bake strawberry shortcake icebox cake this guide covers techniques",
+        "ingredient swaps"
+      ],
+      "searchTags": [
+        "bake strawberry shortcake icebox cake",
+        "easy guide",
+        "master the no",
+        "bake strawberry shortcake icebox cake this guide covers techniques",
+        "ingredient swaps",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/no-bake-strawberry-shortcake-icebox-cake-easy-guid_20261006_143234.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-10-06T19:10:50.150Z",
+      "scheduledFor": "2026-10-06T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/no-bake-strawberry-shortcake-icebox-cake-easy-guid_20261006_143234.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/no-bake-strawberry-shortcake-icebox-cake-hero.jpg",
+      "renderedAt": "2026-10-06T19:11:09.458Z"
     }
   },
   "queue": {
@@ -23025,6 +23093,14 @@
       "assetId": "5337-hero",
       "postId": 5337,
       "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-06T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5340-hero-queue": {
+      "id": "5340-hero-queue",
+      "assetId": "5340-hero",
+      "postId": 5340,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-06T09:00:00.000Z",
       "status": "draft"
     }
