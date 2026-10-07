@@ -10042,6 +10042,31 @@
         "dessert"
       ],
       "discoveredAt": "2026-10-06T23:24:03.005Z"
+    },
+    "5346": {
+      "postId": 5346,
+      "title": "Creamy Basque Burnt Cheesecake with Berry Compote",
+      "url": "https://el-mordjene.info/creamy-basque-burnt-cheesecake-berry-compote/",
+      "slug": "creamy-basque-burnt-cheesecake-berry-compote",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/creamy-basque-burnt-cheesecake-with-berry-compote_20261007_144754.webp",
+      "keywordSet": [
+        "creamy basque burnt cheesecake with berry compote",
+        "master the art of the creamy basque burnt cheesecake with berry compote a professional guide to achieving the perfect caramelized crust and silk texture",
+        "basque cheesecake",
+        "berry compote",
+        "the evolution of the basque burnt cheesecake",
+        "the science of the burnt finish",
+        "practical steps to perfection",
+        "1 ingredient preparation",
+        "baking",
+        "dessert"
+      ],
+      "discoveredAt": "2026-10-07T14:49:50.795Z"
     }
   },
   "assets": {
@@ -20789,6 +20814,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/molten-chocolate-lava-cakes-for-two-hero.jpg",
       "renderedAt": "2026-10-06T23:24:44.197Z"
+    },
+    "5346-hero": {
+      "id": "5346-hero",
+      "postId": 5346,
+      "postSlug": "creamy-basque-burnt-cheesecake-berry-compote",
+      "postUrl": "https://el-mordjene.info/creamy-basque-burnt-cheesecake-berry-compote/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Creamy Basque Burnt Cheesecake",
+      "overlaySubtitle": "Silky Berry Compote Topping",
+      "pinTitle": "Creamy Basque Burnt Cheesecake with Berry Compote",
+      "pinDescription": "Experience the ultimate dessert indulgence with this creamy Basque Burnt Cheesecake. Featuring a deep, caramelized crust and a melt-in-your-mouth center, it is perfectly balanced by a vibrant, tangy berry compote. This professional-grade recipe makes achieving that iconic rustic look easier than you ever imagined. I...",
+      "primaryKeyword": "creamy basque burnt cheesecake with berry compote",
+      "supportingKeywords": [
+        "creamy basque burnt cheesecake with berry compote",
+        "master the art of the creamy basque burnt cheesecake with berry compote a professional guide to achieving the perfect caramelized crust and silk texture",
+        "basque cheesecake",
+        "berry compote",
+        "the evolution of the basque burnt cheesecake"
+      ],
+      "searchTags": [
+        "creamy basque burnt cheesecake with berry compote",
+        "master the art of the creamy basque burnt cheesecake with berry compote a professional guide to achieving the perfect caramelized crust and silk texture",
+        "basque cheesecake",
+        "berry compote",
+        "the evolution of the basque burnt cheesecake",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/creamy-basque-burnt-cheesecake-with-berry-compote_20261007_144754.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-07T14:49:52.575Z",
+      "scheduledFor": "2026-10-07T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/creamy-basque-burnt-cheesecake-with-berry-compote_20261007_144754.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-basque-burnt-cheesecake-berry-compote-hero.jpg",
+      "renderedAt": "2026-10-07T14:50:13.944Z"
     }
   },
   "queue": {
@@ -23178,6 +23246,14 @@
       "postId": 5343,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-10-06T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5346-hero-queue": {
+      "id": "5346-hero-queue",
+      "assetId": "5346-hero",
+      "postId": 5346,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-10-07T09:00:00.000Z",
       "status": "draft"
     }
   }
