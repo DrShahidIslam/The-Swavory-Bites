@@ -10092,6 +10092,31 @@
         "cheesecake"
       ],
       "discoveredAt": "2026-10-08T08:05:57.408Z"
+    },
+    "5352": {
+      "postId": 5352,
+      "title": "The Ultimate Chewy Brown Butter Biscoff Cookie Butter Cookies",
+      "url": "https://el-mordjene.info/chewy-brown-butter-biscoff-cookie-butter-cookies/",
+      "slug": "chewy-brown-butter-biscoff-cookie-butter-cookies",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-chewy-brown-butter-biscoff-cookie-but_20261008_145910.webp",
+      "keywordSet": [
+        "the ultimate chewy brown butter biscoff cookie butter cookies",
+        "master the art of chewy brown butter biscoff cookie butter cookies with this expert guide learn the science of browning butter for deep",
+        "nutty flavor",
+        "understanding the culinary architecture of the perfect cookie",
+        "the science of brown butter",
+        "beurre noisette",
+        "the role of speculoos",
+        "ingredient selection and substitution logic",
+        "baking",
+        "biscoff"
+      ],
+      "discoveredAt": "2026-10-08T19:33:01.457Z"
     }
   },
   "assets": {
@@ -20882,6 +20907,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-basque-burnt-cheesecake-berry-compote-hero.jpg",
       "renderedAt": "2026-10-07T14:50:13.944Z"
+    },
+    "5352-hero": {
+      "id": "5352-hero",
+      "postId": 5352,
+      "postSlug": "chewy-brown-butter-biscoff-cookie-butter-cookies",
+      "postUrl": "https://el-mordjene.info/chewy-brown-butter-biscoff-cookie-butter-cookies/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Chewy Brown Butter Biscoff Cookies",
+      "overlaySubtitle": "The Ultimate Bakery Treat",
+      "pinTitle": "Chewy Brown Butter Biscoff Cookie Butter Cookies",
+      "pinDescription": "Sink your teeth into the ultimate chewy cookie experience. These decadent treats feature nutty, aromatic brown butter paired with creamy Biscoff cookie butter for a deep, caramelized flavor profile that is absolutely irresistible. Perfectly soft in the center with chewy, golden edges, these cookies are a true bakery...",
+      "primaryKeyword": "the ultimate chewy brown butter biscoff cookie butter cookies",
+      "supportingKeywords": [
+        "the ultimate chewy brown butter biscoff cookie butter cookies",
+        "master the art of chewy brown butter biscoff cookie butter cookies with this expert guide learn the science of browning butter for deep",
+        "nutty flavor",
+        "understanding the culinary architecture of the perfect cookie",
+        "the science of brown butter"
+      ],
+      "searchTags": [
+        "the ultimate chewy brown butter biscoff cookie butter cookies",
+        "master the art of chewy brown butter biscoff cookie butter cookies with this expert guide learn the science of browning butter for deep",
+        "nutty flavor",
+        "understanding the culinary architecture of the perfect cookie",
+        "the science of brown butter",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-chewy-brown-butter-biscoff-cookie-but_20261008_145910.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-08T19:33:07.661Z",
+      "scheduledFor": "2026-10-08T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-chewy-brown-butter-biscoff-cookie-but_20261008_145910.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chewy-brown-butter-biscoff-cookie-butter-cookies-hero.jpg",
+      "renderedAt": "2026-10-08T19:33:24.366Z"
     }
   },
   "queue": {
@@ -23279,6 +23347,14 @@
       "postId": 5346,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-07T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5352-hero-queue": {
+      "id": "5352-hero-queue",
+      "assetId": "5352-hero",
+      "postId": 5352,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-08T09:00:00.000Z",
       "status": "draft"
     }
   }
