@@ -10142,6 +10142,31 @@
         "baking"
       ],
       "discoveredAt": "2026-10-09T00:01:09.287Z"
+    },
+    "5358": {
+      "postId": 5358,
+      "title": "No-Churn Honeycomb Salted Caramel Ice Cream Guide",
+      "url": "https://el-mordjene.info/no-churn-honeycomb-salted-caramel-ice-cream/",
+      "slug": "no-churn-honeycomb-salted-caramel-ice-cream",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/no-churn-honeycomb-salted-caramel-ice-cream-guide_20261009_144351.webp",
+      "keywordSet": [
+        "churn honeycomb salted caramel ice cream guide",
+        "master the art of no",
+        "churn honeycomb salted caramel ice cream discover the food science",
+        "perfect texture techniques",
+        "and our foolproof recipe",
+        "ice cream",
+        "the evolution of homemade frozen desserts",
+        "culinary mechanics",
+        "caramel",
+        "dessert"
+      ],
+      "discoveredAt": "2026-10-09T19:07:33.763Z"
     }
   },
   "assets": {
@@ -21018,6 +21043,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/lemon-blueberry-ricotta-pound-cake-with-lemon-glaze-hero.jpg",
       "renderedAt": "2026-10-09T00:01:28.196Z"
+    },
+    "5358-hero": {
+      "id": "5358-hero",
+      "postId": 5358,
+      "postSlug": "no-churn-honeycomb-salted-caramel-ice-cream",
+      "postUrl": "https://el-mordjene.info/no-churn-honeycomb-salted-caramel-ice-cream/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "No-Churn Salted Caramel Ice Cream",
+      "overlaySubtitle": "Foolproof 5-Ingredient Dessert",
+      "pinTitle": "No-Churn Honeycomb Salted Caramel Ice Cream Recipe",
+      "pinDescription": "Indulge in the ultimate homemade treat with this creamy, no-churn honeycomb salted caramel ice cream. Perfectly balanced with sweet golden honeycomb bits and a luscious swirl of sea-salted caramel, this dreamy dessert requires zero ice cream maker. Learn the science behind the perfect velvety texture that melts in y...",
+      "primaryKeyword": "churn honeycomb salted caramel ice cream guide",
+      "supportingKeywords": [
+        "churn honeycomb salted caramel ice cream guide",
+        "master the art of no",
+        "churn honeycomb salted caramel ice cream discover the food science",
+        "perfect texture techniques",
+        "and our foolproof recipe"
+      ],
+      "searchTags": [
+        "churn honeycomb salted caramel ice cream guide",
+        "master the art of no",
+        "churn honeycomb salted caramel ice cream discover the food science",
+        "perfect texture techniques",
+        "and our foolproof recipe",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/no-churn-honeycomb-salted-caramel-ice-cream-guide_20261009_144351.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-10-09T19:07:38.533Z",
+      "scheduledFor": "2026-10-09T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/no-churn-honeycomb-salted-caramel-ice-cream-guide_20261009_144351.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/no-churn-honeycomb-salted-caramel-ice-cream-hero.jpg",
+      "renderedAt": "2026-10-09T19:07:55.703Z"
     }
   },
   "queue": {
@@ -23430,6 +23498,14 @@
       "assetId": "5355-hero",
       "postId": 5355,
       "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-10-09T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5358-hero-queue": {
+      "id": "5358-hero-queue",
+      "assetId": "5358-hero",
+      "postId": 5358,
+      "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-10-09T09:00:00.000Z",
       "status": "draft"
     }
