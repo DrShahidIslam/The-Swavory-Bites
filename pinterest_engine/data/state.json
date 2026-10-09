@@ -10117,6 +10117,31 @@
         "biscoff"
       ],
       "discoveredAt": "2026-10-08T19:33:01.457Z"
+    },
+    "5355": {
+      "postId": 5355,
+      "title": "Lemon Blueberry Ricotta Pound Cake with Lemon Glaze",
+      "url": "https://el-mordjene.info/lemon-blueberry-ricotta-pound-cake-with-lemon-glaze/",
+      "slug": "lemon-blueberry-ricotta-pound-cake-with-lemon-glaze",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/lemon-blueberry-ricotta-pound-cake-with-lemon-glaz_20261009_000022.webp",
+      "keywordSet": [
+        "lemon blueberry ricotta pound cake with lemon glaze",
+        "master the art of the perfect lemon blueberry ricotta pound cake with lemon glaze a moist",
+        "and professional guide to bakery",
+        "style results at home",
+        "pound cake",
+        "the secret to moist and tender citrus pound cake",
+        "the culinary mechanics",
+        "why ricotta and lemon work",
+        "zesty",
+        "baking"
+      ],
+      "discoveredAt": "2026-10-09T00:01:09.287Z"
     }
   },
   "assets": {
@@ -20950,6 +20975,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chewy-brown-butter-biscoff-cookie-butter-cookies-hero.jpg",
       "renderedAt": "2026-10-08T19:33:24.366Z"
+    },
+    "5355-hero": {
+      "id": "5355-hero",
+      "postId": 5355,
+      "postSlug": "lemon-blueberry-ricotta-pound-cake-with-lemon-glaze",
+      "postUrl": "https://el-mordjene.info/lemon-blueberry-ricotta-pound-cake-with-lemon-glaze/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Lemon Blueberry Ricotta Cake",
+      "overlaySubtitle": "Bakery Style Results",
+      "pinTitle": "Lemon Blueberry Ricotta Pound Cake with Zesty Lemon Glaze",
+      "pinDescription": "Experience the ultimate melt-in-your-mouth texture with this Lemon Blueberry Ricotta Pound Cake. Packed with fresh, juicy berries and creamy ricotta, every bite delivers a bright citrus zing finished with a sweet, drizzled lemon glaze. It is the perfect balance of moist, tender crumb and refreshing flavor, making it...",
+      "primaryKeyword": "lemon blueberry ricotta pound cake with lemon glaze",
+      "supportingKeywords": [
+        "lemon blueberry ricotta pound cake with lemon glaze",
+        "master the art of the perfect lemon blueberry ricotta pound cake with lemon glaze a moist",
+        "and professional guide to bakery",
+        "style results at home",
+        "pound cake"
+      ],
+      "searchTags": [
+        "lemon blueberry ricotta pound cake with lemon glaze",
+        "master the art of the perfect lemon blueberry ricotta pound cake with lemon glaze a moist",
+        "and professional guide to bakery",
+        "style results at home",
+        "pound cake",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/lemon-blueberry-ricotta-pound-cake-with-lemon-glaz_20261009_000022.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-10-09T00:01:11.280Z",
+      "scheduledFor": "2026-10-09T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/lemon-blueberry-ricotta-pound-cake-with-lemon-glaz_20261009_000022.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/lemon-blueberry-ricotta-pound-cake-with-lemon-glaze-hero.jpg",
+      "renderedAt": "2026-10-09T00:01:28.196Z"
     }
   },
   "queue": {
@@ -23355,6 +23423,14 @@
       "postId": 5352,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-10-08T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5355-hero-queue": {
+      "id": "5355-hero-queue",
+      "assetId": "5355-hero",
+      "postId": 5355,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-10-09T09:00:00.000Z",
       "status": "draft"
     }
   }
