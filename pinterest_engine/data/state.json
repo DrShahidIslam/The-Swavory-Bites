@@ -10167,6 +10167,31 @@
         "dessert"
       ],
       "discoveredAt": "2026-10-09T19:07:33.763Z"
+    },
+    "5361": {
+      "postId": 5361,
+      "title": "Classic Italian Cannoli Dip with Crispy Waffle Cones",
+      "url": "https://el-mordjene.info/classic-italian-cannoli-dip-with-crispy-waffle-cones/",
+      "slug": "classic-italian-cannoli-dip-with-crispy-waffle-cones",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/classic-italian-cannoli-dip-with-crispy-waffle-con_20261009_233752.webp",
+      "keywordSet": [
+        "classic italian cannoli dip with crispy waffle cones",
+        "master the art of the classic italian cannoli dip with crispy waffle cones a professional guide to achieving authentic ricotta texture and crunch",
+        "cannoli dip",
+        "easy sweets",
+        "italian dessert",
+        "party recipes",
+        "the evolution of the modern dessert table",
+        "regional context",
+        "recipes",
+        "ricotta"
+      ],
+      "discoveredAt": "2026-10-10T07:49:34.523Z"
     }
   },
   "assets": {
@@ -21086,6 +21111,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/no-churn-honeycomb-salted-caramel-ice-cream-hero.jpg",
       "renderedAt": "2026-10-09T19:07:55.703Z"
+    },
+    "5361-hero": {
+      "id": "5361-hero",
+      "postId": 5361,
+      "postSlug": "classic-italian-cannoli-dip-with-crispy-waffle-cones",
+      "postUrl": "https://el-mordjene.info/classic-italian-cannoli-dip-with-crispy-waffle-cones/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Authentic Cannoli Dip Recipe",
+      "overlaySubtitle": "Ready in 10 Minutes",
+      "pinTitle": "Classic Italian Cannoli Dip with Crispy Waffle Cones",
+      "pinDescription": "Experience the ultimate dessert indulgence with this creamy, authentic Italian cannoli dip. Featuring a velvety, sweetened ricotta base folded with mini chocolate chips, this decadent treat pairs perfectly with crunchy, golden waffle cones. It is the sophisticated, crowd-pleasing dessert you need for your next summe...",
+      "primaryKeyword": "classic italian cannoli dip with crispy waffle cones",
+      "supportingKeywords": [
+        "classic italian cannoli dip with crispy waffle cones",
+        "master the art of the classic italian cannoli dip with crispy waffle cones a professional guide to achieving authentic ricotta texture and crunch",
+        "cannoli dip",
+        "easy sweets",
+        "italian dessert"
+      ],
+      "searchTags": [
+        "classic italian cannoli dip with crispy waffle cones",
+        "master the art of the classic italian cannoli dip with crispy waffle cones a professional guide to achieving authentic ricotta texture and crunch",
+        "cannoli dip",
+        "easy sweets",
+        "italian dessert",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/classic-italian-cannoli-dip-with-crispy-waffle-con_20261009_233752.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-10T07:49:35.947Z",
+      "scheduledFor": "2026-10-09T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/classic-italian-cannoli-dip-with-crispy-waffle-con_20261009_233752.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-italian-cannoli-dip-with-crispy-waffle-cones-hero.jpg",
+      "renderedAt": "2026-10-10T07:49:52.771Z"
     }
   },
   "queue": {
@@ -23506,6 +23574,14 @@
       "assetId": "5358-hero",
       "postId": 5358,
       "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-10-09T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5361-hero-queue": {
+      "id": "5361-hero-queue",
+      "assetId": "5361-hero",
+      "postId": 5361,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-09T09:00:00.000Z",
       "status": "draft"
     }
