@@ -10192,6 +10192,31 @@
         "ricotta"
       ],
       "discoveredAt": "2026-10-10T07:49:34.523Z"
+    },
+    "5364": {
+      "postId": 5364,
+      "title": "Mini Key Lime Pie Tarts with Graham Cracker Crust",
+      "url": "https://el-mordjene.info/mini-key-lime-pie-tarts-graham-cracker-crust/",
+      "slug": "mini-key-lime-pie-tarts-graham-cracker-crust",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/mini-key-lime-pie-tarts-with-graham-cracker-crust_20261010_140107.webp",
+      "keywordSet": [
+        "mini key lime pie tarts with graham cracker crust",
+        "master the art of mini key lime pie tarts with graham cracker crust a zesty",
+        "creamy dessert guide perfect for events",
+        "featuring expert tips",
+        "the rise of miniature pastries",
+        "culinary mechanics",
+        "the science of the custard",
+        "understanding regional differences",
+        "baking",
+        "citrus"
+      ],
+      "discoveredAt": "2026-10-10T23:00:59.665Z"
     }
   },
   "assets": {
@@ -21154,6 +21179,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/classic-italian-cannoli-dip-with-crispy-waffle-cones-hero.jpg",
       "renderedAt": "2026-10-10T07:49:52.771Z"
+    },
+    "5364-hero": {
+      "id": "5364-hero",
+      "postId": 5364,
+      "postSlug": "mini-key-lime-pie-tarts-graham-cracker-crust",
+      "postUrl": "https://el-mordjene.info/mini-key-lime-pie-tarts-graham-cracker-crust/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Zesty Mini Key Lime Tarts",
+      "overlaySubtitle": "Perfect Party Dessert",
+      "pinTitle": "Mini Key Lime Pie Tarts with Graham Cracker Crust",
+      "pinDescription": "Experience the perfect balance of tangy citrus and buttery crunch with these adorable Mini Key Lime Pie Tarts. Featuring a silky-smooth lime filling nestled in a golden, toasted graham cracker crust, these bite-sized treats are a guaranteed crowd-pleaser for any gathering. They are incredibly easy to assemble and lo...",
+      "primaryKeyword": "mini key lime pie tarts with graham cracker crust",
+      "supportingKeywords": [
+        "mini key lime pie tarts with graham cracker crust",
+        "master the art of mini key lime pie tarts with graham cracker crust a zesty",
+        "creamy dessert guide perfect for events",
+        "featuring expert tips",
+        "the rise of miniature pastries"
+      ],
+      "searchTags": [
+        "mini key lime pie tarts with graham cracker crust",
+        "master the art of mini key lime pie tarts with graham cracker crust a zesty",
+        "creamy dessert guide perfect for events",
+        "featuring expert tips",
+        "the rise of miniature pastries",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/mini-key-lime-pie-tarts-with-graham-cracker-crust_20261010_140107.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-10T23:01:24.470Z",
+      "scheduledFor": "2026-10-10T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/mini-key-lime-pie-tarts-with-graham-cracker-crust_20261010_140107.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/mini-key-lime-pie-tarts-graham-cracker-crust-hero.jpg",
+      "renderedAt": "2026-10-10T23:01:41.542Z"
     }
   },
   "queue": {
@@ -23583,6 +23651,14 @@
       "postId": 5361,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-09T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5364-hero-queue": {
+      "id": "5364-hero-queue",
+      "assetId": "5364-hero",
+      "postId": 5364,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-10T09:00:00.000Z",
       "status": "draft"
     }
   }
