@@ -10267,6 +10267,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-10-11T14:32:37.664Z"
+    },
+    "5373": {
+      "postId": 5373,
+      "title": "Old-Fashioned Southern Peach Cobbler with Flaky Biscuits",
+      "url": "https://el-mordjene.info/old-fashioned-southern-peach-cobbler-flaky-biscuits/",
+      "slug": "old-fashioned-southern-peach-cobbler-flaky-biscuits",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/old-fashioned-southern-peach-cobbler-with-flaky-bi_20261011_231510.webp",
+      "keywordSet": [
+        "fashioned southern peach cobbler with flaky biscuits",
+        "master the art of old",
+        "fashioned southern peach cobbler with flaky biscuits a culinary guide to perfect stone fruit",
+        "biscuit techniques",
+        "and baking science",
+        "baking tips",
+        "dessert recipes",
+        "peach cobbler",
+        "old",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-11T23:16:39.910Z"
     }
   },
   "assets": {
@@ -21358,6 +21383,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-peanut-butter-pie-with-oreo-crust-hero.jpg",
       "renderedAt": "2026-10-11T14:32:58.624Z"
+    },
+    "5373-hero": {
+      "id": "5373-hero",
+      "postId": 5373,
+      "postSlug": "old-fashioned-southern-peach-cobbler-flaky-biscuits",
+      "postUrl": "https://el-mordjene.info/old-fashioned-southern-peach-cobbler-flaky-biscuits/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Old-Fashioned Southern Peach Cobbler",
+      "overlaySubtitle": "Flaky Homemade Biscuits",
+      "pinTitle": "Old-Fashioned Southern Peach Cobbler with Flaky Biscuits",
+      "pinDescription": "Experience the ultimate comfort of a classic Southern peach cobbler. Featuring juicy, sun-ripened peaches tucked beneath golden, buttery, and incredibly flaky biscuits, this dessert is the perfect balance of sweet stone fruit and rustic charm. It is surprisingly easy to master at home, delivering that nostalgic, mel...",
+      "primaryKeyword": "fashioned southern peach cobbler with flaky biscuits",
+      "supportingKeywords": [
+        "fashioned southern peach cobbler with flaky biscuits",
+        "master the art of old",
+        "fashioned southern peach cobbler with flaky biscuits a culinary guide to perfect stone fruit",
+        "biscuit techniques",
+        "and baking science"
+      ],
+      "searchTags": [
+        "fashioned southern peach cobbler with flaky biscuits",
+        "master the art of old",
+        "fashioned southern peach cobbler with flaky biscuits a culinary guide to perfect stone fruit",
+        "biscuit techniques",
+        "and baking science",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/old-fashioned-southern-peach-cobbler-with-flaky-bi_20261011_231510.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-11T23:16:45.559Z",
+      "scheduledFor": "2026-10-11T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/old-fashioned-southern-peach-cobbler-with-flaky-bi_20261011_231510.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/old-fashioned-southern-peach-cobbler-flaky-biscuits-hero.jpg",
+      "renderedAt": "2026-10-11T23:17:03.080Z"
     }
   },
   "queue": {
@@ -23810,6 +23878,14 @@
       "assetId": "5370-hero",
       "postId": 5370,
       "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-11T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5373-hero-queue": {
+      "id": "5373-hero-queue",
+      "assetId": "5373-hero",
+      "postId": 5373,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-11T09:00:00.000Z",
       "status": "draft"
     }
