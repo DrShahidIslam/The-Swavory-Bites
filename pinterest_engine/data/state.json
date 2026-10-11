@@ -10217,6 +10217,31 @@
         "citrus"
       ],
       "discoveredAt": "2026-10-10T23:00:59.665Z"
+    },
+    "5367": {
+      "postId": 5367,
+      "title": "Raspberry White Chocolate Swirl Scones: A Masterclass",
+      "url": "https://el-mordjene.info/raspberry-white-chocolate-swirl-scones/",
+      "slug": "raspberry-white-chocolate-swirl-scones",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/raspberry-white-chocolate-swirl-scones-a-mastercla_20261010_230022.webp",
+      "keywordSet": [
+        "raspberry white chocolate swirl scones",
+        "a masterclass",
+        "master the art of raspberry white chocolate swirl scones with this expert guide learn the science of tender layers",
+        "cold butter",
+        "and perfect fruit swirls",
+        "white chocolate",
+        "the anatomy of the perfect scone",
+        "why the swirl matters",
+        "baking",
+        "breakfast"
+      ],
+      "discoveredAt": "2026-10-11T07:57:16.986Z"
     }
   },
   "assets": {
@@ -21222,6 +21247,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/mini-key-lime-pie-tarts-graham-cracker-crust-hero.jpg",
       "renderedAt": "2026-10-10T23:01:41.542Z"
+    },
+    "5367-hero": {
+      "id": "5367-hero",
+      "postId": 5367,
+      "postSlug": "raspberry-white-chocolate-swirl-scones",
+      "postUrl": "https://el-mordjene.info/raspberry-white-chocolate-swirl-scones/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Raspberry White Chocolate Scones",
+      "overlaySubtitle": "Bakery Style At Home",
+      "pinTitle": "Raspberry White Chocolate Swirl Scones (Bakery Style)",
+      "pinDescription": "Experience the ultimate brunch indulgence with these tender, buttery Raspberry White Chocolate Swirl Scones. Featuring a perfect golden crust and a soft, crumbly interior, every bite is packed with sweet berries and creamy white chocolate. Master the science of flaky layers with this foolproof guide that makes café-...",
+      "primaryKeyword": "raspberry white chocolate swirl scones",
+      "supportingKeywords": [
+        "raspberry white chocolate swirl scones",
+        "a masterclass",
+        "master the art of raspberry white chocolate swirl scones with this expert guide learn the science of tender layers",
+        "cold butter",
+        "and perfect fruit swirls"
+      ],
+      "searchTags": [
+        "raspberry white chocolate swirl scones",
+        "a masterclass",
+        "master the art of raspberry white chocolate swirl scones with this expert guide learn the science of tender layers",
+        "cold butter",
+        "and perfect fruit swirls",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/raspberry-white-chocolate-swirl-scones-a-mastercla_20261010_230022.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-10-11T07:57:19.125Z",
+      "scheduledFor": "2026-10-10T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/raspberry-white-chocolate-swirl-scones-a-mastercla_20261010_230022.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/raspberry-white-chocolate-swirl-scones-hero.jpg",
+      "renderedAt": "2026-10-11T07:57:34.774Z"
     }
   },
   "queue": {
@@ -23658,6 +23726,14 @@
       "assetId": "5364-hero",
       "postId": 5364,
       "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-10T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5367-hero-queue": {
+      "id": "5367-hero-queue",
+      "assetId": "5367-hero",
+      "postId": 5367,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-10T09:00:00.000Z",
       "status": "draft"
     }
