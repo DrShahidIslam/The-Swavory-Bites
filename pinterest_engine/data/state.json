@@ -10242,6 +10242,31 @@
         "breakfast"
       ],
       "discoveredAt": "2026-10-11T07:57:16.986Z"
+    },
+    "5370": {
+      "postId": 5370,
+      "title": "The Ultimate Creamy Peanut Butter Pie with Oreo Crust",
+      "url": "https://el-mordjene.info/creamy-peanut-butter-pie-with-oreo-crust/",
+      "slug": "creamy-peanut-butter-pie-with-oreo-crust",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-creamy-peanut-butter-pie-with-oreo-cr_20261011_142538.webp",
+      "keywordSet": [
+        "the ultimate creamy peanut butter pie with oreo crust",
+        "master the perfect creamy peanut butter pie with oreo crust get expert tips on balancing textures",
+        "emulsion techniques",
+        "and perfect crust ratios",
+        "baking tips",
+        "oreo crust",
+        "peanut butter pie",
+        "the anatomy of the perfect creamy peanut butter pie with oreo crust",
+        "dessert",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-11T14:32:37.664Z"
     }
   },
   "assets": {
@@ -21290,6 +21315,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/raspberry-white-chocolate-swirl-scones-hero.jpg",
       "renderedAt": "2026-10-11T07:57:34.774Z"
+    },
+    "5370-hero": {
+      "id": "5370-hero",
+      "postId": 5370,
+      "postSlug": "creamy-peanut-butter-pie-with-oreo-crust",
+      "postUrl": "https://el-mordjene.info/creamy-peanut-butter-pie-with-oreo-crust/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Ultimate Peanut Butter Pie",
+      "overlaySubtitle": "No-Bake Oreo Crust",
+      "pinTitle": "Easy Creamy Peanut Butter Pie with Oreo Crust",
+      "pinDescription": "Indulge in the ultimate dessert experience with this decadent creamy peanut butter pie. Featuring a rich, velvety peanut butter filling nestled inside a crisp, buttery Oreo cookie crust, every bite offers the perfect balance of salty and sweet. This no-bake masterpiece is incredibly simple to assemble and guaranteed...",
+      "primaryKeyword": "the ultimate creamy peanut butter pie with oreo crust",
+      "supportingKeywords": [
+        "the ultimate creamy peanut butter pie with oreo crust",
+        "master the perfect creamy peanut butter pie with oreo crust get expert tips on balancing textures",
+        "emulsion techniques",
+        "and perfect crust ratios",
+        "baking tips"
+      ],
+      "searchTags": [
+        "the ultimate creamy peanut butter pie with oreo crust",
+        "master the perfect creamy peanut butter pie with oreo crust get expert tips on balancing textures",
+        "emulsion techniques",
+        "and perfect crust ratios",
+        "baking tips",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-creamy-peanut-butter-pie-with-oreo-cr_20261011_142538.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-11T14:32:41.067Z",
+      "scheduledFor": "2026-10-11T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-creamy-peanut-butter-pie-with-oreo-cr_20261011_142538.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/creamy-peanut-butter-pie-with-oreo-crust-hero.jpg",
+      "renderedAt": "2026-10-11T14:32:58.624Z"
     }
   },
   "queue": {
@@ -23735,6 +23803,14 @@
       "postId": 5367,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-10T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5370-hero-queue": {
+      "id": "5370-hero-queue",
+      "assetId": "5370-hero",
+      "postId": 5370,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-11T09:00:00.000Z",
       "status": "draft"
     }
   }
