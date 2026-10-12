@@ -10292,6 +10292,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-10-11T23:16:39.910Z"
+    },
+    "5376": {
+      "postId": 5376,
+      "title": "Decadent Triple Chocolate Mousse Cups: The Ultimate Guide",
+      "url": "https://el-mordjene.info/decadent-triple-chocolate-mousse-cups/",
+      "slug": "decadent-triple-chocolate-mousse-cups",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/decadent-triple-chocolate-mousse-cups-the-ultimate_20261012_170426.webp",
+      "keywordSet": [
+        "decadent triple chocolate mousse cups",
+        "the ultimate guide",
+        "master the art of decadent triple chocolate mousse cups learn professional techniques for airy",
+        "rich layers of dark",
+        "and white chocolate",
+        "chocolate dessert",
+        "elegant sweets",
+        "mousse recipe",
+        "milk",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-12T21:54:12.471Z"
     }
   },
   "assets": {
@@ -21426,6 +21451,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/old-fashioned-southern-peach-cobbler-flaky-biscuits-hero.jpg",
       "renderedAt": "2026-10-11T23:17:03.080Z"
+    },
+    "5376-hero": {
+      "id": "5376-hero",
+      "postId": 5376,
+      "postSlug": "decadent-triple-chocolate-mousse-cups",
+      "postUrl": "https://el-mordjene.info/decadent-triple-chocolate-mousse-cups/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Decadent Triple Chocolate Mousse",
+      "overlaySubtitle": "Elegant No-Bake Dessert",
+      "pinTitle": "Triple Chocolate Mousse Cups: The Ultimate Easy Dessert",
+      "pinDescription": "Indulge in the velvety perfection of these decadent triple chocolate mousse cups. Featuring airy, rich layers of dark, milk, and white chocolate, this dessert is a true showstopper for any occasion. Despite their sophisticated look, they are surprisingly simple to master at home with our professional technique guide...",
+      "primaryKeyword": "decadent triple chocolate mousse cups",
+      "supportingKeywords": [
+        "decadent triple chocolate mousse cups",
+        "the ultimate guide",
+        "master the art of decadent triple chocolate mousse cups learn professional techniques for airy",
+        "rich layers of dark",
+        "and white chocolate"
+      ],
+      "searchTags": [
+        "decadent triple chocolate mousse cups",
+        "the ultimate guide",
+        "master the art of decadent triple chocolate mousse cups learn professional techniques for airy",
+        "rich layers of dark",
+        "and white chocolate",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/decadent-triple-chocolate-mousse-cups-the-ultimate_20261012_170426.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-12T21:54:13.999Z",
+      "scheduledFor": "2026-10-12T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/decadent-triple-chocolate-mousse-cups-the-ultimate_20261012_170426.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/decadent-triple-chocolate-mousse-cups-hero.jpg",
+      "renderedAt": "2026-10-12T21:54:33.497Z"
     }
   },
   "queue": {
@@ -23887,6 +23955,14 @@
       "postId": 5373,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-11T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5376-hero-queue": {
+      "id": "5376-hero-queue",
+      "assetId": "5376-hero",
+      "postId": 5376,
+      "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-10-12T09:00:00.000Z",
       "status": "draft"
     }
   }
