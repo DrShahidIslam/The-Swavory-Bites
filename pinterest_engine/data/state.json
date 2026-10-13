@@ -10342,6 +10342,31 @@
         "cubed"
       ],
       "discoveredAt": "2026-10-13T08:37:13.819Z"
+    },
+    "5382": {
+      "postId": 5382,
+      "title": "The Ultimate Guide to Chewy Matcha White Chocolate Chip Cookies",
+      "url": "https://el-mordjene.info/chewy-matcha-white-chocolate-chip-cookies/",
+      "slug": "chewy-matcha-white-chocolate-chip-cookies",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-guide-to-chewy-matcha-white-chocolate_20261013_151958.webp",
+      "keywordSet": [
+        "the ultimate guide to chewy matcha white chocolate chip cookies",
+        "master the art of chewy matcha white chocolate chip cookies learn the science of balancing earthy ceremonial",
+        "grade matcha with creamy white chocolate",
+        "green tea",
+        "the art of perfecting chewy matcha white chocolate chip cookies",
+        "culinary mechanics",
+        "choosing your matcha and chocolate",
+        "ingredient substitution 038",
+        "baking",
+        "cookies"
+      ],
+      "discoveredAt": "2026-10-13T19:58:52.291Z"
     }
   },
   "assets": {
@@ -21562,6 +21587,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/blueberry-crumble-bars-with-lemon-glaze-hero.jpg",
       "renderedAt": "2026-10-13T08:37:42.023Z"
+    },
+    "5382-hero": {
+      "id": "5382-hero",
+      "postId": 5382,
+      "postSlug": "chewy-matcha-white-chocolate-chip-cookies",
+      "postUrl": "https://el-mordjene.info/chewy-matcha-white-chocolate-chip-cookies/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Chewy Matcha White Cookies",
+      "overlaySubtitle": "Earthy & Sweet Perfection",
+      "pinTitle": "Chewy Matcha White Chocolate Chip Cookies Recipe",
+      "pinDescription": "Master the art of the perfect bakery-style cookie. These chewy matcha white chocolate chip cookies feature a vibrant, earthy depth from ceremonial-grade matcha balanced perfectly by pockets of creamy, decadent white chocolate. Every bite offers a soft, melt-in-your-mouth texture that is impossible to resist. Ideal f...",
+      "primaryKeyword": "the ultimate guide to chewy matcha white chocolate chip cookies",
+      "supportingKeywords": [
+        "the ultimate guide to chewy matcha white chocolate chip cookies",
+        "master the art of chewy matcha white chocolate chip cookies learn the science of balancing earthy ceremonial",
+        "grade matcha with creamy white chocolate",
+        "green tea",
+        "the art of perfecting chewy matcha white chocolate chip cookies"
+      ],
+      "searchTags": [
+        "the ultimate guide to chewy matcha white chocolate chip cookies",
+        "master the art of chewy matcha white chocolate chip cookies learn the science of balancing earthy ceremonial",
+        "grade matcha with creamy white chocolate",
+        "green tea",
+        "the art of perfecting chewy matcha white chocolate chip cookies",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-guide-to-chewy-matcha-white-chocolate_20261013_151958.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-13T19:59:06.051Z",
+      "scheduledFor": "2026-10-13T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-guide-to-chewy-matcha-white-chocolate_20261013_151958.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chewy-matcha-white-chocolate-chip-cookies-hero.jpg",
+      "renderedAt": "2026-10-13T19:59:28.607Z"
     }
   },
   "queue": {
@@ -24038,6 +24106,14 @@
       "assetId": "5379-hero",
       "postId": 5379,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-10-13T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5382-hero-queue": {
+      "id": "5382-hero-queue",
+      "assetId": "5382-hero",
+      "postId": 5382,
+      "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-10-13T09:00:00.000Z",
       "status": "draft"
     }
