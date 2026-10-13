@@ -10367,6 +10367,31 @@
         "cookies"
       ],
       "discoveredAt": "2026-10-13T19:58:52.291Z"
+    },
+    "5385": {
+      "postId": 5385,
+      "title": "Crispy Mediterranean Chickpea and Feta Power Bowl Guide",
+      "url": "https://el-mordjene.info/crispy-mediterranean-chickpea-feta-power-bowl/",
+      "slug": "crispy-mediterranean-chickpea-feta-power-bowl",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/crispy-mediterranean-chickpea-and-feta-power-bowl_20261013_232818.webp",
+      "keywordSet": [
+        "crispy mediterranean chickpea and feta power bowl guide",
+        "master the art of the crispy mediterranean chickpea and feta power bowl learn professional techniques for perfect texture",
+        "and prep",
+        "chickpea recipes",
+        "healthy recipes",
+        "power bowl",
+        "the art of the crispy mediterranean chickpea and feta power bowl",
+        "the culinary mechanics of the 8220",
+        "seasoning",
+        "mediterranean"
+      ],
+      "discoveredAt": "2026-10-13T23:35:51.522Z"
     }
   },
   "assets": {
@@ -21630,6 +21655,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/chewy-matcha-white-chocolate-chip-cookies-hero.jpg",
       "renderedAt": "2026-10-13T19:59:28.607Z"
+    },
+    "5385-hero": {
+      "id": "5385-hero",
+      "postId": 5385,
+      "postSlug": "crispy-mediterranean-chickpea-feta-power-bowl",
+      "postUrl": "https://el-mordjene.info/crispy-mediterranean-chickpea-feta-power-bowl/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Crispy Mediterranean Power Bowl",
+      "overlaySubtitle": "Healthy 15-Minute Lunch",
+      "pinTitle": "Crispy Mediterranean Chickpea and Feta Power Bowl",
+      "pinDescription": "Elevate your lunch routine with these golden, perfectly seasoned crispy chickpeas paired with creamy, tangy feta. This Mediterranean power bowl is a vibrant explosion of fresh flavors and satisfying textures. It is the ultimate healthy meal prep solution for busy days when you crave something nutritious yet indulgen...",
+      "primaryKeyword": "crispy mediterranean chickpea and feta power bowl guide",
+      "supportingKeywords": [
+        "crispy mediterranean chickpea and feta power bowl guide",
+        "master the art of the crispy mediterranean chickpea and feta power bowl learn professional techniques for perfect texture",
+        "and prep",
+        "chickpea recipes",
+        "healthy recipes"
+      ],
+      "searchTags": [
+        "crispy mediterranean chickpea and feta power bowl guide",
+        "master the art of the crispy mediterranean chickpea and feta power bowl learn professional techniques for perfect texture",
+        "and prep",
+        "chickpea recipes",
+        "healthy recipes",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/crispy-mediterranean-chickpea-and-feta-power-bowl_20261013_232818.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-13T23:35:53.258Z",
+      "scheduledFor": "2026-10-13T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/crispy-mediterranean-chickpea-and-feta-power-bowl_20261013_232818.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-mediterranean-chickpea-feta-power-bowl-hero.jpg",
+      "renderedAt": "2026-10-13T23:36:10.892Z"
     }
   },
   "queue": {
@@ -24114,6 +24182,14 @@
       "assetId": "5382-hero",
       "postId": 5382,
       "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-13T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5385-hero-queue": {
+      "id": "5385-hero-queue",
+      "assetId": "5385-hero",
+      "postId": 5385,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-13T09:00:00.000Z",
       "status": "draft"
     }
