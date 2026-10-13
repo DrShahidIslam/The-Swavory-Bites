@@ -10317,6 +10317,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-10-12T21:54:12.471Z"
+    },
+    "5379": {
+      "postId": 5379,
+      "title": "Blueberry Crumble Bars with Lemon Glaze: The Ultimate Guide",
+      "url": "https://el-mordjene.info/blueberry-crumble-bars-with-lemon-glaze/",
+      "slug": "blueberry-crumble-bars-with-lemon-glaze",
+      "language": "en",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "shouldPin": true,
+      "contentType": "drink",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/blueberry-crumble-bars-with-lemon-glaze-the-ultima_20261013_014006.webp",
+      "keywordSet": [
+        "blueberry crumble bars with lemon glaze",
+        "the ultimate guide",
+        "master the art of blueberry crumble bars with lemon glaze get expert tips on texture",
+        "fruit filling chemistry",
+        "and the perfect zesty finishing touch",
+        "baking guide",
+        "blueberry bars",
+        "dessert recipes",
+        "recipes",
+        "cubed"
+      ],
+      "discoveredAt": "2026-10-13T08:37:13.819Z"
     }
   },
   "assets": {
@@ -21494,6 +21519,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/decadent-triple-chocolate-mousse-cups-hero.jpg",
       "renderedAt": "2026-10-12T21:54:33.497Z"
+    },
+    "5379-hero": {
+      "id": "5379-hero",
+      "postId": 5379,
+      "postSlug": "blueberry-crumble-bars-with-lemon-glaze",
+      "postUrl": "https://el-mordjene.info/blueberry-crumble-bars-with-lemon-glaze/",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "variant": "hero",
+      "contentType": "drink",
+      "language": "en",
+      "overlayTitle": "Zesty Blueberry Crumble Bars",
+      "overlaySubtitle": "Easy Summer Dessert",
+      "pinTitle": "Blueberry Crumble Bars with Lemon Glaze: The Ultimate Recipe",
+      "pinDescription": "Indulge in the perfect harmony of jammy, sun-ripened blueberries nestled between a buttery shortbread crust and a golden, crumbly topping. Finished with a bright, tangy lemon glaze, these bars are the ultimate crowd-pleasing treat for any occasion. Discover the secret to achieving the perfect texture and balancing t...",
+      "primaryKeyword": "blueberry crumble bars with lemon glaze",
+      "supportingKeywords": [
+        "blueberry crumble bars with lemon glaze",
+        "the ultimate guide",
+        "master the art of blueberry crumble bars with lemon glaze get expert tips on texture",
+        "fruit filling chemistry",
+        "and the perfect zesty finishing touch"
+      ],
+      "searchTags": [
+        "blueberry crumble bars with lemon glaze",
+        "the ultimate guide",
+        "master the art of blueberry crumble bars with lemon glaze get expert tips on texture",
+        "fruit filling chemistry",
+        "and the perfect zesty finishing touch",
+        "drink",
+        "drink recipes — cocktails & mocktails"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/blueberry-crumble-bars-with-lemon-glaze-the-ultima_20261013_014006.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-13T08:37:23.521Z",
+      "scheduledFor": "2026-10-13T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/blueberry-crumble-bars-with-lemon-glaze-the-ultima_20261013_014006.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/blueberry-crumble-bars-with-lemon-glaze-hero.jpg",
+      "renderedAt": "2026-10-13T08:37:42.023Z"
     }
   },
   "queue": {
@@ -23963,6 +24031,14 @@
       "postId": 5376,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-10-12T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5379-hero-queue": {
+      "id": "5379-hero-queue",
+      "assetId": "5379-hero",
+      "postId": 5379,
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-10-13T09:00:00.000Z",
       "status": "draft"
     }
   }
