@@ -10417,6 +10417,31 @@
         "short"
       ],
       "discoveredAt": "2026-10-14T13:08:47.760Z"
+    },
+    "5391": {
+      "postId": 5391,
+      "title": "High-Protein Cottage Cheese Creamy Alfredo Pasta Guide",
+      "url": "https://el-mordjene.info/high-protein-cottage-cheese-creamy-alfredo-pasta/",
+      "slug": "high-protein-cottage-cheese-creamy-alfredo-pasta",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/high-protein-cottage-cheese-creamy-alfredo-pasta-g_20261014_224418.webp",
+      "keywordSet": [
+        "protein cottage cheese creamy alfredo pasta guide",
+        "master the viral high",
+        "protein cottage cheese creamy alfredo pasta with our expert guide learn the science",
+        "and substitutions for creamy results",
+        "understanding the high",
+        "protein cottage cheese creamy alfredo pasta",
+        "the culinary science behind the cream",
+        "ingredient substitution 038",
+        "high",
+        "techniques"
+      ],
+      "discoveredAt": "2026-10-14T22:46:07.940Z"
     }
   },
   "assets": {
@@ -21766,6 +21791,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/viral-green-goddess-crunch-salad-garlic-dressing-hero.jpg",
       "renderedAt": "2026-10-14T13:09:14.806Z"
+    },
+    "5391-hero": {
+      "id": "5391-hero",
+      "postId": 5391,
+      "postSlug": "high-protein-cottage-cheese-creamy-alfredo-pasta",
+      "postUrl": "https://el-mordjene.info/high-protein-cottage-cheese-creamy-alfredo-pasta/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Viral Cottage Cheese Alfredo",
+      "overlaySubtitle": "High-Protein & Creamy",
+      "pinTitle": "High-Protein Cottage Cheese Alfredo Pasta (Viral Recipe)",
+      "pinDescription": "Craving a creamy pasta dish without the heavy calories? This viral cottage cheese Alfredo is the ultimate healthy hack. By blending cottage cheese into a silky, protein-packed sauce, you get all the indulgent, cheesy comfort of a classic Alfredo in a fraction of the time. It is smooth, savory, and perfect for a quic...",
+      "primaryKeyword": "protein cottage cheese creamy alfredo pasta guide",
+      "supportingKeywords": [
+        "protein cottage cheese creamy alfredo pasta guide",
+        "master the viral high",
+        "protein cottage cheese creamy alfredo pasta with our expert guide learn the science",
+        "and substitutions for creamy results",
+        "understanding the high"
+      ],
+      "searchTags": [
+        "protein cottage cheese creamy alfredo pasta guide",
+        "master the viral high",
+        "protein cottage cheese creamy alfredo pasta with our expert guide learn the science",
+        "and substitutions for creamy results",
+        "understanding the high",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/high-protein-cottage-cheese-creamy-alfredo-pasta-g_20261014_224418.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-10-14T22:46:09.856Z",
+      "scheduledFor": "2026-10-14T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/high-protein-cottage-cheese-creamy-alfredo-pasta-g_20261014_224418.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/high-protein-cottage-cheese-creamy-alfredo-pasta-hero.jpg",
+      "renderedAt": "2026-10-14T22:46:26.805Z"
     }
   },
   "queue": {
@@ -24265,6 +24333,14 @@
       "id": "5388-hero-queue",
       "assetId": "5388-hero",
       "postId": 5388,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-14T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5391-hero-queue": {
+      "id": "5391-hero-queue",
+      "assetId": "5391-hero",
+      "postId": 5391,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-10-14T09:00:00.000Z",
       "status": "draft"
