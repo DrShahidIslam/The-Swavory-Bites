@@ -10392,6 +10392,31 @@
         "mediterranean"
       ],
       "discoveredAt": "2026-10-13T23:35:51.522Z"
+    },
+    "5388": {
+      "postId": 5388,
+      "title": "The Viral Green Goddess Crunch Salad: A Culinary Deep Dive",
+      "url": "https://el-mordjene.info/viral-green-goddess-crunch-salad-garlic-dressing/",
+      "slug": "viral-green-goddess-crunch-salad-garlic-dressing",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-viral-green-goddess-crunch-salad-a-culinary-de_20261014_130744.webp",
+      "keywordSet": [
+        "the viral green goddess crunch salad",
+        "a culinary deep dive",
+        "master the viral green goddess crunch salad with garlic dressing explore the chemistry",
+        "assembly techniques",
+        "and the cultural momentum of this icon",
+        "garlic dressing",
+        "green goddess salad",
+        "healthy salads",
+        "recipes",
+        "short"
+      ],
+      "discoveredAt": "2026-10-14T13:08:47.760Z"
     }
   },
   "assets": {
@@ -21698,6 +21723,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-mediterranean-chickpea-feta-power-bowl-hero.jpg",
       "renderedAt": "2026-10-13T23:36:10.892Z"
+    },
+    "5388-hero": {
+      "id": "5388-hero",
+      "postId": 5388,
+      "postSlug": "viral-green-goddess-crunch-salad-garlic-dressing",
+      "postUrl": "https://el-mordjene.info/viral-green-goddess-crunch-salad-garlic-dressing/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Viral Green Goddess Salad",
+      "overlaySubtitle": "Refreshingly Crunchy & Healthy",
+      "pinTitle": "The Viral Green Goddess Crunch Salad You Need to Try",
+      "pinDescription": "Experience the ultimate refreshing crunch with this viral Green Goddess Salad. Packed with vibrant, finely chopped greens and drenched in a creamy, garlicky herbaceous dressing, every bite is a flavor explosion. It is the perfect healthy lunch or side dish that comes together quickly for a nutrient-dense meal. Disco...",
+      "primaryKeyword": "the viral green goddess crunch salad",
+      "supportingKeywords": [
+        "the viral green goddess crunch salad",
+        "a culinary deep dive",
+        "master the viral green goddess crunch salad with garlic dressing explore the chemistry",
+        "assembly techniques",
+        "and the cultural momentum of this icon"
+      ],
+      "searchTags": [
+        "the viral green goddess crunch salad",
+        "a culinary deep dive",
+        "master the viral green goddess crunch salad with garlic dressing explore the chemistry",
+        "assembly techniques",
+        "and the cultural momentum of this icon",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-viral-green-goddess-crunch-salad-a-culinary-de_20261014_130744.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-14T13:08:56.931Z",
+      "scheduledFor": "2026-10-14T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/the-viral-green-goddess-crunch-salad-a-culinary-de_20261014_130744.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/viral-green-goddess-crunch-salad-garlic-dressing-hero.jpg",
+      "renderedAt": "2026-10-14T13:09:14.806Z"
     }
   },
   "queue": {
@@ -24191,6 +24259,14 @@
       "postId": 5385,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-13T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5388-hero-queue": {
+      "id": "5388-hero-queue",
+      "assetId": "5388-hero",
+      "postId": 5388,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-14T09:00:00.000Z",
       "status": "draft"
     }
   }
