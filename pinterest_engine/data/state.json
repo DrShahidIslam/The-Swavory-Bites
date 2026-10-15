@@ -10467,6 +10467,31 @@
         "free"
       ],
       "discoveredAt": "2026-10-15T12:55:18.927Z"
+    },
+    "5397": {
+      "postId": 5397,
+      "title": "Warm Quinoa Roasted Sweet Potato and Kale Bowl",
+      "url": "https://el-mordjene.info/warm-quinoa-roasted-sweet-potato-and-kale-bowl/",
+      "slug": "warm-quinoa-roasted-sweet-potato-and-kale-bowl",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/warm-quinoa-roasted-sweet-potato-and-kale-bowl_20261015_224322.webp",
+      "keywordSet": [
+        "warm quinoa roasted sweet potato and kale bowl",
+        "master the perfect warm quinoa roasted sweet potato and kale bowl with our expert guide to texture",
+        "flavor balance",
+        "and professional prep techniques",
+        "healthy bowls",
+        "meal prep",
+        "sweet potato",
+        "understanding the culinary mechanics of a balanced grain bowl",
+        "plant",
+        "based"
+      ],
+      "discoveredAt": "2026-10-15T22:44:08.799Z"
     }
   },
   "assets": {
@@ -21902,6 +21927,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/thai-peanut-crunchy-chicken-chopped-slaw-hero.jpg",
       "renderedAt": "2026-10-15T12:55:39.881Z"
+    },
+    "5397-hero": {
+      "id": "5397-hero",
+      "postId": 5397,
+      "postSlug": "warm-quinoa-roasted-sweet-potato-and-kale-bowl",
+      "postUrl": "https://el-mordjene.info/warm-quinoa-roasted-sweet-potato-and-kale-bowl/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Warm Roasted Sweet Potato Bowl",
+      "overlaySubtitle": "Healthy 20-Minute Meal",
+      "pinTitle": "Warm Quinoa & Roasted Sweet Potato Bowl (Easy & Healthy)",
+      "pinDescription": "Elevate your dinner routine with this nourishing Warm Quinoa and Roasted Sweet Potato Bowl. Featuring caramelized, tender sweet potatoes, fluffy protein-packed quinoa, and vibrant massaged kale, this dish is a masterclass in texture and flavor balance. Perfectly hearty yet wholesome, it is the ultimate quick meal fo...",
+      "primaryKeyword": "warm quinoa roasted sweet potato and kale bowl",
+      "supportingKeywords": [
+        "warm quinoa roasted sweet potato and kale bowl",
+        "master the perfect warm quinoa roasted sweet potato and kale bowl with our expert guide to texture",
+        "flavor balance",
+        "and professional prep techniques",
+        "healthy bowls"
+      ],
+      "searchTags": [
+        "warm quinoa roasted sweet potato and kale bowl",
+        "master the perfect warm quinoa roasted sweet potato and kale bowl with our expert guide to texture",
+        "flavor balance",
+        "and professional prep techniques",
+        "healthy bowls",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/warm-quinoa-roasted-sweet-potato-and-kale-bowl_20261015_224322.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-15T22:44:10.588Z",
+      "scheduledFor": "2026-10-15T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/warm-quinoa-roasted-sweet-potato-and-kale-bowl_20261015_224322.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/warm-quinoa-roasted-sweet-potato-and-kale-bowl-hero.jpg",
+      "renderedAt": "2026-10-15T22:44:27.011Z"
     }
   },
   "queue": {
@@ -24417,6 +24485,14 @@
       "id": "5394-hero-queue",
       "assetId": "5394-hero",
       "postId": 5394,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-15T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5397-hero-queue": {
+      "id": "5397-hero-queue",
+      "assetId": "5397-hero",
+      "postId": 5397,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-10-15T09:00:00.000Z",
       "status": "draft"
