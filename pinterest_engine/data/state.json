@@ -10442,6 +10442,31 @@
         "techniques"
       ],
       "discoveredAt": "2026-10-14T22:46:07.940Z"
+    },
+    "5394": {
+      "postId": 5394,
+      "title": "Ultimate Thai Peanut Crunchy Chicken Chopped Slaw",
+      "url": "https://el-mordjene.info/thai-peanut-crunchy-chicken-chopped-slaw/",
+      "slug": "thai-peanut-crunchy-chicken-chopped-slaw",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/ultimate-thai-peanut-crunchy-chicken-chopped-slaw_20261015_125402.webp",
+      "keywordSet": [
+        "ultimate thai peanut crunchy chicken chopped slaw",
+        "master the art of the perfect thai peanut crunchy chicken chopped slaw discover pro tips for the ideal crunch",
+        "tangy dressing",
+        "and meal",
+        "prep success",
+        "chopped salad",
+        "healthy dinner",
+        "meal prep",
+        "recipes",
+        "free"
+      ],
+      "discoveredAt": "2026-10-15T12:55:18.927Z"
     }
   },
   "assets": {
@@ -21834,6 +21859,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/high-protein-cottage-cheese-creamy-alfredo-pasta-hero.jpg",
       "renderedAt": "2026-10-14T22:46:26.805Z"
+    },
+    "5394-hero": {
+      "id": "5394-hero",
+      "postId": 5394,
+      "postSlug": "thai-peanut-crunchy-chicken-chopped-slaw",
+      "postUrl": "https://el-mordjene.info/thai-peanut-crunchy-chicken-chopped-slaw/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Ultimate Thai Peanut Slaw",
+      "overlaySubtitle": "15-Minute Healthy Meal",
+      "pinTitle": "Thai Peanut Crunchy Chicken Chopped Slaw",
+      "pinDescription": "Elevate your lunch game with this vibrant Thai Peanut Crunchy Chicken Chopped Slaw. Loaded with crisp fresh vegetables, tender chicken, and a luscious, savory-sweet peanut dressing, every bite offers the perfect texture contrast. It is the ultimate meal-prep solution that stays crunchy and delicious for days. Master...",
+      "primaryKeyword": "ultimate thai peanut crunchy chicken chopped slaw",
+      "supportingKeywords": [
+        "ultimate thai peanut crunchy chicken chopped slaw",
+        "master the art of the perfect thai peanut crunchy chicken chopped slaw discover pro tips for the ideal crunch",
+        "tangy dressing",
+        "and meal",
+        "prep success"
+      ],
+      "searchTags": [
+        "ultimate thai peanut crunchy chicken chopped slaw",
+        "master the art of the perfect thai peanut crunchy chicken chopped slaw discover pro tips for the ideal crunch",
+        "tangy dressing",
+        "and meal",
+        "prep success",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/ultimate-thai-peanut-crunchy-chicken-chopped-slaw_20261015_125402.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-15T12:55:22.039Z",
+      "scheduledFor": "2026-10-15T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/ultimate-thai-peanut-crunchy-chicken-chopped-slaw_20261015_125402.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/thai-peanut-crunchy-chicken-chopped-slaw-hero.jpg",
+      "renderedAt": "2026-10-15T12:55:39.881Z"
     }
   },
   "queue": {
@@ -24343,6 +24411,14 @@
       "postId": 5391,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-10-14T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5394-hero-queue": {
+      "id": "5394-hero-queue",
+      "assetId": "5394-hero",
+      "postId": 5394,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-15T09:00:00.000Z",
       "status": "draft"
     }
   }
