@@ -10517,6 +10517,56 @@
         "cubed"
       ],
       "discoveredAt": "2026-10-16T12:47:32.728Z"
+    },
+    "5403": {
+      "postId": 5403,
+      "title": "Crispy Tofu Sesame Ginger Grain Bowl: A Complete Guide",
+      "url": "https://el-mordjene.info/crispy-tofu-sesame-ginger-grain-bowl/",
+      "slug": "crispy-tofu-sesame-ginger-grain-bowl",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/crispy-tofu-sesame-ginger-grain-bowl-a-complete-gu_20261016_180759.webp",
+      "keywordSet": [
+        "crispy tofu sesame ginger grain bowl",
+        "a complete guide",
+        "master the art of the perfect crispy tofu sesame ginger grain bowl learn professional techniques for texture",
+        "flavor balancing",
+        "and assembly",
+        "healthy bowls",
+        "tofu techniques",
+        "vegan recipes",
+        "recipes",
+        "press"
+      ],
+      "discoveredAt": "2026-10-16T22:16:48.877Z"
+    },
+    "5406": {
+      "postId": 5406,
+      "title": "High-Protein Buffalo Chicken Salad with Ranch Dressing",
+      "url": "https://el-mordjene.info/high-protein-buffalo-chicken-salad-with-ranch-dressing/",
+      "slug": "high-protein-buffalo-chicken-salad-with-ranch-dressing",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/high-protein-buffalo-chicken-salad-with-ranch-dres_20261016_221523.webp",
+      "keywordSet": [
+        "protein buffalo chicken salad with ranch dressing",
+        "master the art of the high",
+        "protein buffalo chicken salad with ranch dressing a professional guide to flavors",
+        "and meal",
+        "prep success",
+        "buffalo chicken",
+        "healthy recipes",
+        "high protein",
+        "high",
+        "textures"
+      ],
+      "discoveredAt": "2026-10-16T22:16:47.375Z"
     }
   },
   "assets": {
@@ -22038,6 +22088,92 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/healthy-salmon-sushi-bowl-spicy-mayo-avocado-hero.jpg",
       "renderedAt": "2026-10-16T12:47:55.382Z"
+    },
+    "5406-hero": {
+      "id": "5406-hero",
+      "postId": 5406,
+      "postSlug": "high-protein-buffalo-chicken-salad-with-ranch-dressing",
+      "postUrl": "https://el-mordjene.info/high-protein-buffalo-chicken-salad-with-ranch-dressing/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Zesty Buffalo Chicken Salad",
+      "overlaySubtitle": "High-Protein Meal Prep",
+      "pinTitle": "High-Protein Buffalo Chicken Salad with Creamy Ranch",
+      "pinDescription": "Level up your lunch with this bold Buffalo Chicken Salad. Featuring tender, protein-packed chicken tossed in a tangy, spicy buffalo sauce and drizzled with cool, creamy ranch, this meal is the ultimate balance of flavor and texture. It is incredibly easy to assemble and perfect for meal prep, keeping you fueled thro...",
+      "primaryKeyword": "protein buffalo chicken salad with ranch dressing",
+      "supportingKeywords": [
+        "protein buffalo chicken salad with ranch dressing",
+        "master the art of the high",
+        "protein buffalo chicken salad with ranch dressing a professional guide to flavors",
+        "and meal",
+        "prep success"
+      ],
+      "searchTags": [
+        "protein buffalo chicken salad with ranch dressing",
+        "master the art of the high",
+        "protein buffalo chicken salad with ranch dressing a professional guide to flavors",
+        "and meal",
+        "prep success",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/high-protein-buffalo-chicken-salad-with-ranch-dres_20261016_221523.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "rendered",
+      "createdAt": "2026-10-16T22:16:48.876Z",
+      "scheduledFor": "2026-10-16T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/high-protein-buffalo-chicken-salad-with-ranch-dres_20261016_221523.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/high-protein-buffalo-chicken-salad-with-ranch-dressing-hero.jpg",
+      "renderedAt": "2026-10-16T22:17:08.774Z"
+    },
+    "5403-hero": {
+      "id": "5403-hero",
+      "postId": 5403,
+      "postSlug": "crispy-tofu-sesame-ginger-grain-bowl",
+      "postUrl": "https://el-mordjene.info/crispy-tofu-sesame-ginger-grain-bowl/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Crispy Ginger Tofu Bowls",
+      "overlaySubtitle": "Healthy 20-Minute Meal",
+      "pinTitle": "Crispy Sesame Ginger Tofu Grain Bowl Recipe",
+      "pinDescription": "Elevate your weeknight dinner with this vibrant Crispy Sesame Ginger Tofu Grain Bowl. Each bite is packed with golden, extra-crunchy tofu cubes tossed in a savory-sweet ginger glaze, served over a bed of fluffy grains and fresh seasonal greens. It is the ultimate balance of textures and bold, umami flavors that make...",
+      "primaryKeyword": "crispy tofu sesame ginger grain bowl",
+      "supportingKeywords": [
+        "crispy tofu sesame ginger grain bowl",
+        "a complete guide",
+        "master the art of the perfect crispy tofu sesame ginger grain bowl learn professional techniques for texture",
+        "flavor balancing",
+        "and assembly"
+      ],
+      "searchTags": [
+        "crispy tofu sesame ginger grain bowl",
+        "a complete guide",
+        "master the art of the perfect crispy tofu sesame ginger grain bowl learn professional techniques for texture",
+        "flavor balancing",
+        "and assembly",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/crispy-tofu-sesame-ginger-grain-bowl-a-complete-gu_20261016_180759.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-16T22:16:52.031Z",
+      "scheduledFor": "2026-10-16T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/crispy-tofu-sesame-ginger-grain-bowl-a-complete-gu_20261016_180759.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-tofu-sesame-ginger-grain-bowl-hero.jpg",
+      "renderedAt": "2026-10-16T22:17:10.856Z"
     }
   },
   "queue": {
@@ -24570,6 +24706,22 @@
       "assetId": "5400-hero",
       "postId": 5400,
       "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-16T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5406-hero-queue": {
+      "id": "5406-hero-queue",
+      "assetId": "5406-hero",
+      "postId": 5406,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-16T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5403-hero-queue": {
+      "id": "5403-hero-queue",
+      "assetId": "5403-hero",
+      "postId": 5403,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-16T09:00:00.000Z",
       "status": "draft"
     }
