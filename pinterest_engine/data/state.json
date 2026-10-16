@@ -10492,6 +10492,31 @@
         "based"
       ],
       "discoveredAt": "2026-10-15T22:44:08.799Z"
+    },
+    "5400": {
+      "postId": 5400,
+      "title": "Healthy Salmon Sushi Bowl with Spicy Mayo and Avocado",
+      "url": "https://el-mordjene.info/healthy-salmon-sushi-bowl-spicy-mayo-avocado/",
+      "slug": "healthy-salmon-sushi-bowl-spicy-mayo-avocado",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/healthy-salmon-sushi-bowl-with-spicy-mayo-and-avoc_20261016_124613.webp",
+      "keywordSet": [
+        "healthy salmon sushi bowl with spicy mayo and avocado",
+        "master the healthy salmon sushi bowl with spicy mayo and avocado learn professional techniques for perfect sushi rice",
+        "fresh fish handling",
+        "and balance",
+        "avocado recipes",
+        "healthy recipes",
+        "salmon sushi bowl",
+        "spicy mayo",
+        "recipes",
+        "cubed"
+      ],
+      "discoveredAt": "2026-10-16T12:47:32.728Z"
     }
   },
   "assets": {
@@ -21970,6 +21995,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/warm-quinoa-roasted-sweet-potato-and-kale-bowl-hero.jpg",
       "renderedAt": "2026-10-15T22:44:27.011Z"
+    },
+    "5400-hero": {
+      "id": "5400-hero",
+      "postId": 5400,
+      "postSlug": "healthy-salmon-sushi-bowl-spicy-mayo-avocado",
+      "postUrl": "https://el-mordjene.info/healthy-salmon-sushi-bowl-spicy-mayo-avocado/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Healthy Spicy Salmon Bowls",
+      "overlaySubtitle": "15-Minute Fresh Dinner",
+      "pinTitle": "Easy Healthy Salmon Sushi Bowl with Spicy Mayo",
+      "pinDescription": "Skip the takeout and master this vibrant, restaurant-quality sushi bowl at home. Featuring buttery fresh salmon, fluffy seasoned sushi rice, creamy avocado slices, and a signature spicy mayo drizzle, this dish is the ultimate healthy weeknight treat. It is light, satisfying, and packed with fresh, bold flavors that...",
+      "primaryKeyword": "healthy salmon sushi bowl with spicy mayo and avocado",
+      "supportingKeywords": [
+        "healthy salmon sushi bowl with spicy mayo and avocado",
+        "master the healthy salmon sushi bowl with spicy mayo and avocado learn professional techniques for perfect sushi rice",
+        "fresh fish handling",
+        "and balance",
+        "avocado recipes"
+      ],
+      "searchTags": [
+        "healthy salmon sushi bowl with spicy mayo and avocado",
+        "master the healthy salmon sushi bowl with spicy mayo and avocado learn professional techniques for perfect sushi rice",
+        "fresh fish handling",
+        "and balance",
+        "avocado recipes",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/healthy-salmon-sushi-bowl-with-spicy-mayo-and-avoc_20261016_124613.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-16T12:47:37.555Z",
+      "scheduledFor": "2026-10-16T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/healthy-salmon-sushi-bowl-with-spicy-mayo-and-avoc_20261016_124613.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/healthy-salmon-sushi-bowl-spicy-mayo-avocado-hero.jpg",
+      "renderedAt": "2026-10-16T12:47:55.382Z"
     }
   },
   "queue": {
@@ -24495,6 +24563,14 @@
       "postId": 5397,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-10-15T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5400-hero-queue": {
+      "id": "5400-hero-queue",
+      "assetId": "5400-hero",
+      "postId": 5400,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-16T09:00:00.000Z",
       "status": "draft"
     }
   }
