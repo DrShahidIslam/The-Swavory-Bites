@@ -10567,6 +10567,31 @@
         "textures"
       ],
       "discoveredAt": "2026-10-16T22:16:47.375Z"
+    },
+    "5409": {
+      "postId": 5409,
+      "title": "Mediterranean Grilled Halloumi and Lentil Salad Recipe",
+      "url": "https://el-mordjene.info/mediterranean-grilled-halloumi-lentil-salad/",
+      "slug": "mediterranean-grilled-halloumi-lentil-salad",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/mediterranean-grilled-halloumi-and-lentil-salad-re_20261017_114718.webp",
+      "keywordSet": [
+        "mediterranean grilled halloumi and lentil salad recipe",
+        "master the perfect mediterranean grilled halloumi and lentil salad with our expert guide learn grilling techniques",
+        "flavor pairings",
+        "and pro tips",
+        "the art of mediterranean grilled halloumi and lentil salad",
+        "culinary mechanics",
+        "why it works",
+        "myth vs fact and action plan",
+        "halloumi",
+        "healthy"
+      ],
+      "discoveredAt": "2026-10-17T11:48:11.216Z"
     }
   },
   "assets": {
@@ -22174,6 +22199,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/crispy-tofu-sesame-ginger-grain-bowl-hero.jpg",
       "renderedAt": "2026-10-16T22:17:10.856Z"
+    },
+    "5409-hero": {
+      "id": "5409-hero",
+      "postId": 5409,
+      "postSlug": "mediterranean-grilled-halloumi-lentil-salad",
+      "postUrl": "https://el-mordjene.info/mediterranean-grilled-halloumi-lentil-salad/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Grilled Halloumi Lentil Salad",
+      "overlaySubtitle": "Healthy 15-Minute Meal",
+      "pinTitle": "Mediterranean Grilled Halloumi and Lentil Salad",
+      "pinDescription": "Elevate your lunch with this vibrant Mediterranean Grilled Halloumi and Lentil Salad. Featuring salty, golden-brown halloumi cheese paired with protein-packed lentils and fresh herbs, this dish is the ultimate balance of flavor and texture. It is incredibly quick to assemble, making it perfect for busy weeknights or...",
+      "primaryKeyword": "mediterranean grilled halloumi and lentil salad recipe",
+      "supportingKeywords": [
+        "mediterranean grilled halloumi and lentil salad recipe",
+        "master the perfect mediterranean grilled halloumi and lentil salad with our expert guide learn grilling techniques",
+        "flavor pairings",
+        "and pro tips",
+        "the art of mediterranean grilled halloumi and lentil salad"
+      ],
+      "searchTags": [
+        "mediterranean grilled halloumi and lentil salad recipe",
+        "master the perfect mediterranean grilled halloumi and lentil salad with our expert guide learn grilling techniques",
+        "flavor pairings",
+        "and pro tips",
+        "the art of mediterranean grilled halloumi and lentil salad",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/mediterranean-grilled-halloumi-and-lentil-salad-re_20261017_114718.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-17T11:48:15.201Z",
+      "scheduledFor": "2026-10-17T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/mediterranean-grilled-halloumi-and-lentil-salad-re_20261017_114718.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/mediterranean-grilled-halloumi-lentil-salad-hero.jpg",
+      "renderedAt": "2026-10-17T11:48:32.198Z"
     }
   },
   "queue": {
@@ -24723,6 +24791,14 @@
       "postId": 5403,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-10-16T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5409-hero-queue": {
+      "id": "5409-hero-queue",
+      "assetId": "5409-hero",
+      "postId": 5409,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-17T09:00:00.000Z",
       "status": "draft"
     }
   }
