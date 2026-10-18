@@ -10592,6 +10592,31 @@
         "healthy"
       ],
       "discoveredAt": "2026-10-17T11:48:11.216Z"
+    },
+    "5412": {
+      "postId": 5412,
+      "title": "Healthy Greek Chicken Quinoa Bowl with Tzatziki",
+      "url": "https://el-mordjene.info/healthy-greek-chicken-quinoa-bowl-with-tzatziki/",
+      "slug": "healthy-greek-chicken-quinoa-bowl-with-tzatziki",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/healthy-greek-chicken-quinoa-bowl-with-tzatziki_20261017_214757.webp",
+      "keywordSet": [
+        "healthy greek chicken quinoa bowl with tzatziki",
+        "master the healthy greek chicken quinoa bowl with tzatziki a protein",
+        "dense mediterranean meal perfect for meal prep and easy dinners",
+        "healthy dinner",
+        "meal prep",
+        "quinoa bowl",
+        "the rise of the mediterranean power bowl",
+        "why this trend accelerated",
+        "packed",
+        "nutrient"
+      ],
+      "discoveredAt": "2026-10-18T06:43:12.745Z"
     }
   },
   "assets": {
@@ -22242,6 +22267,49 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/mediterranean-grilled-halloumi-lentil-salad-hero.jpg",
       "renderedAt": "2026-10-17T11:48:32.198Z"
+    },
+    "5412-hero": {
+      "id": "5412-hero",
+      "postId": 5412,
+      "postSlug": "healthy-greek-chicken-quinoa-bowl-with-tzatziki",
+      "postUrl": "https://el-mordjene.info/healthy-greek-chicken-quinoa-bowl-with-tzatziki/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Healthy Greek Chicken Bowls",
+      "overlaySubtitle": "15-Minute Meal Prep",
+      "pinTitle": "Healthy Greek Chicken Quinoa Bowl with Homemade Tzatziki",
+      "pinDescription": "Elevate your weeknight dinner with this vibrant Greek Chicken Quinoa Bowl. Succulent, herb-marinated chicken meets fluffy quinoa, crisp fresh vegetables, and a generous dollop of creamy, cooling homemade tzatziki. This nutrient-dense Mediterranean delight is the ultimate solution for stress-free meal prep or a quick...",
+      "primaryKeyword": "healthy greek chicken quinoa bowl with tzatziki",
+      "supportingKeywords": [
+        "healthy greek chicken quinoa bowl with tzatziki",
+        "master the healthy greek chicken quinoa bowl with tzatziki a protein",
+        "dense mediterranean meal perfect for meal prep and easy dinners",
+        "healthy dinner",
+        "meal prep"
+      ],
+      "searchTags": [
+        "healthy greek chicken quinoa bowl with tzatziki",
+        "master the healthy greek chicken quinoa bowl with tzatziki a protein",
+        "dense mediterranean meal perfect for meal prep and easy dinners",
+        "healthy dinner",
+        "meal prep",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/healthy-greek-chicken-quinoa-bowl-with-tzatziki_20261017_214757.webp",
+      "overlayStyle": "clean_photo",
+      "status": "rendered",
+      "createdAt": "2026-10-18T06:43:18.153Z",
+      "scheduledFor": "2026-10-17T09:00:00.000Z",
+      "imageSourceUrl": "https://el-mordjene.info/wp-content/uploads/2026/10/healthy-greek-chicken-quinoa-bowl-with-tzatziki_20261017_214757.webp",
+      "imageSourceProvider": "featured",
+      "imageSourceAttribution": "site",
+      "imageSourcePage": "",
+      "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/healthy-greek-chicken-quinoa-bowl-with-tzatziki-hero.jpg",
+      "renderedAt": "2026-10-18T06:43:36.192Z"
     }
   },
   "queue": {
@@ -24797,6 +24865,14 @@
       "id": "5409-hero-queue",
       "assetId": "5409-hero",
       "postId": 5409,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-17T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5412-hero-queue": {
+      "id": "5412-hero-queue",
+      "assetId": "5412-hero",
+      "postId": 5412,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-10-17T09:00:00.000Z",
       "status": "draft"
