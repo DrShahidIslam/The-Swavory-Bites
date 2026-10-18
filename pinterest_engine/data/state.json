@@ -10617,6 +10617,31 @@
         "nutrient"
       ],
       "discoveredAt": "2026-10-18T06:43:12.745Z"
+    },
+    "5415": {
+      "postId": 5415,
+      "title": "Homemade Chipotle Grilled Chicken Burrito Bowl",
+      "url": "https://el-mordjene.info/chipotle-grilled-chicken-burrito-bowl-cilantro-lime-brown-rice/",
+      "slug": "chipotle-grilled-chicken-burrito-bowl-cilantro-lime-brown-rice",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "",
+      "keywordSet": [
+        "homemade chipotle grilled chicken burrito bowl",
+        "master the chipotle grilled chicken burrito bowl with cilantro lime brown rice a healthy",
+        "protein guide to restaurant",
+        "quality meals at home",
+        "the art of the chipotle grilled chicken burrito bowl",
+        "myth vs fact",
+        "the truth about burrito bowls",
+        "ingredient substitution 038",
+        "high",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-18T12:13:37.564Z"
     }
   },
   "assets": {
@@ -22310,6 +22335,43 @@
       "imageSourcePage": "",
       "outputPath": "/home/runner/work/The-Swavory-Bites/The-Swavory-Bites/pinterest_engine/data/assets/pinterest/healthy-greek-chicken-quinoa-bowl-with-tzatziki-hero.jpg",
       "renderedAt": "2026-10-18T06:43:36.192Z"
+    },
+    "5415-hero": {
+      "id": "5415-hero",
+      "postId": 5415,
+      "postSlug": "chipotle-grilled-chicken-burrito-bowl-cilantro-lime-brown-rice",
+      "postUrl": "https://el-mordjene.info/chipotle-grilled-chicken-burrito-bowl-cilantro-lime-brown-rice/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Copycat Chipotle Burrito Bowls",
+      "overlaySubtitle": "Healthy High-Protein Dinner",
+      "pinTitle": "Homemade Chipotle Chicken Burrito Bowls (Better Than Takeout)",
+      "pinDescription": "Skip the takeout line and master the ultimate Chipotle-style burrito bowl right at home. Featuring juicy grilled chicken, zesty cilantro-lime brown rice, and all your favorite fresh toppings, this high-protein meal is a total weeknight game changer. It is nutritious, incredibly flavorful, and perfectly customizable...",
+      "primaryKeyword": "homemade chipotle grilled chicken burrito bowl",
+      "supportingKeywords": [
+        "homemade chipotle grilled chicken burrito bowl",
+        "master the chipotle grilled chicken burrito bowl with cilantro lime brown rice a healthy",
+        "protein guide to restaurant",
+        "quality meals at home",
+        "the art of the chipotle grilled chicken burrito bowl"
+      ],
+      "searchTags": [
+        "homemade chipotle grilled chicken burrito bowl",
+        "master the chipotle grilled chicken burrito bowl with cilantro lime brown rice a healthy",
+        "protein guide to restaurant",
+        "quality meals at home",
+        "the art of the chipotle grilled chicken burrito bowl",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-10-18T12:13:38.768Z",
+      "scheduledFor": "2026-10-18T09:00:00.000Z"
     }
   },
   "queue": {
@@ -24875,6 +24937,14 @@
       "postId": 5412,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-10-17T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5415-hero-queue": {
+      "id": "5415-hero-queue",
+      "assetId": "5415-hero",
+      "postId": 5415,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-18T09:00:00.000Z",
       "status": "draft"
     }
   }
