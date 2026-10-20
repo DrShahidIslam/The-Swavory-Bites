@@ -10692,6 +10692,31 @@
         "cottage"
       ],
       "discoveredAt": "2026-10-20T06:47:12.391Z"
+    },
+    "5424": {
+      "postId": 5424,
+      "title": "Avocado Green Smoothie Bowl with Chia Seeds and Almond Butter",
+      "url": "https://el-mordjene.info/avocado-green-smoothie-bowl-with-chia-seeds-and-almond-butter/",
+      "slug": "avocado-green-smoothie-bowl-with-chia-seeds-and-almond-butter",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/avocado-green-smoothie-bowl-with-chia-seeds-and-al_20261020_130433.webp",
+      "keywordSet": [
+        "avocado green smoothie bowl with chia seeds and almond butter",
+        "master the art of the perfect avocado green smoothie bowl creamy",
+        "and satisfying with crunchy chia seeds and almond butter",
+        "avocado recipe",
+        "healthy breakfast",
+        "smoothie bowl",
+        "the ultimate avocado green smoothie bowl experience",
+        "culinary mechanics",
+        "nutrient",
+        "dense"
+      ],
+      "discoveredAt": "2026-10-20T13:06:02.091Z"
     }
   },
   "assets": {
@@ -22496,6 +22521,43 @@
       "status": "pending_render",
       "createdAt": "2026-10-20T06:47:13.908Z",
       "scheduledFor": "2026-10-19T09:00:00.000Z"
+    },
+    "5424-hero": {
+      "id": "5424-hero",
+      "postId": 5424,
+      "postSlug": "avocado-green-smoothie-bowl-with-chia-seeds-and-almond-butter",
+      "postUrl": "https://el-mordjene.info/avocado-green-smoothie-bowl-with-chia-seeds-and-almond-butter/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Creamy Avocado Green Bowl",
+      "overlaySubtitle": "5-Minute Healthy Breakfast",
+      "pinTitle": "Creamy Avocado Green Smoothie Bowl with Almond Butter",
+      "pinDescription": "Transform your morning routine with this ultra-creamy avocado green smoothie bowl. Packed with nutrient-dense greens and topped with crunchy chia seeds and rich almond butter, it is the ultimate satisfying breakfast. Perfectly balanced, incredibly refreshing, and ready in just five minutes, this vibrant bowl is exac...",
+      "primaryKeyword": "avocado green smoothie bowl with chia seeds and almond butter",
+      "supportingKeywords": [
+        "avocado green smoothie bowl with chia seeds and almond butter",
+        "master the art of the perfect avocado green smoothie bowl creamy",
+        "and satisfying with crunchy chia seeds and almond butter",
+        "avocado recipe",
+        "healthy breakfast"
+      ],
+      "searchTags": [
+        "avocado green smoothie bowl with chia seeds and almond butter",
+        "master the art of the perfect avocado green smoothie bowl creamy",
+        "and satisfying with crunchy chia seeds and almond butter",
+        "avocado recipe",
+        "healthy breakfast",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/avocado-green-smoothie-bowl-with-chia-seeds-and-al_20261020_130433.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-10-20T13:06:05.680Z",
+      "scheduledFor": "2026-10-20T09:00:00.000Z"
     }
   },
   "queue": {
@@ -25085,6 +25147,14 @@
       "postId": 5421,
       "boardName": "Tendances Culinaires & Recettes",
       "scheduledFor": "2026-10-19T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5424-hero-queue": {
+      "id": "5424-hero-queue",
+      "assetId": "5424-hero",
+      "postId": 5424,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-10-20T09:00:00.000Z",
       "status": "draft"
     }
   }
