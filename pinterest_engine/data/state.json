@@ -10742,6 +10742,31 @@
         "step"
       ],
       "discoveredAt": "2026-10-21T06:41:55.075Z"
+    },
+    "5431": {
+      "postId": 5431,
+      "title": "Ree Drummond’s Take on the Viral Dessert Trend Sweeping the Web",
+      "url": "https://el-mordjene.info/ree-drummond-viral-dessert-trend/",
+      "slug": "ree-drummond-viral-dessert-trend",
+      "language": "en",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "shouldPin": true,
+      "contentType": "drink",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/ree-drummond-s-take-on-the-viral-dessert-trend-swe_20261022_131503.webp",
+      "keywordSet": [
+        "ree drummond s take on the viral dessert trend sweeping the web",
+        "ree drummond tried a viral dessert trend taking over the internet discover the culinary mechanics",
+        "expert tips",
+        "and the full recipe behind the craze",
+        "understanding the viral dessert phenomenon",
+        "the mechanics of internet virality in food",
+        "regional context and global influence",
+        "comparative baking perspectives",
+        "dessert",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-22T18:11:57.085Z"
     }
   },
   "assets": {
@@ -22620,6 +22645,43 @@
       "status": "pending_render",
       "createdAt": "2026-10-21T06:42:06.104Z",
       "scheduledFor": "2026-10-20T09:00:00.000Z"
+    },
+    "5431-hero": {
+      "id": "5431-hero",
+      "postId": 5431,
+      "postSlug": "ree-drummond-viral-dessert-trend",
+      "postUrl": "https://el-mordjene.info/ree-drummond-viral-dessert-trend/",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "variant": "hero",
+      "contentType": "drink",
+      "language": "en",
+      "overlayTitle": "Viral Dessert Drink Magic",
+      "overlaySubtitle": "Instant Crowd-Pleaser",
+      "pinTitle": "Ree Drummond's Viral Dessert Drink Recipe Craze",
+      "pinDescription": "Dive into Ree Drummond’s delicious take on the internet’s viral dessert trend, reimagined as an irresistible drink! Experience the creamy, sweet perfection and delightful texture that makes this beverage an instant sensation. So simple to create, it’s perfect for impressing guests or a cozy night in. Discover why th...",
+      "primaryKeyword": "ree drummond s take on the viral dessert trend sweeping the web",
+      "supportingKeywords": [
+        "ree drummond s take on the viral dessert trend sweeping the web",
+        "ree drummond tried a viral dessert trend taking over the internet discover the culinary mechanics",
+        "expert tips",
+        "and the full recipe behind the craze",
+        "understanding the viral dessert phenomenon"
+      ],
+      "searchTags": [
+        "ree drummond s take on the viral dessert trend sweeping the web",
+        "ree drummond tried a viral dessert trend taking over the internet discover the culinary mechanics",
+        "expert tips",
+        "and the full recipe behind the craze",
+        "understanding the viral dessert phenomenon",
+        "drink",
+        "drink recipes — cocktails & mocktails"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/ree-drummond-s-take-on-the-viral-dessert-trend-swe_20261022_131503.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-10-22T18:12:07.657Z",
+      "scheduledFor": "2026-10-22T09:00:00.000Z"
     }
   },
   "queue": {
@@ -25225,6 +25287,14 @@
       "postId": 5428,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-10-20T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5431-hero-queue": {
+      "id": "5431-hero-queue",
+      "assetId": "5431-hero",
+      "postId": 5431,
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-10-22T09:00:00.000Z",
       "status": "draft"
     }
   }
