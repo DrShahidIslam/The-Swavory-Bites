@@ -10767,6 +10767,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-10-22T18:11:57.085Z"
+    },
+    "5434": {
+      "postId": 5434,
+      "title": "Compartes Just Launched A New Chocolate Bar Inspired By A Viral Sweet Treet",
+      "url": "https://el-mordjene.info/compartes-viral-sweet-treat-chocolate-bar/",
+      "slug": "compartes-viral-sweet-treat-chocolate-bar",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/compartes-just-launched-a-new-chocolate-bar-inspir_20261022_224859.webp",
+      "keywordSet": [
+        "compartes just launched a new chocolate bar inspired by a viral sweet treet",
+        "explore the latest confectionery sensation as compartes unveils a new chocolate bar inspired by a viral sweet treat discover the flavor profile here",
+        "viral food trends",
+        "the evolution of confectionery trends",
+        "myth vs fact",
+        "the viral sweet phenomenon",
+        "the anatomy of a viral",
+        "inspired chocolate bar",
+        "compartes",
+        "confectionery"
+      ],
+      "discoveredAt": "2026-10-22T22:49:46.069Z"
     }
   },
   "assets": {
@@ -22682,6 +22707,43 @@
       "status": "pending_render",
       "createdAt": "2026-10-22T18:12:07.657Z",
       "scheduledFor": "2026-10-22T09:00:00.000Z"
+    },
+    "5434-hero": {
+      "id": "5434-hero",
+      "postId": 5434,
+      "postSlug": "compartes-viral-sweet-treat-chocolate-bar",
+      "postUrl": "https://el-mordjene.info/compartes-viral-sweet-treat-chocolate-bar/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Viral S'mores Chocolate Bar",
+      "overlaySubtitle": "The Ultimate Dessert Hack",
+      "pinTitle": "Compartes Viral S'mores Chocolate Bar: You Need This Treat",
+      "pinDescription": "Experience the latest confectionery masterpiece from Compartes. Inspired by the internet's favorite sweet treat, this decadent chocolate bar blends velvety premium cocoa with gooey marshmallow and crunchy graham cracker textures in every single bite. It is the perfect indulgence for chocolate lovers seeking that nos...",
+      "primaryKeyword": "compartes just launched a new chocolate bar inspired by a viral sweet treet",
+      "supportingKeywords": [
+        "compartes just launched a new chocolate bar inspired by a viral sweet treet",
+        "explore the latest confectionery sensation as compartes unveils a new chocolate bar inspired by a viral sweet treat discover the flavor profile here",
+        "viral food trends",
+        "the evolution of confectionery trends",
+        "myth vs fact"
+      ],
+      "searchTags": [
+        "compartes just launched a new chocolate bar inspired by a viral sweet treet",
+        "explore the latest confectionery sensation as compartes unveils a new chocolate bar inspired by a viral sweet treat discover the flavor profile here",
+        "viral food trends",
+        "the evolution of confectionery trends",
+        "myth vs fact",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/compartes-just-launched-a-new-chocolate-bar-inspir_20261022_224859.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-10-22T22:49:49.325Z",
+      "scheduledFor": "2026-10-22T09:00:00.000Z"
     }
   },
   "queue": {
@@ -25294,6 +25356,14 @@
       "assetId": "5431-hero",
       "postId": 5431,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-10-22T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5434-hero-queue": {
+      "id": "5434-hero-queue",
+      "assetId": "5434-hero",
+      "postId": 5434,
+      "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-10-22T09:00:00.000Z",
       "status": "draft"
     }
