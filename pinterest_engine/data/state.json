@@ -10792,6 +10792,31 @@
         "confectionery"
       ],
       "discoveredAt": "2026-10-22T22:49:46.069Z"
+    },
+    "5437": {
+      "postId": 5437,
+      "title": "Why Disney World’s Newest Viral Dessert Is Taking Over",
+      "url": "https://el-mordjene.info/disney-worlds-newest-viral-dessert-analysis/",
+      "slug": "disney-worlds-newest-viral-dessert-analysis",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/why-disney-world-s-newest-viral-dessert-is-taking_20261023_125351.webp",
+      "keywordSet": [
+        "why disney world s newest viral dessert is taking over",
+        "explore the culinary mechanics behind disney world s newest viral dessert get the full breakdown on taste",
+        "and how to replicate it at home",
+        "disney world",
+        "food trends",
+        "theme park food",
+        "viral dessert",
+        "understanding the craze",
+        "texture",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-23T12:55:07.639Z"
     }
   },
   "assets": {
@@ -22744,6 +22769,43 @@
       "status": "pending_render",
       "createdAt": "2026-10-22T22:49:49.325Z",
       "scheduledFor": "2026-10-22T09:00:00.000Z"
+    },
+    "5437-hero": {
+      "id": "5437-hero",
+      "postId": 5437,
+      "postSlug": "disney-worlds-newest-viral-dessert-analysis",
+      "postUrl": "https://el-mordjene.info/disney-worlds-newest-viral-dessert-analysis/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Disney's Viral Treat",
+      "overlaySubtitle": "Easy Copycat Recipe",
+      "pinTitle": "Disney World’s Viral Dessert: Easy Copycat Recipe",
+      "pinDescription": "Experience the magic of Disney right in your own kitchen! This viral dessert sensation features a perfect balance of whimsical flavors and a dreamy, melt-in-your-mouth texture that has everyone talking. Whether you are craving a nostalgic treat or want to impress your family with a park-inspired masterpiece, this si...",
+      "primaryKeyword": "why disney world s newest viral dessert is taking over",
+      "supportingKeywords": [
+        "why disney world s newest viral dessert is taking over",
+        "explore the culinary mechanics behind disney world s newest viral dessert get the full breakdown on taste",
+        "and how to replicate it at home",
+        "disney world",
+        "food trends"
+      ],
+      "searchTags": [
+        "why disney world s newest viral dessert is taking over",
+        "explore the culinary mechanics behind disney world s newest viral dessert get the full breakdown on taste",
+        "and how to replicate it at home",
+        "disney world",
+        "food trends",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/why-disney-world-s-newest-viral-dessert-is-taking_20261023_125351.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-10-23T12:55:15.365Z",
+      "scheduledFor": "2026-10-23T09:00:00.000Z"
     }
   },
   "queue": {
@@ -25365,6 +25427,14 @@
       "postId": 5434,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-10-22T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5437-hero-queue": {
+      "id": "5437-hero-queue",
+      "assetId": "5437-hero",
+      "postId": 5437,
+      "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-10-23T09:00:00.000Z",
       "status": "draft"
     }
   }
