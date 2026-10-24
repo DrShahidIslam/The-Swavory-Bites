@@ -10817,6 +10817,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-10-23T12:55:07.639Z"
+    },
+    "5440": {
+      "postId": 5440,
+      "title": "What is a Dot Cake? The Viral Dessert Trend Explained",
+      "url": "https://el-mordjene.info/what-is-a-dot-cake-viral-dessert/",
+      "slug": "what-is-a-dot-cake-viral-dessert",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/what-is-a-dot-cake-the-viral-dessert-trend-explain_20261023_224211.webp",
+      "keywordSet": [
+        "what is a dot cake the viral dessert trend explained",
+        "discover the secrets behind the dot cake",
+        "the viral dessert taking the internet by storm learn how to bake",
+        "and master this trend at home",
+        "baking trends",
+        "cake decorating",
+        "dessert recipes",
+        "dot cake",
+        "decorate",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-24T06:36:12.578Z"
     }
   },
   "assets": {
@@ -22806,6 +22831,43 @@
       "status": "pending_render",
       "createdAt": "2026-10-23T12:55:15.365Z",
       "scheduledFor": "2026-10-23T09:00:00.000Z"
+    },
+    "5440-hero": {
+      "id": "5440-hero",
+      "postId": 5440,
+      "postSlug": "what-is-a-dot-cake-viral-dessert",
+      "postUrl": "https://el-mordjene.info/what-is-a-dot-cake-viral-dessert/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Viral Dot Cake Trend",
+      "overlaySubtitle": "Easy Baking Tutorial",
+      "pinTitle": "How to Make the Viral Dot Cake (Step-by-Step Guide)",
+      "pinDescription": "Master the internet’s most aesthetic dessert trend! The dot cake features perfectly piped, colorful buttercream spheres that create a stunning, professional look with minimal effort. This guide breaks down the secret technique for achieving that signature polka-dot finish, ensuring your sponge is moist, flavorful, a...",
+      "primaryKeyword": "what is a dot cake the viral dessert trend explained",
+      "supportingKeywords": [
+        "what is a dot cake the viral dessert trend explained",
+        "discover the secrets behind the dot cake",
+        "the viral dessert taking the internet by storm learn how to bake",
+        "and master this trend at home",
+        "baking trends"
+      ],
+      "searchTags": [
+        "what is a dot cake the viral dessert trend explained",
+        "discover the secrets behind the dot cake",
+        "the viral dessert taking the internet by storm learn how to bake",
+        "and master this trend at home",
+        "baking trends",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/what-is-a-dot-cake-the-viral-dessert-trend-explain_20261023_224211.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-10-24T06:36:17.341Z",
+      "scheduledFor": "2026-10-23T09:00:00.000Z"
     }
   },
   "queue": {
@@ -25434,6 +25496,14 @@
       "assetId": "5437-hero",
       "postId": 5437,
       "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-10-23T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5440-hero-queue": {
+      "id": "5440-hero-queue",
+      "assetId": "5440-hero",
+      "postId": 5440,
+      "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-10-23T09:00:00.000Z",
       "status": "draft"
     }
