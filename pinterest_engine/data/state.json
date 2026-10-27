@@ -10842,6 +10842,106 @@
         "recipes"
       ],
       "discoveredAt": "2026-10-24T06:36:12.578Z"
+    },
+    "5443": {
+      "postId": 5443,
+      "title": "Slow Cooker Chicken Recipes: Easy Dump-and-Go Dinners",
+      "url": "https://el-mordjene.info/slow-cooker-chicken-recipes-easy-dump-and-go-dinners/",
+      "slug": "slow-cooker-chicken-recipes-easy-dump-and-go-dinners",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/slow-cooker-chicken-recipes-easy-dump-and-go-dinne_20261027_054151.webp",
+      "keywordSet": [
+        "slow cooker chicken recipes",
+        "easy dump",
+        "go dinners",
+        "master the art of hands",
+        "off cooking with our guide to slow cooker chicken recipes",
+        "go dinners perfect for busy weeknights and meal prep",
+        "easy dinner",
+        "meal prep",
+        "chicken",
+        "healthy"
+      ],
+      "discoveredAt": "2026-10-27T06:56:37.321Z"
+    },
+    "5446": {
+      "postId": 5446,
+      "title": "Dump-and-Go Crockpot Dinners for Busy Weeknights",
+      "url": "https://el-mordjene.info/dump-and-go-crockpot-dinners-busy-weeknights/",
+      "slug": "dump-and-go-crockpot-dinners-busy-weeknights",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/dump-and-go-crockpot-dinners-for-busy-weeknights_20261027_054403.webp",
+      "keywordSet": [
+        "go crockpot dinners for busy weeknights",
+        "master the art of dump",
+        "go crockpot dinners learn the science",
+        "and best recipes for stress",
+        "dense weeknight meals",
+        "easy cooking",
+        "meal prep",
+        "slow cooker",
+        "dump",
+        "techniques"
+      ],
+      "discoveredAt": "2026-10-27T06:56:24.744Z"
+    },
+    "5449": {
+      "postId": 5449,
+      "title": "The Ultimate Crockpot Chili: The Easiest Fall Slow Cooker Recipe",
+      "url": "https://el-mordjene.info/crockpot-chili-easiest-fall-slow-cooker-recipe/",
+      "slug": "crockpot-chili-easiest-fall-slow-cooker-recipe",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-crockpot-chili-the-easiest-fall-slow_20261027_054626.webp",
+      "keywordSet": [
+        "the ultimate crockpot chili",
+        "the easiest fall slow cooker recipe",
+        "master the ultimate comfort meal with our guide to crockpot chili learn pro techniques for deep flavor",
+        "perfect texture",
+        "and easy prep for fall nights",
+        "comfort food",
+        "fall recipes",
+        "slow cooker",
+        "chili",
+        "crockpot"
+      ],
+      "discoveredAt": "2026-10-27T06:56:22.981Z"
+    },
+    "5452": {
+      "postId": 5452,
+      "title": "Ultimate Crockpot Hot Chocolate for Christmas",
+      "url": "https://el-mordjene.info/crockpot-hot-chocolate-for-christmas/",
+      "slug": "crockpot-hot-chocolate-for-christmas",
+      "language": "en",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "shouldPin": true,
+      "contentType": "drink",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/ultimate-crockpot-hot-chocolate-for-christmas_20261027_054716.webp",
+      "keywordSet": [
+        "ultimate crockpot hot chocolate for christmas",
+        "master the art of slow",
+        "cooked cocoa with our definitive guide to crockpot hot chocolate for christmas creamy",
+        "and crowd",
+        "pleasing perfection",
+        "christmas drinks",
+        "crockpot recipes",
+        "holiday entertaining",
+        "rich",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-27T06:56:17.874Z"
     }
   },
   "assets": {
@@ -22880,6 +22980,154 @@
       "status": "pending_render",
       "createdAt": "2026-10-24T06:36:17.341Z",
       "scheduledFor": "2026-10-23T09:00:00.000Z"
+    },
+    "5452-hero": {
+      "id": "5452-hero",
+      "postId": 5452,
+      "postSlug": "crockpot-hot-chocolate-for-christmas",
+      "postUrl": "https://el-mordjene.info/crockpot-hot-chocolate-for-christmas/",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "variant": "hero",
+      "contentType": "drink",
+      "language": "en",
+      "overlayTitle": "Ultimate Creamy Crockpot Cocoa",
+      "overlaySubtitle": "Easy Holiday Crowd-Pleaser",
+      "pinTitle": "The Ultimate Crockpot Hot Chocolate for Christmas",
+      "pinDescription": "Warm up your holiday season with the creamiest, most decadent slow-cooked hot chocolate you will ever taste. This foolproof recipe creates a rich, velvety cocoa that stays perfectly warm for every guest during your festive gatherings. It is the ultimate fuss-free holiday drink that kids and adults adore. Simply set...",
+      "primaryKeyword": "ultimate crockpot hot chocolate for christmas",
+      "supportingKeywords": [
+        "ultimate crockpot hot chocolate for christmas",
+        "master the art of slow",
+        "cooked cocoa with our definitive guide to crockpot hot chocolate for christmas creamy",
+        "and crowd",
+        "pleasing perfection"
+      ],
+      "searchTags": [
+        "ultimate crockpot hot chocolate for christmas",
+        "master the art of slow",
+        "cooked cocoa with our definitive guide to crockpot hot chocolate for christmas creamy",
+        "and crowd",
+        "pleasing perfection",
+        "drink",
+        "drink recipes — cocktails & mocktails"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/ultimate-crockpot-hot-chocolate-for-christmas_20261027_054716.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-10-27T06:56:22.981Z",
+      "scheduledFor": "2026-10-27T09:00:00.000Z"
+    },
+    "5449-hero": {
+      "id": "5449-hero",
+      "postId": 5449,
+      "postSlug": "crockpot-chili-easiest-fall-slow-cooker-recipe",
+      "postUrl": "https://el-mordjene.info/crockpot-chili-easiest-fall-slow-cooker-recipe/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Ultimate Crockpot Chili",
+      "overlaySubtitle": "Easiest Fall Comfort",
+      "pinTitle": "The Ultimate Crockpot Chili: Easy Slow Cooker Recipe",
+      "pinDescription": "Warm up your chilly evenings with this rich, hearty Crockpot Chili. Perfectly spiced and simmered to perfection, this set-it-and-forget-it recipe develops deep, complex flavors that the whole family will crave. It is the ultimate hands-off meal for busy fall nights, delivering tender meat and savory beans in every s...",
+      "primaryKeyword": "the ultimate crockpot chili",
+      "supportingKeywords": [
+        "the ultimate crockpot chili",
+        "the easiest fall slow cooker recipe",
+        "master the ultimate comfort meal with our guide to crockpot chili learn pro techniques for deep flavor",
+        "perfect texture",
+        "and easy prep for fall nights"
+      ],
+      "searchTags": [
+        "the ultimate crockpot chili",
+        "the easiest fall slow cooker recipe",
+        "master the ultimate comfort meal with our guide to crockpot chili learn pro techniques for deep flavor",
+        "perfect texture",
+        "and easy prep for fall nights",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-crockpot-chili-the-easiest-fall-slow_20261027_054626.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-10-27T06:56:24.743Z",
+      "scheduledFor": "2026-10-27T09:00:00.000Z"
+    },
+    "5446-hero": {
+      "id": "5446-hero",
+      "postId": 5446,
+      "postSlug": "dump-and-go-crockpot-dinners-busy-weeknights",
+      "postUrl": "https://el-mordjene.info/dump-and-go-crockpot-dinners-busy-weeknights/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Effortless Crockpot Dinner Magic",
+      "overlaySubtitle": "10-Minute Prep Time",
+      "pinTitle": "Easy Dump-and-Go Crockpot Dinners for Busy Weeknights",
+      "pinDescription": "Transform your evenings with these stress-free, dump-and-go crockpot recipes. Perfectly tender, flavor-packed meals that require zero effort—just toss your ingredients in and come home to a nutrient-dense, comforting dinner waiting for you. Whether you are craving savory stews or succulent roasts, these simple techn...",
+      "primaryKeyword": "go crockpot dinners for busy weeknights",
+      "supportingKeywords": [
+        "go crockpot dinners for busy weeknights",
+        "master the art of dump",
+        "go crockpot dinners learn the science",
+        "and best recipes for stress",
+        "dense weeknight meals"
+      ],
+      "searchTags": [
+        "go crockpot dinners for busy weeknights",
+        "master the art of dump",
+        "go crockpot dinners learn the science",
+        "and best recipes for stress",
+        "dense weeknight meals",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/dump-and-go-crockpot-dinners-for-busy-weeknights_20261027_054403.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-10-27T06:56:37.321Z",
+      "scheduledFor": "2026-10-27T09:00:00.000Z"
+    },
+    "5443-hero": {
+      "id": "5443-hero",
+      "postId": 5443,
+      "postSlug": "slow-cooker-chicken-recipes-easy-dump-and-go-dinners",
+      "postUrl": "https://el-mordjene.info/slow-cooker-chicken-recipes-easy-dump-and-go-dinners/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Easy Slow Cooker Chicken",
+      "overlaySubtitle": "Effortless Dump-and-Go Meals",
+      "pinTitle": "Easy Slow Cooker Chicken: 5 Dump-and-Go Dinner Ideas",
+      "pinDescription": "Transform your weeknights with these incredibly tender, stress-free slow cooker chicken recipes. Whether you are craving savory shreddable chicken for tacos or creamy herb-infused breasts, these dump-and-go meals do all the heavy lifting for you. Perfect for hectic schedules, these recipes deliver deep, mouth-wateri...",
+      "primaryKeyword": "slow cooker chicken recipes",
+      "supportingKeywords": [
+        "slow cooker chicken recipes",
+        "easy dump",
+        "go dinners",
+        "master the art of hands",
+        "off cooking with our guide to slow cooker chicken recipes"
+      ],
+      "searchTags": [
+        "slow cooker chicken recipes",
+        "easy dump",
+        "go dinners",
+        "master the art of hands",
+        "off cooking with our guide to slow cooker chicken recipes",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/slow-cooker-chicken-recipes-easy-dump-and-go-dinne_20261027_054151.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-10-27T06:57:11.639Z",
+      "scheduledFor": "2026-10-27T09:00:00.000Z"
     }
   },
   "queue": {
@@ -25525,6 +25773,38 @@
       "postId": 5440,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-10-23T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5452-hero-queue": {
+      "id": "5452-hero-queue",
+      "assetId": "5452-hero",
+      "postId": 5452,
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "scheduledFor": "2026-10-27T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5449-hero-queue": {
+      "id": "5449-hero-queue",
+      "assetId": "5449-hero",
+      "postId": 5449,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-27T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5446-hero-queue": {
+      "id": "5446-hero-queue",
+      "assetId": "5446-hero",
+      "postId": 5446,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-10-27T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5443-hero-queue": {
+      "id": "5443-hero-queue",
+      "assetId": "5443-hero",
+      "postId": 5443,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-27T09:00:00.000Z",
       "status": "draft"
     }
   }
