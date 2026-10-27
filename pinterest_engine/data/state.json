@@ -10942,6 +10942,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-10-27T06:56:17.874Z"
+    },
+    "5454": {
+      "postId": 5454,
+      "title": "Easy Lemon Garlic Herb Roasted Chicken &#038; Asparagus Sheet Pan",
+      "url": "https://el-mordjene.info/easy-lemon-garlic-sheet-pan-chicken/",
+      "slug": "easy-lemon-garlic-sheet-pan-chicken",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "",
+      "keywordSet": [
+        "easy lemon garlic herb roasted chicken 038",
+        "asparagus sheet pan",
+        "discover how to master low calorie dinners",
+        "easy weeknight recipes under 500 calories with our expert",
+        "backed sheet pan lemon garlic chicken guide",
+        "low calorie",
+        "dinner recipes",
+        "healthy eating",
+        "recipes",
+        "pro"
+      ],
+      "discoveredAt": "2026-10-27T19:02:07.592Z"
     }
   },
   "assets": {
@@ -23128,6 +23153,43 @@
       "status": "pending_render",
       "createdAt": "2026-10-27T06:57:11.639Z",
       "scheduledFor": "2026-10-27T09:00:00.000Z"
+    },
+    "5454-hero": {
+      "id": "5454-hero",
+      "postId": 5454,
+      "postSlug": "easy-lemon-garlic-sheet-pan-chicken",
+      "postUrl": "https://el-mordjene.info/easy-lemon-garlic-sheet-pan-chicken/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Lemon Garlic Sheet Chicken",
+      "overlaySubtitle": "Healthy 30-Minute Dinner",
+      "pinTitle": "Easy Lemon Garlic Herb Roasted Chicken & Asparagus Sheet Pan",
+      "pinDescription": "Elevate your weeknight routine with this vibrant, zesty sheet pan dinner. Succulent chicken breasts and crisp-tender asparagus are roasted to perfection in a fragrant lemon-garlic herb butter. It is the ultimate low-calorie meal that saves you time on prep and cleanup without sacrificing bold, comforting flavors. Pe...",
+      "primaryKeyword": "easy lemon garlic herb roasted chicken 038",
+      "supportingKeywords": [
+        "easy lemon garlic herb roasted chicken 038",
+        "asparagus sheet pan",
+        "discover how to master low calorie dinners",
+        "easy weeknight recipes under 500 calories with our expert",
+        "backed sheet pan lemon garlic chicken guide"
+      ],
+      "searchTags": [
+        "easy lemon garlic herb roasted chicken 038",
+        "asparagus sheet pan",
+        "discover how to master low calorie dinners",
+        "easy weeknight recipes under 500 calories with our expert",
+        "backed sheet pan lemon garlic chicken guide",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-10-27T19:02:24.931Z",
+      "scheduledFor": "2026-10-27T09:00:00.000Z"
     }
   },
   "queue": {
@@ -25803,6 +25865,14 @@
       "id": "5443-hero-queue",
       "assetId": "5443-hero",
       "postId": 5443,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-27T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5454-hero-queue": {
+      "id": "5454-hero-queue",
+      "assetId": "5454-hero",
+      "postId": 5454,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-10-27T09:00:00.000Z",
       "status": "draft"
