@@ -10967,6 +10967,31 @@
         "pro"
       ],
       "discoveredAt": "2026-10-27T19:02:07.592Z"
+    },
+    "5458": {
+      "postId": 5458,
+      "title": "The Ultimate Thanksgiving Recipes: Appetizers, Sides and Dinner Ideas",
+      "url": "https://el-mordjene.info/thanksgiving-recipes-appetizers-sides-dinner-ideas/",
+      "slug": "thanksgiving-recipes-appetizers-sides-dinner-ideas",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-thanksgiving-recipes-appetizers-sides_20261030_062442.webp",
+      "keywordSet": [
+        "the ultimate thanksgiving recipes",
+        "sides and dinner ideas",
+        "master the art of the holiday table with our guide to thanksgiving recipes",
+        "sides and dinner ideas elevate your feast with expert techniques",
+        "dinner ideas",
+        "holiday cooking",
+        "crafting the perfect thanksgiving feast",
+        "understanding your ingredients",
+        "appetizers",
+        "entertaining"
+      ],
+      "discoveredAt": "2026-10-30T07:49:52.024Z"
     }
   },
   "assets": {
@@ -23190,6 +23215,43 @@
       "status": "pending_render",
       "createdAt": "2026-10-27T19:02:24.931Z",
       "scheduledFor": "2026-10-27T09:00:00.000Z"
+    },
+    "5458-hero": {
+      "id": "5458-hero",
+      "postId": 5458,
+      "postSlug": "thanksgiving-recipes-appetizers-sides-dinner-ideas",
+      "postUrl": "https://el-mordjene.info/thanksgiving-recipes-appetizers-sides-dinner-ideas/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Ultimate Thanksgiving Feast Guide",
+      "overlaySubtitle": "Stress-Free Holiday Cooking",
+      "pinTitle": "Ultimate Thanksgiving Recipes: Easy Appetizers, Sides & Dinner Ideas",
+      "pinDescription": "Master your holiday spread with our ultimate guide to Thanksgiving recipes. From crowd-pleasing appetizers and decadent sides to the perfect centerpiece dinner, these expert-tested dishes ensure your celebration is flavorful and stress-free. Whether you are hosting a large gathering or an intimate meal, these techni...",
+      "primaryKeyword": "the ultimate thanksgiving recipes",
+      "supportingKeywords": [
+        "the ultimate thanksgiving recipes",
+        "sides and dinner ideas",
+        "master the art of the holiday table with our guide to thanksgiving recipes",
+        "sides and dinner ideas elevate your feast with expert techniques",
+        "dinner ideas"
+      ],
+      "searchTags": [
+        "the ultimate thanksgiving recipes",
+        "sides and dinner ideas",
+        "master the art of the holiday table with our guide to thanksgiving recipes",
+        "sides and dinner ideas elevate your feast with expert techniques",
+        "dinner ideas",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-thanksgiving-recipes-appetizers-sides_20261030_062442.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-10-30T07:49:53.852Z",
+      "scheduledFor": "2026-10-30T09:00:00.000Z"
     }
   },
   "queue": {
@@ -25875,6 +25937,14 @@
       "postId": 5454,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-10-27T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5458-hero-queue": {
+      "id": "5458-hero-queue",
+      "assetId": "5458-hero",
+      "postId": 5458,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-30T09:00:00.000Z",
       "status": "draft"
     }
   }
