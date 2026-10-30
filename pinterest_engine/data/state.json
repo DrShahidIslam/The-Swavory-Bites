@@ -10992,6 +10992,31 @@
         "entertaining"
       ],
       "discoveredAt": "2026-10-30T07:49:52.024Z"
+    },
+    "5461": {
+      "postId": 5461,
+      "title": "The Ultimate Guide to Christmas Baking: Cookies, Cakes &#038; Gifts",
+      "url": "https://el-mordjene.info/christmas-baking-cookies-cakes-edible-gifts/",
+      "slug": "christmas-baking-cookies-cakes-edible-gifts",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-guide-to-christmas-baking-cookies-cak_20261030_143757.webp",
+      "keywordSet": [
+        "the ultimate guide to christmas baking",
+        "cakes 038",
+        "master the art of holiday baking with our expert guide to christmas cookies",
+        "and edible gifts includes pro techniques",
+        "and tips",
+        "mastering the season",
+        "christmas baking",
+        "cakes and edible gifts",
+        "cookies",
+        "gifts"
+      ],
+      "discoveredAt": "2026-10-30T14:39:11.386Z"
     }
   },
   "assets": {
@@ -23252,6 +23277,43 @@
       "status": "pending_render",
       "createdAt": "2026-10-30T07:49:53.852Z",
       "scheduledFor": "2026-10-30T09:00:00.000Z"
+    },
+    "5461-hero": {
+      "id": "5461-hero",
+      "postId": 5461,
+      "postSlug": "christmas-baking-cookies-cakes-edible-gifts",
+      "postUrl": "https://el-mordjene.info/christmas-baking-cookies-cakes-edible-gifts/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Ultimate Christmas Baking Guide",
+      "overlaySubtitle": "Master Holiday Treats",
+      "pinTitle": "The Ultimate Guide to Christmas Baking: Cookies, Cakes & Edible Gifts",
+      "pinDescription": "Master the art of holiday baking with this essential guide to festive cookies, showstopping cakes, and beautiful edible gifts. Whether you are a beginner or a seasoned pro, these expert techniques, handy measurement conversions, and professional tips will ensure your kitchen smells like heaven all season long. Creat...",
+      "primaryKeyword": "the ultimate guide to christmas baking",
+      "supportingKeywords": [
+        "the ultimate guide to christmas baking",
+        "cakes 038",
+        "master the art of holiday baking with our expert guide to christmas cookies",
+        "and edible gifts includes pro techniques",
+        "and tips"
+      ],
+      "searchTags": [
+        "the ultimate guide to christmas baking",
+        "cakes 038",
+        "master the art of holiday baking with our expert guide to christmas cookies",
+        "and edible gifts includes pro techniques",
+        "and tips",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/the-ultimate-guide-to-christmas-baking-cookies-cak_20261030_143757.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-10-30T14:39:13.087Z",
+      "scheduledFor": "2026-10-30T09:00:00.000Z"
     }
   },
   "queue": {
@@ -25944,6 +26006,14 @@
       "assetId": "5458-hero",
       "postId": 5458,
       "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-10-30T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5461-hero-queue": {
+      "id": "5461-hero-queue",
+      "assetId": "5461-hero",
+      "postId": 5461,
+      "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-10-30T09:00:00.000Z",
       "status": "draft"
     }
