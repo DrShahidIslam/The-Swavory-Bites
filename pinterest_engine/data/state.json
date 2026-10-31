@@ -11041,6 +11041,56 @@
         "recipes"
       ],
       "discoveredAt": "2026-10-31T07:38:50.656Z"
+    },
+    "5467": {
+      "postId": 5467,
+      "title": "Healthy Desserts: Sweet Treats That Are Actually Light",
+      "url": "https://el-mordjene.info/healthy-desserts-sweet-treats-that-are-actually-light/",
+      "slug": "healthy-desserts-sweet-treats-that-are-actually-light",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/healthy-desserts-sweet-treats-that-are-actually-li_20261031_100749.webp",
+      "keywordSet": [
+        "healthy desserts",
+        "sweet treats that are actually light",
+        "explore the world of healthy desserts learn culinary techniques for creating light",
+        "dense treats that satisfy cravings without the heavy sugar crash",
+        "culinary techniques",
+        "dessert trends",
+        "healthy baking",
+        "sugar alternatives",
+        "nutrient",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-31T13:57:34.956Z"
+    },
+    "5470": {
+      "postId": 5470,
+      "title": "Dinner Ideas Easy: Lazy Weeknight Dinners That Actually Work",
+      "url": "https://el-mordjene.info/dinner-ideas-easy-lazy-weeknight-dinners/",
+      "slug": "dinner-ideas-easy-lazy-weeknight-dinners",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/dinner-ideas-easy-lazy-weeknight-dinners-that-actu_20261031_135718.webp",
+      "keywordSet": [
+        "dinner ideas easy",
+        "lazy weeknight dinners that actually work",
+        "master the art of the 20",
+        "minute meal discover expert strategies",
+        "staple hacks",
+        "and delicious dinner ideas easy for every busy weeknight",
+        "dinner ideas",
+        "easy cooking",
+        "pantry",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-31T13:58:20.917Z"
     }
   },
   "assets": {
@@ -23375,6 +23425,80 @@
       "status": "pending_render",
       "createdAt": "2026-10-31T07:38:52.313Z",
       "scheduledFor": "2026-10-30T09:00:00.000Z"
+    },
+    "5467-hero": {
+      "id": "5467-hero",
+      "postId": 5467,
+      "postSlug": "healthy-desserts-sweet-treats-that-are-actually-light",
+      "postUrl": "https://el-mordjene.info/healthy-desserts-sweet-treats-that-are-actually-light/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Guilt-Free Sweet Treats",
+      "overlaySubtitle": "Nutrient-Dense & Delicious",
+      "pinTitle": "Healthy Desserts: Sweet Treats That Won't Cause A Sugar Crash",
+      "pinDescription": "Indulge your sweet tooth without the heavy sugar slump. Discover how to create light, nutrient-dense desserts that satisfy your deepest cravings while keeping your energy levels steady. From wholesome ingredients to simple baking techniques, these treats prove that healthy eating can be truly decadent. Elevate your...",
+      "primaryKeyword": "healthy desserts",
+      "supportingKeywords": [
+        "healthy desserts",
+        "sweet treats that are actually light",
+        "explore the world of healthy desserts learn culinary techniques for creating light",
+        "dense treats that satisfy cravings without the heavy sugar crash",
+        "culinary techniques"
+      ],
+      "searchTags": [
+        "healthy desserts",
+        "sweet treats that are actually light",
+        "explore the world of healthy desserts learn culinary techniques for creating light",
+        "dense treats that satisfy cravings without the heavy sugar crash",
+        "culinary techniques",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/healthy-desserts-sweet-treats-that-are-actually-li_20261031_100749.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-10-31T13:58:06.980Z",
+      "scheduledFor": "2026-10-31T09:00:00.000Z"
+    },
+    "5470-hero": {
+      "id": "5470-hero",
+      "postId": 5470,
+      "postSlug": "dinner-ideas-easy-lazy-weeknight-dinners",
+      "postUrl": "https://el-mordjene.info/dinner-ideas-easy-lazy-weeknight-dinners/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "20-Minute Weeknight Dinners",
+      "overlaySubtitle": "Quick & Easy Meals",
+      "pinTitle": "20-Minute Dinner Ideas: Easy & Lazy Weeknight Meals",
+      "pinDescription": "Transform your chaotic evenings with these effortless dinner ideas that prove fast food doesn't have to be takeout. From pantry-staple hacks to gourmet-style results in under 20 minutes, these recipes are designed for the busy home cook. Experience stress-free cooking with meals that are as delicious as they are qui...",
+      "primaryKeyword": "dinner ideas easy",
+      "supportingKeywords": [
+        "dinner ideas easy",
+        "lazy weeknight dinners that actually work",
+        "master the art of the 20",
+        "minute meal discover expert strategies",
+        "staple hacks"
+      ],
+      "searchTags": [
+        "dinner ideas easy",
+        "lazy weeknight dinners that actually work",
+        "master the art of the 20",
+        "minute meal discover expert strategies",
+        "staple hacks",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/dinner-ideas-easy-lazy-weeknight-dinners-that-actu_20261031_135718.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-10-31T13:58:22.953Z",
+      "scheduledFor": "2026-11-01T09:00:00.000Z"
     }
   },
   "queue": {
@@ -26084,6 +26208,22 @@
       "postId": 5464,
       "boardName": "Hazelnut & Chocolate Spreads",
       "scheduledFor": "2026-10-30T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5467-hero-queue": {
+      "id": "5467-hero-queue",
+      "assetId": "5467-hero",
+      "postId": 5467,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-31T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5470-hero-queue": {
+      "id": "5470-hero-queue",
+      "assetId": "5470-hero",
+      "postId": 5470,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-01T09:00:00.000Z",
       "status": "draft"
     }
   }
