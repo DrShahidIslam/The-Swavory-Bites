@@ -11091,6 +11091,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-10-31T13:58:20.917Z"
+    },
+    "5473": {
+      "postId": 5473,
+      "title": "Salads Recipes: Fresh, Easy Salads for Every Season",
+      "url": "https://el-mordjene.info/salads-recipes-fresh-easy-salads-for-every-season/",
+      "slug": "salads-recipes-fresh-easy-salads-for-every-season",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/salads-recipes-fresh-easy-salads-for-every-season_20261031_225310.webp",
+      "keywordSet": [
+        "salads recipes",
+        "easy salads for every season",
+        "master the art of building fresh",
+        "easy salads for every season learn seasonal pairings",
+        "dressing mechanics",
+        "and pro tips for vibrant",
+        "dense bowls",
+        "fresh recipes",
+        "fresh",
+        "nutrient"
+      ],
+      "discoveredAt": "2026-10-31T22:53:44.550Z"
     }
   },
   "assets": {
@@ -23499,6 +23524,43 @@
       "status": "pending_render",
       "createdAt": "2026-10-31T13:58:22.953Z",
       "scheduledFor": "2026-11-01T09:00:00.000Z"
+    },
+    "5473-hero": {
+      "id": "5473-hero",
+      "postId": 5473,
+      "postSlug": "salads-recipes-fresh-easy-salads-for-every-season",
+      "postUrl": "https://el-mordjene.info/salads-recipes-fresh-easy-salads-for-every-season/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Master the Perfect Salad",
+      "overlaySubtitle": "Fresh Seasonal Flavors",
+      "pinTitle": "How to Build the Perfect Salad: Pro Tips & Seasonal Pairings",
+      "pinDescription": "Transform your kitchen routine with these vibrant, nutrient-dense salad blueprints. From mastering the perfect emulsified dressing to seasonal ingredient pairings, you will learn how to build restaurant-quality bowls at home. Whether you crave crunchy greens in summer or hearty, roasted textures in winter, these exp...",
+      "primaryKeyword": "salads recipes",
+      "supportingKeywords": [
+        "salads recipes",
+        "easy salads for every season",
+        "master the art of building fresh",
+        "easy salads for every season learn seasonal pairings",
+        "dressing mechanics"
+      ],
+      "searchTags": [
+        "salads recipes",
+        "easy salads for every season",
+        "master the art of building fresh",
+        "easy salads for every season learn seasonal pairings",
+        "dressing mechanics",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/salads-recipes-fresh-easy-salads-for-every-season_20261031_225310.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-10-31T22:53:48.391Z",
+      "scheduledFor": "2026-10-31T09:00:00.000Z"
     }
   },
   "queue": {
@@ -26224,6 +26286,14 @@
       "postId": 5470,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-01T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5473-hero-queue": {
+      "id": "5473-hero-queue",
+      "assetId": "5473-hero",
+      "postId": 5473,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-10-31T09:00:00.000Z",
       "status": "draft"
     }
   }
