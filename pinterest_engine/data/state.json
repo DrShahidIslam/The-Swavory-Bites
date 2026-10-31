@@ -11017,6 +11017,30 @@
         "gifts"
       ],
       "discoveredAt": "2026-10-30T14:39:11.386Z"
+    },
+    "5464": {
+      "postId": 5464,
+      "title": "El Mordjene Spread: Everything You Need to Know",
+      "url": "https://el-mordjene.info/el-mordjene-spread-explained/",
+      "slug": "el-mordjene-spread-explained",
+      "language": "en",
+      "boardKey": "spreads_en",
+      "boardName": "Hazelnut & Chocolate Spreads",
+      "shouldPin": true,
+      "contentType": "spread",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/el-mordjene-spread-everything-you-need-to-know_20261030_232002.webp",
+      "keywordSet": [
+        "el mordjene spread",
+        "everything you need to know",
+        "discover what makes el mordjene spread a global sensation learn its unique flavor profile",
+        "where to find it",
+        "and how it compares to nutella",
+        "algerian cuisine",
+        "dessert spreads",
+        "nutella comparison",
+        "recipes"
+      ],
+      "discoveredAt": "2026-10-31T07:38:50.656Z"
     }
   },
   "assets": {
@@ -23314,6 +23338,43 @@
       "status": "pending_render",
       "createdAt": "2026-10-30T14:39:13.087Z",
       "scheduledFor": "2026-10-30T09:00:00.000Z"
+    },
+    "5464-hero": {
+      "id": "5464-hero",
+      "postId": 5464,
+      "postSlug": "el-mordjene-spread-explained",
+      "postUrl": "https://el-mordjene.info/el-mordjene-spread-explained/",
+      "boardKey": "spreads_en",
+      "boardName": "Hazelnut & Chocolate Spreads",
+      "variant": "hero",
+      "contentType": "spread",
+      "language": "en",
+      "overlayTitle": "The Viral El Mordjene Spread",
+      "overlaySubtitle": "The Ultimate Nutella Rival",
+      "pinTitle": "El Mordjene Spread: Why Everyone Is Obsessed With This Hazelnut Treat",
+      "pinDescription": "Have you heard the hype about El Mordjene? This viral hazelnut and chocolate spread is taking the world by storm with its incredibly rich, velvety texture and deep roasted flavor. Discover exactly what makes this treat so addictive, how it stacks up against the classics, and why it’s become a global sensation for de...",
+      "primaryKeyword": "el mordjene spread",
+      "supportingKeywords": [
+        "el mordjene spread",
+        "everything you need to know",
+        "discover what makes el mordjene spread a global sensation learn its unique flavor profile",
+        "where to find it",
+        "and how it compares to nutella"
+      ],
+      "searchTags": [
+        "el mordjene spread",
+        "everything you need to know",
+        "discover what makes el mordjene spread a global sensation learn its unique flavor profile",
+        "where to find it",
+        "and how it compares to nutella",
+        "spread",
+        "hazelnut & chocolate spreads"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/10/el-mordjene-spread-everything-you-need-to-know_20261030_232002.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-10-31T07:38:52.313Z",
+      "scheduledFor": "2026-10-30T09:00:00.000Z"
     }
   },
   "queue": {
@@ -26014,6 +26075,14 @@
       "assetId": "5461-hero",
       "postId": 5461,
       "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-10-30T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5464-hero-queue": {
+      "id": "5464-hero-queue",
+      "assetId": "5464-hero",
+      "postId": 5464,
+      "boardName": "Hazelnut & Chocolate Spreads",
       "scheduledFor": "2026-10-30T09:00:00.000Z",
       "status": "draft"
     }
