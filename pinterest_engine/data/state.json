@@ -11116,6 +11116,31 @@
         "nutrient"
       ],
       "discoveredAt": "2026-10-31T22:53:44.550Z"
+    },
+    "5476": {
+      "postId": 5476,
+      "title": "Viral Dessert Guide: The Best Pistachio Chocolate Treats in Orlando",
+      "url": "https://el-mordjene.info/viral-dessert-guide-pistachio-chocolate-orlando/",
+      "slug": "viral-dessert-guide-pistachio-chocolate-orlando",
+      "language": "en",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/viral-dessert-guide-the-best-pistachio-chocolate-t_20261101_103448.webp",
+      "keywordSet": [
+        "viral dessert guide",
+        "the best pistachio chocolate treats in orlando",
+        "discover the ultimate viral dessert guide",
+        "the best pistachio chocolate treats in orlando from rich ganache to crunchy kataifi",
+        "explore local favorites",
+        "orlando food",
+        "pistachio chocolate",
+        "viral dessert",
+        "desserts",
+        "recipes"
+      ],
+      "discoveredAt": "2026-11-01T18:39:01.356Z"
     }
   },
   "assets": {
@@ -23561,6 +23586,43 @@
       "status": "pending_render",
       "createdAt": "2026-10-31T22:53:48.391Z",
       "scheduledFor": "2026-10-31T09:00:00.000Z"
+    },
+    "5476-hero": {
+      "id": "5476-hero",
+      "postId": 5476,
+      "postSlug": "viral-dessert-guide-pistachio-chocolate-orlando",
+      "postUrl": "https://el-mordjene.info/viral-dessert-guide-pistachio-chocolate-orlando/",
+      "boardKey": "desserts_en",
+      "boardName": "Easy Dessert Recipes",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "en",
+      "overlayTitle": "Ultimate Pistachio Chocolate Treats",
+      "overlaySubtitle": "Orlando's Best Desserts",
+      "pinTitle": "The Viral Pistachio Chocolate Guide: Orlando’s Must-Try Desserts",
+      "pinDescription": "Indulge in the trendiest dessert sensation sweeping Orlando! From velvety pistachio ganache paired with premium dark chocolate to the satisfying crunch of buttery kataifi, these local treats are a dream come true for dessert lovers. Whether you are hunting for the perfect gift or a decadent evening indulgence, this...",
+      "primaryKeyword": "viral dessert guide",
+      "supportingKeywords": [
+        "viral dessert guide",
+        "the best pistachio chocolate treats in orlando",
+        "discover the ultimate viral dessert guide",
+        "the best pistachio chocolate treats in orlando from rich ganache to crunchy kataifi",
+        "explore local favorites"
+      ],
+      "searchTags": [
+        "viral dessert guide",
+        "the best pistachio chocolate treats in orlando",
+        "discover the ultimate viral dessert guide",
+        "the best pistachio chocolate treats in orlando from rich ganache to crunchy kataifi",
+        "explore local favorites",
+        "recipe",
+        "easy dessert recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/viral-dessert-guide-the-best-pistachio-chocolate-t_20261101_103448.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-01T18:39:04.649Z",
+      "scheduledFor": "2026-11-01T09:00:00.000Z"
     }
   },
   "queue": {
@@ -26294,6 +26356,14 @@
       "postId": 5473,
       "boardName": "Recettes Faciles & Desserts Maison",
       "scheduledFor": "2026-10-31T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5476-hero-queue": {
+      "id": "5476-hero-queue",
+      "assetId": "5476-hero",
+      "postId": 5476,
+      "boardName": "Easy Dessert Recipes",
+      "scheduledFor": "2026-11-01T09:00:00.000Z",
       "status": "draft"
     }
   }
