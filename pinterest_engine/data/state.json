@@ -11141,6 +11141,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-11-01T18:39:01.356Z"
+    },
+    "5479": {
+      "postId": 5479,
+      "title": "The Viral Dessert Dip That’s Breaking the Internet",
+      "url": "https://el-mordjene.info/viral-dessert-dip-recipe/",
+      "slug": "viral-dessert-dip-recipe",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/the-viral-dessert-dip-that-s-breaking-the-internet_20261105_003433.webp",
+      "keywordSet": [
+        "the viral dessert dip that s breaking the internet",
+        "we tested the viral dessert dip everyone is talking about discover the secrets behind this 15 10 rated treat",
+        "plus pro tips and variations",
+        "dessert dip",
+        "dessert recipes",
+        "easy party treats",
+        "viral dessert",
+        "the viral dessert dip everyone is talking about",
+        "recipes",
+        "tempering"
+      ],
+      "discoveredAt": "2026-11-05T08:39:25.852Z"
     }
   },
   "assets": {
@@ -23623,6 +23648,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-01T18:39:04.649Z",
       "scheduledFor": "2026-11-01T09:00:00.000Z"
+    },
+    "5479-hero": {
+      "id": "5479-hero",
+      "postId": 5479,
+      "postSlug": "viral-dessert-dip-recipe",
+      "postUrl": "https://el-mordjene.info/viral-dessert-dip-recipe/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Viral Dessert Dip Sensation",
+      "overlaySubtitle": "15/10 Rated Treat",
+      "pinTitle": "The Viral Dessert Dip Everyone Is Obsessed With",
+      "pinDescription": "Experience the creamy, dreamy dessert dip that is taking the internet by storm. Perfectly balanced and impossibly smooth, this crowd-pleasing treat comes together in minutes for the ultimate sweet craving fix. Whether you are hosting a party or need a quick midnight snack, this decadent dip delivers pure bliss in ev...",
+      "primaryKeyword": "the viral dessert dip that s breaking the internet",
+      "supportingKeywords": [
+        "the viral dessert dip that s breaking the internet",
+        "we tested the viral dessert dip everyone is talking about discover the secrets behind this 15 10 rated treat",
+        "plus pro tips and variations",
+        "dessert dip",
+        "dessert recipes"
+      ],
+      "searchTags": [
+        "the viral dessert dip that s breaking the internet",
+        "we tested the viral dessert dip everyone is talking about discover the secrets behind this 15 10 rated treat",
+        "plus pro tips and variations",
+        "dessert dip",
+        "dessert recipes",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/the-viral-dessert-dip-that-s-breaking-the-internet_20261105_003433.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-05T08:39:27.079Z",
+      "scheduledFor": "2026-11-05T09:00:00.000Z"
     }
   },
   "queue": {
@@ -26364,6 +26426,14 @@
       "postId": 5476,
       "boardName": "Easy Dessert Recipes",
       "scheduledFor": "2026-11-01T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5479-hero-queue": {
+      "id": "5479-hero-queue",
+      "assetId": "5479-hero",
+      "postId": 5479,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-05T09:00:00.000Z",
       "status": "draft"
     }
   }
