@@ -11166,6 +11166,31 @@
         "tempering"
       ],
       "discoveredAt": "2026-11-05T08:39:25.852Z"
+    },
+    "5483": {
+      "postId": 5483,
+      "title": "Perfect Crispy Tofu Sesame Ginger Grain Bowl Guide",
+      "url": "https://el-mordjene.info/crispy-tofu-sesame-ginger-grain-bowl-2/",
+      "slug": "crispy-tofu-sesame-ginger-grain-bowl-2",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/perfect-crispy-tofu-sesame-ginger-grain-bowl-guide_20261109_055614.webp",
+      "keywordSet": [
+        "perfect crispy tofu sesame ginger grain bowl guide",
+        "master the crispy tofu sesame ginger grain bowl learn professional techniques for texture",
+        "flavor balance",
+        "and perfect grain preparation in this guide",
+        "healthy bowls",
+        "meal prep",
+        "tofu techniques",
+        "vegan recipes",
+        "recipes",
+        "step"
+      ],
+      "discoveredAt": "2026-11-09T08:47:26.365Z"
     }
   },
   "assets": {
@@ -23685,6 +23710,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-05T08:39:27.079Z",
       "scheduledFor": "2026-11-05T09:00:00.000Z"
+    },
+    "5483-hero": {
+      "id": "5483-hero",
+      "postId": 5483,
+      "postSlug": "crispy-tofu-sesame-ginger-grain-bowl-2",
+      "postUrl": "https://el-mordjene.info/crispy-tofu-sesame-ginger-grain-bowl-2/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Perfect Crispy Sesame Tofu",
+      "overlaySubtitle": "Healthy 20-Minute Meal",
+      "pinTitle": "Ultimate Crispy Sesame Ginger Tofu Grain Bowl",
+      "pinDescription": "Master the art of the perfect grain bowl with this crispy sesame ginger tofu recipe. Achieve that elusive, golden-brown crunch on the outside while keeping the tofu tender and flavorful inside. Perfectly balanced with savory ginger glaze and fluffy grains, this wholesome meal is a weeknight game-changer. Discover pr...",
+      "primaryKeyword": "perfect crispy tofu sesame ginger grain bowl guide",
+      "supportingKeywords": [
+        "perfect crispy tofu sesame ginger grain bowl guide",
+        "master the crispy tofu sesame ginger grain bowl learn professional techniques for texture",
+        "flavor balance",
+        "and perfect grain preparation in this guide",
+        "healthy bowls"
+      ],
+      "searchTags": [
+        "perfect crispy tofu sesame ginger grain bowl guide",
+        "master the crispy tofu sesame ginger grain bowl learn professional techniques for texture",
+        "flavor balance",
+        "and perfect grain preparation in this guide",
+        "healthy bowls",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/perfect-crispy-tofu-sesame-ginger-grain-bowl-guide_20261109_055614.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-09T08:48:02.715Z",
+      "scheduledFor": "2026-11-09T09:00:00.000Z"
     }
   },
   "queue": {
@@ -26434,6 +26496,14 @@
       "postId": 5479,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-05T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5483-hero-queue": {
+      "id": "5483-hero-queue",
+      "assetId": "5483-hero",
+      "postId": 5483,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-11-09T09:00:00.000Z",
       "status": "draft"
     }
   }
