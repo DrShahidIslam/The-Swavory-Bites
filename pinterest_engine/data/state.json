@@ -11191,6 +11191,106 @@
         "step"
       ],
       "discoveredAt": "2026-11-09T08:47:26.365Z"
+    },
+    "5486": {
+      "postId": 5486,
+      "title": "High-Protein Buffalo Chicken Salad with Ranch Dressing",
+      "url": "https://el-mordjene.info/high-protein-buffalo-chicken-salad-with-ranch-dressing-2/",
+      "slug": "high-protein-buffalo-chicken-salad-with-ranch-dressing-2",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-buffalo-chicken-salad-with-ranch-dres_20261109_095208.webp",
+      "keywordSet": [
+        "protein buffalo chicken salad with ranch dressing",
+        "master the ultimate high",
+        "protein buffalo chicken salad with ranch dressing a perfect blend of spicy heat",
+        "cooling herbs",
+        "and lean muscle",
+        "building protein",
+        "the anatomy of the perfect high",
+        "protein buffalo chicken salad",
+        "high",
+        "buffalo"
+      ],
+      "discoveredAt": "2026-11-09T23:12:09.978Z"
+    },
+    "5489": {
+      "postId": 5489,
+      "title": "Mediterranean Grilled Halloumi and Lentil Salad Recipe",
+      "url": "https://el-mordjene.info/mediterranean-grilled-halloumi-and-lentil-salad/",
+      "slug": "mediterranean-grilled-halloumi-and-lentil-salad",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/mediterranean-grilled-halloumi-and-lentil-salad-re_20261109_095552.webp",
+      "keywordSet": [
+        "mediterranean grilled halloumi and lentil salad recipe",
+        "master the art of the perfect mediterranean grilled halloumi and lentil salad with this expert guide on cheese searing",
+        "legume prep",
+        "and dressing",
+        "healthy eating",
+        "the art of mediterranean grilled halloumi and lentil salad",
+        "the culinary mechanics of halloumi",
+        "myth vs fact and action plan",
+        "mediterranean",
+        "halloumi"
+      ],
+      "discoveredAt": "2026-11-09T23:12:08.725Z"
+    },
+    "5492": {
+      "postId": 5492,
+      "title": "Mediterranean Grilled Halloumi and Lentil Salad Recipe",
+      "url": "https://el-mordjene.info/mediterranean-grilled-halloumi-lentil-salad-2/",
+      "slug": "mediterranean-grilled-halloumi-lentil-salad-2",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/mediterranean-grilled-halloumi-and-lentil-salad-re_20261109_095613.webp",
+      "keywordSet": [
+        "mediterranean grilled halloumi and lentil salad recipe",
+        "master the perfect mediterranean grilled halloumi and lentil salad with our expert guide learn grilling techniques",
+        "flavor pairings",
+        "and pro tips",
+        "the art of the mediterranean grilled halloumi and lentil salad",
+        "culinary mechanics",
+        "texture and flavor chemistry",
+        "myth vs fact",
+        "halloumi",
+        "healthy"
+      ],
+      "discoveredAt": "2026-11-09T23:12:07.335Z"
+    },
+    "5495": {
+      "postId": 5495,
+      "title": "Healthy Greek Chicken Quinoa Bowl with Tzatziki",
+      "url": "https://el-mordjene.info/healthy-greek-chicken-quinoa-bowl-with-tzatziki-2/",
+      "slug": "healthy-greek-chicken-quinoa-bowl-with-tzatziki-2",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/healthy-greek-chicken-quinoa-bowl-with-tzatziki_20261109_175202.webp",
+      "keywordSet": [
+        "healthy greek chicken quinoa bowl with tzatziki",
+        "master the healthy greek chicken quinoa bowl with tzatziki a protein",
+        "dense mediterranean meal perfect for meal prep and busy weeknights",
+        "greek cuisine",
+        "healthy recipes",
+        "high protein",
+        "meal prep",
+        "elevating the modern mediterranean bowl",
+        "packed",
+        "nutrient"
+      ],
+      "discoveredAt": "2026-11-09T23:12:05.488Z"
     }
   },
   "assets": {
@@ -23747,6 +23847,154 @@
       "status": "pending_render",
       "createdAt": "2026-11-09T08:48:02.715Z",
       "scheduledFor": "2026-11-09T09:00:00.000Z"
+    },
+    "5495-hero": {
+      "id": "5495-hero",
+      "postId": 5495,
+      "postSlug": "healthy-greek-chicken-quinoa-bowl-with-tzatziki-2",
+      "postUrl": "https://el-mordjene.info/healthy-greek-chicken-quinoa-bowl-with-tzatziki-2/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Healthy Greek Chicken Bowls",
+      "overlaySubtitle": "15-Minute Meal Prep",
+      "pinTitle": "Healthy Greek Chicken Quinoa Bowl with Creamy Tzatziki",
+      "pinDescription": "Elevate your lunch routine with this vibrant Mediterranean-inspired bowl. Tender, herb-marinated chicken meets fluffy quinoa, crisp cucumbers, and salty feta, all tied together with a cool, refreshing homemade tzatziki sauce. It is the ultimate protein-packed meal prep solution that stays fresh and delicious all wee...",
+      "primaryKeyword": "healthy greek chicken quinoa bowl with tzatziki",
+      "supportingKeywords": [
+        "healthy greek chicken quinoa bowl with tzatziki",
+        "master the healthy greek chicken quinoa bowl with tzatziki a protein",
+        "dense mediterranean meal perfect for meal prep and busy weeknights",
+        "greek cuisine",
+        "healthy recipes"
+      ],
+      "searchTags": [
+        "healthy greek chicken quinoa bowl with tzatziki",
+        "master the healthy greek chicken quinoa bowl with tzatziki a protein",
+        "dense mediterranean meal perfect for meal prep and busy weeknights",
+        "greek cuisine",
+        "healthy recipes",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/healthy-greek-chicken-quinoa-bowl-with-tzatziki_20261109_175202.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-09T23:12:07.335Z",
+      "scheduledFor": "2026-11-09T09:00:00.000Z"
+    },
+    "5492-hero": {
+      "id": "5492-hero",
+      "postId": 5492,
+      "postSlug": "mediterranean-grilled-halloumi-lentil-salad-2",
+      "postUrl": "https://el-mordjene.info/mediterranean-grilled-halloumi-lentil-salad-2/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Grilled Halloumi Lentil Salad",
+      "overlaySubtitle": "Healthy 15-Minute Meal",
+      "pinTitle": "Mediterranean Grilled Halloumi and Lentil Salad",
+      "pinDescription": "Elevate your lunch with this vibrant Mediterranean Grilled Halloumi and Lentil Salad. Featuring salty, golden-brown halloumi cheese paired with hearty, protein-packed lentils and a zesty herb vinaigrette, this dish is the ultimate balance of texture and flavor. It is quick, nourishing, and perfect for busy weeknight...",
+      "primaryKeyword": "mediterranean grilled halloumi and lentil salad recipe",
+      "supportingKeywords": [
+        "mediterranean grilled halloumi and lentil salad recipe",
+        "master the perfect mediterranean grilled halloumi and lentil salad with our expert guide learn grilling techniques",
+        "flavor pairings",
+        "and pro tips",
+        "the art of the mediterranean grilled halloumi and lentil salad"
+      ],
+      "searchTags": [
+        "mediterranean grilled halloumi and lentil salad recipe",
+        "master the perfect mediterranean grilled halloumi and lentil salad with our expert guide learn grilling techniques",
+        "flavor pairings",
+        "and pro tips",
+        "the art of the mediterranean grilled halloumi and lentil salad",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/mediterranean-grilled-halloumi-and-lentil-salad-re_20261109_095613.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-09T23:12:08.724Z",
+      "scheduledFor": "2026-11-09T09:00:00.000Z"
+    },
+    "5489-hero": {
+      "id": "5489-hero",
+      "postId": 5489,
+      "postSlug": "mediterranean-grilled-halloumi-and-lentil-salad",
+      "postUrl": "https://el-mordjene.info/mediterranean-grilled-halloumi-and-lentil-salad/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Perfect Grilled Halloumi Salad",
+      "overlaySubtitle": "15-Minute Mediterranean Meal",
+      "pinTitle": "Mediterranean Grilled Halloumi and Lentil Salad",
+      "pinDescription": "Elevate your lunch with this vibrant Mediterranean grilled halloumi and lentil salad. Experience the delightful contrast of salty, crispy, golden-seared halloumi paired with earthy lentils and a zesty, herb-infused dressing. It is a nutritious, protein-packed meal that comes together in minutes, making it the ultima...",
+      "primaryKeyword": "mediterranean grilled halloumi and lentil salad recipe",
+      "supportingKeywords": [
+        "mediterranean grilled halloumi and lentil salad recipe",
+        "master the art of the perfect mediterranean grilled halloumi and lentil salad with this expert guide on cheese searing",
+        "legume prep",
+        "and dressing",
+        "healthy eating"
+      ],
+      "searchTags": [
+        "mediterranean grilled halloumi and lentil salad recipe",
+        "master the art of the perfect mediterranean grilled halloumi and lentil salad with this expert guide on cheese searing",
+        "legume prep",
+        "and dressing",
+        "healthy eating",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/mediterranean-grilled-halloumi-and-lentil-salad-re_20261109_095552.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-09T23:12:09.977Z",
+      "scheduledFor": "2026-11-09T09:00:00.000Z"
+    },
+    "5486-hero": {
+      "id": "5486-hero",
+      "postId": 5486,
+      "postSlug": "high-protein-buffalo-chicken-salad-with-ranch-dressing-2",
+      "postUrl": "https://el-mordjene.info/high-protein-buffalo-chicken-salad-with-ranch-dressing-2/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Spicy Buffalo Chicken Salad",
+      "overlaySubtitle": "High-Protein Healthy Lunch",
+      "pinTitle": "High-Protein Buffalo Chicken Salad with Creamy Ranch",
+      "pinDescription": "Elevate your lunch game with this mouth-watering Buffalo Chicken Salad. Packed with lean protein and bold, spicy heat, it’s perfectly balanced by a cool, herb-infused creamy ranch dressing. This vibrant dish delivers the ultimate satisfying crunch and zesty flavor in every bite. It is the ideal quick meal for busy d...",
+      "primaryKeyword": "protein buffalo chicken salad with ranch dressing",
+      "supportingKeywords": [
+        "protein buffalo chicken salad with ranch dressing",
+        "master the ultimate high",
+        "protein buffalo chicken salad with ranch dressing a perfect blend of spicy heat",
+        "cooling herbs",
+        "and lean muscle"
+      ],
+      "searchTags": [
+        "protein buffalo chicken salad with ranch dressing",
+        "master the ultimate high",
+        "protein buffalo chicken salad with ranch dressing a perfect blend of spicy heat",
+        "cooling herbs",
+        "and lean muscle",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-buffalo-chicken-salad-with-ranch-dres_20261109_095208.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-09T23:12:31.711Z",
+      "scheduledFor": "2026-11-09T09:00:00.000Z"
     }
   },
   "queue": {
@@ -26503,6 +26751,38 @@
       "assetId": "5483-hero",
       "postId": 5483,
       "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-11-09T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5495-hero-queue": {
+      "id": "5495-hero-queue",
+      "assetId": "5495-hero",
+      "postId": 5495,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-09T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5492-hero-queue": {
+      "id": "5492-hero-queue",
+      "assetId": "5492-hero",
+      "postId": 5492,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-09T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5489-hero-queue": {
+      "id": "5489-hero-queue",
+      "assetId": "5489-hero",
+      "postId": 5489,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-09T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5486-hero-queue": {
+      "id": "5486-hero-queue",
+      "assetId": "5486-hero",
+      "postId": 5486,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-09T09:00:00.000Z",
       "status": "draft"
     }
