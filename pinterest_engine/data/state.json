@@ -11291,6 +11291,31 @@
         "nutrient"
       ],
       "discoveredAt": "2026-11-09T23:12:05.488Z"
+    },
+    "5498": {
+      "postId": 5498,
+      "title": "Chipotle Grilled Chicken Burrito Bowl with Cilantro Lime Brown Rice",
+      "url": "https://el-mordjene.info/chipotle-grilled-chicken-burrito-bowl-cilantro-lime-brown-rice-2/",
+      "slug": "chipotle-grilled-chicken-burrito-bowl-cilantro-lime-brown-rice-2",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/chipotle-grilled-chicken-burrito-bowl-with-cilantr_20261110_022619.webp",
+      "keywordSet": [
+        "chipotle grilled chicken burrito bowl with cilantro lime brown rice",
+        "master the chipotle grilled chicken burrito bowl with cilantro lime brown rice a complete culinary guide to smoky protein and zesty fiber",
+        "rich grains",
+        "chipotle bowl",
+        "grilled chicken",
+        "healthy dinner",
+        "healthy recipes",
+        "meal prep",
+        "recipes",
+        "rinse"
+      ],
+      "discoveredAt": "2026-11-10T08:54:05.242Z"
     }
   },
   "assets": {
@@ -23995,6 +24020,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-09T23:12:31.711Z",
       "scheduledFor": "2026-11-09T09:00:00.000Z"
+    },
+    "5498-hero": {
+      "id": "5498-hero",
+      "postId": 5498,
+      "postSlug": "chipotle-grilled-chicken-burrito-bowl-cilantro-lime-brown-rice-2",
+      "postUrl": "https://el-mordjene.info/chipotle-grilled-chicken-burrito-bowl-cilantro-lime-brown-rice-2/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Chipotle Grilled Chicken Bowls",
+      "overlaySubtitle": "Healthy 30-Minute Dinner",
+      "pinTitle": "Chipotle Grilled Chicken Burrito Bowl with Cilantro Lime Rice",
+      "pinDescription": "Ditch the takeout and master this smoky, zest-filled burrito bowl at home. Featuring perfectly charred chipotle chicken nestled over fluffy cilantro lime brown rice, this dish is packed with vibrant flavor and wholesome fiber. It is the ultimate quick weeknight meal that hits all the right savory notes without the l...",
+      "primaryKeyword": "chipotle grilled chicken burrito bowl with cilantro lime brown rice",
+      "supportingKeywords": [
+        "chipotle grilled chicken burrito bowl with cilantro lime brown rice",
+        "master the chipotle grilled chicken burrito bowl with cilantro lime brown rice a complete culinary guide to smoky protein and zesty fiber",
+        "rich grains",
+        "chipotle bowl",
+        "grilled chicken"
+      ],
+      "searchTags": [
+        "chipotle grilled chicken burrito bowl with cilantro lime brown rice",
+        "master the chipotle grilled chicken burrito bowl with cilantro lime brown rice a complete culinary guide to smoky protein and zesty fiber",
+        "rich grains",
+        "chipotle bowl",
+        "grilled chicken",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/chipotle-grilled-chicken-burrito-bowl-with-cilantr_20261110_022619.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-10T08:54:08.832Z",
+      "scheduledFor": "2026-11-10T09:00:00.000Z"
     }
   },
   "queue": {
@@ -26784,6 +26846,14 @@
       "postId": 5486,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-09T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5498-hero-queue": {
+      "id": "5498-hero-queue",
+      "assetId": "5498-hero",
+      "postId": 5498,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-10T09:00:00.000Z",
       "status": "draft"
     }
   }
