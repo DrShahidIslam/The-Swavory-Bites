@@ -11316,6 +11316,31 @@
         "rinse"
       ],
       "discoveredAt": "2026-11-10T08:54:05.242Z"
+    },
+    "5501": {
+      "postId": 5501,
+      "title": "Crispy Baked Falafel Bowl with Tahini Herb Sauce",
+      "url": "https://el-mordjene.info/crispy-baked-falafel-bowl-with-tahini-herb-sauce-2/",
+      "slug": "crispy-baked-falafel-bowl-with-tahini-herb-sauce-2",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/crispy-baked-falafel-bowl-with-tahini-herb-sauce_20261110_155131.webp",
+      "keywordSet": [
+        "crispy baked falafel bowl with tahini herb sauce",
+        "master the art of the crispy baked falafel bowl with tahini herb sauce a nutrient",
+        "based guide to achieving restaurant",
+        "quality textures at home",
+        "healthy bowls",
+        "meal prep",
+        "mediterranean cuisine",
+        "vegetarian recipes",
+        "dense",
+        "plant"
+      ],
+      "discoveredAt": "2026-11-10T20:38:31.139Z"
     }
   },
   "assets": {
@@ -24057,6 +24082,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-10T08:54:08.832Z",
       "scheduledFor": "2026-11-10T09:00:00.000Z"
+    },
+    "5501-hero": {
+      "id": "5501-hero",
+      "postId": 5501,
+      "postSlug": "crispy-baked-falafel-bowl-with-tahini-herb-sauce-2",
+      "postUrl": "https://el-mordjene.info/crispy-baked-falafel-bowl-with-tahini-herb-sauce-2/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Crispy Baked Falafel Bowls",
+      "overlaySubtitle": "Healthy Plant-Based Dinner",
+      "pinTitle": "Crispy Baked Falafel Bowl with Creamy Tahini Herb Sauce",
+      "pinDescription": "Elevate your dinner routine with this vibrant, nutrient-packed falafel bowl. Each bite features perfectly golden, crispy-baked falafel paired with a velvety, herb-infused tahini sauce that brings everything together. It is the ultimate plant-based meal that balances satisfying textures with fresh, wholesome flavors....",
+      "primaryKeyword": "crispy baked falafel bowl with tahini herb sauce",
+      "supportingKeywords": [
+        "crispy baked falafel bowl with tahini herb sauce",
+        "master the art of the crispy baked falafel bowl with tahini herb sauce a nutrient",
+        "based guide to achieving restaurant",
+        "quality textures at home",
+        "healthy bowls"
+      ],
+      "searchTags": [
+        "crispy baked falafel bowl with tahini herb sauce",
+        "master the art of the crispy baked falafel bowl with tahini herb sauce a nutrient",
+        "based guide to achieving restaurant",
+        "quality textures at home",
+        "healthy bowls",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/crispy-baked-falafel-bowl-with-tahini-herb-sauce_20261110_155131.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-10T20:40:19.004Z",
+      "scheduledFor": "2026-11-10T09:00:00.000Z"
     }
   },
   "queue": {
@@ -26853,6 +26915,14 @@
       "assetId": "5498-hero",
       "postId": 5498,
       "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-10T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5501-hero-queue": {
+      "id": "5501-hero-queue",
+      "assetId": "5501-hero",
+      "postId": 5501,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-11-10T09:00:00.000Z",
       "status": "draft"
     }
