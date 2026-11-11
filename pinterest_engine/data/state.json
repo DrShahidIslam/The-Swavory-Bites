@@ -11366,6 +11366,31 @@
         "dense"
       ],
       "discoveredAt": "2026-11-11T08:31:50.695Z"
+    },
+    "5507": {
+      "postId": 5507,
+      "title": "Avocado Green Smoothie Bowl with Chia Seeds and Almond Butter",
+      "url": "https://el-mordjene.info/avocado-green-smoothie-bowl-with-chia-seeds-and-almond-butter-2/",
+      "slug": "avocado-green-smoothie-bowl-with-chia-seeds-and-almond-butter-2",
+      "language": "en",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "shouldPin": true,
+      "contentType": "drink",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/avocado-green-smoothie-bowl-with-chia-seeds-and-al_20261111_154103.webp",
+      "keywordSet": [
+        "avocado green smoothie bowl with chia seeds and almond butter",
+        "master the perfect avocado green smoothie bowl with chia seeds and almond butter learn culinary techniques for a creamy",
+        "dense breakfast bowl",
+        "avocado recipes",
+        "healthy breakfast",
+        "smoothie bowl",
+        "understanding the mechanics of the perfect smoothie bowl",
+        "myth vs fact",
+        "nutrient",
+        "superfoods"
+      ],
+      "discoveredAt": "2026-11-11T20:57:24.600Z"
     }
   },
   "assets": {
@@ -24181,6 +24206,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-11T08:31:56.019Z",
       "scheduledFor": "2026-11-11T09:00:00.000Z"
+    },
+    "5507-hero": {
+      "id": "5507-hero",
+      "postId": 5507,
+      "postSlug": "avocado-green-smoothie-bowl-with-chia-seeds-and-almond-butter-2",
+      "postUrl": "https://el-mordjene.info/avocado-green-smoothie-bowl-with-chia-seeds-and-almond-butter-2/",
+      "boardKey": "drinks_en",
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
+      "variant": "hero",
+      "contentType": "drink",
+      "language": "en",
+      "overlayTitle": "Creamy Avocado Smoothie Bowl",
+      "overlaySubtitle": "5-Minute Healthy Breakfast",
+      "pinTitle": "Creamy Avocado Smoothie Bowl with Almond Butter",
+      "pinDescription": "Transform your morning routine with this ultra-creamy, nutrient-packed avocado smoothie bowl. Perfectly blended for a velvety texture and topped with crunchy chia seeds and rich almond butter, it is the ultimate healthy breakfast fuel. This refreshing, vibrant bowl is incredibly simple to whip up and keeps you energ...",
+      "primaryKeyword": "avocado green smoothie bowl with chia seeds and almond butter",
+      "supportingKeywords": [
+        "avocado green smoothie bowl with chia seeds and almond butter",
+        "master the perfect avocado green smoothie bowl with chia seeds and almond butter learn culinary techniques for a creamy",
+        "dense breakfast bowl",
+        "avocado recipes",
+        "healthy breakfast"
+      ],
+      "searchTags": [
+        "avocado green smoothie bowl with chia seeds and almond butter",
+        "master the perfect avocado green smoothie bowl with chia seeds and almond butter learn culinary techniques for a creamy",
+        "dense breakfast bowl",
+        "avocado recipes",
+        "healthy breakfast",
+        "drink",
+        "drink recipes — cocktails & mocktails"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/avocado-green-smoothie-bowl-with-chia-seeds-and-al_20261111_154103.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-11T20:57:29.863Z",
+      "scheduledFor": "2026-11-11T09:00:00.000Z"
     }
   },
   "queue": {
@@ -26993,6 +27055,14 @@
       "assetId": "5504-hero",
       "postId": 5504,
       "boardName": "Tendances Culinaires & Recettes",
+      "scheduledFor": "2026-11-11T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5507-hero-queue": {
+      "id": "5507-hero-queue",
+      "assetId": "5507-hero",
+      "postId": 5507,
+      "boardName": "Drink Recipes — Cocktails & Mocktails",
       "scheduledFor": "2026-11-11T09:00:00.000Z",
       "status": "draft"
     }
