@@ -11341,6 +11341,31 @@
         "plant"
       ],
       "discoveredAt": "2026-11-10T20:38:31.139Z"
+    },
+    "5504": {
+      "postId": 5504,
+      "title": "High-Protein Cottage Cheese Pancakes with Fresh Berries",
+      "url": "https://el-mordjene.info/high-protein-cottage-cheese-pancakes-fresh-berries-2/",
+      "slug": "high-protein-cottage-cheese-pancakes-fresh-berries-2",
+      "language": "fr",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-cottage-cheese-pancakes-with-fresh-be_20261111_001702.webp",
+      "keywordSet": [
+        "protein cottage cheese pancakes with fresh berries",
+        "master the viral high",
+        "protein cottage cheese pancakes with fresh berries a nutrient",
+        "fluffy breakfast guide for health",
+        "conscious foodies",
+        "understanding the high",
+        "protein breakfast revolution",
+        "the science behind the texture",
+        "high",
+        "dense"
+      ],
+      "discoveredAt": "2026-11-11T08:31:50.695Z"
     }
   },
   "assets": {
@@ -24119,6 +24144,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-10T20:40:19.004Z",
       "scheduledFor": "2026-11-10T09:00:00.000Z"
+    },
+    "5504-hero": {
+      "id": "5504-hero",
+      "postId": 5504,
+      "postSlug": "high-protein-cottage-cheese-pancakes-fresh-berries-2",
+      "postUrl": "https://el-mordjene.info/high-protein-cottage-cheese-pancakes-fresh-berries-2/",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "fr",
+      "overlayTitle": "Fluffy Protein Cottage Pancakes",
+      "overlaySubtitle": "High-Protein Breakfast Goal",
+      "pinTitle": "Viral High-Protein Cottage Cheese Pancakes Recipe",
+      "pinDescription": "Transform your morning routine with these incredibly fluffy, high-protein cottage cheese pancakes. They are light, airy, and packed with nutrients to keep you energized all morning long. Topped with a vibrant burst of fresh berries, this breakfast is as delicious as it is healthy. Perfectly simple for busy weekdays...",
+      "primaryKeyword": "protein cottage cheese pancakes with fresh berries",
+      "supportingKeywords": [
+        "protein cottage cheese pancakes with fresh berries",
+        "master the viral high",
+        "protein cottage cheese pancakes with fresh berries a nutrient",
+        "fluffy breakfast guide for health",
+        "conscious foodies"
+      ],
+      "searchTags": [
+        "protein cottage cheese pancakes with fresh berries",
+        "master the viral high",
+        "protein cottage cheese pancakes with fresh berries a nutrient",
+        "fluffy breakfast guide for health",
+        "conscious foodies",
+        "trend",
+        "tendances culinaires & recettes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-cottage-cheese-pancakes-with-fresh-be_20261111_001702.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-11T08:31:56.019Z",
+      "scheduledFor": "2026-11-11T09:00:00.000Z"
     }
   },
   "queue": {
@@ -26924,6 +26986,14 @@
       "postId": 5501,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-11-10T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5504-hero-queue": {
+      "id": "5504-hero-queue",
+      "assetId": "5504-hero",
+      "postId": 5504,
+      "boardName": "Tendances Culinaires & Recettes",
+      "scheduledFor": "2026-11-11T09:00:00.000Z",
       "status": "draft"
     }
   }
