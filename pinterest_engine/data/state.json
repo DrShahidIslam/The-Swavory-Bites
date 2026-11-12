@@ -11391,6 +11391,31 @@
         "superfoods"
       ],
       "discoveredAt": "2026-11-11T20:57:24.600Z"
+    },
+    "5510": {
+      "postId": 5510,
+      "title": "Vietnamese Noodle Salad with Grilled Lemongrass Chicken",
+      "url": "https://el-mordjene.info/vietnamese-noodle-salad-with-grilled-lemongrass-chicken/",
+      "slug": "vietnamese-noodle-salad-with-grilled-lemongrass-chicken",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/vietnamese-noodle-salad-with-grilled-lemongrass-ch_20261112_014215.webp",
+      "keywordSet": [
+        "vietnamese noodle salad with grilled lemongrass chicken",
+        "master the art of vietnamese noodle salad with grilled lemongrass chicken a refreshing",
+        "and balanced meal perfect for any season",
+        "healthy recipes",
+        "summer salads",
+        "vietnamese cuisine",
+        "understanding the essence of vietnamese noodle salad",
+        "the anatomy of an authentic vietnamese noodle salad",
+        "aromatic",
+        "recipes"
+      ],
+      "discoveredAt": "2026-11-12T08:54:47.585Z"
     }
   },
   "assets": {
@@ -24243,6 +24268,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-11T20:57:29.863Z",
       "scheduledFor": "2026-11-11T09:00:00.000Z"
+    },
+    "5510-hero": {
+      "id": "5510-hero",
+      "postId": 5510,
+      "postSlug": "vietnamese-noodle-salad-with-grilled-lemongrass-chicken",
+      "postUrl": "https://el-mordjene.info/vietnamese-noodle-salad-with-grilled-lemongrass-chicken/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Vietnamese Lemongrass Chicken Salad",
+      "overlaySubtitle": "Fresh 20-Minute Dinner",
+      "pinTitle": "Vietnamese Lemongrass Chicken Noodle Salad Recipe",
+      "pinDescription": "Experience the vibrant flavors of Vietnam right in your own kitchen. This refreshing noodle salad features tender, charred lemongrass-marinated chicken served over a bed of cool rice vermicelli, crunchy fresh vegetables, and fragrant herbs. Drizzled with a zesty lime dressing, it is the ultimate healthy meal that pa...",
+      "primaryKeyword": "vietnamese noodle salad with grilled lemongrass chicken",
+      "supportingKeywords": [
+        "vietnamese noodle salad with grilled lemongrass chicken",
+        "master the art of vietnamese noodle salad with grilled lemongrass chicken a refreshing",
+        "and balanced meal perfect for any season",
+        "healthy recipes",
+        "summer salads"
+      ],
+      "searchTags": [
+        "vietnamese noodle salad with grilled lemongrass chicken",
+        "master the art of vietnamese noodle salad with grilled lemongrass chicken a refreshing",
+        "and balanced meal perfect for any season",
+        "healthy recipes",
+        "summer salads",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/vietnamese-noodle-salad-with-grilled-lemongrass-ch_20261112_014215.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-12T08:55:45.685Z",
+      "scheduledFor": "2026-11-12T09:00:00.000Z"
     }
   },
   "queue": {
@@ -27064,6 +27126,14 @@
       "postId": 5507,
       "boardName": "Drink Recipes — Cocktails & Mocktails",
       "scheduledFor": "2026-11-11T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5510-hero-queue": {
+      "id": "5510-hero-queue",
+      "assetId": "5510-hero",
+      "postId": 5510,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-12T09:00:00.000Z",
       "status": "draft"
     }
   }
