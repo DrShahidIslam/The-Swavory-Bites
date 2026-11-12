@@ -11416,6 +11416,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-11-12T08:54:47.585Z"
+    },
+    "5513": {
+      "postId": 5513,
+      "title": "High-Protein Turkey Sausage &#038; Egg White Casserole Guide",
+      "url": "https://el-mordjene.info/protein-packed-egg-white-turkey-sausage-breakfast-casserole/",
+      "slug": "protein-packed-egg-white-turkey-sausage-breakfast-casserole",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-turkey-sausage-egg-white-casserole-gu_20261112_162317.webp",
+      "keywordSet": [
+        "protein turkey sausage 038",
+        "egg white casserole guide",
+        "master the perfect protein",
+        "packed egg white and turkey sausage breakfast casserole with our expert culinary guide",
+        "and recipe",
+        "mastering the protein",
+        "packed egg white and turkey sausage breakfast casserole",
+        "choosing your ingredients",
+        "high",
+        "breakfast"
+      ],
+      "discoveredAt": "2026-11-12T21:11:54.696Z"
     }
   },
   "assets": {
@@ -24305,6 +24330,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-12T08:55:45.685Z",
       "scheduledFor": "2026-11-12T09:00:00.000Z"
+    },
+    "5513-hero": {
+      "id": "5513-hero",
+      "postId": 5513,
+      "postSlug": "protein-packed-egg-white-turkey-sausage-breakfast-casserole",
+      "postUrl": "https://el-mordjene.info/protein-packed-egg-white-turkey-sausage-breakfast-casserole/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "High-Protein Turkey Breakfast Bake",
+      "overlaySubtitle": "Healthy 30-Minute Meal",
+      "pinTitle": "Protein-Packed Turkey Sausage & Egg White Casserole",
+      "pinDescription": "Start your morning with this savory, high-protein breakfast casserole that keeps you full until lunch. Featuring lean turkey sausage, fluffy egg whites, and fresh herbs, this dish is the ultimate healthy meal prep solution. It is light, satisfying, and incredibly easy to bake in one pan for stress-free weekday morni...",
+      "primaryKeyword": "protein turkey sausage 038",
+      "supportingKeywords": [
+        "protein turkey sausage 038",
+        "egg white casserole guide",
+        "master the perfect protein",
+        "packed egg white and turkey sausage breakfast casserole with our expert culinary guide",
+        "and recipe"
+      ],
+      "searchTags": [
+        "protein turkey sausage 038",
+        "egg white casserole guide",
+        "master the perfect protein",
+        "packed egg white and turkey sausage breakfast casserole with our expert culinary guide",
+        "and recipe",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-turkey-sausage-egg-white-casserole-gu_20261112_162317.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-12T21:11:56.346Z",
+      "scheduledFor": "2026-11-12T09:00:00.000Z"
     }
   },
   "queue": {
@@ -27132,6 +27194,14 @@
       "id": "5510-hero-queue",
       "assetId": "5510-hero",
       "postId": 5510,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-12T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5513-hero-queue": {
+      "id": "5513-hero-queue",
+      "assetId": "5513-hero",
+      "postId": 5513,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-12T09:00:00.000Z",
       "status": "draft"
