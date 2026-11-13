@@ -11441,6 +11441,31 @@
         "breakfast"
       ],
       "discoveredAt": "2026-11-12T21:11:54.696Z"
+    },
+    "5516": {
+      "postId": 5516,
+      "title": "Healthy Asian Edamame and Soba Noodle Salad",
+      "url": "https://el-mordjene.info/healthy-asian-edamame-and-soba-noodle-salad/",
+      "slug": "healthy-asian-edamame-and-soba-noodle-salad",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/healthy-asian-edamame-and-soba-noodle-salad_20261113_004500.webp",
+      "keywordSet": [
+        "healthy asian edamame and soba noodle salad",
+        "master the art of the perfect healthy asian edamame and soba noodle salad a nutrient",
+        "flavorful guide to buckwheat noodles and fresh vegetables",
+        "asian fusion",
+        "healthy salad",
+        "meal prep",
+        "soba noodles",
+        "vegan recipes",
+        "dense",
+        "recipes"
+      ],
+      "discoveredAt": "2026-11-13T08:51:20.461Z"
     }
   },
   "assets": {
@@ -24367,6 +24392,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-12T21:11:56.346Z",
       "scheduledFor": "2026-11-12T09:00:00.000Z"
+    },
+    "5516-hero": {
+      "id": "5516-hero",
+      "postId": 5516,
+      "postSlug": "healthy-asian-edamame-and-soba-noodle-salad",
+      "postUrl": "https://el-mordjene.info/healthy-asian-edamame-and-soba-noodle-salad/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Refreshing Asian Soba Salad",
+      "overlaySubtitle": "15-Minute Nutrient Boost",
+      "pinTitle": "Healthy Asian Edamame and Soba Noodle Salad",
+      "pinDescription": "Elevate your lunch with this vibrant Asian Soba Noodle Salad. Packed with protein-rich edamame, crisp fresh vegetables, and earthy buckwheat noodles, this dish is tossed in a zesty, savory dressing that hits every craving. It is the perfect balance of texture and flavor, making it an ideal choice for a quick, wholes...",
+      "primaryKeyword": "healthy asian edamame and soba noodle salad",
+      "supportingKeywords": [
+        "healthy asian edamame and soba noodle salad",
+        "master the art of the perfect healthy asian edamame and soba noodle salad a nutrient",
+        "flavorful guide to buckwheat noodles and fresh vegetables",
+        "asian fusion",
+        "healthy salad"
+      ],
+      "searchTags": [
+        "healthy asian edamame and soba noodle salad",
+        "master the art of the perfect healthy asian edamame and soba noodle salad a nutrient",
+        "flavorful guide to buckwheat noodles and fresh vegetables",
+        "asian fusion",
+        "healthy salad",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/healthy-asian-edamame-and-soba-noodle-salad_20261113_004500.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-13T08:51:22.661Z",
+      "scheduledFor": "2026-11-13T09:00:00.000Z"
     }
   },
   "queue": {
@@ -27204,6 +27266,14 @@
       "postId": 5513,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-12T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5516-hero-queue": {
+      "id": "5516-hero-queue",
+      "assetId": "5516-hero",
+      "postId": 5516,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-13T09:00:00.000Z",
       "status": "draft"
     }
   }
