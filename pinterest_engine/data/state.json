@@ -11466,6 +11466,106 @@
         "recipes"
       ],
       "discoveredAt": "2026-11-13T08:51:20.461Z"
+    },
+    "5519": {
+      "postId": 5519,
+      "title": "Crispy Cauliflower Shawarma Grain Bowl: A Flavor Masterclass",
+      "url": "https://el-mordjene.info/crispy-cauliflower-shawarma-grain-bowl/",
+      "slug": "crispy-cauliflower-shawarma-grain-bowl",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/crispy-cauliflower-shawarma-grain-bowl-a-flavor-ma_20261113_154533.webp",
+      "keywordSet": [
+        "crispy cauliflower shawarma grain bowl",
+        "a flavor masterclass",
+        "learn to craft the ultimate crispy cauliflower shawarma grain bowl a guide to spice blends",
+        "roasting techniques",
+        "and building the perfect plant",
+        "based meal",
+        "grain bowl",
+        "healthy recipes",
+        "shawarma",
+        "vegetarian"
+      ],
+      "discoveredAt": "2026-11-13T20:41:10.608Z"
+    },
+    "5523": {
+      "postId": 5523,
+      "title": "High-Protein Creamy Greek Yogurt Berry Parfait Guide",
+      "url": "https://el-mordjene.info/high-protein-creamy-greek-yogurt-berry-parfait/",
+      "slug": "high-protein-creamy-greek-yogurt-berry-parfait",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-creamy-greek-yogurt-berry-parfait-gui_20261113_173024.webp",
+      "keywordSet": [
+        "protein creamy greek yogurt berry parfait guide",
+        "master the art of the high",
+        "protein creamy greek yogurt berry parfait learn the science of texture",
+        "layering techniques",
+        "and pro tips for meal prep success",
+        "greek yogurt",
+        "healthy recipes",
+        "high protein",
+        "high",
+        "breakfast"
+      ],
+      "discoveredAt": "2026-11-13T20:41:09.115Z"
+    },
+    "5525": {
+      "postId": 5525,
+      "title": "High-Protein Creamy Greek Yogurt Berry Parfait Guide",
+      "url": "https://el-mordjene.info/high-protein-creamy-greek-yogurt-berry-parfait-2/",
+      "slug": "high-protein-creamy-greek-yogurt-berry-parfait-2",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-creamy-greek-yogurt-berry-parfait-gui_20261113_173106.webp",
+      "keywordSet": [
+        "protein creamy greek yogurt berry parfait guide",
+        "master the art of the high",
+        "protein creamy greek yogurt berry parfait learn professional layering techniques",
+        "nutritional benefits",
+        "and flavor pairings",
+        "greek yogurt",
+        "healthy breakfast",
+        "meal prep",
+        "high",
+        "protein"
+      ],
+      "discoveredAt": "2026-11-13T20:41:07.465Z"
+    },
+    "5528": {
+      "postId": 5528,
+      "title": "High-Protein Creamy Greek Yogurt Berry Parfait",
+      "url": "https://el-mordjene.info/high-protein-creamy-greek-yogurt-berry-parfait-3/",
+      "slug": "high-protein-creamy-greek-yogurt-berry-parfait-3",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-creamy-greek-yogurt-berry-parfait_20261113_173137.webp",
+      "keywordSet": [
+        "protein creamy greek yogurt berry parfait",
+        "master the art of the perfect high",
+        "protein creamy greek yogurt berry parfait learn culinary techniques for texture",
+        "flavor balancing",
+        "and nutrition",
+        "healthy eating",
+        "yogurt parfait",
+        "the evolution of the modern breakfast",
+        "high",
+        "breakfast"
+      ],
+      "discoveredAt": "2026-11-13T20:41:06.343Z"
     }
   },
   "assets": {
@@ -24429,6 +24529,154 @@
       "status": "pending_render",
       "createdAt": "2026-11-13T08:51:22.661Z",
       "scheduledFor": "2026-11-13T09:00:00.000Z"
+    },
+    "5528-hero": {
+      "id": "5528-hero",
+      "postId": 5528,
+      "postSlug": "high-protein-creamy-greek-yogurt-berry-parfait-3",
+      "postUrl": "https://el-mordjene.info/high-protein-creamy-greek-yogurt-berry-parfait-3/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Creamy Protein Berry Parfait",
+      "overlaySubtitle": "High-Protein Healthy Breakfast",
+      "pinTitle": "High-Protein Creamy Greek Yogurt Berry Parfait Recipe",
+      "pinDescription": "Elevate your morning routine with this decadent, high-protein Greek yogurt parfait. Bursting with fresh, seasonal berries and a perfectly velvety texture, this nutritious bowl is the ultimate balance of tart and sweet. Learn the professional culinary techniques to layer flavors and textures for a breakfast that feel...",
+      "primaryKeyword": "protein creamy greek yogurt berry parfait",
+      "supportingKeywords": [
+        "protein creamy greek yogurt berry parfait",
+        "master the art of the perfect high",
+        "protein creamy greek yogurt berry parfait learn culinary techniques for texture",
+        "flavor balancing",
+        "and nutrition"
+      ],
+      "searchTags": [
+        "protein creamy greek yogurt berry parfait",
+        "master the art of the perfect high",
+        "protein creamy greek yogurt berry parfait learn culinary techniques for texture",
+        "flavor balancing",
+        "and nutrition",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-creamy-greek-yogurt-berry-parfait_20261113_173137.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-13T20:41:07.464Z",
+      "scheduledFor": "2026-11-13T09:00:00.000Z"
+    },
+    "5525-hero": {
+      "id": "5525-hero",
+      "postId": 5525,
+      "postSlug": "high-protein-creamy-greek-yogurt-berry-parfait-2",
+      "postUrl": "https://el-mordjene.info/high-protein-creamy-greek-yogurt-berry-parfait-2/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Creamy High-Protein Berry Parfait",
+      "overlaySubtitle": "Healthy 5-Minute Breakfast",
+      "pinTitle": "High-Protein Creamy Greek Yogurt Berry Parfait Guide",
+      "pinDescription": "Elevate your morning routine with this decadent, protein-packed Greek yogurt parfait. Featuring luscious layers of velvety yogurt, vibrant seasonal berries, and a satisfying crunch, this breakfast is as beautiful as it is nutritious. Learn professional layering techniques to keep your granola perfectly crisp and dis...",
+      "primaryKeyword": "protein creamy greek yogurt berry parfait guide",
+      "supportingKeywords": [
+        "protein creamy greek yogurt berry parfait guide",
+        "master the art of the high",
+        "protein creamy greek yogurt berry parfait learn professional layering techniques",
+        "nutritional benefits",
+        "and flavor pairings"
+      ],
+      "searchTags": [
+        "protein creamy greek yogurt berry parfait guide",
+        "master the art of the high",
+        "protein creamy greek yogurt berry parfait learn professional layering techniques",
+        "nutritional benefits",
+        "and flavor pairings",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-creamy-greek-yogurt-berry-parfait-gui_20261113_173106.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-13T20:41:09.114Z",
+      "scheduledFor": "2026-11-13T09:00:00.000Z"
+    },
+    "5523-hero": {
+      "id": "5523-hero",
+      "postId": 5523,
+      "postSlug": "high-protein-creamy-greek-yogurt-berry-parfait",
+      "postUrl": "https://el-mordjene.info/high-protein-creamy-greek-yogurt-berry-parfait/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Creamy High-Protein Berry Parfait",
+      "overlaySubtitle": "10-Minute Healthy Breakfast",
+      "pinTitle": "High-Protein Greek Yogurt Berry Parfait: The Ultimate Meal Prep",
+      "pinDescription": "Elevate your morning routine with this decadent, protein-packed Greek yogurt parfait. Featuring velvety layers of creamy yogurt, vibrant antioxidant-rich berries, and the perfect crunch, this recipe is a masterclass in texture and nutrition. It is the ideal make-ahead breakfast for busy mornings when you need a heal...",
+      "primaryKeyword": "protein creamy greek yogurt berry parfait guide",
+      "supportingKeywords": [
+        "protein creamy greek yogurt berry parfait guide",
+        "master the art of the high",
+        "protein creamy greek yogurt berry parfait learn the science of texture",
+        "layering techniques",
+        "and pro tips for meal prep success"
+      ],
+      "searchTags": [
+        "protein creamy greek yogurt berry parfait guide",
+        "master the art of the high",
+        "protein creamy greek yogurt berry parfait learn the science of texture",
+        "layering techniques",
+        "and pro tips for meal prep success",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-creamy-greek-yogurt-berry-parfait-gui_20261113_173024.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-13T20:41:10.607Z",
+      "scheduledFor": "2026-11-13T09:00:00.000Z"
+    },
+    "5519-hero": {
+      "id": "5519-hero",
+      "postId": 5519,
+      "postSlug": "crispy-cauliflower-shawarma-grain-bowl",
+      "postUrl": "https://el-mordjene.info/crispy-cauliflower-shawarma-grain-bowl/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Crispy Shawarma Cauliflower Bowls",
+      "overlaySubtitle": "Healthy Plant-Based Dinner",
+      "pinTitle": "Crispy Cauliflower Shawarma Grain Bowl: Easy Healthy Dinner",
+      "pinDescription": "Transform humble cauliflower into a flavor-packed sensation with this vibrant shawarma grain bowl. Featuring perfectly roasted, spiced florets nestled over a bed of fluffy grains and topped with a creamy, zesty drizzle, this meal is a masterclass in texture and plant-based satisfaction. It is the ultimate nutritious...",
+      "primaryKeyword": "crispy cauliflower shawarma grain bowl",
+      "supportingKeywords": [
+        "crispy cauliflower shawarma grain bowl",
+        "a flavor masterclass",
+        "learn to craft the ultimate crispy cauliflower shawarma grain bowl a guide to spice blends",
+        "roasting techniques",
+        "and building the perfect plant"
+      ],
+      "searchTags": [
+        "crispy cauliflower shawarma grain bowl",
+        "a flavor masterclass",
+        "learn to craft the ultimate crispy cauliflower shawarma grain bowl a guide to spice blends",
+        "roasting techniques",
+        "and building the perfect plant",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/crispy-cauliflower-shawarma-grain-bowl-a-flavor-ma_20261113_154533.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-13T20:41:12.066Z",
+      "scheduledFor": "2026-11-13T09:00:00.000Z"
     }
   },
   "queue": {
@@ -27273,6 +27521,38 @@
       "assetId": "5516-hero",
       "postId": 5516,
       "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-13T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5528-hero-queue": {
+      "id": "5528-hero-queue",
+      "assetId": "5528-hero",
+      "postId": 5528,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-11-13T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5525-hero-queue": {
+      "id": "5525-hero-queue",
+      "assetId": "5525-hero",
+      "postId": 5525,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-11-13T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5523-hero-queue": {
+      "id": "5523-hero-queue",
+      "assetId": "5523-hero",
+      "postId": 5523,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-11-13T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5519-hero-queue": {
+      "id": "5519-hero-queue",
+      "assetId": "5519-hero",
+      "postId": 5519,
+      "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-11-13T09:00:00.000Z",
       "status": "draft"
     }
