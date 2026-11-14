@@ -11566,6 +11566,31 @@
         "breakfast"
       ],
       "discoveredAt": "2026-11-13T20:41:06.343Z"
+    },
+    "5531": {
+      "postId": 5531,
+      "title": "Zesty Italian White Bean and Tuna Salad: A Quick Guide",
+      "url": "https://el-mordjene.info/zesty-italian-white-bean-and-tuna-salad/",
+      "slug": "zesty-italian-white-bean-and-tuna-salad",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/zesty-italian-white-bean-and-tuna-salad-a-quick-gu_20261114_003039.webp",
+      "keywordSet": [
+        "zesty italian white bean and tuna salad",
+        "a quick guide",
+        "discover the secrets to a perfect zesty italian white bean and tuna salad learn pro techniques",
+        "ingredient swaps",
+        "and mediterranean culinary basics",
+        "healthy salads",
+        "italian recipes",
+        "mediterranean diet",
+        "recipes",
+        "myth"
+      ],
+      "discoveredAt": "2026-11-14T08:13:44.185Z"
     }
   },
   "assets": {
@@ -24677,6 +24702,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-13T20:41:12.066Z",
       "scheduledFor": "2026-11-13T09:00:00.000Z"
+    },
+    "5531-hero": {
+      "id": "5531-hero",
+      "postId": 5531,
+      "postSlug": "zesty-italian-white-bean-and-tuna-salad",
+      "postUrl": "https://el-mordjene.info/zesty-italian-white-bean-and-tuna-salad/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Zesty Italian Tuna Salad",
+      "overlaySubtitle": "10-Minute Mediterranean Meal",
+      "pinTitle": "Zesty Italian White Bean and Tuna Salad (Quick & Healthy)",
+      "pinDescription": "Elevate your lunch with this vibrant, protein-packed Italian white bean and tuna salad. Featuring buttery cannellini beans, premium tuna, fresh herbs, and a bright lemon vinaigrette, it is the perfect blend of creamy and crisp textures. This Mediterranean-inspired dish comes together in just ten minutes, making it a...",
+      "primaryKeyword": "zesty italian white bean and tuna salad",
+      "supportingKeywords": [
+        "zesty italian white bean and tuna salad",
+        "a quick guide",
+        "discover the secrets to a perfect zesty italian white bean and tuna salad learn pro techniques",
+        "ingredient swaps",
+        "and mediterranean culinary basics"
+      ],
+      "searchTags": [
+        "zesty italian white bean and tuna salad",
+        "a quick guide",
+        "discover the secrets to a perfect zesty italian white bean and tuna salad learn pro techniques",
+        "ingredient swaps",
+        "and mediterranean culinary basics",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/zesty-italian-white-bean-and-tuna-salad-a-quick-gu_20261114_003039.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-14T08:13:46.286Z",
+      "scheduledFor": "2026-11-14T09:00:00.000Z"
     }
   },
   "queue": {
@@ -27554,6 +27616,14 @@
       "postId": 5519,
       "boardName": "Fruit Desserts & Summer Recipes",
       "scheduledFor": "2026-11-13T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5531-hero-queue": {
+      "id": "5531-hero-queue",
+      "assetId": "5531-hero",
+      "postId": 5531,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-14T09:00:00.000Z",
       "status": "draft"
     }
   }
