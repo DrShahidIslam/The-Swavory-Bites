@@ -11616,6 +11616,31 @@
         "vegetarian"
       ],
       "discoveredAt": "2026-11-14T18:53:15.640Z"
+    },
+    "5537": {
+      "postId": 5537,
+      "title": "Turmeric Golden Rice with Roasted Vegetables and Tahini",
+      "url": "https://el-mordjene.info/turmeric-golden-rice-roasted-vegetables-tahini/",
+      "slug": "turmeric-golden-rice-roasted-vegetables-tahini",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/turmeric-golden-rice-with-roasted-vegetables-and-t_20261114_232717.webp",
+      "keywordSet": [
+        "turmeric golden rice with roasted vegetables and tahini",
+        "master the art of vibrant turmeric golden rice with roasted vegetables and creamy tahini a nutrient",
+        "forward meal perfect for any night",
+        "golden rice",
+        "healthy bowls",
+        "turmeric recipe",
+        "understanding the appeal of golden bowls",
+        "the culinary mechanics",
+        "dense",
+        "plant"
+      ],
+      "discoveredAt": "2026-11-14T23:27:49.994Z"
     }
   },
   "assets": {
@@ -24801,6 +24826,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-14T18:53:37.970Z",
       "scheduledFor": "2026-11-14T09:00:00.000Z"
+    },
+    "5537-hero": {
+      "id": "5537-hero",
+      "postId": 5537,
+      "postSlug": "turmeric-golden-rice-roasted-vegetables-tahini",
+      "postUrl": "https://el-mordjene.info/turmeric-golden-rice-roasted-vegetables-tahini/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Vibrant Turmeric Golden Rice",
+      "overlaySubtitle": "Healthy Plant-Forward Meal",
+      "pinTitle": "Turmeric Golden Rice with Roasted Vegetables & Creamy Tahini",
+      "pinDescription": "Transform your weeknight dinner with this vibrant, nutrient-packed Turmeric Golden Rice. Featuring tender, caramelized roasted vegetables and a silky, zesty tahini drizzle, this dish strikes the perfect balance of earthy warmth and creamy comfort. It is an easy, one-pan-style meal that tastes like a gourmet bowl fro...",
+      "primaryKeyword": "turmeric golden rice with roasted vegetables and tahini",
+      "supportingKeywords": [
+        "turmeric golden rice with roasted vegetables and tahini",
+        "master the art of vibrant turmeric golden rice with roasted vegetables and creamy tahini a nutrient",
+        "forward meal perfect for any night",
+        "golden rice",
+        "healthy bowls"
+      ],
+      "searchTags": [
+        "turmeric golden rice with roasted vegetables and tahini",
+        "master the art of vibrant turmeric golden rice with roasted vegetables and creamy tahini a nutrient",
+        "forward meal perfect for any night",
+        "golden rice",
+        "healthy bowls",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/turmeric-golden-rice-with-roasted-vegetables-and-t_20261114_232717.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-14T23:27:51.801Z",
+      "scheduledFor": "2026-11-14T09:00:00.000Z"
     }
   },
   "queue": {
@@ -27692,6 +27754,14 @@
       "id": "5534-hero-queue",
       "assetId": "5534-hero",
       "postId": 5534,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-14T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5537-hero-queue": {
+      "id": "5537-hero-queue",
+      "assetId": "5537-hero",
+      "postId": 5537,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-14T09:00:00.000Z",
       "status": "draft"
