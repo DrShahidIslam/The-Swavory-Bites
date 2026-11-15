@@ -11666,6 +11666,31 @@
         "protein"
       ],
       "discoveredAt": "2026-11-15T19:29:15.633Z"
+    },
+    "5543": {
+      "postId": 5543,
+      "title": "Sesame Ginger Seared Tuna Poke Bowl: A Culinary Masterclass",
+      "url": "https://el-mordjene.info/sesame-ginger-seared-tuna-poke-bowl/",
+      "slug": "sesame-ginger-seared-tuna-poke-bowl",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/sesame-ginger-seared-tuna-poke-bowl-a-culinary-mas_20261115_233624.webp",
+      "keywordSet": [
+        "sesame ginger seared tuna poke bowl",
+        "a culinary masterclass",
+        "master the art of the sesame ginger seared tuna poke bowl with our expert guide discover professional searing techniques",
+        "flavor pairings",
+        "and tips",
+        "asian fusion",
+        "healthy recipes",
+        "poke bowl",
+        "seafood",
+        "recipes"
+      ],
+      "discoveredAt": "2026-11-15T23:37:44.471Z"
     }
   },
   "assets": {
@@ -24925,6 +24950,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-15T19:29:20.999Z",
       "scheduledFor": "2026-11-15T09:00:00.000Z"
+    },
+    "5543-hero": {
+      "id": "5543-hero",
+      "postId": 5543,
+      "postSlug": "sesame-ginger-seared-tuna-poke-bowl",
+      "postUrl": "https://el-mordjene.info/sesame-ginger-seared-tuna-poke-bowl/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Sesame Ginger Seared Tuna",
+      "overlaySubtitle": "15-Minute Restaurant Quality",
+      "pinTitle": "Sesame Ginger Seared Tuna Poke Bowl: Easy Restaurant Style",
+      "pinDescription": "Elevate your lunch with this vibrant Sesame Ginger Seared Tuna Poke Bowl. Featuring perfectly seared, buttery tuna crusted in aromatic sesame seeds, tossed with zesty ginger and fresh seasonal toppings. It is the ultimate healthy meal that tastes like a high-end sushi bar but comes together in just fifteen minutes....",
+      "primaryKeyword": "sesame ginger seared tuna poke bowl",
+      "supportingKeywords": [
+        "sesame ginger seared tuna poke bowl",
+        "a culinary masterclass",
+        "master the art of the sesame ginger seared tuna poke bowl with our expert guide discover professional searing techniques",
+        "flavor pairings",
+        "and tips"
+      ],
+      "searchTags": [
+        "sesame ginger seared tuna poke bowl",
+        "a culinary masterclass",
+        "master the art of the sesame ginger seared tuna poke bowl with our expert guide discover professional searing techniques",
+        "flavor pairings",
+        "and tips",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/sesame-ginger-seared-tuna-poke-bowl-a-culinary-mas_20261115_233624.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-15T23:37:46.761Z",
+      "scheduledFor": "2026-11-15T09:00:00.000Z"
     }
   },
   "queue": {
@@ -27833,6 +27895,14 @@
       "assetId": "5540-hero",
       "postId": 5540,
       "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-11-15T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5543-hero-queue": {
+      "id": "5543-hero-queue",
+      "assetId": "5543-hero",
+      "postId": 5543,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-15T09:00:00.000Z",
       "status": "draft"
     }
