@@ -11641,6 +11641,31 @@
         "plant"
       ],
       "discoveredAt": "2026-11-14T23:27:49.994Z"
+    },
+    "5540": {
+      "postId": 5540,
+      "title": "High-Protein Cottage Cheese Cookie Dough Dip Recipe",
+      "url": "https://el-mordjene.info/high-protein-cottage-cheese-cookie-dough-dip/",
+      "slug": "high-protein-cottage-cheese-cookie-dough-dip",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-cottage-cheese-cookie-dough-dip-recip_20261115_150208.webp",
+      "keywordSet": [
+        "protein cottage cheese cookie dough dip recipe",
+        "learn to make the viral high",
+        "protein cottage cheese cookie dough dip a creamy",
+        "healthy dessert hack perfect for satisfying sweet cravings instantly",
+        "cookie dough",
+        "cottage cheese",
+        "healthy desserts",
+        "viral recipes",
+        "high",
+        "protein"
+      ],
+      "discoveredAt": "2026-11-15T19:29:15.633Z"
     }
   },
   "assets": {
@@ -24863,6 +24888,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-14T23:27:51.801Z",
       "scheduledFor": "2026-11-14T09:00:00.000Z"
+    },
+    "5540-hero": {
+      "id": "5540-hero",
+      "postId": 5540,
+      "postSlug": "high-protein-cottage-cheese-cookie-dough-dip",
+      "postUrl": "https://el-mordjene.info/high-protein-cottage-cheese-cookie-dough-dip/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Viral Cookie Dough Dip",
+      "overlaySubtitle": "High-Protein Healthy Dessert",
+      "pinTitle": "High-Protein Cottage Cheese Cookie Dough Dip (Healthy Dessert)",
+      "pinDescription": "Satisfy your sweet tooth guilt-free with this viral protein-packed cookie dough dip! Featuring a velvety smooth texture and classic chocolate chip flavor, this healthy dessert hack uses cottage cheese for a creamy, high-protein base that tastes like pure indulgence. It is the perfect quick treat for busy weeknights...",
+      "primaryKeyword": "protein cottage cheese cookie dough dip recipe",
+      "supportingKeywords": [
+        "protein cottage cheese cookie dough dip recipe",
+        "learn to make the viral high",
+        "protein cottage cheese cookie dough dip a creamy",
+        "healthy dessert hack perfect for satisfying sweet cravings instantly",
+        "cookie dough"
+      ],
+      "searchTags": [
+        "protein cottage cheese cookie dough dip recipe",
+        "learn to make the viral high",
+        "protein cottage cheese cookie dough dip a creamy",
+        "healthy dessert hack perfect for satisfying sweet cravings instantly",
+        "cookie dough",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/high-protein-cottage-cheese-cookie-dough-dip-recip_20261115_150208.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-15T19:29:20.999Z",
+      "scheduledFor": "2026-11-15T09:00:00.000Z"
     }
   },
   "queue": {
@@ -27764,6 +27826,14 @@
       "postId": 5537,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-14T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5540-hero-queue": {
+      "id": "5540-hero-queue",
+      "assetId": "5540-hero",
+      "postId": 5540,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-11-15T09:00:00.000Z",
       "status": "draft"
     }
   }
