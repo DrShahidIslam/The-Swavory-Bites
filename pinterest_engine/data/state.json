@@ -11691,6 +11691,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-11-15T23:37:44.471Z"
+    },
+    "5581": {
+      "postId": 5581,
+      "title": "Slow Cooker Creamy Potato Bacon Corn Chowder Recipe",
+      "url": "https://el-mordjene.info/slow-cooker-creamy-potato-bacon-corn-chowder/",
+      "slug": "slow-cooker-creamy-potato-bacon-corn-chowder",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/slow-cooker-creamy-potato-bacon-corn-chowder-recip_20261116_173351.webp",
+      "keywordSet": [
+        "slow cooker creamy potato bacon corn chowder recipe",
+        "master the art of slow",
+        "cooked comfort with our expert guide to slow cooker creamy potato bacon corn chowder perfectly velvety",
+        "and satisfying",
+        "comfort food",
+        "easy dinner",
+        "potato chowder",
+        "slow cooker recipes",
+        "smoky",
+        "recipes"
+      ],
+      "discoveredAt": "2026-11-16T23:05:13.137Z"
     }
   },
   "assets": {
@@ -24987,6 +25012,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-15T23:37:46.761Z",
       "scheduledFor": "2026-11-15T09:00:00.000Z"
+    },
+    "5581-hero": {
+      "id": "5581-hero",
+      "postId": 5581,
+      "postSlug": "slow-cooker-creamy-potato-bacon-corn-chowder",
+      "postUrl": "https://el-mordjene.info/slow-cooker-creamy-potato-bacon-corn-chowder/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Creamy Potato Bacon Chowder",
+      "overlaySubtitle": "Easy Slow Cooker Comfort",
+      "pinTitle": "Slow Cooker Creamy Potato Bacon Corn Chowder",
+      "pinDescription": "Warm up with the ultimate bowl of comfort. This creamy potato bacon corn chowder is velvety, smoky, and incredibly easy to make in your slow cooker. Each spoonful is packed with tender potatoes, sweet corn, and crispy, savory bacon bits. It is the perfect hearty meal for busy weeknights when you need something nouri...",
+      "primaryKeyword": "slow cooker creamy potato bacon corn chowder recipe",
+      "supportingKeywords": [
+        "slow cooker creamy potato bacon corn chowder recipe",
+        "master the art of slow",
+        "cooked comfort with our expert guide to slow cooker creamy potato bacon corn chowder perfectly velvety",
+        "and satisfying",
+        "comfort food"
+      ],
+      "searchTags": [
+        "slow cooker creamy potato bacon corn chowder recipe",
+        "master the art of slow",
+        "cooked comfort with our expert guide to slow cooker creamy potato bacon corn chowder perfectly velvety",
+        "and satisfying",
+        "comfort food",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/slow-cooker-creamy-potato-bacon-corn-chowder-recip_20261116_173351.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-16T23:05:15.572Z",
+      "scheduledFor": "2026-11-16T09:00:00.000Z"
     }
   },
   "queue": {
@@ -27904,6 +27966,14 @@
       "postId": 5543,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-15T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5581-hero-queue": {
+      "id": "5581-hero-queue",
+      "assetId": "5581-hero",
+      "postId": 5581,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-16T09:00:00.000Z",
       "status": "draft"
     }
   }
