@@ -11741,6 +11741,31 @@
         "drained"
       ],
       "discoveredAt": "2026-11-17T09:50:04.043Z"
+    },
+    "5587": {
+      "postId": 5587,
+      "title": "Butternut Squash and Sage Gnocchi Bake: A Comfort Guide",
+      "url": "https://el-mordjene.info/butternut-squash-and-sage-gnocchi-bake/",
+      "slug": "butternut-squash-and-sage-gnocchi-bake",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "",
+      "keywordSet": [
+        "butternut squash and sage gnocchi bake",
+        "a comfort guide",
+        "master the butternut squash and sage gnocchi bake explore culinary techniques",
+        "expert tips",
+        "and the science behind this seasonal comfort classic",
+        "autumn recipes",
+        "butternut squash",
+        "comfort food",
+        "gnocchi",
+        "recipes"
+      ],
+      "discoveredAt": "2026-11-17T21:56:47.039Z"
     }
   },
   "assets": {
@@ -25111,6 +25136,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-17T09:50:05.734Z",
       "scheduledFor": "2026-11-17T09:00:00.000Z"
+    },
+    "5587-hero": {
+      "id": "5587-hero",
+      "postId": 5587,
+      "postSlug": "butternut-squash-and-sage-gnocchi-bake",
+      "postUrl": "https://el-mordjene.info/butternut-squash-and-sage-gnocchi-bake/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Creamy Butternut Gnocchi Bake",
+      "overlaySubtitle": "Ready in 30 Minutes",
+      "pinTitle": "Creamy Butternut Squash and Sage Gnocchi Bake",
+      "pinDescription": "Indulge in the ultimate seasonal comfort food with this creamy butternut squash and sage gnocchi bake. Featuring pillowy gnocchi tossed in a velvety, golden sauce with earthy sage and a hint of nutty parmesan, this dish is pure bliss in every bite. It is the perfect quick weeknight dinner that brings gourmet flavors...",
+      "primaryKeyword": "butternut squash and sage gnocchi bake",
+      "supportingKeywords": [
+        "butternut squash and sage gnocchi bake",
+        "a comfort guide",
+        "master the butternut squash and sage gnocchi bake explore culinary techniques",
+        "expert tips",
+        "and the science behind this seasonal comfort classic"
+      ],
+      "searchTags": [
+        "butternut squash and sage gnocchi bake",
+        "a comfort guide",
+        "master the butternut squash and sage gnocchi bake explore culinary techniques",
+        "expert tips",
+        "and the science behind this seasonal comfort classic",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-17T21:56:49.227Z",
+      "scheduledFor": "2026-11-17T09:00:00.000Z"
     }
   },
   "queue": {
@@ -28042,6 +28104,14 @@
       "id": "5584-hero-queue",
       "assetId": "5584-hero",
       "postId": 5584,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-17T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5587-hero-queue": {
+      "id": "5587-hero-queue",
+      "assetId": "5587-hero",
+      "postId": 5587,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-17T09:00:00.000Z",
       "status": "draft"
