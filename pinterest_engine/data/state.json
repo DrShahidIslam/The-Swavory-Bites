@@ -11716,6 +11716,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-11-16T23:05:13.137Z"
+    },
+    "5584": {
+      "postId": 5584,
+      "title": "Cozy White Chicken Chili with Green Chilies and Corn",
+      "url": "https://el-mordjene.info/cozy-white-chicken-chili-with-green-chilies-and-corn/",
+      "slug": "cozy-white-chicken-chili-with-green-chilies-and-corn",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/cozy-white-chicken-chili-with-green-chilies-and-co_20261117_024019.webp",
+      "keywordSet": [
+        "cozy white chicken chili with green chilies and corn",
+        "master the art of cozy white chicken chili with green chilies and corn a creamy",
+        "comforting guide featuring pro",
+        "chef techniques and perfect swaps",
+        "chicken chili",
+        "comfort food",
+        "soup recipes",
+        "weeknight dinner",
+        "recipes",
+        "drained"
+      ],
+      "discoveredAt": "2026-11-17T09:50:04.043Z"
     }
   },
   "assets": {
@@ -25049,6 +25074,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-16T23:05:15.572Z",
       "scheduledFor": "2026-11-16T09:00:00.000Z"
+    },
+    "5584-hero": {
+      "id": "5584-hero",
+      "postId": 5584,
+      "postSlug": "cozy-white-chicken-chili-with-green-chilies-and-corn",
+      "postUrl": "https://el-mordjene.info/cozy-white-chicken-chili-with-green-chilies-and-corn/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Creamy White Chicken Chili",
+      "overlaySubtitle": "Ready In 30 Minutes",
+      "pinTitle": "Creamy White Chicken Chili with Green Chilies & Corn",
+      "pinDescription": "Warm up with the ultimate bowl of comfort. This creamy White Chicken Chili combines tender shredded chicken, zesty green chilies, and sweet corn for a flavor-packed meal that comes together in minutes. It is rich, velvety, and perfectly seasoned, making it the ideal cozy dinner for chilly evenings. Whether you are m...",
+      "primaryKeyword": "cozy white chicken chili with green chilies and corn",
+      "supportingKeywords": [
+        "cozy white chicken chili with green chilies and corn",
+        "master the art of cozy white chicken chili with green chilies and corn a creamy",
+        "comforting guide featuring pro",
+        "chef techniques and perfect swaps",
+        "chicken chili"
+      ],
+      "searchTags": [
+        "cozy white chicken chili with green chilies and corn",
+        "master the art of cozy white chicken chili with green chilies and corn a creamy",
+        "comforting guide featuring pro",
+        "chef techniques and perfect swaps",
+        "chicken chili",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/cozy-white-chicken-chili-with-green-chilies-and-co_20261117_024019.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-17T09:50:05.734Z",
+      "scheduledFor": "2026-11-17T09:00:00.000Z"
     }
   },
   "queue": {
@@ -27974,6 +28036,14 @@
       "postId": 5581,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-16T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5584-hero-queue": {
+      "id": "5584-hero-queue",
+      "assetId": "5584-hero",
+      "postId": 5584,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-17T09:00:00.000Z",
       "status": "draft"
     }
   }
