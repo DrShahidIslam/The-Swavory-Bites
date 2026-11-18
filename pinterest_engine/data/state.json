@@ -11766,6 +11766,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-11-17T21:56:47.039Z"
+    },
+    "5590": {
+      "postId": 5590,
+      "title": "Ultimate Slow Cooker French Onion Pot Roast with Gravy",
+      "url": "https://el-mordjene.info/slow-cooker-french-onion-pot-roast-with-gravy/",
+      "slug": "slow-cooker-french-onion-pot-roast-with-gravy",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/ultimate-slow-cooker-french-onion-pot-roast-with-g_20261118_015516.webp",
+      "keywordSet": [
+        "ultimate slow cooker french onion pot roast with gravy",
+        "master the art of the slow cooker french onion pot roast with gravy a savory",
+        "mouth classic perfect for busy weeknights and cozy sundays",
+        "beef recipe",
+        "comfort food",
+        "french onion",
+        "pot roast",
+        "slow cooker",
+        "melt",
+        "recipes"
+      ],
+      "discoveredAt": "2026-11-18T09:22:18.822Z"
     }
   },
   "assets": {
@@ -25173,6 +25198,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-17T21:56:49.227Z",
       "scheduledFor": "2026-11-17T09:00:00.000Z"
+    },
+    "5590-hero": {
+      "id": "5590-hero",
+      "postId": 5590,
+      "postSlug": "slow-cooker-french-onion-pot-roast-with-gravy",
+      "postUrl": "https://el-mordjene.info/slow-cooker-french-onion-pot-roast-with-gravy/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "French Onion Pot Roast",
+      "overlaySubtitle": "Melt-in-Your-Mouth Comfort",
+      "pinTitle": "Slow Cooker French Onion Pot Roast with Rich Gravy",
+      "pinDescription": "Transform your dinner routine with this ultimate slow cooker French onion pot roast. Featuring tender, succulent beef infused with caramelized onions and a deeply savory, velvety gravy, this recipe is the definition of comfort food. It is effortless to assemble, making it perfect for busy weeknights or cozy Sunday g...",
+      "primaryKeyword": "ultimate slow cooker french onion pot roast with gravy",
+      "supportingKeywords": [
+        "ultimate slow cooker french onion pot roast with gravy",
+        "master the art of the slow cooker french onion pot roast with gravy a savory",
+        "mouth classic perfect for busy weeknights and cozy sundays",
+        "beef recipe",
+        "comfort food"
+      ],
+      "searchTags": [
+        "ultimate slow cooker french onion pot roast with gravy",
+        "master the art of the slow cooker french onion pot roast with gravy a savory",
+        "mouth classic perfect for busy weeknights and cozy sundays",
+        "beef recipe",
+        "comfort food",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/ultimate-slow-cooker-french-onion-pot-roast-with-g_20261118_015516.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-18T09:22:20.934Z",
+      "scheduledFor": "2026-11-18T09:00:00.000Z"
     }
   },
   "queue": {
@@ -28114,6 +28176,14 @@
       "postId": 5587,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-17T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5590-hero-queue": {
+      "id": "5590-hero-queue",
+      "assetId": "5590-hero",
+      "postId": 5590,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-11-18T09:00:00.000Z",
       "status": "draft"
     }
   }
