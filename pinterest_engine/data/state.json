@@ -11791,6 +11791,31 @@
         "recipes"
       ],
       "discoveredAt": "2026-11-18T09:22:18.822Z"
+    },
+    "5593": {
+      "postId": 5593,
+      "title": "The Ultimate Roasted Sweet Potato and Black Bean Chili",
+      "url": "https://el-mordjene.info/roasted-sweet-potato-and-black-bean-chili/",
+      "slug": "roasted-sweet-potato-and-black-bean-chili",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/the-ultimate-roasted-sweet-potato-and-black-bean-c_20261118_164527.webp",
+      "keywordSet": [
+        "the ultimate roasted sweet potato and black bean chili",
+        "master the art of roasted sweet potato and black bean chili with our expert guide discover professional techniques for flavor",
+        "and balance",
+        "comfort food",
+        "sweet potato",
+        "vegan recipes",
+        "the evolution of modern chili",
+        "culinary mechanics",
+        "texture",
+        "chili"
+      ],
+      "discoveredAt": "2026-11-18T21:38:55.660Z"
     }
   },
   "assets": {
@@ -25235,6 +25260,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-18T09:22:20.934Z",
       "scheduledFor": "2026-11-18T09:00:00.000Z"
+    },
+    "5593-hero": {
+      "id": "5593-hero",
+      "postId": 5593,
+      "postSlug": "roasted-sweet-potato-and-black-bean-chili",
+      "postUrl": "https://el-mordjene.info/roasted-sweet-potato-and-black-bean-chili/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Roasted Sweet Potato Chili",
+      "overlaySubtitle": "Hearty 30-Minute Meal",
+      "pinTitle": "Ultimate Roasted Sweet Potato and Black Bean Chili",
+      "pinDescription": "Warm up with the ultimate comfort bowl. This Roasted Sweet Potato and Black Bean Chili is packed with smoky, savory flavors and a velvety texture that melts in your mouth. Perfectly seasoned, fiber-rich, and incredibly easy to whip up on a busy weeknight, this crowd-pleasing vegetarian chili is the cozy meal you hav...",
+      "primaryKeyword": "the ultimate roasted sweet potato and black bean chili",
+      "supportingKeywords": [
+        "the ultimate roasted sweet potato and black bean chili",
+        "master the art of roasted sweet potato and black bean chili with our expert guide discover professional techniques for flavor",
+        "and balance",
+        "comfort food",
+        "sweet potato"
+      ],
+      "searchTags": [
+        "the ultimate roasted sweet potato and black bean chili",
+        "master the art of roasted sweet potato and black bean chili with our expert guide discover professional techniques for flavor",
+        "and balance",
+        "comfort food",
+        "sweet potato",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/the-ultimate-roasted-sweet-potato-and-black-bean-c_20261118_164527.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-18T21:38:58.154Z",
+      "scheduledFor": "2026-11-18T09:00:00.000Z"
     }
   },
   "queue": {
@@ -28183,6 +28245,14 @@
       "assetId": "5590-hero",
       "postId": 5590,
       "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-11-18T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5593-hero-queue": {
+      "id": "5593-hero-queue",
+      "assetId": "5593-hero",
+      "postId": 5593,
+      "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-18T09:00:00.000Z",
       "status": "draft"
     }
