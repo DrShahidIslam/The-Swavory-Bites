@@ -11816,6 +11816,81 @@
         "chili"
       ],
       "discoveredAt": "2026-11-18T21:38:55.660Z"
+    },
+    "5596": {
+      "postId": 5596,
+      "title": "The Ultimate Creamy Turkey Pot Pie with Puff Pastry Crust",
+      "url": "https://el-mordjene.info/creamy-turkey-pot-pie-puff-pastry-crust/",
+      "slug": "creamy-turkey-pot-pie-puff-pastry-crust",
+      "language": "en",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "shouldPin": true,
+      "contentType": "baking",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/the-ultimate-creamy-turkey-pot-pie-with-puff-pastr_20261119_013220.webp",
+      "keywordSet": [
+        "the ultimate creamy turkey pot pie with puff pastry crust",
+        "master the art of the perfect creamy turkey pot pie with puff pastry crust expert techniques for a golden",
+        "flaky top and rich",
+        "savory filling",
+        "comfort food",
+        "dinner recipes",
+        "puff pastry",
+        "puff pastry recipes",
+        "recipes",
+        "technique"
+      ],
+      "discoveredAt": "2026-11-19T09:35:57.081Z"
+    },
+    "5599": {
+      "postId": 5599,
+      "title": "Slow Cooker Beef Short Ribs in Red Wine Sauce",
+      "url": "https://el-mordjene.info/slow-cooker-beef-short-ribs-in-red-wine-sauce/",
+      "slug": "slow-cooker-beef-short-ribs-in-red-wine-sauce",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/slow-cooker-beef-short-ribs-in-red-wine-sauce_20261119_061523.webp",
+      "keywordSet": [
+        "slow cooker beef short ribs in red wine sauce",
+        "master the art of fork",
+        "tender slow cooker beef short ribs in red wine sauce discover expert tips for deep flavor",
+        "perfect sear",
+        "and rich reductions",
+        "beef recipes",
+        "comfort food",
+        "dinner ideas",
+        "recipes",
+        "over"
+      ],
+      "discoveredAt": "2026-11-19T09:35:51.819Z"
+    },
+    "5601": {
+      "postId": 5601,
+      "title": "Slow Cooker Turkey Breast with Herb Butter and Crisp Skin",
+      "url": "https://el-mordjene.info/slow-cooker-turkey-breast/",
+      "slug": "slow-cooker-turkey-breast",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/featured.webp",
+      "keywordSet": [
+        "slow cooker turkey breast with herb butter and crisp skin",
+        "a slow cooker turkey breast is the easiest way to serve turkey without cooking a whole bird you season it",
+        "set the cooker",
+        "and walk away while it turns tender the skin crisps under the broiler at the end",
+        "and the drippings become a simple gravy this guide gives the cooking times for every size",
+        "how long to cook slow cooker turkey breast",
+        "cooking times by weight",
+        "high or low",
+        "8230",
+        "recipes"
+      ],
+      "discoveredAt": "2026-11-19T09:35:46.874Z"
     }
   },
   "assets": {
@@ -25297,6 +25372,117 @@
       "status": "pending_render",
       "createdAt": "2026-11-18T21:38:58.154Z",
       "scheduledFor": "2026-11-18T09:00:00.000Z"
+    },
+    "5601-hero": {
+      "id": "5601-hero",
+      "postId": 5601,
+      "postSlug": "slow-cooker-turkey-breast",
+      "postUrl": "https://el-mordjene.info/slow-cooker-turkey-breast/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Perfect Slow Cooker Turkey",
+      "overlaySubtitle": "Tender, Juicy, Effortless",
+      "pinTitle": "Easy Slow Cooker Turkey Breast with Crispy Herb Skin",
+      "pinDescription": "Say goodbye to dry turkey! This slow cooker turkey breast recipe delivers succulent, fork-tender meat infused with fragrant herb butter. By finishing the skin under the broiler, you achieve that coveted golden crunch without the stress of roasting a whole bird. It is the ultimate foolproof way to serve a delicious m...",
+      "primaryKeyword": "slow cooker turkey breast with herb butter and crisp skin",
+      "supportingKeywords": [
+        "slow cooker turkey breast with herb butter and crisp skin",
+        "a slow cooker turkey breast is the easiest way to serve turkey without cooking a whole bird you season it",
+        "set the cooker",
+        "and walk away while it turns tender the skin crisps under the broiler at the end",
+        "and the drippings become a simple gravy this guide gives the cooking times for every size"
+      ],
+      "searchTags": [
+        "slow cooker turkey breast with herb butter and crisp skin",
+        "a slow cooker turkey breast is the easiest way to serve turkey without cooking a whole bird you season it",
+        "set the cooker",
+        "and walk away while it turns tender the skin crisps under the broiler at the end",
+        "and the drippings become a simple gravy this guide gives the cooking times for every size",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/featured.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-19T09:35:51.818Z",
+      "scheduledFor": "2026-11-19T09:00:00.000Z"
+    },
+    "5599-hero": {
+      "id": "5599-hero",
+      "postId": 5599,
+      "postSlug": "slow-cooker-beef-short-ribs-in-red-wine-sauce",
+      "postUrl": "https://el-mordjene.info/slow-cooker-beef-short-ribs-in-red-wine-sauce/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Red Wine Short Ribs",
+      "overlaySubtitle": "Fall-Off-The-Bone Tender",
+      "pinTitle": "Slow Cooker Beef Short Ribs in Rich Red Wine Sauce",
+      "pinDescription": "Transform your dinner with these melt-in-your-mouth beef short ribs. Slow-cooked to perfection in a velvety, full-bodied red wine reduction, every bite delivers deep, savory comfort. This foolproof recipe creates restaurant-quality results with minimal effort, making it the ultimate cozy meal for busy weeknights or...",
+      "primaryKeyword": "slow cooker beef short ribs in red wine sauce",
+      "supportingKeywords": [
+        "slow cooker beef short ribs in red wine sauce",
+        "master the art of fork",
+        "tender slow cooker beef short ribs in red wine sauce discover expert tips for deep flavor",
+        "perfect sear",
+        "and rich reductions"
+      ],
+      "searchTags": [
+        "slow cooker beef short ribs in red wine sauce",
+        "master the art of fork",
+        "tender slow cooker beef short ribs in red wine sauce discover expert tips for deep flavor",
+        "perfect sear",
+        "and rich reductions",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/slow-cooker-beef-short-ribs-in-red-wine-sauce_20261119_061523.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-19T09:35:57.081Z",
+      "scheduledFor": "2026-11-19T09:00:00.000Z"
+    },
+    "5596-hero": {
+      "id": "5596-hero",
+      "postId": 5596,
+      "postSlug": "creamy-turkey-pot-pie-puff-pastry-crust",
+      "postUrl": "https://el-mordjene.info/creamy-turkey-pot-pie-puff-pastry-crust/",
+      "boardKey": "baking_en",
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "variant": "hero",
+      "contentType": "baking",
+      "language": "en",
+      "overlayTitle": "Creamy Turkey Pot Pie",
+      "overlaySubtitle": "Golden Flaky Crust",
+      "pinTitle": "The Ultimate Creamy Turkey Pot Pie with Puff Pastry Crust",
+      "pinDescription": "Transform your leftover turkey into this comforting, elevated pot pie. Featuring a velvety, herb-infused creamy sauce packed with garden vegetables and topped with a buttery, golden-brown puff pastry crust that shatters with every forkful. It is the perfect cozy meal for chilly evenings that promises restaurant-qual...",
+      "primaryKeyword": "the ultimate creamy turkey pot pie with puff pastry crust",
+      "supportingKeywords": [
+        "the ultimate creamy turkey pot pie with puff pastry crust",
+        "master the art of the perfect creamy turkey pot pie with puff pastry crust expert techniques for a golden",
+        "flaky top and rich",
+        "savory filling",
+        "comfort food"
+      ],
+      "searchTags": [
+        "the ultimate creamy turkey pot pie with puff pastry crust",
+        "master the art of the perfect creamy turkey pot pie with puff pastry crust expert techniques for a golden",
+        "flaky top and rich",
+        "savory filling",
+        "comfort food",
+        "baking",
+        "baking recipes — breads & cakes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/the-ultimate-creamy-turkey-pot-pie-with-puff-pastr_20261119_013220.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-19T09:36:02.266Z",
+      "scheduledFor": "2026-11-19T09:00:00.000Z"
     }
   },
   "queue": {
@@ -28254,6 +28440,30 @@
       "postId": 5593,
       "boardName": "Quick & Easy Recipes",
       "scheduledFor": "2026-11-18T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5601-hero-queue": {
+      "id": "5601-hero-queue",
+      "assetId": "5601-hero",
+      "postId": 5601,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-11-19T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5599-hero-queue": {
+      "id": "5599-hero-queue",
+      "assetId": "5599-hero",
+      "postId": 5599,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-19T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5596-hero-queue": {
+      "id": "5596-hero-queue",
+      "assetId": "5596-hero",
+      "postId": 5596,
+      "boardName": "Baking Recipes — Breads & Cakes",
+      "scheduledFor": "2026-11-19T09:00:00.000Z",
       "status": "draft"
     }
   }
