@@ -11940,6 +11940,81 @@
         "latte"
       ],
       "discoveredAt": "2026-11-20T09:18:56.221Z"
+    },
+    "5617": {
+      "postId": 5617,
+      "title": "Dragon Fruit Mango Refresher Slushie: The Ultimate Guide",
+      "url": "https://el-mordjene.info/dragon-fruit-mango-refresher-slushie/",
+      "slug": "dragon-fruit-mango-refresher-slushie",
+      "language": "fr",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/dragon-fruit-mango-refresher-slushie-the-ultimate_20261120_120018.webp",
+      "keywordSet": [
+        "dragon fruit mango refresher slushie",
+        "the ultimate guide",
+        "master the vibrant dragon fruit mango refresher slushie learn the science",
+        "pro techniques",
+        "and ingredient swaps for this viral",
+        "refreshing summer treat",
+        "dragon fruit",
+        "healthy recipes",
+        "mango",
+        "slushie"
+      ],
+      "discoveredAt": "2026-11-20T21:35:58.668Z"
+    },
+    "5620": {
+      "postId": 5620,
+      "title": "Crispy Whipped Feta Dip with Hot Honey and Pistachios",
+      "url": "https://el-mordjene.info/crispy-whipped-feta-dip-hot-honey-pistachios/",
+      "slug": "crispy-whipped-feta-dip-hot-honey-pistachios",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/crispy-whipped-feta-dip-with-hot-honey-and-pistach_20261120_162759.webp",
+      "keywordSet": [
+        "crispy whipped feta dip with hot honey and pistachios",
+        "master the viral crispy whipped feta dip with hot honey and pistachios get professional tips on achieving the perfect creamy texture and balanced heat",
+        "hot honey",
+        "party snacks",
+        "understanding the culinary mechanics of whipped feta",
+        "why texture matters",
+        "the emulsion",
+        "myth vs fact",
+        "appetizers",
+        "cheese"
+      ],
+      "discoveredAt": "2026-11-20T21:35:57.100Z"
+    },
+    "5623": {
+      "postId": 5623,
+      "title": "Ultimate Slow Cooker Warm Buffalo Chicken Dip Guide",
+      "url": "https://el-mordjene.info/slow-cooker-warm-buffalo-chicken-dip/",
+      "slug": "slow-cooker-warm-buffalo-chicken-dip",
+      "language": "en",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "shouldPin": true,
+      "contentType": "quick",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/ultimate-slow-cooker-warm-buffalo-chicken-dip-guid_20261120_173543.webp",
+      "keywordSet": [
+        "ultimate slow cooker warm buffalo chicken dip guide",
+        "master the perfect slow cooker warm buffalo chicken dip with our expert guide discover professional techniques for creamy",
+        "quality results",
+        "buffalo chicken dip",
+        "comfort food",
+        "game day food",
+        "slow cooker recipes",
+        "the anatomy of the perfect slow cooker warm buffalo chicken dip",
+        "restaurant",
+        "appetizers"
+      ],
+      "discoveredAt": "2026-11-20T21:35:55.268Z"
     }
   },
   "assets": {
@@ -25606,6 +25681,117 @@
       "status": "pending_render",
       "createdAt": "2026-11-20T09:18:59.225Z",
       "scheduledFor": "2026-11-20T09:00:00.000Z"
+    },
+    "5623-hero": {
+      "id": "5623-hero",
+      "postId": 5623,
+      "postSlug": "slow-cooker-warm-buffalo-chicken-dip",
+      "postUrl": "https://el-mordjene.info/slow-cooker-warm-buffalo-chicken-dip/",
+      "boardKey": "quick_en",
+      "boardName": "Quick & Easy Recipes",
+      "variant": "hero",
+      "contentType": "quick",
+      "language": "en",
+      "overlayTitle": "Creamy Buffalo Chicken Dip",
+      "overlaySubtitle": "Easiest Party Appetizer",
+      "pinTitle": "The Ultimate Slow Cooker Buffalo Chicken Dip Recipe",
+      "pinDescription": "Level up your hosting game with the creamiest, zestiest Buffalo Chicken Dip you have ever tasted. This foolproof slow cooker method ensures a perfectly melted, restaurant-quality texture that stays warm for hours. It is the ultimate crowd-pleasing appetizer that comes together with minimal effort, leaving you more t...",
+      "primaryKeyword": "ultimate slow cooker warm buffalo chicken dip guide",
+      "supportingKeywords": [
+        "ultimate slow cooker warm buffalo chicken dip guide",
+        "master the perfect slow cooker warm buffalo chicken dip with our expert guide discover professional techniques for creamy",
+        "quality results",
+        "buffalo chicken dip",
+        "comfort food"
+      ],
+      "searchTags": [
+        "ultimate slow cooker warm buffalo chicken dip guide",
+        "master the perfect slow cooker warm buffalo chicken dip with our expert guide discover professional techniques for creamy",
+        "quality results",
+        "buffalo chicken dip",
+        "comfort food",
+        "quick",
+        "quick & easy recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/ultimate-slow-cooker-warm-buffalo-chicken-dip-guid_20261120_173543.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-20T21:35:57.099Z",
+      "scheduledFor": "2026-11-20T09:00:00.000Z"
+    },
+    "5620-hero": {
+      "id": "5620-hero",
+      "postId": 5620,
+      "postSlug": "crispy-whipped-feta-dip-hot-honey-pistachios",
+      "postUrl": "https://el-mordjene.info/crispy-whipped-feta-dip-hot-honey-pistachios/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Crispy Whipped Feta Dip",
+      "overlaySubtitle": "Sweet & Spicy Appetizer",
+      "pinTitle": "Whipped Feta Dip with Hot Honey & Pistachios",
+      "pinDescription": "Elevate your appetizer game with this viral Whipped Feta Dip. Experience the perfect harmony of ultra-creamy, tangy feta whipped to airy perfection, drizzled with spicy golden hot honey and topped with crunchy, toasted pistachios. It is the ultimate crowd-pleasing snack that pairs beautifully with fresh pita or cris...",
+      "primaryKeyword": "crispy whipped feta dip with hot honey and pistachios",
+      "supportingKeywords": [
+        "crispy whipped feta dip with hot honey and pistachios",
+        "master the viral crispy whipped feta dip with hot honey and pistachios get professional tips on achieving the perfect creamy texture and balanced heat",
+        "hot honey",
+        "party snacks",
+        "understanding the culinary mechanics of whipped feta"
+      ],
+      "searchTags": [
+        "crispy whipped feta dip with hot honey and pistachios",
+        "master the viral crispy whipped feta dip with hot honey and pistachios get professional tips on achieving the perfect creamy texture and balanced heat",
+        "hot honey",
+        "party snacks",
+        "understanding the culinary mechanics of whipped feta",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/crispy-whipped-feta-dip-with-hot-honey-and-pistach_20261120_162759.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-20T21:35:58.667Z",
+      "scheduledFor": "2026-11-20T09:00:00.000Z"
+    },
+    "5617-hero": {
+      "id": "5617-hero",
+      "postId": 5617,
+      "postSlug": "dragon-fruit-mango-refresher-slushie",
+      "postUrl": "https://el-mordjene.info/dragon-fruit-mango-refresher-slushie/",
+      "boardKey": "trends_fr",
+      "boardName": "Tendances Culinaires & Recettes",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "fr",
+      "overlayTitle": "Dragon Fruit Mango Slushie",
+      "overlaySubtitle": "Viral Summer Refresher",
+      "pinTitle": "Dragon Fruit Mango Refresher: The Ultimate Viral Slushie Recipe",
+      "pinDescription": "Cool down with the vibrant, tropical flavors of this stunning Dragon Fruit Mango Refresher. This icy, nutrient-packed slushie combines sweet, sun-ripened mango with the exotic, deep pink hue of fresh dragon fruit for a drink that tastes as good as it looks. Perfect for hot afternoons or brunch gatherings, this easy...",
+      "primaryKeyword": "dragon fruit mango refresher slushie",
+      "supportingKeywords": [
+        "dragon fruit mango refresher slushie",
+        "the ultimate guide",
+        "master the vibrant dragon fruit mango refresher slushie learn the science",
+        "pro techniques",
+        "and ingredient swaps for this viral"
+      ],
+      "searchTags": [
+        "dragon fruit mango refresher slushie",
+        "the ultimate guide",
+        "master the vibrant dragon fruit mango refresher slushie learn the science",
+        "pro techniques",
+        "and ingredient swaps for this viral",
+        "trend",
+        "tendances culinaires & recettes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/dragon-fruit-mango-refresher-slushie-the-ultimate_20261120_120018.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-20T21:36:00.507Z",
+      "scheduledFor": "2026-11-20T09:00:00.000Z"
     }
   },
   "queue": {
@@ -28602,6 +28788,30 @@
       "assetId": "5611-hero",
       "postId": 5611,
       "boardName": "Viral Food Trends & Sweet Ideas",
+      "scheduledFor": "2026-11-20T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5623-hero-queue": {
+      "id": "5623-hero-queue",
+      "assetId": "5623-hero",
+      "postId": 5623,
+      "boardName": "Quick & Easy Recipes",
+      "scheduledFor": "2026-11-20T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5620-hero-queue": {
+      "id": "5620-hero-queue",
+      "assetId": "5620-hero",
+      "postId": 5620,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-11-20T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5617-hero-queue": {
+      "id": "5617-hero-queue",
+      "assetId": "5617-hero",
+      "postId": 5617,
+      "boardName": "Tendances Culinaires & Recettes",
       "scheduledFor": "2026-11-20T09:00:00.000Z",
       "status": "draft"
     }
