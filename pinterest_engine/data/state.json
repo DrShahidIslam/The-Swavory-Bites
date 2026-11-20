@@ -11891,6 +11891,55 @@
         "recipes"
       ],
       "discoveredAt": "2026-11-19T09:35:46.874Z"
+    },
+    "5611": {
+      "postId": 5611,
+      "title": "Starbucks Copycat Iced Brown Sugar Shaken Espresso Recipe",
+      "url": "https://el-mordjene.info/starbucks-copycat-iced-brown-sugar-shaken-espresso/",
+      "slug": "starbucks-copycat-iced-brown-sugar-shaken-espresso",
+      "language": "en",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "shouldPin": true,
+      "contentType": "trend",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/starbucks-copycat-iced-brown-sugar-shaken-espresso_20261120_012833.webp",
+      "keywordSet": [
+        "starbucks copycat iced brown sugar shaken espresso recipe",
+        "master the viral starbucks copycat iced brown sugar shaken espresso at home learn the secrets of cold",
+        "shaking to create the perfect creamy texture",
+        "brown sugar syrup",
+        "coffee recipes",
+        "iced espresso",
+        "starbucks copycat",
+        "the science behind the perfect iced brown sugar shaken espresso",
+        "recipes"
+      ],
+      "discoveredAt": "2026-11-20T09:18:57.735Z"
+    },
+    "5614": {
+      "postId": 5614,
+      "title": "Iced Blueberry Matcha Cloud Latte with Oat Milk",
+      "url": "https://el-mordjene.info/iced-blueberry-matcha-cloud-latte-oat-milk/",
+      "slug": "iced-blueberry-matcha-cloud-latte-oat-milk",
+      "language": "en",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "shouldPin": true,
+      "contentType": "fruit",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/iced-blueberry-matcha-cloud-latte-with-oat-milk_20261120_034926.webp",
+      "keywordSet": [
+        "iced blueberry matcha cloud latte with oat milk",
+        "master the iced blueberry matcha cloud latte with oat milk a professional guide to achieving the perfect aerated foam and balanced flavor profiles",
+        "coffee trends",
+        "oat milk",
+        "the art of the iced blueberry matcha cloud latte with oat milk",
+        "myth vs fact",
+        "the science of the cloud",
+        "culinary mechanics and ingredient selection",
+        "blueberry",
+        "latte"
+      ],
+      "discoveredAt": "2026-11-20T09:18:56.221Z"
     }
   },
   "assets": {
@@ -25483,6 +25532,80 @@
       "status": "pending_render",
       "createdAt": "2026-11-19T09:36:02.266Z",
       "scheduledFor": "2026-11-19T09:00:00.000Z"
+    },
+    "5614-hero": {
+      "id": "5614-hero",
+      "postId": 5614,
+      "postSlug": "iced-blueberry-matcha-cloud-latte-oat-milk",
+      "postUrl": "https://el-mordjene.info/iced-blueberry-matcha-cloud-latte-oat-milk/",
+      "boardKey": "fruit_en",
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "variant": "hero",
+      "contentType": "fruit",
+      "language": "en",
+      "overlayTitle": "Iced Blueberry Matcha Clouds",
+      "overlaySubtitle": "Cafe Quality at Home",
+      "pinTitle": "Iced Blueberry Matcha Cloud Latte (Easy Oat Milk Recipe)",
+      "pinDescription": "Experience the ultimate morning glow with this refreshing Iced Blueberry Matcha Cloud Latte. Perfectly balanced with earthy premium matcha, sweet antioxidant-rich blueberry reduction, and a silky, aerated oat milk cloud that floats on top. This visually stunning, vibrant layered drink is surprisingly simple to whip...",
+      "primaryKeyword": "iced blueberry matcha cloud latte with oat milk",
+      "supportingKeywords": [
+        "iced blueberry matcha cloud latte with oat milk",
+        "master the iced blueberry matcha cloud latte with oat milk a professional guide to achieving the perfect aerated foam and balanced flavor profiles",
+        "coffee trends",
+        "oat milk",
+        "the art of the iced blueberry matcha cloud latte with oat milk"
+      ],
+      "searchTags": [
+        "iced blueberry matcha cloud latte with oat milk",
+        "master the iced blueberry matcha cloud latte with oat milk a professional guide to achieving the perfect aerated foam and balanced flavor profiles",
+        "coffee trends",
+        "oat milk",
+        "the art of the iced blueberry matcha cloud latte with oat milk",
+        "fruit",
+        "fruit desserts & summer recipes"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/iced-blueberry-matcha-cloud-latte-with-oat-milk_20261120_034926.webp",
+      "overlayStyle": "clean_photo",
+      "status": "pending_render",
+      "createdAt": "2026-11-20T09:18:57.735Z",
+      "scheduledFor": "2026-11-20T09:00:00.000Z"
+    },
+    "5611-hero": {
+      "id": "5611-hero",
+      "postId": 5611,
+      "postSlug": "starbucks-copycat-iced-brown-sugar-shaken-espresso",
+      "postUrl": "https://el-mordjene.info/starbucks-copycat-iced-brown-sugar-shaken-espresso/",
+      "boardKey": "trends_en",
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "variant": "hero",
+      "contentType": "trend",
+      "language": "en",
+      "overlayTitle": "Iced Brown Sugar Shaken Espresso",
+      "overlaySubtitle": "Better Than Starbucks",
+      "pinTitle": "Starbucks Copycat Iced Brown Sugar Shaken Espresso",
+      "pinDescription": "Skip the drive-thru and master the ultimate iced coffee at home. This viral recipe features bold espresso shaken with rich brown sugar syrup and cinnamon, topped with creamy oat milk for a velvety, refreshing finish. It is the perfect morning pick-me-up that saves you time and money while tasting even better than th...",
+      "primaryKeyword": "starbucks copycat iced brown sugar shaken espresso recipe",
+      "supportingKeywords": [
+        "starbucks copycat iced brown sugar shaken espresso recipe",
+        "master the viral starbucks copycat iced brown sugar shaken espresso at home learn the secrets of cold",
+        "shaking to create the perfect creamy texture",
+        "brown sugar syrup",
+        "coffee recipes"
+      ],
+      "searchTags": [
+        "starbucks copycat iced brown sugar shaken espresso recipe",
+        "master the viral starbucks copycat iced brown sugar shaken espresso at home learn the secrets of cold",
+        "shaking to create the perfect creamy texture",
+        "brown sugar syrup",
+        "coffee recipes",
+        "trend",
+        "viral food trends & sweet ideas"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/starbucks-copycat-iced-brown-sugar-shaken-espresso_20261120_012833.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-20T09:18:59.225Z",
+      "scheduledFor": "2026-11-20T09:00:00.000Z"
     }
   },
   "queue": {
@@ -28464,6 +28587,22 @@
       "postId": 5596,
       "boardName": "Baking Recipes — Breads & Cakes",
       "scheduledFor": "2026-11-19T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5614-hero-queue": {
+      "id": "5614-hero-queue",
+      "assetId": "5614-hero",
+      "postId": 5614,
+      "boardName": "Fruit Desserts & Summer Recipes",
+      "scheduledFor": "2026-11-20T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5611-hero-queue": {
+      "id": "5611-hero-queue",
+      "assetId": "5611-hero",
+      "postId": 5611,
+      "boardName": "Viral Food Trends & Sweet Ideas",
+      "scheduledFor": "2026-11-20T09:00:00.000Z",
       "status": "draft"
     }
   }
