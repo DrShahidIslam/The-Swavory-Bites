@@ -12015,6 +12015,31 @@
         "appetizers"
       ],
       "discoveredAt": "2026-11-20T21:35:55.268Z"
+    },
+    "5626": {
+      "postId": 5626,
+      "title": "The Ultimate Guide to Crispy Air Fryer Mac and Cheese Bites",
+      "url": "https://el-mordjene.info/crispy-air-fryer-mac-and-cheese-bites/",
+      "slug": "crispy-air-fryer-mac-and-cheese-bites",
+      "language": "fr",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "shouldPin": true,
+      "contentType": "recipe",
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/the-ultimate-guide-to-crispy-air-fryer-mac-and-che_20261121_005856.webp",
+      "keywordSet": [
+        "the ultimate guide to crispy air fryer mac and cheese bites",
+        "master the art of crispy air fryer mac and cheese bites with our expert guide discover techniques for perfect texture",
+        "and easy storage tips",
+        "air fryer",
+        "comfort food",
+        "easy recipes",
+        "why crispy air fryer mac and cheese bites are taking over",
+        "the culinary mechanics",
+        "seasoning",
+        "appetizers"
+      ],
+      "discoveredAt": "2026-11-21T08:54:44.779Z"
     }
   },
   "assets": {
@@ -25792,6 +25817,43 @@
       "status": "pending_render",
       "createdAt": "2026-11-20T21:36:00.507Z",
       "scheduledFor": "2026-11-20T09:00:00.000Z"
+    },
+    "5626-hero": {
+      "id": "5626-hero",
+      "postId": 5626,
+      "postSlug": "crispy-air-fryer-mac-and-cheese-bites",
+      "postUrl": "https://el-mordjene.info/crispy-air-fryer-mac-and-cheese-bites/",
+      "boardKey": "recipes_fr",
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "variant": "hero",
+      "contentType": "recipe",
+      "language": "fr",
+      "overlayTitle": "Crispy Air Fryer Mac Bites",
+      "overlaySubtitle": "Easy Cheesy Appetizer",
+      "pinTitle": "Crispy Air Fryer Mac and Cheese Bites: The Ultimate Guide",
+      "pinDescription": "Level up your snack game with these golden, ultra-crispy mac and cheese bites. Perfectly creamy on the inside with a satisfying, crunchy panko exterior, these air-fried delights are the ultimate crowd-pleasing appetizer. Learn our foolproof techniques for achieving that ideal texture and seasoning every single time....",
+      "primaryKeyword": "the ultimate guide to crispy air fryer mac and cheese bites",
+      "supportingKeywords": [
+        "the ultimate guide to crispy air fryer mac and cheese bites",
+        "master the art of crispy air fryer mac and cheese bites with our expert guide discover techniques for perfect texture",
+        "and easy storage tips",
+        "air fryer",
+        "comfort food"
+      ],
+      "searchTags": [
+        "the ultimate guide to crispy air fryer mac and cheese bites",
+        "master the art of crispy air fryer mac and cheese bites with our expert guide discover techniques for perfect texture",
+        "and easy storage tips",
+        "air fryer",
+        "comfort food",
+        "recipe",
+        "recettes faciles & desserts maison"
+      ],
+      "featuredImage": "https://el-mordjene.info/wp-content/uploads/2026/11/the-ultimate-guide-to-crispy-air-fryer-mac-and-che_20261121_005856.webp",
+      "overlayStyle": "minimal_luxury",
+      "status": "pending_render",
+      "createdAt": "2026-11-21T08:54:49.003Z",
+      "scheduledFor": "2026-11-21T09:00:00.000Z"
     }
   },
   "queue": {
@@ -28813,6 +28875,14 @@
       "postId": 5617,
       "boardName": "Tendances Culinaires & Recettes",
       "scheduledFor": "2026-11-20T09:00:00.000Z",
+      "status": "draft"
+    },
+    "5626-hero-queue": {
+      "id": "5626-hero-queue",
+      "assetId": "5626-hero",
+      "postId": 5626,
+      "boardName": "Recettes Faciles & Desserts Maison",
+      "scheduledFor": "2026-11-21T09:00:00.000Z",
       "status": "draft"
     }
   }
